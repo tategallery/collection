@@ -1,6 +1,5 @@
 {
   "acno": "D33638", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33633-D33652; D40430-D40431", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,77 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 231 x 329 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVIII 6", 
   "foreignTitle": null, 
   "groupTitle": "Como and Splugen Sketchbook [Finberg CCCXXXVIII]", 
+  "height": "329", 
   "id": 60809, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Town and Mountains beside Lake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33638_8.jpg", 
+  "title": "Town and Mountains beside Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-and-mountains-beside-lake-d33638", 
+  "width": "231"
 }

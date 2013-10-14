@@ -1,6 +1,5 @@
 {
   "acno": "P04081", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 559 x 914 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "914", 
   "id": 2030, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,79 @@
       "workCount": 846
     }
   ], 
-  "popularity": 745, 
   "subjectCount": 4, 
-  "title": "Sweet Bowl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 13211, 
+                "name": "sweet", 
+                "workCount": 6
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04081_8.jpg", 
+  "title": "Sweet Bowl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-sweet-bowl-p04081", 
+  "width": "559"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04499", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 527 x 349 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "349", 
   "id": 8058, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,67 @@
       "workCount": 377
     }
   ], 
-  "popularity": 45, 
   "subjectCount": 3, 
-  "title": "(48) The Wording of Police Charges"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12391, 
+                "name": "book, 'The Wording of Police Charges'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 2158, 
+                "name": "crown", 
+                "workCount": 79
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12390, 
+                "name": "dollar sign", 
+                "workCount": 3
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04499_8.jpg", 
+  "title": "(48) The Wording of Police Charges", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-48-the-wording-of-police-charges-p04499", 
+  "width": "527"
 }

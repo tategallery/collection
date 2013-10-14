@@ -1,6 +1,5 @@
 {
   "acno": "D26367", 
-  "addlImageCount": 0, 
   "catTextResId": 1136297, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,71 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIX 57", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "190", 
   "id": 53704, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 115, 
-  "popularity": 22, 
   "subjectCount": 3, 
-  "title": "Dunblane Cathedral, the Nave, and the North Side"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26367_8.jpg", 
+  "title": "Dunblane Cathedral, the Nave, and the North Side", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunblane-cathedral-the-nave-and-the-north-side-d26367", 
+  "width": "113"
 }

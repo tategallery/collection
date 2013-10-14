@@ -1,6 +1,5 @@
 {
   "acno": "D28620", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28538-D28656; D41216-D41219", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1839"
   }, 
   "dateText": "1839", 
+  "depth": "", 
   "dimensions": "support: 156 x 100 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCI 43", 
   "foreignTitle": null, 
   "groupTitle": "Cochem to Coblenz - Home Sketchbook [Finberg CCXCI]", 
+  "height": "100", 
   "id": 55938, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 87, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Hill and Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28620_8.jpg", 
+  "title": "Hill and Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hill-and-castle-d28620", 
+  "width": "156"
 }

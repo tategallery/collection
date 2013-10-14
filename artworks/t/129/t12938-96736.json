@@ -1,6 +1,5 @@
 {
   "acno": "T12938", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,59 +20,213 @@
     "text": "2001"
   }, 
   "dateText": "2001", 
+  "depth": "", 
   "dimensions": "Overall displayed dimensions variable", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 96736, 
-  "images": [
-    {
-      "copyright": "\u00a9 Simon Starling", 
-      "filenameBase": "T12938_295461", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12938_295461_7.jpg", 
-          "height": 127, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12938_295461_8.jpg", 
-          "height": 254, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12938_295461_9.jpg", 
-          "height": 723, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12938_295461_10.jpg", 
-          "height": 1522, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Mountain bicycle, bauxite rocks, plastic boxes, pendant lamps, wooden table and other materials", 
   "movementCount": 0, 
-  "popularity": 807, 
   "subjectCount": 15, 
-  "title": "Work Made-ready, Les Baux de Provence (Mountain Bike)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18675, 
+                "name": "Henningsen, Poul, design, 'PH lamp'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works", 
+            "workCount": 1052
+          }, 
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }, 
+              {
+                "id": 4153, 
+                "name": "sack", 
+                "workCount": 29
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 2911, 
+                "name": "laboratory equipment", 
+                "workCount": 17
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }, 
+          {
+            "children": [
+              {
+                "id": 18480, 
+                "name": "lampshade", 
+                "workCount": 3
+              }, 
+              {
+                "id": 3053, 
+                "name": "light, electric", 
+                "workCount": 61
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }, 
+          {
+            "children": [
+              {
+                "id": 16741, 
+                "name": "trestle", 
+                "workCount": 4
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18572, 
+                "name": "bauxite", 
+                "workCount": 1
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4849, 
+                "name": "bicycle", 
+                "workCount": 35
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }, 
+          {
+            "children": [
+              {
+                "id": 17949, 
+                "name": "chemistry", 
+                "workCount": 13
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }, 
+          {
+            "children": [
+              {
+                "id": 18481, 
+                "name": "design", 
+                "workCount": 7
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }, 
+          {
+            "children": [
+              {
+                "id": 827, 
+                "name": "industrial society", 
+                "workCount": 51
+              }, 
+              {
+                "id": 959, 
+                "name": "machine age", 
+                "workCount": 41
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6767, 
+                "name": "creativity", 
+                "workCount": 59
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }, 
+          {
+            "children": [
+              {
+                "id": 5930, 
+                "name": "transformation", 
+                "workCount": 145
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12938_8.jpg", 
+  "title": "Work Made-ready, Les Baux de Provence (Mountain Bike)", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/starling-work-made-ready-les-baux-de-provence-mountain-bike-t12938", 
+  "width": "displayed"
 }

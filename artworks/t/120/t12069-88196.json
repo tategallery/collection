@@ -1,6 +1,5 @@
 {
   "acno": "T12069", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950-9"
   }, 
   "dateText": "1950-9", 
+  "depth": "75", 
   "dimensions": "object: 135 x 75 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "75", 
   "id": 88196, 
   "inscription": null, 
   "medium": "Reduced stoneware", 
@@ -41,7 +41,67 @@
       "workCount": 409
     }
   ], 
-  "popularity": 74, 
   "subjectCount": 3, 
-  "title": "Tea Bowl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17664, 
+                "name": "Japanese tea ceremony", 
+                "workCount": 10
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics", 
+                "workCount": 73
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug", 
+                "workCount": 106
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12069_8.jpg", 
+  "title": "Tea Bowl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-tea-bowl-t12069", 
+  "width": "135"
 }

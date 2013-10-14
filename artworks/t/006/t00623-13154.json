@@ -1,6 +1,5 @@
 {
   "acno": "T00623", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1915"
   }, 
   "dateText": "c.1915", 
+  "depth": "", 
   "dimensions": "support: 276 x 171 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "171", 
   "id": 13154, 
   "inscription": null, 
   "medium": "Graphite, chalk, paper and watercolour on paper", 
@@ -41,7 +41,46 @@
       "workCount": 39
     }
   ], 
-  "popularity": 156, 
   "subjectCount": 3, 
-  "title": "Abstract Composition in Blue and Yellow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00623_8.jpg", 
+  "title": "Abstract Composition in Blue and Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saunders-abstract-composition-in-blue-and-yellow-t00623", 
+  "width": "276"
 }

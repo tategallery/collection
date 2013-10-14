@@ -1,6 +1,5 @@
 {
   "acno": "P78493", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P78487-P78494", 
     "completeStatus": "IRRELEVANT", 
@@ -27,59 +26,88 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "support: 298 x 500 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tetrad Pamphlets Vol. II", 
+  "height": "500", 
   "id": 66653, 
-  "images": [
-    {
-      "copyright": "\u00a9 Valerie Large", 
-      "filenameBase": "P78493_141863", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P78/P78493_141863_7.jpg", 
-          "height": 103, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P78/P78493_141863_8.jpg", 
-          "height": 206, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P78/P78493_141863_9.jpg", 
-          "height": 413, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P78/P78493_141863_10.jpg", 
-          "height": 1239, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 71, 
   "subjectCount": 4, 
-  "title": "Space Cut"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78493_8.jpg", 
+  "title": "Space Cut", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/large-space-cut-p78493", 
+  "width": "298"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D40034", 
-  "addlImageCount": 0, 
   "catTextResId": 1141114, 
   "catalogueGroup": {
     "accessionRanges": "D00130-D00145; D00152; D00181; D00367; D00368; D00388-D00394; D00396-D00400; D00710; D00712; D00713; D08190; D40034-D40039; D40052-D40054; D40242-D40245; D40334; D41455", 
@@ -28,16 +27,101 @@
     "text": "1792"
   }, 
   "dateText": "1792", 
+  "depth": "", 
   "dimensions": "support: 191 x 274 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Drawings and Watercolours Connected with the Welsh and Marches Tours", 
+  "height": "274", 
   "id": 63804, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 5, 
-  "title": "Chepstow Castle: Martin's Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6605, 
+                "name": "Chepstow, Chepstow Castle", 
+                "workCount": 20
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 7455, 
+                "name": "Monmouthshire", 
+                "workCount": 95
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40034_8.jpg", 
+  "title": "Chepstow Castle: Martin's Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chepstow-castle-martins-tower-d40034", 
+  "width": "191"
 }

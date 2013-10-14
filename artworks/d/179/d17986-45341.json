@@ -1,6 +1,5 @@
 {
   "acno": "D17986", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17913-D17990; D40966-D40968", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1823-4"
   }, 
   "dateText": "c.1823-4", 
+  "depth": "", 
   "dimensions": "support: 100 x 160 mm", 
-  "displayLocation": null, 
   "finberg": "CCVI 40", 
   "foreignTitle": null, 
   "groupTitle": "London Bridge and Portsmouth Sketchbook [Finberg CCVI]", 
+  "height": "160", 
   "id": 45341, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 81, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "A Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement", 
+                "workCount": 133
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17986_8_R.jpg", 
+  "title": "A Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-building-d17986", 
+  "width": "100"
 }

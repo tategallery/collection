@@ -1,6 +1,5 @@
 {
   "acno": "D02164", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01993-D02177; D40765-D40771", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "1799-1800"
   }, 
   "dateText": "1799-1800", 
+  "depth": "", 
   "dimensions": "support: 131 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "XLVI 114", 
   "foreignTitle": null, 
   "groupTitle": "Dolbadarn Sketchbook [Finberg XLVI]", 
+  "height": "78", 
   "id": 29567, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 231, 
-  "popularity": 47, 
   "subjectCount": 4, 
-  "title": "A Three-Masted Ship of the Line with a Fishing Boat and a Distant Ship, in Calm Water"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02164_8.jpg", 
+  "title": "A Three-Masted Ship of the Line with a Fishing Boat and a Distant Ship, in Calm Water", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-three-masted-ship-of-the-line-with-a-fishing-boat-and-a-distant-ship-in-calm-water-d02164", 
+  "width": "131"
 }

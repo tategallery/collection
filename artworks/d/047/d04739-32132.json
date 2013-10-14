@@ -1,6 +1,5 @@
 {
   "acno": "D04739", 
-  "addlImageCount": 0, 
   "catTextResId": 1133442, 
   "catalogueGroup": {
     "accessionRanges": "D04736-D04796; D40791-D40794", 
@@ -28,17 +27,71 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 154 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVII 4", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Strassburg and Oxford Sketchbook [Finberg LXXVII]", 
+  "height": "240", 
   "id": 32132, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Town with Hills Beyond; ?Rhine Valley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04739_8.jpg", 
+  "title": "Town with Hills Beyond; ?Rhine Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-with-hills-beyond-rhine-valley-d04739", 
+  "width": "154"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D17725", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17720-D17757; D41403", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1822-3"
   }, 
   "dateText": "c.1822-3", 
+  "depth": "", 
   "dimensions": "support: 178 x 257 mm", 
-  "displayLocation": null, 
   "finberg": "CCII 6", 
   "foreignTitle": null, 
   "groupTitle": "Ports of England Sketchbook [Finberg CCII]", 
+  "height": "257", 
   "id": 45080, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Harbour, with Vessels"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17725_8.jpg", 
+  "title": "Harbour, with Vessels", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harbour-with-vessels-d17725", 
+  "width": "178"
 }

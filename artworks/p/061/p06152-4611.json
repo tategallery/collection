@@ -1,6 +1,5 @@
 {
   "acno": "P06152", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06151-P06159", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 592 x 779 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Images 67", 
+  "height": "779", 
   "id": 4611, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 69, 
   "subjectCount": 1, 
-  "title": "Ducks"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck", 
+                "workCount": 82
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06152_8.jpg", 
+  "title": "Ducks", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-ducks-p06152", 
+  "width": "592"
 }

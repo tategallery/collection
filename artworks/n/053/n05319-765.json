@@ -1,6 +1,5 @@
 {
   "acno": "N05319", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1937"
   }, 
   "dateText": "1937", 
+  "depth": "", 
   "dimensions": "support: 302 x 1460 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Danse grecque dans un paysage", 
   "groupTitle": null, 
+  "height": "1460", 
   "id": 765, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on metal", 
@@ -41,7 +41,98 @@
       "workCount": 16
     }
   ], 
-  "popularity": 250, 
   "subjectCount": 5, 
-  "title": "Greek Dance in a Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1145, 
+                "name": "Greece", 
+                "workCount": 43
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance", 
+                "workCount": 214
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05319_8.jpg", 
+  "title": "Greek Dance in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bauchant-greek-dance-in-a-landscape-n05319", 
+  "width": "302"
 }

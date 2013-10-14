@@ -1,6 +1,5 @@
 {
   "acno": "N00608", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1848"
   }, 
   "dateText": "exhibited 1848", 
+  "depth": "", 
   "dimensions": "support: 1124 x 1429 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1429", 
   "id": 8352, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,84 @@
       "workCount": 125
     }
   ], 
-  "popularity": 304, 
   "subjectCount": 5, 
-  "title": "Alexander and Diogenes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }, 
+              {
+                "id": 10110, 
+                "name": "dog, bloodhound", 
+                "workCount": 5
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 278, 
+                "name": "hammer", 
+                "workCount": 23
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 4422, 
+                "name": "kennel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 1032, 
+                "name": "vegetable - non-specific", 
+                "workCount": 37
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00608_8.jpg", 
+  "title": "Alexander and Diogenes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-alexander-and-diogenes-n00608", 
+  "width": "1124"
 }

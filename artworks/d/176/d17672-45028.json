@@ -1,6 +1,5 @@
 {
   "acno": "D17672", 
-  "addlImageCount": 0, 
   "catTextResId": 1133215, 
   "catalogueGroup": {
     "accessionRanges": "D17672-D17718; D40978-D40980", 
@@ -28,17 +27,90 @@
     "text": "1822"
   }, 
   "dateText": "1822", 
+  "depth": "", 
   "dimensions": "support: 111 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCI 1", 
   "foreignTitle": null, 
   "groupTitle": "King at Edinburgh Sketchbook [Finberg CCI]", 
+  "height": "188", 
   "id": 45028, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 79, 
   "subjectCount": 4, 
-  "title": "Design of the King in the Royal Barge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7099, 
+                "name": "royalty: George IV, visit to Edinburgh, Aug 1822", 
+                "workCount": 62
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17672_8.jpg", 
+  "title": "Design of the King in the Royal Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-design-of-the-king-in-the-royal-barge-d17672", 
+  "width": "111"
 }

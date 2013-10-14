@@ -1,6 +1,5 @@
 {
   "acno": "T00362", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "support: 200 x 235 mm\r\nframe: 433 x 540 x 20 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "235", 
   "id": 987, 
   "inscription": "date inscribed", 
   "medium": "Tempera on fabric", 
@@ -41,7 +41,55 @@
       "workCount": 48
     }
   ], 
-  "popularity": 193, 
   "subjectCount": 2, 
-  "title": "20 Jan. 59 Zurich"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality", 
+                "workCount": 62
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism", 
+            "workCount": 213
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00362_8.jpg", 
+  "title": "20 Jan. 59 Zurich", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bissier-20-jan-59-zurich-t00362", 
+  "width": "200"
 }

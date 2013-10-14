@@ -1,6 +1,5 @@
 {
   "acno": "P01071", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1948-9"
   }, 
   "dateText": "1948-9", 
+  "depth": "", 
   "dimensions": "image: 333 x 413 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "413", 
   "id": 13223, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,74 @@
       "workCount": 409
     }
   ], 
-  "popularity": 59, 
   "subjectCount": 3, 
-  "title": "The Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01071_8.jpg", 
+  "title": "The Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-the-harbour-p01071", 
+  "width": "333"
 }

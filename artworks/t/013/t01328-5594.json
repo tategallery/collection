@@ -1,6 +1,5 @@
 {
   "acno": "T01328", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1914"
   }, 
   "dateText": "1914", 
+  "depth": "", 
   "dimensions": "support: 457 x 394 mm\r\nframe: 478 x 415 x 30 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "394", 
   "id": 5594, 
   "inscription": "date inscribed", 
   "medium": "Oil paint and paper on board", 
@@ -44,7 +41,67 @@
       "workCount": 67
     }
   ], 
-  "popularity": 298, 
   "subjectCount": 3, 
-  "title": "The Mantelpiece"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9341, 
+                "name": "artificial flower", 
+                "workCount": 4
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1583, 
+                "name": "mantelpiece", 
+                "workCount": 20
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01328_8.jpg", 
+  "title": "The Mantelpiece", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grant-the-mantelpiece-t01328", 
+  "width": "457"
 }

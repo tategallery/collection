@@ -1,6 +1,5 @@
 {
   "acno": "T07132", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "support: 2032 x 2921 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2921", 
   "id": 21435, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 352, 
   "subjectCount": 1, 
-  "title": "Hat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07132_8.jpg", 
+  "title": "Hat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guston-hat-t07132", 
+  "width": "2032"
 }

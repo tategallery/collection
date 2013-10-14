@@ -1,6 +1,5 @@
 {
   "acno": "D40571", 
-  "addlImageCount": 0, 
   "catTextResId": 1140379, 
   "catalogueGroup": {
     "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
@@ -28,17 +27,47 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 258 x 150 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures: Isleworth Sketchbook [Finberg XC]", 
+  "height": "150", 
   "id": 64320, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 51, 
   "subjectCount": 1, 
-  "title": "A Pressed Leaf"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40571_8.jpg", 
+  "title": "A Pressed Leaf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-pressed-leaf-d40571", 
+  "width": "258"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03609", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "609", 
   "dimensions": "object: 622 x 609 x 609 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "609", 
   "id": 4482, 
   "inscription": null, 
   "medium": "Marble", 
@@ -41,7 +41,41 @@
       "workCount": 44
     }
   ], 
-  "popularity": 153, 
   "subjectCount": 2, 
-  "title": "Carving No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03609_8.jpg", 
+  "title": "Carving No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flanagan-carving-no-2-t03609", 
+  "width": "622"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "A01031", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A01029-A01033", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1931"
   }, 
   "dateText": "1931", 
+  "depth": "", 
   "dimensions": "support: 152 x 184 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Rake's Progress", 
+  "height": "184", 
   "id": 552, 
   "inscription": "date inscribed", 
   "medium": "Watercolour and ink on paper", 
   "movementCount": 0, 
-  "popularity": 60, 
   "subjectCount": 4, 
-  "title": "The Arrival"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3054, 
+                "name": "hallway", 
+                "workCount": 46
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01031_8.jpg", 
+  "title": "The Arrival", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ardizzone-the-arrival-a01031", 
+  "width": "152"
 }

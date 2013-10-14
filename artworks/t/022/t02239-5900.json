@@ -1,6 +1,5 @@
 {
   "acno": "T02239", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "31", 
   "dimensions": "frame: 384 x 309 x 31 mm\r\nsupport: 256 x 179 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "309", 
   "id": 5900, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas board", 
@@ -41,7 +41,115 @@
       "workCount": 409
     }
   ], 
-  "popularity": 177, 
   "subjectCount": 7, 
-  "title": "Mother and Child near a Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1165, 
+                "name": "chimney", 
+                "workCount": 79
+              }, 
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02239_8.jpg", 
+  "title": "Mother and Child near a Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hayman-mother-and-child-near-a-town-t02239", 
+  "width": "384"
 }

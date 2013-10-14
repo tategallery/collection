@@ -1,6 +1,5 @@
 {
   "acno": "D31331", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31277-D31312; D31314; D31316-D31415; D41399-D41402", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 126 mm", 
-  "displayLocation": null, 
   "finberg": "CCCX 28 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice; Passau to W\u00fcrzburg Sketchbook [Finberg CCCX]", 
+  "height": "126", 
   "id": 58564, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 58, 
-  "popularity": 33, 
   "subjectCount": 4, 
-  "title": "Bamberg: The Cathedral and Alte Hofhaltung from the North"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13940, 
+                "name": "Bamberg, Bamberg Cathedral", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31331_8.jpg", 
+  "title": "Bamberg: The Cathedral and Alte Hofhaltung from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bamberg-the-cathedral-and-alte-hofhaltung-from-the-north-d31331", 
+  "width": "198"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D24448", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24168-D24499; D40603-D40604; D40622-D40623", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 175 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVII 143 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris and Environs Sketchbook [Finberg CCLVII]", 
+  "height": "127", 
   "id": 51785, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 288, 
-  "popularity": 82, 
   "subjectCount": 4, 
-  "title": "At St Cloud"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 8142, 
+                "name": "Saint-Cloud - non-specific", 
+                "workCount": 40
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24448_8.jpg", 
+  "title": "At St Cloud", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-at-st-cloud-d24448", 
+  "width": "175"
 }

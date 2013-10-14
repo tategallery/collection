@@ -1,6 +1,5 @@
 {
   "acno": "P01579", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01577-P01579", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 571 x 584 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Coloured Greys", 
+  "height": "584", 
   "id": 12586, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 57
     }
   ], 
-  "popularity": 184, 
   "subjectCount": 1, 
-  "title": "Coloured Greys III"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01579_8.jpg", 
+  "title": "Coloured Greys III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-coloured-greys-iii-p01579", 
+  "width": "571"
 }

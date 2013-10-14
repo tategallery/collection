@@ -1,6 +1,5 @@
 {
   "acno": "D22400", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 78 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXL 41 a", 
   "foreignTitle": null, 
   "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "height": "108", 
   "id": 49738, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 84, 
-  "popularity": 102, 
   "subjectCount": 4, 
-  "title": "Dudley Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9265, 
+                "name": "Dudley", 
+                "workCount": 32
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 13121, 
+                "name": "Dudley, Dudley Castle", 
+                "workCount": 13
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22400_8_R.jpg", 
+  "title": "Dudley Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dudley-castle-d22400", 
+  "width": "78"
 }

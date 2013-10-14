@@ -1,6 +1,5 @@
 {
   "acno": "D32553", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 170 x 105 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXII 7 a", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam and Rhine Sketchbook [Finberg CCCXXII]", 
+  "height": "105", 
   "id": 59752, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 14, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32553_8.jpg", 
+  "title": "Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-d32553", 
+  "width": "170"
 }

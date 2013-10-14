@@ -1,6 +1,5 @@
 {
   "acno": "P03017", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03001-P03006; P03011-P03022; P03031-P03036; P03039-P03044; P03059-P03064", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 352 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Great War: Britain's Efforts and Ideals", 
+  "height": "457", 
   "id": 2280, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,79 @@
       "workCount": 141
     }
   ], 
-  "popularity": 168, 
   "subjectCount": 4, 
-  "title": "Making Guns: Where the Guns are Made"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1165, 
+                "name": "chimney", 
+                "workCount": 79
+              }, 
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7060, 
+                "name": "home front", 
+                "workCount": 23
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke", 
+                "workCount": 295
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03017_8.jpg", 
+  "title": "Making Guns: Where the Guns are Made", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clausen-making-guns-where-the-guns-are-made-p03017", 
+  "width": "352"
 }

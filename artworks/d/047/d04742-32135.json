@@ -1,6 +1,5 @@
 {
   "acno": "D04742", 
-  "addlImageCount": 0, 
   "catTextResId": 1133445, 
   "catalogueGroup": {
     "accessionRanges": "D04736-D04796; D40791-D40794", 
@@ -28,17 +27,102 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 154 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVII 7", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Strassburg and Oxford Sketchbook [Finberg LXXVII]", 
+  "height": "240", 
   "id": 32135, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 19, 
   "subjectCount": 5, 
-  "title": "Ruined Castle on Hill; ?St Chrischona"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04742_8.jpg", 
+  "title": "Ruined Castle on Hill; ?St Chrischona", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-castle-on-hill-st-chrischona-d04742", 
+  "width": "154"
 }

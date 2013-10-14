@@ -1,6 +1,5 @@
 {
   "acno": "N01607", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,107 @@
     "text": "exhibited 1891"
   }, 
   "dateText": "exhibited 1891", 
+  "depth": "", 
   "dimensions": "support: 667 x 984 mm\r\nframe: 1040 x 1355 x 126 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "984", 
   "id": 10896, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 158, 
   "subjectCount": 5, 
-  "title": "The Winter Sun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1907, 
+                "name": "fire, open", 
+                "workCount": 62
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01607_8.jpg", 
+  "title": "The Winter Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/north-the-winter-sun-n01607", 
+  "width": "667"
 }

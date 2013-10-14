@@ -1,6 +1,5 @@
 {
   "acno": "D17095", 
-  "addlImageCount": 0, 
   "catTextResId": 1136540, 
   "catalogueGroup": {
     "accessionRanges": "D17025-D17050; D17052; D17054-D17060; D17062-D17067; D17069; D17070; D17072-D17074; D17076; D17079; D17083-D17097; D17099; D17100-D17101; D17115-D17116; D17121-D17124; D17134-D17136; D17140-D17145; D40001-D40003; D40005; D40006; D40008; D40010;  ...", 
@@ -28,16 +27,65 @@
     "text": "c.1810"
   }, 
   "dateText": "c.1810", 
+  "depth": "", 
   "dimensions": "support: 674 x 540 mm", 
-  "displayLocation": null, 
   "finberg": "CXCV 124 a", 
   "foreignTitle": null, 
   "groupTitle": "I. Numbered Perspective Diagrams", 
+  "height": "540", 
   "id": 44451, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 30, 
   "subjectCount": 2, 
-  "title": "Lecture Diagram 71: Cupola of a Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17095_8.jpg", 
+  "title": "Lecture Diagram 71: Cupola of a Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lecture-diagram-71-cupola-of-a-building-d17095", 
+  "width": "674"
 }

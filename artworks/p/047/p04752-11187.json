@@ -1,6 +1,5 @@
 {
   "acno": "P04752", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04016; P04038; P04053; P04076; P04115; P04125; P04166; P04248; P04256; P04315-P04316; P04334; P04378-P04380; P04419; P04635; P04752; P04938; P05138; P05155; P05248", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1963-4"
   }, 
   "dateText": "1963-4", 
+  "depth": "", 
   "dimensions": "image: 756 x 495 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Institute of Contemporary Arts Portfolio", 
+  "height": "495", 
   "id": 11187, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,120 @@
       "workCount": 846
     }
   ], 
-  "popularity": 254, 
   "subjectCount": 8, 
-  "title": "Conjectures to Identity"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04752_8.jpg", 
+  "title": "Conjectures to Identity", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-conjectures-to-identity-p04752", 
+  "width": "756"
 }

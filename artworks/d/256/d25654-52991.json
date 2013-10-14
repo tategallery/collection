@@ -1,6 +1,5 @@
 {
   "acno": "D25654", 
-  "addlImageCount": 0, 
   "catTextResId": 1134017, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,71 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 59 x 96 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 7", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "96", 
   "id": 52991, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Arthur's Seat from Across Duddingston Loch"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25654_8.jpg", 
+  "title": "Arthur's Seat from Across Duddingston Loch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-arthurs-seat-from-across-duddingston-loch-d25654", 
+  "width": "59"
 }

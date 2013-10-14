@@ -1,6 +1,5 @@
 {
   "acno": "P03087", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03083-P03088", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1917"
   }, 
   "dateText": "c.1917", 
+  "depth": "", 
   "dimensions": "image: 346 x 465 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tending the Wounded, from 'Britain's Efforts and Ideals'", 
+  "height": "465", 
   "id": 13369, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,206 @@
       "workCount": 141
     }
   ], 
-  "popularity": 98, 
   "subjectCount": 14, 
-  "title": "In Hospital, England"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying", 
+                "workCount": 482
+              }, 
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down", 
+                "workCount": 221
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 986, 
+                "name": "wounded", 
+                "workCount": 110
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3700, 
+                "name": "hospital", 
+                "workCount": 19
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5486, 
+                "name": "nurse", 
+                "workCount": 12
+              }, 
+              {
+                "id": 14347, 
+                "name": "porter", 
+                "workCount": 2
+              }
+            ], 
+            "id": 127, 
+            "name": "medical", 
+            "workCount": 48
+          }, 
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03087_8.jpg", 
+  "title": "In Hospital, England", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/shepperson-in-hospital-england-p03087", 
+  "width": "346"
 }

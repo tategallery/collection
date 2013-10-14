@@ -1,6 +1,5 @@
 {
   "acno": "P07356", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 1067 x 737 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Le Matador", 
   "groupTitle": null, 
+  "height": "737", 
   "id": 9579, 
   "inscription": null, 
   "medium": "Intaglio print, carborundum and drypoint on paper", 
@@ -41,7 +41,67 @@
       "workCount": 98
     }
   ], 
-  "popularity": 431, 
   "subjectCount": 3, 
-  "title": "The Matador"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10533, 
+                "name": "matador", 
+                "workCount": 9
+              }
+            ], 
+            "id": 123, 
+            "name": "equestrian and sporting", 
+            "workCount": 107
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07356_8.jpg", 
+  "title": "The Matador", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/miro-the-matador-p07356", 
+  "width": "1067"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P11520", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "", 
   "dimensions": "image: 758 x 574 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "574", 
   "id": 26210, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,60 @@
       "workCount": 377
     }
   ], 
-  "popularity": 1213, 
   "subjectCount": 3, 
-  "title": "David Dawson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13355, 
+                "name": "Dawson, David", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11520_8.jpg", 
+  "title": "David Dawson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freud-david-dawson-p11520", 
+  "width": "758"
 }

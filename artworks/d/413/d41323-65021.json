@@ -1,6 +1,5 @@
 {
   "acno": "D41323", 
-  "addlImageCount": 0, 
   "catTextResId": 1137471, 
   "catalogueGroup": {
     "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
@@ -28,17 +27,114 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 140 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV a 44", 
   "foreignTitle": null, 
   "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
   "id": 65021, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 21, 
   "subjectCount": 6, 
-  "title": "Clovelly Harbour from the Pier"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }, 
+              {
+                "id": 1567, 
+                "name": "seafront", 
+                "workCount": 327
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41323_8.jpg", 
+  "title": "Clovelly Harbour from the Pier", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-clovelly-harbour-from-the-pier-d41323", 
+  "width": "140"
 }

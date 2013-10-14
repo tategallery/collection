@@ -1,6 +1,5 @@
 {
   "acno": "T00555", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "89", 
   "dimensions": "object: 1924 x 749 x 89 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "749", 
   "id": 448, 
   "inscription": "date inscribed", 
   "medium": "Bronzed steel", 
@@ -41,7 +41,55 @@
       "workCount": 70
     }
   ], 
-  "popularity": 126, 
   "subjectCount": 2, 
-  "title": "Large Screen Form No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 771, 
+                "name": "screen", 
+                "workCount": 25
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00555_8.jpg", 
+  "title": "Large Screen Form No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/adams-large-screen-form-no-2-t00555", 
+  "width": "1924"
 }

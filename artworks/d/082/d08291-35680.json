@@ -1,6 +1,5 @@
 {
   "acno": "D08291", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1809-14"
   }, 
   "dateText": "c.1809-14", 
+  "depth": "", 
   "dimensions": "support: 69 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXXII 6", 
   "foreignTitle": null, 
   "groupTitle": "Finance Sketchbook [Finberg CXXII]", 
+  "height": "112", 
   "id": 35680, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "Two Cows"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 10478, 
+                "name": "lying down", 
+                "workCount": 23
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08291_8.jpg", 
+  "title": "Two Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-cows-d08291", 
+  "width": "69"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "AR00004", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "1983"
   }, 
   "dateText": "1983", 
+  "depth": "3", 
   "dimensions": "support: 307 x 229 x 3 mm\r\nframe: 327 x 249 x 34 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "229", 
   "id": 98174, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on hardboard", 
   "movementCount": 0, 
-  "popularity": 110, 
   "subjectCount": 4, 
-  "title": "Lillies Against Yellow House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1228, 
+                "name": "lily", 
+                "workCount": 39
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall", 
+                "workCount": 60
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00004_8.jpg", 
+  "title": "Lillies Against Yellow House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-lillies-against-yellow-house-ar00004", 
+  "width": "307"
 }

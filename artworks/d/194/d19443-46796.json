@@ -1,6 +1,5 @@
 {
   "acno": "D19443", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXV 24", 
   "foreignTitle": null, 
   "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "height": "189", 
   "id": 46796, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 8, 
   "subjectCount": 5, 
-  "title": "Town, with River and Hills in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19443_8.jpg", 
+  "title": "Town, with River and Hills in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-with-river-and-hills-in-distance-d19443", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D15206", 
-  "addlImageCount": 0, 
   "catTextResId": 1139618, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 52", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42562, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 107, 
-  "popularity": 50, 
   "subjectCount": 2, 
-  "title": "Studies of Egyptian Artefacts in the Vatican Museums, Including a Torso of the Bull God, Apis, and a Statue of Isis"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8841, 
+                "name": "sculpture, Egyptian", 
+                "workCount": 15
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15206_8.jpg", 
+  "title": "Studies of Egyptian Artefacts in the Vatican Museums, Including a Torso of the Bull God, Apis, and a Statue of Isis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-egyptian-artefacts-in-the-vatican-museums-including-a-torso-of-the-bull-god-apis-and-a-statue-of-isis-d15206", 
+  "width": "161"
 }

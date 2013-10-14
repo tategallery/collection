@@ -1,6 +1,5 @@
 {
   "acno": "P01708", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,18 +26,100 @@
     "text": "1945"
   }, 
   "dateText": "1945", 
+  "depth": "", 
   "dimensions": "image: 495 x 762 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": "School Prints", 
+  "height": "762", 
   "id": 7234, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "Fairground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9741, 
+                "name": "fairground", 
+                "workCount": 14
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment", 
+            "workCount": 268
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2567, 
+                "name": "trader", 
+                "workCount": 93
+              }
+            ], 
+            "id": 180, 
+            "name": "trading and commercial", 
+            "workCount": 419
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01708_8.jpg", 
+  "title": "Fairground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-fairground-p01708", 
+  "width": "495"
 }

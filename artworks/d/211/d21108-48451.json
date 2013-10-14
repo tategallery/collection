@@ -1,6 +1,5 @@
 {
   "acno": "D21108", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20990-D21015; D21018-D21132; D41001-D41003", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 145 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXX 60", 
   "foreignTitle": null, 
   "groupTitle": "Lyons to Marseilles Sketchbook [Finberg CCXXX]", 
+  "height": "111", 
   "id": 48451, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 123, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Square Tower and Other Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21108_8.jpg", 
+  "title": "Square Tower and Other Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-square-tower-and-other-buildings-d21108", 
+  "width": "145"
 }

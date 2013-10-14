@@ -1,6 +1,5 @@
 {
   "acno": "T01395", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,69 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "1448", 
   "dimensions": "object: 2505 x 2629 x 1448 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2629", 
   "id": 16402, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T01395_283145", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T01/T01395_283145_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 125
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T01/T01395_283145_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 250
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T01/T01395_283145_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 499
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T01/T01395_283145_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1497
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Painted aluminium", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Baalbec"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01395_8.jpg", 
+  "title": "Baalbec", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/witkin-baalbec-t01395", 
+  "width": "2505"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T07501", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "61", 
   "dimensions": "support: 2744 x 4273 x 61 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4273", 
   "id": 26540, 
   "inscription": null, 
   "medium": "Marker pen and acrylic paint on canvas", 
@@ -41,7 +41,55 @@
       "workCount": 232
     }
   ], 
-  "popularity": 310, 
   "subjectCount": 2, 
-  "title": "Break Point"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12649, 
+                "name": "film: Bigelow, Kathryn, 'Point Break'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 10058, 
+            "name": "film, music and ballet", 
+            "workCount": 160
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07501_8.jpg", 
+  "title": "Break Point", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/banner-break-point-t07501", 
+  "width": "2744"
 }

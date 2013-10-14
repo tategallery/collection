@@ -1,6 +1,5 @@
 {
   "acno": "T03810", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1946"
   }, 
   "dateText": "1946", 
+  "depth": "", 
   "dimensions": "support: 505 x 395 mm\r\nframe: 632 x 522 x 50 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "395", 
   "id": 2333, 
   "inscription": null, 
   "medium": "Oil paint on board", 
@@ -41,7 +41,117 @@
       "workCount": 107
     }
   ], 
-  "popularity": 214, 
   "subjectCount": 6, 
-  "title": "The White Root"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2357, 
+                "name": "Suffolk", 
+                "workCount": 179
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 2334, 
+                "name": "root", 
+                "workCount": 27
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03810_8.jpg", 
+  "title": "The White Root", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clough-the-white-root-t03810", 
+  "width": "505"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D27905", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27901-D27914; D27916-D27939; D41090", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 145 x 235 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXV 3 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg CCLXXXV]", 
+  "height": "235", 
   "id": 55224, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 8, 
-  "popularity": 106, 
   "subjectCount": 4, 
-  "title": "University College"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 8916, 
+                "name": "Oxford, University College", 
+                "workCount": 2
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire", 
+                "workCount": 265
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1718, 
+                "name": "college", 
+                "workCount": 100
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27905_8.jpg", 
+  "title": "University College", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-university-college-d27905", 
+  "width": "145"
 }

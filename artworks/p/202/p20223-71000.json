@@ -1,6 +1,5 @@
 {
   "acno": "P20223", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20223-P20227", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,74 @@
     "text": "1979-81"
   }, 
   "dateText": "1979-81", 
+  "depth": "", 
   "dimensions": "image: 1040 x 752 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Gapscape", 
+  "height": "752", 
   "id": 71000, 
   "inscription": null, 
   "medium": "Photo-screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 140, 
   "subjectCount": 4, 
-  "title": "Bereshit Bara"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 11845, 
+                "name": "silhouette", 
+                "workCount": 215
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20223_8.jpg", 
+  "title": "Bereshit Bara", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/meyer-bereshit-bara-p20223", 
+  "width": "1040"
 }

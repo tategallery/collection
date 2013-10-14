@@ -1,6 +1,5 @@
 {
   "acno": "D16869", 
-  "addlImageCount": 0, 
   "catTextResId": 1138644, 
   "catalogueGroup": {
     "accessionRanges": "D16762-D16889; D40988-D40990", 
@@ -28,17 +27,78 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 115 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIII 95 a", 
   "foreignTitle": null, 
   "groupTitle": "Remarks (Italy) Sketchbook [Finberg CXCIII]", 
+  "height": "94", 
   "id": 44225, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 194, 
-  "popularity": 75, 
   "subjectCount": 3, 
-  "title": "View of Avallon, France; and Sketch of the Bridge at ?Auxerre"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13586, 
+                "name": "Avallon", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16869_8_R.jpg", 
+  "title": "View of Avallon, France; and Sketch of the Bridge at ?Auxerre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-avallon-france-and-sketch-of-the-bridge-at-auxerre-d16869", 
+  "width": "115"
 }

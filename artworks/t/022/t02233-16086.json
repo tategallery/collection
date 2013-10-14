@@ -1,6 +1,5 @@
 {
   "acno": "T02233", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "support: 236 x 290 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "290", 
   "id": 16086, 
   "inscription": "date inscribed", 
   "medium": "Coloured pencil , pastel and watercolour on paper", 
@@ -41,7 +41,103 @@
       "workCount": 409
     }
   ], 
-  "popularity": 118, 
   "subjectCount": 6, 
-  "title": "Untitled Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish", 
+                "workCount": 140
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural", 
+                "workCount": 539
+              }, 
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02233_8.jpg", 
+  "title": "Untitled Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-untitled-drawing-t02233", 
+  "width": "236"
 }

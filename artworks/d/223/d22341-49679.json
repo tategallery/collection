@@ -1,6 +1,5 @@
 {
   "acno": "D22341", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 78 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXL 12", 
   "foreignTitle": null, 
   "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "height": "108", 
   "id": 49679, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 25, 
-  "popularity": 14, 
   "subjectCount": 4, 
-  "title": "Church Steeple; Also Female Head, with Cap"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 201, 
+                "name": "hat, cap", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22341_8.jpg", 
+  "title": "Church Steeple; Also Female Head, with Cap", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-steeple-also-female-head-with-cap-d22341", 
+  "width": "78"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D32642", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 170 x 105 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXII 53", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam and Rhine Sketchbook [Finberg CCCXXII]", 
+  "height": "105", 
   "id": 59840, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 105, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32642_8_R.jpg", 
+  "title": "Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-d32642", 
+  "width": "170"
 }

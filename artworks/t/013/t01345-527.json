@@ -1,6 +1,5 @@
 {
   "acno": "T01345", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "508", 
   "dimensions": "object: 1924 x 2000 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2000", 
   "id": 527, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,41 @@
       "workCount": 52
     }
   ], 
-  "popularity": 60, 
   "subjectCount": 2, 
-  "title": "Big Yellow Circle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01345_8.jpg", 
+  "title": "Big Yellow Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-big-yellow-circle-t01345", 
+  "width": "1924"
 }

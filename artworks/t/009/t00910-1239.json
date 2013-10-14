@@ -1,6 +1,5 @@
 {
   "acno": "T00910", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,105 @@
     "text": "1947"
   }, 
   "dateText": "1947", 
+  "depth": "", 
   "dimensions": "support: 870 x 1073 mm\r\nframe: 1041 x 1242 x 90 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1073", 
   "id": 1239, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 222, 
   "subjectCount": 6, 
-  "title": "Tregor and Tregoff, Cornwall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall", 
+                "workCount": 400
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1736, 
+                "name": "Tregoff", 
+                "workCount": 1
+              }, 
+              {
+                "id": 1735, 
+                "name": "Tregor", 
+                "workCount": 1
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 1737, 
+                "name": "Trendrine", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00910_8.jpg", 
+  "title": "Tregor and Tregoff, Cornwall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-tregor-and-tregoff-cornwall-t00910", 
+  "width": "870"
 }

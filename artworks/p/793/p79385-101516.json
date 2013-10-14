@@ -1,6 +1,5 @@
 {
   "acno": "P79385", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P79374-P79395", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "2008"
   }, 
   "dateText": "2008", 
+  "depth": "", 
   "dimensions": "image: 309 x 248 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The House of Fairy Tales", 
+  "height": "248", 
   "id": 101516, 
   "inscription": null, 
   "medium": "Silkscreen on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 1, 
-  "title": "The Little Window"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79385_8.jpg", 
+  "title": "The Little Window", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hopton-the-little-window-p79385", 
+  "width": "309"
 }

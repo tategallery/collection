@@ -1,6 +1,5 @@
 {
   "acno": "P01133", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01127-P01135", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 541 x 465 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Birds of Prey", 
+  "height": "465", 
   "id": 4598, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 41, 
   "subjectCount": 2, 
-  "title": "Osprey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 13350, 
+                "name": "osprey", 
+                "workCount": 2
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01133_8.jpg", 
+  "title": "Osprey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-osprey-p01133", 
+  "width": "541"
 }

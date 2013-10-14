@@ -1,6 +1,5 @@
 {
   "acno": "D31111", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31020-D31137; D41023-D41024", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 162 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVII 46 a", 
   "foreignTitle": null, 
   "groupTitle": "Copenhagen to Dresden Sketchbook [Finberg CCCVII]", 
+  "height": "89", 
   "id": 58350, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "Three Sketches of a Distant Shoreline with Buildings, Boats, Lightships, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse", 
+                "workCount": 278
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31111_8.jpg", 
+  "title": "Three Sketches of a Distant Shoreline with Buildings, Boats, Lightships, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-sketches-of-a-distant-shoreline-with-buildings-boats-lightships-etc-d31111", 
+  "width": "162"
 }

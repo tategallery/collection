@@ -1,6 +1,5 @@
 {
   "acno": "D00401", 
-  "addlImageCount": 0, 
   "catTextResId": 1140297, 
   "catalogueGroup": {
     "accessionRanges": "D00157-D00160; D00381; D00401; D01109; D01110; D01881; D40254", 
@@ -28,16 +27,77 @@
     "text": "1793-4"
   }, 
   "dateText": "1793-4", 
+  "depth": "", 
   "dimensions": "support: 254 x 197 mm", 
-  "displayLocation": null, 
   "finberg": "XXIII a", 
   "foreignTitle": null, 
   "groupTitle": "Kent and Middlesex", 
+  "height": "197", 
   "id": 27816, 
   "inscription": null, 
   "medium": "Pen and ink and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 189, 
   "subjectCount": 3, 
-  "title": "Isleworth Mill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7876, 
+                "name": "Isleworth - non-specific", 
+                "workCount": 16
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00401_8.jpg", 
+  "title": "Isleworth Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-isleworth-mill-d00401", 
+  "width": "254"
 }

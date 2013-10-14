@@ -1,6 +1,5 @@
 {
   "acno": "D08654", 
-  "addlImageCount": 0, 
   "catTextResId": 1137132, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,66 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 117 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 153", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "75", 
   "id": 36041, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 313, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "The Ivy Bridge, on the River Erme at Ivybridge; Dunster and the Somerset Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08654_8.jpg", 
+  "title": "The Ivy Bridge, on the River Erme at Ivybridge; Dunster and the Somerset Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-ivy-bridge-on-the-river-erme-at-ivybridge-dunster-and-the-somerset-coast-d08654", 
+  "width": "117"
 }

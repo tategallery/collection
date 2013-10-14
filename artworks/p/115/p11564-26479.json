@@ -1,6 +1,5 @@
 {
   "acno": "P11564", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 870 x 764 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "764", 
   "id": 26479, 
   "inscription": null, 
   "medium": "Silkscreen print on paper", 
@@ -41,7 +41,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 214, 
   "subjectCount": 2, 
-  "title": "Silvered 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11564_8.jpg", 
+  "title": "Silvered 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-silvered-2-p11564", 
+  "width": "870"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D04754", 
-  "addlImageCount": 0, 
   "catTextResId": 1133457, 
   "catalogueGroup": {
     "accessionRanges": "D04736-D04796; D40791-D40794", 
@@ -28,17 +27,66 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 154 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVII 18", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Strassburg and Oxford Sketchbook [Finberg LXXVII]", 
+  "height": "240", 
   "id": 32147, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Town and Castle on a Hillside"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04754_8.jpg", 
+  "title": "Town and Castle on a Hillside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-and-castle-on-a-hillside-d04754", 
+  "width": "154"
 }

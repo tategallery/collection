@@ -1,6 +1,5 @@
 {
   "acno": "D04537", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,97 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 210 x 282 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIV 44", 
   "foreignTitle": null, 
   "groupTitle": "Grenoble Sketchbook [Finberg LXXIV]", 
+  "height": "282", 
   "id": 31930, 
   "inscription": null, 
   "medium": "Chalk, gouache and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 7, 
-  "title": "The Lower Glacier, Grindelwald, with the Eiger"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 7926, 
+                "name": "Eiger", 
+                "workCount": 2
+              }, 
+              {
+                "id": 882, 
+                "name": "Grindelwald Glacier", 
+                "workCount": 4
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04537_8.jpg", 
+  "title": "The Lower Glacier, Grindelwald, with the Eiger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-lower-glacier-grindelwald-with-the-eiger-d04537", 
+  "width": "210"
 }

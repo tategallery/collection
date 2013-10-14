@@ -1,6 +1,5 @@
 {
   "acno": "D08565", 
-  "addlImageCount": 0, 
   "catTextResId": 1137042, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,83 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 117 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 103 a", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "75", 
   "id": 35952, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 214, 
-  "popularity": 52, 
   "subjectCount": 4, 
-  "title": "Plympton Castle and St Maurice's Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08565_8.jpg", 
+  "title": "Plympton Castle and St Maurice's Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-plympton-castle-and-st-maurices-church-d08565", 
+  "width": "117"
 }

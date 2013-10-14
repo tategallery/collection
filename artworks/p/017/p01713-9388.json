@@ -1,6 +1,5 @@
 {
   "acno": "P01713", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,18 +26,100 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "", 
   "dimensions": "image: 495 x 762 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": "La Danseuse", 
   "groupTitle": "School Prints", 
+  "height": "762", 
   "id": 9388, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 1061, 
   "subjectCount": 5, 
-  "title": "The Dancer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance", 
+                "workCount": 214
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01713_8.jpg", 
+  "title": "The Dancer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/matisse-the-dancer-p01713", 
+  "width": "495"
 }

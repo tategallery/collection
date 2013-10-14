@@ -1,6 +1,5 @@
 {
   "acno": "D31082", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31020-D31137; D41023-D41024", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 162 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVII 32", 
   "foreignTitle": null, 
   "groupTitle": "Copenhagen to Dresden Sketchbook [Finberg CCCVII]", 
+  "height": "89", 
   "id": 58321, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 63, 
-  "popularity": 113, 
   "subjectCount": 4, 
-  "title": "(1) Berlin: The Oranienburg Gate; (2) Horses Drawing a Laden Cart"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10404, 
+                "name": "Berlin - non-specific", 
+                "workCount": 42
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31082_8.jpg", 
+  "title": "(1) Berlin: The Oranienburg Gate; (2) Horses Drawing a Laden Cart", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-berlin-the-oranienburg-gate-2-horses-drawing-a-laden-cart-d31082", 
+  "width": "162"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D00288", 
-  "addlImageCount": 0, 
   "catTextResId": 1140681, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,66 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 99 x 152 mm", 
-  "displayLocation": null, 
   "finberg": "XX 22", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "152", 
   "id": 27704, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "The Interior of a Mill or Foundry"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3568, 
+                "name": "ceiling", 
+                "workCount": 128
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11011, 
+                "name": "mill", 
+                "workCount": 4
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces", 
+            "workCount": 368
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00288_8.jpg", 
+  "title": "The Interior of a Mill or Foundry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-interior-of-a-mill-or-foundry-d00288", 
+  "width": "99"
 }

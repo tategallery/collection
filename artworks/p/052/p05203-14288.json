@@ -1,6 +1,5 @@
 {
   "acno": "P05203", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02436; P05190-P05214", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 740 x 500 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A-Z Box", 
+  "height": "500", 
   "id": 14288, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,127 @@
       "workCount": 846
     }
   ], 
-  "popularity": 56, 
   "subjectCount": 8, 
-  "title": "O - Oracle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 760, 
+                "name": "jacket", 
+                "workCount": 52
+              }, 
+              {
+                "id": 3122, 
+                "name": "underwear", 
+                "workCount": 55
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 3298, 
+                "name": "telephone", 
+                "workCount": 37
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1571, 
+                "name": "poem", 
+                "workCount": 84
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05203_8.jpg", 
+  "title": "O - Oracle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-o-oracle-p05203", 
+  "width": "740"
 }

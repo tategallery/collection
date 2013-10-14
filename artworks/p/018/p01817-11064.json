@@ -1,6 +1,5 @@
 {
   "acno": "P01817", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 406 x 406 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 11064, 
   "inscription": "date inscribed", 
   "medium": "Relief print on paper", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 26, 
   "subjectCount": 1, 
-  "title": "[no title: proof]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01817_8.jpg", 
+  "title": "[no title: proof]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-proof-p01817", 
+  "width": "406"
 }

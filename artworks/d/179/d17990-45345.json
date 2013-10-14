@@ -1,6 +1,5 @@
 {
   "acno": "D17990", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17913-D17990; D40966-D40968", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1823-4"
   }, 
   "dateText": "c.1823-4", 
+  "depth": "", 
   "dimensions": "support: 100 x 160 mm", 
-  "displayLocation": null, 
   "finberg": "CCVI 42 a", 
   "foreignTitle": null, 
   "groupTitle": "London Bridge and Portsmouth Sketchbook [Finberg CCVI]", 
+  "height": "160", 
   "id": 45345, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 86, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17990_8.jpg", 
+  "title": "Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-hills-d17990", 
+  "width": "100"
 }

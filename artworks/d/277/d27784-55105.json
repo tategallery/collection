@@ -1,6 +1,5 @@
 {
   "acno": "D27784", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27727-D27731; D27733-D27744; D27746-D27749; D27751-D27753; D27755-D27778; D27780-D27784; D27786-D27791; D40746-D40748", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1830-5"
   }, 
   "dateText": "c.1830-5", 
+  "depth": "", 
   "dimensions": "support: 79 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXI 32", 
   "foreignTitle": null, 
   "groupTitle": "Fishing at the Weir Sketchbook [Finberg CCLXXXI]", 
+  "height": "101", 
   "id": 55105, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 72, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "Group of Fishermen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2094, 
+                "name": "fisherman / fisherwoman", 
+                "workCount": 281
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27784_8_R.jpg", 
+  "title": "Group of Fishermen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-fishermen-d27784", 
+  "width": "79"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04450", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04444-P04450", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "unconfirmed: 441 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Struggle in the West - The Bombing of London", 
+  "height": "762", 
   "id": 8009, 
   "inscription": null, 
   "medium": null, 
@@ -47,7 +47,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "Setpiece 3"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04450_8.jpg", 
+  "title": "Setpiece 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-setpiece-3-p04450", 
+  "width": "441"
 }

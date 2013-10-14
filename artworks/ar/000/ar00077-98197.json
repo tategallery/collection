@@ -1,6 +1,5 @@
 {
   "acno": "AR00077", 
-  "addlImageCount": 2, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,101 +20,139 @@
     "text": "1981-7"
   }, 
   "dateText": "1981-7", 
+  "depth": "715", 
   "dimensions": "displayed: 2510 x 1370 x 715 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1370", 
   "id": 98197, 
-  "images": [
-    {
-      "copyright": "\u00a9 Jeff Koons", 
-      "filenameBase": "AR00077_292174", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00077_292174_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 85
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00077_292174_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 169
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00077_292174_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 482
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00077_292174_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1015
-        }
-      ]
-    }, 
-    {
-      "copyright": "\u00a9 Jeff Koons", 
-      "filenameBase": "AR00077_292176", 
-      "sizes": [
-        {
-          "caption": "Additional view 2", 
-          "cleared": true, 
-          "file": "AR/AR00077_292176_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 91
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": true, 
-          "file": "AR/AR00077_292176_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 182
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": true, 
-          "file": "AR/AR00077_292176_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 519
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": true, 
-          "file": "AR/AR00077_292176_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1092
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "4 vacuum cleaners, Perspex and fluorescent lights", 
   "movementCount": 0, 
-  "popularity": 972, 
   "subjectCount": 10, 
-  "title": "New Hoover Convertibles, Green, Red, Brown, New Shelton Wet/Dry 10 Gallon Displaced Doubledecker"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18018, 
+                "name": "banality", 
+                "workCount": 59
+              }, 
+              {
+                "id": 5443, 
+                "name": "humour", 
+                "workCount": 241
+              }, 
+              {
+                "id": 1704, 
+                "name": "irony", 
+                "workCount": 184
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3646, 
+                "name": "commerce", 
+                "workCount": 68
+              }, 
+              {
+                "id": 4063, 
+                "name": "consumerism", 
+                "workCount": 59
+              }, 
+              {
+                "id": 2476, 
+                "name": "contemporary society", 
+                "workCount": 226
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }, 
+          {
+            "children": [
+              {
+                "id": 12910, 
+                "name": "high art", 
+                "workCount": 41
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1985, 
+                "name": "display case / vitrine", 
+                "workCount": 28
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 5164, 
+                "name": "vacuum cleaner", 
+                "workCount": 9
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00077_8.jpg", 
+  "title": "New Hoover Convertibles, Green, Red, Brown, New Shelton Wet/Dry 10 Gallon Displaced Doubledecker", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/koons-new-hoover-convertibles-green-red-brown-new-shelton-wetdry-10-gallon-displaced-doubledecker-ar00077", 
+  "width": "2510"
 }

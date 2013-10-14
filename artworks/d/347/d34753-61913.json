@@ -1,6 +1,5 @@
 {
   "acno": "D34753", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,75 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 134 x 145 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLIV 303", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "145", 
   "id": 61913, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "Castle on Rock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }, 
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34753_8.jpg", 
+  "title": "Castle on Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-d34753", 
+  "width": "134"
 }

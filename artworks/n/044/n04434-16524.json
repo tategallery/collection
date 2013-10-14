@@ -1,6 +1,5 @@
 {
   "acno": "N04434", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1764"
   }, 
   "dateText": "1764", 
+  "depth": "", 
   "dimensions": "support: 889 x 711 mm\r\nframe: 1055 x 840 x 80 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "711", 
   "id": 16524, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 141, 
   "subjectCount": 4, 
-  "title": "Stephen Rimbault"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7381, 
+                "name": "Rimbault, Stephen", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7382, 
+                "name": "clockmaker", 
+                "workCount": 1
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts", 
+            "workCount": 360
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 816, 
+                "name": "sheet music", 
+                "workCount": 28
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04434_8.jpg", 
+  "title": "Stephen Rimbault", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/zoffany-stephen-rimbault-n04434", 
+  "width": "889"
 }

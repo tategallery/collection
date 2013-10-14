@@ -1,6 +1,5 @@
 {
   "acno": "AR00131", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "Overall display dimensions variable", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 98480, 
   "inscription": null, 
   "medium": "Vinyl wall text", 
@@ -44,7 +41,55 @@
       "workCount": 478
     }
   ], 
-  "popularity": 250, 
   "subjectCount": 2, 
-  "title": "STRAIGHT DOWN TO BELOW"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2016, 
+                "name": "phrase", 
+                "workCount": 77
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00131_8.jpg", 
+  "title": "STRAIGHT DOWN TO BELOW", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/weiner-straight-down-to-below-ar00131", 
+  "width": "display"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D27979", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27940-D28041; D41107; D41127", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVI 21 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Bruges Sketchbook [Finberg CCLXXXVI]", 
+  "height": "116", 
   "id": 55298, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 44, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "?Cliffs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27979_8.jpg", 
+  "title": "?Cliffs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-d27979", 
+  "width": "90"
 }

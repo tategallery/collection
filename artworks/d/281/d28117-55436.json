@@ -1,6 +1,5 @@
 {
   "acno": "D28117", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28042-D28166; D41091", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1839"
   }, 
   "dateText": "1839", 
+  "depth": "", 
   "dimensions": "support: 154 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVII 40", 
   "foreignTitle": null, 
   "groupTitle": "Spa, Dinant and Namur Sketchbook [Finberg CCLXXXVII]", 
+  "height": "94", 
   "id": 55436, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 83, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28117_8.jpg", 
+  "title": "Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-d28117", 
+  "width": "154"
 }

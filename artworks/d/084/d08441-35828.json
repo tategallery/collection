@@ -1,6 +1,5 @@
 {
   "acno": "D08441", 
-  "addlImageCount": 0, 
   "catTextResId": 1136918, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,85 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 75 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 42", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "117", 
   "id": 35828, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "A West Country Harbour; ?Boats on a Beach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08441_8.jpg", 
+  "title": "A West Country Harbour; ?Boats on a Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-west-country-harbour-boats-on-a-beach-d08441", 
+  "width": "75"
 }

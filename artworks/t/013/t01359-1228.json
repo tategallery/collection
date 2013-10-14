@@ -1,6 +1,5 @@
 {
   "acno": "T01359", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "1016", 
   "dimensions": "object: 1702 x 6852 x 1016 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "6852", 
   "id": 1228, 
   "inscription": null, 
   "medium": "Painted aluminium and steel", 
@@ -41,7 +41,60 @@
       "workCount": 52
     }
   ], 
-  "popularity": 11, 
   "subjectCount": 3, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01359_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bolus-untitled-t01359", 
+  "width": "1702"
 }

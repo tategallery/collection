@@ -1,6 +1,5 @@
 {
   "acno": "T11231", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11221-T11289; T11380", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,110 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 207 x 294 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Various Birds and Beasts Drawn from the Life", 
+  "height": "294", 
   "id": 25552, 
   "inscription": null, 
   "medium": "Engraving and etching on paper", 
   "movementCount": 0, 
-  "popularity": 70, 
   "subjectCount": 7, 
-  "title": "Bustard; Peacock; Peahen; Stock Dove; Squirrell"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 265, 
+                "name": "dove", 
+                "workCount": 52
+              }, 
+              {
+                "id": 2919, 
+                "name": "peacock", 
+                "workCount": 34
+              }, 
+              {
+                "id": 7659, 
+                "name": "peahen", 
+                "workCount": 2
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 907, 
+                "name": "flying", 
+                "workCount": 102
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 4314, 
+                "name": "squirrel", 
+                "workCount": 8
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11231_8.jpg", 
+  "title": "Bustard; Peacock; Peahen; Stock Dove; Squirrell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-bustard-peacock-peahen-stock-dove-squirrell-t11231", 
+  "width": "207"
 }

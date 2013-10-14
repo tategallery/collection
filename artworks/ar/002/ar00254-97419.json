@@ -1,6 +1,5 @@
 {
   "acno": "AR00254", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "support: 467 x 362 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "362", 
   "id": 97419, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
@@ -41,7 +41,55 @@
       "workCount": 248
     }
   ], 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Hot Air Balloon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8620, 
+                "name": "balloon", 
+                "workCount": 7
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air", 
+            "workCount": 144
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00254_8.jpg", 
+  "title": "Hot Air Balloon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-hot-air-balloon-ar00254", 
+  "width": "467"
 }

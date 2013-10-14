@@ -1,6 +1,5 @@
 {
   "acno": "D41261", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24500-D24565; D41261", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 118 x 123 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Dieppe, Rouen and Paris Sketchbook [Finberg CCLVIII]", 
+  "height": "123", 
   "id": 64959, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 75, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41261_8_R.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-title-not-known-d41261", 
+  "width": "118"
 }

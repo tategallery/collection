@@ -1,6 +1,5 @@
 {
   "acno": "D24558", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24500-D24565; D41261", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 118 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVIII 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Dieppe, Rouen and Paris Sketchbook [Finberg CCLVIII]", 
+  "height": "123", 
   "id": 51895, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 52, 
   "subjectCount": 4, 
-  "title": "Street Scene, Rouen, with Cathedral"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 8008, 
+                "name": "Rouen, Rouen Cathedral", 
+                "workCount": 28
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24558_8_R.jpg", 
+  "title": "Street Scene, Rouen, with Cathedral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-rouen-with-cathedral-d24558", 
+  "width": "118"
 }

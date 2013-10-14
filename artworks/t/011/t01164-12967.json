@@ -1,6 +1,5 @@
 {
   "acno": "T01164", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "42", 
   "dimensions": "support: 2667 x 2286 x 42 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2286", 
   "id": 12967, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, acrylic paint and glue tempera on canvas", 
@@ -44,7 +41,60 @@
       "workCount": 102
     }
   ], 
-  "popularity": 1232, 
   "subjectCount": 3, 
-  "title": "Black on Maroon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation", 
+                "workCount": 128
+              }, 
+              {
+                "id": 759, 
+                "name": "pessimism", 
+                "workCount": 13
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01164_8.jpg", 
+  "title": "Black on Maroon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothko-black-on-maroon-t01164", 
+  "width": "2667"
 }

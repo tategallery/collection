@@ -1,6 +1,5 @@
 {
   "acno": "T05515", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1856"
   }, 
   "dateText": "1856", 
+  "depth": "260", 
   "dimensions": "support, circular: 260 x 260 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "260", 
   "id": 17302, 
   "inscription": null, 
   "medium": "Plaster", 
@@ -41,7 +41,79 @@
       "workCount": 405
     }
   ], 
-  "popularity": 142, 
   "subjectCount": 4, 
-  "title": "Alfred Tennyson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1421, 
+                "name": "Tennyson, Alfred Tennyson, 1st Baron", 
+                "workCount": 2
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1181, 
+                "name": "poet", 
+                "workCount": 136
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05515_8.jpg", 
+  "title": "Alfred Tennyson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/woolner-alfred-tennyson-t05515", 
+  "width": "circular:"
 }

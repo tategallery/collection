@@ -1,6 +1,5 @@
 {
   "acno": "T01498", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "support: 2359 x 1740 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1740", 
   "id": 13891, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,84 @@
       "workCount": 102
     }
   ], 
-  "popularity": 139, 
   "subjectCount": 5, 
-  "title": "1953"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6767, 
+                "name": "creativity", 
+                "workCount": 59
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }, 
+          {
+            "children": [
+              {
+                "id": 6274, 
+                "name": "infinity", 
+                "workCount": 7
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01498_8.jpg", 
+  "title": "1953", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/still-1953-t01498", 
+  "width": "2359"
 }

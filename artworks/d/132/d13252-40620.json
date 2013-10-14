@@ -1,6 +1,5 @@
 {
   "acno": "D13252", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D13245-D13321; D40907-D40909", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1817-18"
   }, 
   "dateText": "c.1817-18", 
+  "depth": "", 
   "dimensions": "support: 69 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CLXIV 7", 
   "foreignTitle": null, 
   "groupTitle": "Guards Sketchbook [Finberg CLXIV]", 
+  "height": "103", 
   "id": 40620, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Female Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling", 
+                "workCount": 438
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13252_8.jpg", 
+  "title": "Female Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-female-figures-d13252", 
+  "width": "69"
 }

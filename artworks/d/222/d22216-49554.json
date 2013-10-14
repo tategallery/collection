@@ -1,6 +1,5 @@
 {
   "acno": "D22216", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 114 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIX 36", 
   "foreignTitle": null, 
   "groupTitle": "Worcester and Shrewsbury Sketchbook [Finberg CCXXXIX]", 
+  "height": "191", 
   "id": 49554, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 73, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Views"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22216_8_R.jpg", 
+  "title": "Views", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-d22216", 
+  "width": "114"
 }

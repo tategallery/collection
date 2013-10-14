@@ -1,6 +1,5 @@
 {
   "acno": "P01786", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 400 x 400 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "400", 
   "id": 470, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -51,7 +51,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 321, 
   "subjectCount": 2, 
-  "title": "White Line Square IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01786_8.jpg", 
+  "title": "White Line Square IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-white-line-square-iv-p01786", 
+  "width": "400"
 }

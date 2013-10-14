@@ -1,6 +1,5 @@
 {
   "acno": "T03707", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "c.1924"
   }, 
   "dateText": "c.1924", 
+  "depth": "63", 
   "dimensions": "unconfirmed: 680 x 560 x 63 mm\r\nframe: 856 x 742 x 117mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "560", 
   "id": 4138, 
   "inscription": null, 
   "medium": "Painted plaster and cork on canvas", 
@@ -54,7 +51,55 @@
       "workCount": 98
     }
   ], 
-  "popularity": 1186, 
   "subjectCount": 2, 
-  "title": "Dadaville"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03707_8.jpg", 
+  "title": "Dadaville", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ernst-dadaville-t03707", 
+  "width": "680"
 }

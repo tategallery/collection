@@ -1,6 +1,5 @@
 {
   "acno": "P11925", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 575 x 406 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 78425, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,84 @@
       "workCount": 478
     }
   ], 
-  "popularity": 208, 
   "subjectCount": 5, 
-  "title": "Ajar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }, 
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11925_8.jpg", 
+  "title": "Ajar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-ajar-p11925", 
+  "width": "575"
 }

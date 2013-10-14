@@ -1,6 +1,5 @@
 {
   "acno": "P01148", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "support: 537 x 930 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "930", 
   "id": 4688, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on papers and leather on lithograph on paper", 
@@ -41,7 +41,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 38, 
   "subjectCount": 1, 
-  "title": "Lace II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01148_8.jpg", 
+  "title": "Lace II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-lace-ii-p01148", 
+  "width": "537"
 }

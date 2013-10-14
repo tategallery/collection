@@ -1,6 +1,5 @@
 {
   "acno": "D13284", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D13245-D13321; D40907-D40909", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,69 @@
     "text": "c.1817-18"
   }, 
   "dateText": "c.1817-18", 
+  "depth": "", 
   "dimensions": "support: 69 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CLXIV 32 a", 
   "foreignTitle": null, 
   "groupTitle": "Guards Sketchbook [Finberg CLXIV]", 
+  "height": "103", 
   "id": 40652, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 66, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Details of Uniform"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4334, 
+                "name": "boot", 
+                "workCount": 63
+              }, 
+              {
+                "id": 9930, 
+                "name": "spur", 
+                "workCount": 4
+              }, 
+              {
+                "id": 5446, 
+                "name": "uniform", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 3398, 
+                "name": "lance", 
+                "workCount": 16
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13284_8.jpg", 
+  "title": "Details of Uniform", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-details-of-uniform-d13284", 
+  "width": "69"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D32473", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32444; D32446; D32448; D32450-D32458; D32460-D32462; D32464; D32466; D32468-D32474; D32476-D32478; D32480-D32501; D32503-D32524; D32526-D32532; D32534-D32538; D32540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,86 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 153 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXI 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam Sketchbook [Finberg CCCXXI]", 
+  "height": "95", 
   "id": 59678, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 11, 
   "subjectCount": 6, 
-  "title": "View in Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }, 
+              {
+                "id": 7063, 
+                "name": "portico", 
+                "workCount": 43
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32473_8.jpg", 
+  "title": "View in Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-in-town-d32473", 
+  "width": "153"
 }

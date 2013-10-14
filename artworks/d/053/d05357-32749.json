@@ -1,6 +1,5 @@
 {
   "acno": "D05357", 
-  "addlImageCount": 0, 
   "catTextResId": 1133587, 
   "catalogueGroup": {
     "accessionRanges": "D05351-D05375; D40273; D40342-D40343", 
@@ -28,17 +27,78 @@
     "text": "c.1807-10"
   }, 
   "dateText": "c.1807-10", 
+  "depth": "", 
   "dimensions": "support: 258 x 370 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVI 5 a", 
   "foreignTitle": null, 
   "groupTitle": "Harvest Home Sketchbook [Finberg LXXXVI]", 
+  "height": "370", 
   "id": 32749, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 12, 
-  "popularity": 18, 
   "subjectCount": 3, 
-  "title": "An Agent Seated at a Table, Surrounded by Tenants and Women and Children"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 688, 
+                "name": "farm labourer", 
+                "workCount": 86
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05357_8.jpg", 
+  "title": "An Agent Seated at a Table, Surrounded by Tenants and Women and Children", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-agent-seated-at-a-table-surrounded-by-tenants-and-women-and-children-d05357", 
+  "width": "258"
 }

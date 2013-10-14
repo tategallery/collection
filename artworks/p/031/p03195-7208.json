@@ -1,6 +1,5 @@
 {
   "acno": "P03195", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03192-P03197", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 824 x 410 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Magician Suite", 
+  "height": "410", 
   "id": 7208, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,137 @@
       "workCount": 846
     }
   ], 
-  "popularity": 456, 
   "subjectCount": 10, 
-  "title": "IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 9725, 
+                "name": "leg/legs raised", 
+                "workCount": 57
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 1076, 
+                "name": "leg", 
+                "workCount": 78
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6730, 
+                "name": "eroticism", 
+                "workCount": 196
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships", 
+            "workCount": 742
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03195_8.jpg", 
+  "title": "IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-iv-p03195", 
+  "width": "824"
 }

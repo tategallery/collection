@@ -1,6 +1,5 @@
 {
   "acno": "P77912", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77902-P77913", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,79 @@
     "text": "1996"
   }, 
   "dateText": "1996", 
+  "depth": "", 
   "dimensions": "image: 298 x 358 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Pendle Witches", 
+  "height": "358", 
   "id": 21872, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 107, 
   "subjectCount": 5, 
-  "title": "Mist III"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 723, 
+                "name": "lying down", 
+                "workCount": 221
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing", 
+                "workCount": 349
+              }, 
+              {
+                "id": 1070, 
+                "name": "gesticulating", 
+                "workCount": 101
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77912_8.jpg", 
+  "title": "Mist III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rego-mist-iii-p77912", 
+  "width": "298"
 }

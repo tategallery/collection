@@ -1,6 +1,5 @@
 {
   "acno": "T05465", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "support: 1966 x 1975 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1975", 
   "id": 17245, 
   "inscription": null, 
   "medium": "Oil paint on canvas on wood", 
   "movementCount": 0, 
-  "popularity": 117, 
   "subjectCount": 5, 
-  "title": "Liknon 3"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 481, 
+                "name": "Greek text", 
+                "workCount": 31
+              }, 
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific", 
+                "workCount": 86
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }, 
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05465_8.jpg", 
+  "title": "Liknon 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-liknon-3-t05465", 
+  "width": "1966"
 }

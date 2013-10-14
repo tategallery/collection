@@ -1,6 +1,5 @@
 {
   "acno": "T11783", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1951-2"
   }, 
   "dateText": "1951-2", 
+  "depth": "483", 
   "dimensions": "confirmed: 1029 x 620 x 483 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "620", 
   "id": 80229, 
   "inscription": null, 
   "medium": "Steel and copper alloy", 
@@ -41,7 +41,74 @@
       "workCount": 178
     }
   ], 
-  "popularity": 143, 
   "subjectCount": 3, 
-  "title": "Fountain"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4673, 
+                "name": "tray", 
+                "workCount": 8
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11783_8.jpg", 
+  "title": "Fountain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-fountain-t11783", 
+  "width": "1029"
 }

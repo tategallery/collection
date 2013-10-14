@@ -1,6 +1,5 @@
 {
   "acno": "P02590", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 190 x 276 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "276", 
   "id": 9959, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 115, 
   "subjectCount": 2, 
-  "title": "Sheep in Field"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02590_8.jpg", 
+  "title": "Sheep in Field", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-sheep-in-field-p02590", 
+  "width": "190"
 }

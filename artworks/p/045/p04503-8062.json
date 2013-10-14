@@ -1,6 +1,5 @@
 {
   "acno": "P04503", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 512 x 339 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "339", 
   "id": 8062, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,98 @@
       "workCount": 377
     }
   ], 
-  "popularity": 18, 
   "subjectCount": 5, 
-  "title": "(43) The Pursuit of the House Prat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12392, 
+                "name": "book, 'The Pusuit of the House-Boat'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1208, 
+                "name": "seagull", 
+                "workCount": 92
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind", 
+                "workCount": 122
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04503_8.jpg", 
+  "title": "(43) The Pursuit of the House Prat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-43-the-pursuit-of-the-house-prat-p04503", 
+  "width": "512"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D13482", 
-  "addlImageCount": 0, 
   "catTextResId": 1132027, 
   "catalogueGroup": {
     "accessionRanges": "D13449-D13586; D40934-D40937", 
@@ -28,17 +27,78 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 90 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVI 17 a", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh, 1818, Sketchbook [Finberg CLXVI]", 
+  "height": "112", 
   "id": 40850, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Dunbar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13482_8.jpg", 
+  "title": "Dunbar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunbar-d13482", 
+  "width": "90"
 }

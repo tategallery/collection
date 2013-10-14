@@ -1,6 +1,5 @@
 {
   "acno": "D07139", 
-  "addlImageCount": 0, 
   "catTextResId": 1129565, 
   "catalogueGroup": {
     "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
@@ -28,17 +27,90 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CVI 6", 
   "foreignTitle": null, 
   "groupTitle": "Derbyshire Sketchbook [Finberg CVI]", 
+  "height": "185", 
   "id": 34528, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 15, 
   "subjectCount": 4, 
-  "title": "A Bridge, with a Town on a Hill in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07139_8.jpg", 
+  "title": "A Bridge, with a Town on a Hill in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-bridge-with-a-town-on-a-hill-in-the-distance-d07139", 
+  "width": "108"
 }

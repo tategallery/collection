@@ -1,6 +1,5 @@
 {
   "acno": "D25699", 
-  "addlImageCount": 0, 
   "catTextResId": 1134063, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 96 x 59 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 32", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "59", 
   "id": 53036, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 65, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "A Tower, ?Hailes Castle, East Linton"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25699_8_R.jpg", 
+  "title": "A Tower, ?Hailes Castle, East Linton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-tower-hailes-castle-east-linton-d25699", 
+  "width": "96"
 }

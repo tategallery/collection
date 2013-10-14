@@ -1,6 +1,5 @@
 {
   "acno": "N03847", 
-  "addlImageCount": 0, 
   "catTextResId": 1129546, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "c.1919-20"
   }, 
   "dateText": "c.1919-20", 
+  "depth": "", 
   "dimensions": "support: 409 x 328 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "328", 
   "id": 13386, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,75 @@
       "workCount": 56
     }
   ], 
-  "popularity": 187, 
   "subjectCount": 6, 
-  "title": "Roquefort"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 4855, 
+                "name": "cheese", 
+                "workCount": 3
+              }, 
+              {
+                "id": 1074, 
+                "name": "drink, wine", 
+                "workCount": 32
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 5576, 
+                "name": "cheese dish", 
+                "workCount": 1
+              }, 
+              {
+                "id": 4217, 
+                "name": "cutlery", 
+                "workCount": 43
+              }, 
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03847_8.jpg", 
+  "title": "Roquefort", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-roquefort-n03847", 
+  "width": "409"
 }

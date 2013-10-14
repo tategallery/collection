@@ -1,6 +1,5 @@
 {
   "acno": "T00758", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919-20"
   }, 
   "dateText": "1919-20", 
+  "depth": "", 
   "dimensions": "support: 559 x 419 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "419", 
   "id": 5767, 
   "inscription": null, 
   "medium": "Graphite, crayon and gouache on paper", 
@@ -51,7 +51,60 @@
       "workCount": 39
     }
   ], 
-  "popularity": 61, 
   "subjectCount": 3, 
-  "title": "Reconstruction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00758_8.jpg", 
+  "title": "Reconstruction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-reconstruction-t00758", 
+  "width": "559"
 }

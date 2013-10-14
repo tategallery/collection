@@ -1,6 +1,5 @@
 {
   "acno": "D01299", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01247-D01326; D01328-D01333; D01335-D01355; D40575-D40576", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 332 x 225 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVIII 46", 
   "foreignTitle": null, 
   "groupTitle": "Hereford Court Sketchbook [Finberg XXXVIII]", 
+  "height": "225", 
   "id": 28706, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 151, 
-  "popularity": 16, 
   "subjectCount": 5, 
-  "title": "Study of a Lake and Mountains; A Waterfall; Cottages beneath Cliff"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01299_8.jpg", 
+  "title": "Study of a Lake and Mountains; A Waterfall; Cottages beneath Cliff", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-lake-and-mountains-a-waterfall-cottages-beneath-cliff-d01299", 
+  "width": "332"
 }

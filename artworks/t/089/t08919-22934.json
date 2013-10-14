@@ -1,6 +1,5 @@
 {
   "acno": "T08919", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 204 x 303 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "303", 
   "id": 22934, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
@@ -38,7 +38,77 @@
       "workCount": 39
     }
   ], 
-  "popularity": 179, 
   "subjectCount": 5, 
-  "title": "An Ancient Castle. Sketching Society Subject"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08919_8.jpg", 
+  "title": "An Ancient Castle. Sketching Society Subject", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/girtin-an-ancient-castle-sketching-society-subject-t08919", 
+  "width": "204"
 }

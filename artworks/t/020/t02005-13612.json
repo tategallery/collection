@@ -1,6 +1,5 @@
 {
   "acno": "T02005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "support: 1359 x 2972 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2972", 
   "id": 13612, 
   "inscription": null, 
   "medium": "Acrylic paint, canvas, metal and fabric", 
   "movementCount": 0, 
-  "popularity": 96, 
   "subjectCount": 3, 
-  "title": "Early Reply"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02005_8.jpg", 
+  "title": "Early Reply", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-early-reply-t02005", 
+  "width": "1359"
 }

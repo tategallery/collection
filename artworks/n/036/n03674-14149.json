@@ -1,6 +1,5 @@
 {
   "acno": "N03674", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,88 @@
     "text": "1876-86"
   }, 
   "dateText": "1876-86", 
+  "depth": "244", 
   "dimensions": "object: 571 x 235 x 244 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "235", 
   "id": 14149, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "N03674_128437", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03674_128437_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 72
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03674_128437_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 144
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03674_128437_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 288
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03674_128437_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 865
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 98, 
   "subjectCount": 4, 
-  "title": "Cardinal Manning"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14327, 
+                "name": "Manning, Henry Edward, Cardinal", 
+                "workCount": 2
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1436, 
+                "name": "cardinal", 
+                "workCount": 14
+              }
+            ], 
+            "id": 120, 
+            "name": "religious", 
+            "workCount": 283
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03674_8.jpg", 
+  "title": "Cardinal Manning", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thomas-cardinal-manning-n03674", 
+  "width": "571"
 }

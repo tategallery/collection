@@ -1,6 +1,5 @@
 {
   "acno": "D06200", 
-  "addlImageCount": 0, 
   "catTextResId": 1130384, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,90 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 182 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "117", 
   "id": 33591, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 17, 
   "subjectCount": 4, 
-  "title": "A River Scene, with Houses on Left and Wooden Bridge in Mid-Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06200_8.jpg", 
+  "title": "A River Scene, with Houses on Left and Wooden Bridge in Mid-Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-scene-with-houses-on-left-and-wooden-bridge-in-mid-distance-d06200", 
+  "width": "182"
 }

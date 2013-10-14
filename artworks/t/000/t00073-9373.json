@@ -1,6 +1,5 @@
 {
   "acno": "T00073", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,105 @@
     "text": "1948"
   }, 
   "dateText": "1948", 
+  "depth": "23", 
   "dimensions": "support: 966 x 765 x 23 mm\r\nframe: 1195 x 962 x 100 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Les Terres rouges et la Montagne Ste Victoire", 
   "groupTitle": null, 
+  "height": "765", 
   "id": 9373, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 642, 
   "subjectCount": 6, 
-  "title": "The Red Lands and the Montagne Sainte Victoire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4215, 
+                "name": "France, Provence", 
+                "workCount": 9
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 4294, 
+                "name": "Montagne Sainte-Victoire", 
+                "workCount": 2
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00073_8.jpg", 
+  "title": "The Red Lands and the Montagne Sainte Victoire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/masson-the-red-lands-and-the-montagne-sainte-victoire-t00073", 
+  "width": "966"
 }

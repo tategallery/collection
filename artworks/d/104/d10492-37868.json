@@ -1,6 +1,5 @@
 {
   "acno": "D10492", 
-  "addlImageCount": 0, 
   "catTextResId": 1131485, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,97 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 43", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37868, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 101, 
-  "popularity": 17, 
   "subjectCount": 4, 
-  "title": "Four Sketches; Sandling; Cypress and Lilacs; River Scene with Sailing Boats &c"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10492_8.jpg", 
+  "title": "Four Sketches; Sandling; Cypress and Lilacs; River Scene with Sailing Boats &c", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-four-sketches-sandling-cypress-and-lilacs-river-scene-with-sailing-boats-c-d10492", 
+  "width": "155"
 }

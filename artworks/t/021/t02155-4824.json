@@ -1,6 +1,5 @@
 {
   "acno": "T02155", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1918"
   }, 
   "dateText": "c.1918", 
+  "depth": "", 
   "dimensions": "support: 335 x 262 mm\r\nframe: 424 x 322 x 15 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "262", 
   "id": 4824, 
   "inscription": null, 
   "medium": "Graphite and ink on board", 
@@ -41,7 +41,55 @@
       "workCount": 148
     }
   ], 
-  "popularity": 116, 
   "subjectCount": 2, 
-  "title": "Sketch for a Mobile Construction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02155_8.jpg", 
+  "title": "Sketch for a Mobile Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-sketch-for-a-mobile-construction-t02155", 
+  "width": "335"
 }

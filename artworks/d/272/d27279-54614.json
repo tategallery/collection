@@ -1,6 +1,5 @@
 {
   "acno": "D27279", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27226-D27280; D41084-D41085", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVIII 40", 
   "foreignTitle": null, 
   "groupTitle": "Mouth of the Thames Sketchbook [Finberg CCLXXVIII]", 
+  "height": "189", 
   "id": 54614, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 81, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "Landscape, with Distant Church, Hills, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27279_8.jpg", 
+  "title": "Landscape, with Distant Church, Hills, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-distant-church-hills-etc-d27279", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T10201", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08461; T10178-T10241; T11663-T11669", 
     "completeStatus": "IRRELEVANT", 
@@ -24,10 +23,11 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 125 x 84 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Flaxman", 
+  "height": "84", 
   "id": 24293, 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
@@ -44,7 +44,36 @@
       "workCount": 310
     }
   ], 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "[title not known] Verso: Sketch of Monument"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10201_8.jpg", 
+  "title": "[title not known] Verso: Sketch of Monument", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-title-not-known-verso-sketch-of-monument-t10201", 
+  "width": "125"
 }

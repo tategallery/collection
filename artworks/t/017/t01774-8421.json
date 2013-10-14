@@ -1,6 +1,5 @@
 {
   "acno": "T01774", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 679 x 1006 mm\r\nframe: 696 x 1020 x 31 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1006", 
   "id": 8421, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 105, 
   "subjectCount": 2, 
-  "title": "Drawing 24.4.60"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01774_8.jpg", 
+  "title": "Drawing 24.4.60", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/law-drawing-24460-t01774", 
+  "width": "679"
 }

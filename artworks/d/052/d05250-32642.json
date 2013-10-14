@@ -1,6 +1,5 @@
 {
   "acno": "D05250", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05245-D05350", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1804"
   }, 
   "dateText": "1804", 
+  "depth": "", 
   "dimensions": "support: 166 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXV 3 a", 
   "foreignTitle": null, 
   "groupTitle": "Eclipse Sketchbook [Finberg LXXXV]", 
+  "height": "112", 
   "id": 32642, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 8, 
-  "popularity": 22, 
   "subjectCount": 4, 
-  "title": "Landscape; Sun Nearly Three-Quarters Eclipsed"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05250_8.jpg", 
+  "title": "Landscape; Sun Nearly Three-Quarters Eclipsed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-sun-nearly-three-quarters-eclipsed-d05250", 
+  "width": "166"
 }

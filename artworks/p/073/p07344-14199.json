@@ -1,6 +1,5 @@
 {
   "acno": "P07344", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07343-P07345", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 405 x 952 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Bel Air Series", 
+  "height": "952", 
   "id": 14199, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07344_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tillyer-no-title-p07344", 
+  "width": "405"
 }

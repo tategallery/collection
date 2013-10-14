@@ -1,6 +1,5 @@
 {
   "acno": "D26415", 
-  "addlImageCount": 0, 
   "catTextResId": 1136345, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,78 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIX 81 a", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "190", 
   "id": 53752, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 164, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "View from St Anthony's Chapel, Holyrood Park, Edinburgh"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26415_8.jpg", 
+  "title": "View from St Anthony's Chapel, Holyrood Park, Edinburgh", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-from-st-anthonys-chapel-holyrood-park-edinburgh-d26415", 
+  "width": "113"
 }

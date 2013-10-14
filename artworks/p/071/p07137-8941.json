@@ -1,6 +1,5 @@
 {
   "acno": "P07137", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07137-P07147", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1923"
   }, 
   "dateText": "1923", 
+  "depth": "", 
   "dimensions": "image: 510 x 440 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Victory Over the Sun", 
+  "height": "440", 
   "id": 8941, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,122 @@
       "workCount": 148
     }
   ], 
-  "popularity": 337, 
   "subjectCount": 7, 
-  "title": "[title page]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2476, 
+                "name": "contemporary society", 
+                "workCount": 226
+              }, 
+              {
+                "id": 959, 
+                "name": "machine age", 
+                "workCount": 41
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10068, 
+                "name": "opera", 
+                "workCount": 23
+              }, 
+              {
+                "id": 3180, 
+                "name": "theatre", 
+                "workCount": 57
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15907, 
+                "name": "opera: Kruchenykh, Malevich, Matyushin, 'Victory Over the Sun'", 
+                "workCount": 11
+              }
+            ], 
+            "id": 10058, 
+            "name": "film, music and ballet", 
+            "workCount": 160
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07137_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lissitzky-title-page-p07137", 
+  "width": "510"
 }

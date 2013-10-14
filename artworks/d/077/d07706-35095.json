@@ -1,6 +1,5 @@
 {
   "acno": "D07706", 
-  "addlImageCount": 0, 
   "catTextResId": 1131193, 
   "catalogueGroup": {
     "accessionRanges": "D07593-D07754; D40662", 
@@ -28,17 +27,47 @@
     "text": "circa 1809-11"
   }, 
   "dateText": "circa 1809-11", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXI 71 a", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXI]", 
+  "height": "110", 
   "id": 35095, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 144, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "A River Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07706_8.jpg", 
+  "title": "A River Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-scene-d07706", 
+  "width": "88"
 }

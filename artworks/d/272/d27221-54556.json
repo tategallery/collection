@@ -1,6 +1,5 @@
 {
   "acno": "D27221", 
-  "addlImageCount": 0, 
   "catTextResId": 1135588, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,66 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 163 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 144", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "104", 
   "id": 54556, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 289, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "?Castle Stuart, Moray Firth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27221_8.jpg", 
+  "title": "?Castle Stuart, Moray Firth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-stuart-moray-firth-d27221", 
+  "width": "163"
 }

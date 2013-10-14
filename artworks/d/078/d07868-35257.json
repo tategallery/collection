@@ -1,6 +1,5 @@
 {
   "acno": "D07868", 
-  "addlImageCount": 0, 
   "catTextResId": 1135823, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,95 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 83 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "114", 
   "id": 35257, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 57, 
   "subjectCount": 5, 
-  "title": "Whitehaven Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2042, 
+                "name": "pier", 
+                "workCount": 331
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07868_8.jpg", 
+  "title": "Whitehaven Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-whitehaven-harbour-d07868", 
+  "width": "83"
 }

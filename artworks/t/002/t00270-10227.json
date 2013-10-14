@@ -1,6 +1,5 @@
 {
   "acno": "T00270", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "", 
   "dimensions": "support: 343 x 419 mm\r\nframe: 467 x 555 x 28 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "419", 
   "id": 10227, 
   "inscription": "date inscribed", 
   "medium": "Chalk, charcoal and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 272, 
   "subjectCount": 4, 
-  "title": "Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00270_8.jpg", 
+  "title": "Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-drawing-t00270", 
+  "width": "343"
 }

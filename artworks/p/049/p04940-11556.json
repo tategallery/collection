@@ -1,6 +1,5 @@
 {
   "acno": "P04940", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04939-P04946", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "unconfirmed: 591 x 940 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "pneumatics", 
+  "height": "940", 
   "id": 11556, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and collage on paper", 
@@ -47,7 +47,84 @@
       "workCount": 846
     }
   ], 
-  "popularity": 116, 
   "subjectCount": 5, 
-  "title": "2. PNEUmatics"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4228, 
+                "name": "car part", 
+                "workCount": 17
+              }, 
+              {
+                "id": 5615, 
+                "name": "tyre", 
+                "workCount": 19
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6708, 
+                "name": "engine", 
+                "workCount": 10
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04940_8.jpg", 
+  "title": "2. PNEUmatics", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-2-pneumatics-p04940", 
+  "width": "591"
 }

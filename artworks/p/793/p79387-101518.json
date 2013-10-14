@@ -1,6 +1,5 @@
 {
   "acno": "P79387", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P79374-P79395", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,91 @@
     "text": "2008"
   }, 
   "dateText": "2008", 
+  "depth": "", 
   "dimensions": "image: 361 x 302 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The House of Fairy Tales", 
+  "height": "302", 
   "id": 101518, 
   "inscription": null, 
   "medium": "Lithograph and silkscreen on paper", 
   "movementCount": 0, 
-  "popularity": 43, 
   "subjectCount": 6, 
-  "title": "Swiss Cottage"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2079, 
+                "name": "candlestick", 
+                "workCount": 33
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }, 
+          {
+            "children": [
+              {
+                "id": 1649, 
+                "name": "coffee pot", 
+                "workCount": 17
+              }, 
+              {
+                "id": 6464, 
+                "name": "crockery", 
+                "workCount": 19
+              }, 
+              {
+                "id": 4672, 
+                "name": "tea pot", 
+                "workCount": 22
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 4945, 
+                "name": "dresser", 
+                "workCount": 14
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79387_8.jpg", 
+  "title": "Swiss Cottage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/simpson-swiss-cottage-p79387", 
+  "width": "361"
 }

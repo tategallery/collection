@@ -1,6 +1,5 @@
 {
   "acno": "T02018", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,124 @@
     "text": "c.1870"
   }, 
   "dateText": "c.1870", 
+  "depth": "", 
   "dimensions": "support: 571 x 838 mm\r\nframe: 931 x 1184 x 130 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "838", 
   "id": 6197, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 368, 
   "subjectCount": 7, 
-  "title": "Farmyard Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck", 
+                "workCount": 82
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }, 
+              {
+                "id": 1132, 
+                "name": "pig", 
+                "workCount": 56
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool", 
+                "workCount": 376
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15954, 
+                "name": "harness", 
+                "workCount": 18
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02018_8.jpg", 
+  "title": "Farmyard Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herring-farmyard-scene-t02018", 
+  "width": "571"
 }

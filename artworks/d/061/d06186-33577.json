@@ -1,6 +1,5 @@
 {
   "acno": "D06186", 
-  "addlImageCount": 0, 
   "catTextResId": 1130370, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,85 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 117 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 5", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "182", 
   "id": 33577, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 47, 
   "subjectCount": 3, 
-  "title": "Ulysses and Polyphemus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7104, 
+                "name": "Homer, 'Odyssey'", 
+                "workCount": 57
+              }
+            ], 
+            "id": 56, 
+            "name": "classical", 
+            "workCount": 184
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06186_8.jpg", 
+  "title": "Ulysses and Polyphemus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ulysses-and-polyphemus-d06186", 
+  "width": "117"
 }

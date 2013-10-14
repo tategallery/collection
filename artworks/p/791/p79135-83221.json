@@ -1,6 +1,5 @@
 {
   "acno": "P79135", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P79123-P79135", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,105 @@
     "text": "1989"
   }, 
   "dateText": "1989", 
+  "depth": "", 
   "dimensions": "image: 840 x 590 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Pr\u00e4sentation Plakate / Buch", 
   "groupTitle": "Courage to Print", 
+  "height": "590", 
   "id": 83221, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 177, 
   "subjectCount": 6, 
-  "title": "Presentation Posters / Book"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8535, 
+                "name": "German text", 
+                "workCount": 112
+              }, 
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster", 
+                "workCount": 655
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79135_8.jpg", 
+  "title": "Presentation Posters / Book", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kippenberger-presentation-posters-book-p79135", 
+  "width": "840"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D08083", 
-  "addlImageCount": 0, 
   "catTextResId": 1134862, 
   "catalogueGroup": {
     "accessionRanges": "D07958-D08083; D40812; D41525-D41529", 
@@ -28,17 +27,71 @@
     "text": "c.1809-11"
   }, 
   "dateText": "c.1809-11", 
+  "depth": "", 
   "dimensions": "support: 87 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXIV 86 a", 
   "foreignTitle": null, 
   "groupTitle": "Windmill and Lock Sketchbook [Finberg CXIV]", 
+  "height": "117", 
   "id": 35472, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 174, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Sandycombe Lodge, Twickenham: An Unexecuted Elevation and Plan"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan", 
+                "workCount": 90
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08083_8_R.jpg", 
+  "title": "Sandycombe Lodge, Twickenham: An Unexecuted Elevation and Plan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sandycombe-lodge-twickenham-an-unexecuted-elevation-and-plan-d08083", 
+  "width": "87"
 }

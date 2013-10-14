@@ -1,6 +1,5 @@
 {
   "acno": "P11247", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 351 x 473 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "473", 
   "id": 18907, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 36, 
   "subjectCount": 3, 
-  "title": "Ram"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 267, 
+                "name": "ram", 
+                "workCount": 13
+              }, 
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11247_8.jpg", 
+  "title": "Ram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-ram-p11247", 
+  "width": "351"
 }

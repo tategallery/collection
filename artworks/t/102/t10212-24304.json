@@ -1,6 +1,5 @@
 {
   "acno": "T10212", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "T08461; T10178-T10241; T11663-T11669", 
     "completeStatus": "IRRELEVANT", 
@@ -24,55 +23,12 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 64 x 202 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Flaxman", 
+  "height": "202", 
   "id": 24304, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T10212_144435", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10212_144435_7.jpg", 
-          "height": 46, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10212_144435_8.jpg", 
-          "height": 91, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10212_144435_9.jpg", 
-          "height": 260, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10212_144435_10.jpg", 
-          "height": 547, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 1, 
@@ -88,7 +44,103 @@
       "workCount": 310
     }
   ], 
-  "popularity": 13, 
   "subjectCount": 6, 
-  "title": "[title not known] Verso: Sketch of Figure Group"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing", 
+                "workCount": 349
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 868, 
+                "name": "helmet", 
+                "workCount": 201
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10212_8.jpg", 
+  "title": "[title not known] Verso: Sketch of Figure Group", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-title-not-known-verso-sketch-of-figure-group-t10212", 
+  "width": "64"
 }

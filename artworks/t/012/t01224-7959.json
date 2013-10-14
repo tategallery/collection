@@ -1,6 +1,5 @@
 {
   "acno": "T01224", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "2362", 
   "dimensions": "object: 1118 x 3632 x 2362 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3632", 
   "id": 7959, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,70 @@
       "workCount": 52
     }
   ], 
-  "popularity": 224, 
   "subjectCount": 5, 
-  "title": "Green Streamer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6739, 
+                "name": "dynamism", 
+                "workCount": 39
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01224_8.jpg", 
+  "title": "Green Streamer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/king-green-streamer-t01224", 
+  "width": "1118"
 }

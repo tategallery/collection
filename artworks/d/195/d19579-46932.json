@@ -1,6 +1,5 @@
 {
   "acno": "D19579", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18471-D18476; D19552-D19775; D19778-D19946; D19948-D20083; D40727-D40728", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1824"
   }, 
   "dateText": "1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "CCXVI 14 a", 
   "foreignTitle": null, 
   "groupTitle": "Rivers Meuse and Moselle Sketchbook [Finberg CCXVI]", 
+  "height": "78", 
   "id": 46932, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Bridges and Fortifications"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19579_8_R.jpg", 
+  "title": "Bridges and Fortifications", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridges-and-fortifications-d19579", 
+  "width": "118"
 }

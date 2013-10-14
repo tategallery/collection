@@ -1,6 +1,5 @@
 {
   "acno": "T03421", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "2185", 
   "dimensions": "object: 800 x 500 x 2185 mm\r\nsupport: 5620 x 600 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Blutspur (Kassel/London)", 
   "groupTitle": null, 
+  "height": "500", 
   "id": 3726, 
   "inscription": "date inscribed", 
   "medium": "Blood on canvas, metal, rubber and plastic", 
@@ -61,7 +61,93 @@
       "workCount": 81
     }
   ], 
-  "popularity": 216, 
   "subjectCount": 4, 
-  "title": "Blood Trail (Kassel/London)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10561, 
+                "name": "blood", 
+                "workCount": 5
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5448, 
+                "name": "ephemerality", 
+                "workCount": 34
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3597, 
+                "name": "ground marker", 
+                "workCount": 1
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3596, 
+                "name": "life - blood", 
+                "workCount": 1
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death", 
+            "workCount": 96
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03421_8.jpg", 
+  "title": "Blood Trail (Kassel/London)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/demnig-blood-trail-kassellondon-t03421", 
+  "width": "800"
 }

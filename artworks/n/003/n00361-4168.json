@@ -1,6 +1,5 @@
 {
   "acno": "N00361", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -18,15 +17,81 @@
   "creditLine": "Presented by Robert Vernon 1847", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 500 x 395 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "395", 
   "id": 4168, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 49, 
   "subjectCount": 4, 
-  "title": "The Saviour or the Disciple"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1606, 
+                "name": "Apostle", 
+                "workCount": 9
+              }, 
+              {
+                "id": 252, 
+                "name": "Christ", 
+                "workCount": 193
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament", 
+            "workCount": 394
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00361_8.jpg", 
+  "title": "The Saviour or the Disciple", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/etty-the-saviour-or-the-disciple-n00361", 
+  "width": "500"
 }

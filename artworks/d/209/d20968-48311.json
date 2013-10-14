@@ -1,6 +1,5 @@
 {
   "acno": "D20968", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20905-D20989; D40999-D41000", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXIX 34", 
   "foreignTitle": null, 
   "groupTitle": "Orleans to Marseilles Sketchbook [Finberg CCXXIX]", 
+  "height": "117", 
   "id": 48311, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 69, 
-  "popularity": 6, 
   "subjectCount": 5, 
-  "title": "Bridge, with Castle, Ruined Palace, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7893, 
+                "name": "bridge", 
+                "workCount": 84
+              }, 
+              {
+                "id": 2455, 
+                "name": "residential", 
+                "workCount": 121
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20968_8.jpg", 
+  "title": "Bridge, with Castle, Ruined Palace, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-castle-ruined-palace-etc-d20968", 
+  "width": "179"
 }

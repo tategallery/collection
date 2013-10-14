@@ -1,6 +1,5 @@
 {
   "acno": "A01144", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,98 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "image: 182 x 265 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "265", 
   "id": 9612, 
   "inscription": null, 
   "medium": "Etching and mezzotint engraving on paper", 
   "movementCount": 0, 
-  "popularity": 111, 
   "subjectCount": 6, 
-  "title": "Ben Arthur, Scotland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute", 
+                "workCount": 237
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7493, 
+                "name": "Ben Arthur", 
+                "workCount": 14
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01144_8.jpg", 
+  "title": "Ben Arthur, Scotland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ben-arthur-scotland-a01144", 
+  "width": "182"
 }

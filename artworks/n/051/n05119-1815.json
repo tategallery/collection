@@ -1,6 +1,5 @@
 {
   "acno": "N05119", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1876"
   }, 
   "dateText": "1876", 
+  "depth": "", 
   "dimensions": "support: 737 x 1829 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1829", 
   "id": 1815, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,148 @@
       "workCount": 405
     }
   ], 
-  "popularity": 266, 
   "subjectCount": 8, 
-  "title": "Frieze of Eight Women Gathering Apples"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3572, 
+                "name": "apple", 
+                "workCount": 16
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 533, 
+                "name": "apron", 
+                "workCount": 63
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2837, 
+                "name": "harvesting", 
+                "workCount": 163
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05119_8.jpg", 
+  "title": "Frieze of Eight Women Gathering Apples", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-frieze-of-eight-women-gathering-apples-n05119", 
+  "width": "737"
 }

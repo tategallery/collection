@@ -1,6 +1,5 @@
 {
   "acno": "D02934", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 182 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LVI 8", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "height": "114", 
   "id": 30337, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 40, 
   "subjectCount": 5, 
-  "title": "Castle and Cliffs at North Queensferry"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9139, 
+                "name": "Fife", 
+                "workCount": 20
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7100, 
+                "name": "Firth of Forth", 
+                "workCount": 55
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 11453, 
+                "name": "North Queensferry", 
+                "workCount": 5
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02934_8.jpg", 
+  "title": "Castle and Cliffs at North Queensferry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-and-cliffs-at-north-queensferry-d02934", 
+  "width": "182"
 }

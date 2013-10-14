@@ -1,6 +1,5 @@
 {
   "acno": "D25367", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,51 @@
     "text": "c.1820-30"
   }, 
   "dateText": "c.1820-30", 
+  "depth": "", 
   "dimensions": "support: 191 x 276 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIII 245", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "276", 
   "id": 52704, 
   "inscription": null, 
   "medium": "Gouache and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 47, 
   "subjectCount": 2, 
-  "title": "Storm Clouds at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25367_8.jpg", 
+  "title": "Storm Clouds at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-clouds-at-sea-d25367", 
+  "width": "191"
 }

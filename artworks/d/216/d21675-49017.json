@@ -1,6 +1,5 @@
 {
   "acno": "D21675", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21664-D21764; D41050-D41052", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 144 x 90 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXV 6 a", 
   "foreignTitle": null, 
   "groupTitle": "Rome, Turin and Milan Sketchbook [Finberg CCXXXV]", 
+  "height": "90", 
   "id": 49017, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 14, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "View of Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21675_8.jpg", 
+  "title": "View of Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-town-d21675", 
+  "width": "144"
 }

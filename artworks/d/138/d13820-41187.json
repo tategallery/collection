@@ -1,6 +1,5 @@
 {
   "acno": "D13820", 
-  "addlImageCount": 0, 
   "catTextResId": 1132305, 
   "catalogueGroup": {
     "accessionRanges": "D13814-D13858; D40885-D40886", 
@@ -28,17 +27,59 @@
     "text": "c.1820"
   }, 
   "dateText": "c.1820", 
+  "depth": "", 
   "dimensions": "support: 177 x 256 mm", 
-  "displayLocation": null, 
   "finberg": "CLXX 5", 
   "foreignTitle": null, 
   "groupTitle": "Scotland and London Sketchbook [Finberg CLXX]", 
+  "height": "256", 
   "id": 41187, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 41, 
   "subjectCount": 2, 
-  "title": "London: Waterloo Bridge, with Somerset House and St Paul's Cathedral in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13820_8.jpg", 
+  "title": "London: Waterloo Bridge, with Somerset House and St Paul's Cathedral in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-london-waterloo-bridge-with-somerset-house-and-st-pauls-cathedral-in-the-distance-d13820", 
+  "width": "177"
 }

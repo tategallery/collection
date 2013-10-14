@@ -1,6 +1,5 @@
 {
   "acno": "T08306", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "T08279-T08346; T10555; T11632", 
     "completeStatus": "IRRELEVANT", 
@@ -24,59 +23,91 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 86 x 175 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Nathaniel Dance-Holland", 
+  "height": "175", 
   "id": 24192, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T08306_136088", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08306_136088_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 60
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08306_136088_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 121
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08306_136088_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 243
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08306_136088_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 729
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 6, 
-  "title": "[title not known] Verso: Sketches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1546, 
+                "name": "bending forward", 
+                "workCount": 249
+              }, 
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08306_8.jpg", 
+  "title": "[title not known] Verso: Sketches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-holland-title-not-known-verso-sketches-t08306", 
+  "width": "86"
 }

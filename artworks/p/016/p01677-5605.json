@@ -1,6 +1,5 @@
 {
   "acno": "P01677", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01676-P01687", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,95 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 50 x 50 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Approval Stamp Offer", 
+  "height": "50", 
   "id": 5605, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 30, 
   "subjectCount": 4, 
-  "title": "Snow in the Alps"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow", 
+                "workCount": 131
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01677_8.jpg", 
+  "title": "Snow in the Alps", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greaves-snow-in-the-alps-p01677", 
+  "width": "50"
 }

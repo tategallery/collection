@@ -1,6 +1,5 @@
 {
   "acno": "D34483", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,65 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 143 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLIV 122v", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "182", 
   "id": 61651, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Mountains, with Castles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34483_8.jpg", 
+  "title": "Mountains, with Castles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-with-castles-d34483", 
+  "width": "143"
 }

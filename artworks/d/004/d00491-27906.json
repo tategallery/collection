@@ -1,6 +1,5 @@
 {
   "acno": "D00491", 
-  "addlImageCount": 0, 
   "catTextResId": 1140812, 
   "catalogueGroup": {
     "accessionRanges": "D00462-D00552; D40755-D40758", 
@@ -28,17 +27,69 @@
     "text": "c.1795"
   }, 
   "dateText": "c.1795", 
+  "depth": "", 
   "dimensions": "support: 130 x 205 mm", 
-  "displayLocation": null, 
   "finberg": "XXV 30", 
   "foreignTitle": null, 
   "groupTitle": "Smaller South Wales Sketchbook [Finberg XXV]", 
+  "height": "205", 
   "id": 27906, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 61, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "A Broad Landscape with Low Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00491_8.jpg", 
+  "title": "A Broad Landscape with Low Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-broad-landscape-with-low-hills-d00491", 
+  "width": "130"
 }

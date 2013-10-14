@@ -1,6 +1,5 @@
 {
   "acno": "P04091", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 359 x 308 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "308", 
   "id": 2040, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 282, 
   "subjectCount": 2, 
-  "title": "Two Jugs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04091_8.jpg", 
+  "title": "Two Jugs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-two-jugs-p04091", 
+  "width": "359"
 }

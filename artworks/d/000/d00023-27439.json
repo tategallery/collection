@@ -1,6 +1,5 @@
 {
   "acno": "D00023", 
-  "addlImageCount": 0, 
   "catTextResId": 1140177, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,47 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 160 x 249 mm", 
-  "displayLocation": null, 
   "finberg": "II 11", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "249", 
   "id": 27439, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 23, 
-  "popularity": 29, 
   "subjectCount": 1, 
-  "title": "Three Cows"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00023_8.jpg", 
+  "title": "Three Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-cows-d00023", 
+  "width": "160"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T06831", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "support: 320 x 345 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Natura morta nello studio", 
   "groupTitle": null, 
+  "height": "345", 
   "id": 20892, 
   "inscription": null, 
   "medium": "Ink and watercolour on paper", 
@@ -41,7 +41,67 @@
       "workCount": 15
     }
   ], 
-  "popularity": 393, 
   "subjectCount": 3, 
-  "title": "Still Life in the Studio"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 278, 
+                "name": "hammer", 
+                "workCount": 23
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 9364, 
+                "name": "painting materials", 
+                "workCount": 31
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 206, 
+                "name": "studio", 
+                "workCount": 145
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces", 
+            "workCount": 368
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06831_8.jpg", 
+  "title": "Still Life in the Studio", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guttuso-still-life-in-the-studio-t06831", 
+  "width": "320"
 }

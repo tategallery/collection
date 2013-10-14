@@ -1,6 +1,5 @@
 {
   "acno": "T02113", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,117 @@
     "text": "1892"
   }, 
   "dateText": "1892", 
+  "depth": "", 
   "dimensions": "support: 676 x 918 mm\r\nframe: 930 x 1168 x 105 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "918", 
   "id": 10910, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 241, 
   "subjectCount": 7, 
-  "title": "Yellow Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3472, 
+                "name": "France, Brittany", 
+                "workCount": 16
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 4863, 
+                "name": "Pont-Aven", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }, 
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02113_8.jpg", 
+  "title": "Yellow Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconor-yellow-landscape-t02113", 
+  "width": "676"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05192", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02436; P05190-P05214", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 749 x 501 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A-Z Box", 
+  "height": "501", 
   "id": 14277, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,53 @@
       "workCount": 846
     }
   ], 
-  "popularity": 63, 
   "subjectCount": 3, 
-  "title": "C - Deaf and Dumb Alphabet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5304, 
+                "name": "deafness", 
+                "workCount": 6
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }, 
+          {
+            "children": [
+              {
+                "id": 11192, 
+                "name": "fingerprint", 
+                "workCount": 12
+              }, 
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05192_8.jpg", 
+  "title": "C - Deaf and Dumb Alphabet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-c-deaf-and-dumb-alphabet-p05192", 
+  "width": "749"
 }

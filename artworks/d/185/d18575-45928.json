@@ -1,6 +1,5 @@
 {
   "acno": "D18575", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXI 32 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "height": "189", 
   "id": 45928, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 66, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Group of Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18575_8.jpg", 
+  "title": "Group of Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-buildings-d18575", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P11037", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11033-P11044", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1897"
   }, 
   "dateText": "1897", 
+  "depth": "", 
   "dimensions": "image: 376 x 258 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "English Portraits", 
+  "height": "258", 
   "id": 12952, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 69, 
   "subjectCount": 4, 
-  "title": "Mr Robert Bridges [Part VII]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10246, 
+                "name": "Bridges, Robert Seymour", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1374, 
+                "name": "critic", 
+                "workCount": 30
+              }, 
+              {
+                "id": 1181, 
+                "name": "poet", 
+                "workCount": 136
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11037_8.jpg", 
+  "title": "Mr Robert Bridges [Part VII]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenstein-mr-robert-bridges-part-vii-p11037", 
+  "width": "376"
 }

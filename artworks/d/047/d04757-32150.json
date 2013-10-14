@@ -1,6 +1,5 @@
 {
   "acno": "D04757", 
-  "addlImageCount": 0, 
   "catTextResId": 1133460, 
   "catalogueGroup": {
     "accessionRanges": "D04736-D04796; D40791-D40794", 
@@ -28,17 +27,47 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 154 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVII 20", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Strassburg and Oxford Sketchbook [Finberg LXXVII]", 
+  "height": "240", 
   "id": 32150, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Group of Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04757_8.jpg", 
+  "title": "Group of Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-buildings-d04757", 
+  "width": "154"
 }

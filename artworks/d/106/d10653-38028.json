@@ -1,6 +1,5 @@
 {
   "acno": "D10653", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10647-D10774; D40858", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 160 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXLII 4", 
   "foreignTitle": null, 
   "groupTitle": "Walmer Ferry Sketchbook [Finberg CXLII]", 
+  "height": "112", 
   "id": 38028, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 2, 
   "subjectCount": 2, 
-  "title": "A Castle, with Trees in Foreground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10653_8_R.jpg", 
+  "title": "A Castle, with Trees in Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-castle-with-trees-in-foreground-d10653", 
+  "width": "160"
 }

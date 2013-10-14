@@ -1,6 +1,5 @@
 {
   "acno": "D13367", 
-  "addlImageCount": 0, 
   "catTextResId": 1131909, 
   "catalogueGroup": {
     "accessionRanges": "D13322-D13448; D40682-D40684", 
@@ -28,17 +27,100 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 99 x 159 mm", 
-  "displayLocation": null, 
   "finberg": "CLXV 25", 
   "foreignTitle": null, 
   "groupTitle": "Bass Rock and Edinburgh Sketchbook [Finberg CLXV]", 
+  "height": "159", 
   "id": 40735, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 49, 
   "subjectCount": 6, 
-  "title": "Dunbar Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7250, 
+                "name": "Dunbar - non-specific", 
+                "workCount": 25
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 7249, 
+                "name": "Lothian, East", 
+                "workCount": 133
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13367_8.jpg", 
+  "title": "Dunbar Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunbar-harbour-d13367", 
+  "width": "99"
 }

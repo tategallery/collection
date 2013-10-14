@@ -1,6 +1,5 @@
 {
   "acno": "P04763", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04756-P04768", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 736 x 515 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "As Is When", 
+  "height": "515", 
   "id": 11197, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,101 @@
       "workCount": 846
     }
   ], 
-  "popularity": 154, 
   "subjectCount": 7, 
-  "title": "Reality"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }, 
+              {
+                "id": 3405, 
+                "name": "quotation", 
+                "workCount": 274
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10077, 
+                "name": "philosophy, Wittgenstein", 
+                "workCount": 13
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }, 
+          {
+            "children": [
+              {
+                "id": 8694, 
+                "name": "tank", 
+                "workCount": 20
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04763_8.jpg", 
+  "title": "Reality", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-reality-p04763", 
+  "width": "736"
 }

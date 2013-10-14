@@ -1,6 +1,5 @@
 {
   "acno": "P77297", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77294-P77300", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1989"
   }, 
   "dateText": "1989", 
+  "depth": "", 
   "dimensions": "image: 910 x 760 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seven Lithographs", 
+  "height": "760", 
   "id": 17327, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77297_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-brun-no-title-p77297", 
+  "width": "910"
 }

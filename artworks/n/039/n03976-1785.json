@@ -1,6 +1,5 @@
 {
   "acno": "N03976", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Presented by Lord Duveen 1924", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 238 x 178 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "178", 
   "id": 1785, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -38,7 +38,65 @@
       "workCount": 405
     }
   ], 
-  "popularity": 121, 
   "subjectCount": 4, 
-  "title": "Head of Miss M. Benson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12666, 
+                "name": "Benson, M.", 
+                "workCount": 1
+              }, 
+              {
+                "id": 15782, 
+                "name": "Drummond, M.", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03976_8.jpg", 
+  "title": "Head of Miss M. Benson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-of-miss-m-benson-n03976", 
+  "width": "238"
 }

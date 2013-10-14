@@ -1,6 +1,5 @@
 {
   "acno": "P02695", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02692-P02697", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 242 x 188 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Trees", 
+  "height": "188", 
   "id": 10062, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 252, 
   "subjectCount": 2, 
-  "title": "Trees IV Tortured Roots"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2334, 
+                "name": "root", 
+                "workCount": 27
+              }, 
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02695_8.jpg", 
+  "title": "Trees IV Tortured Roots", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-trees-iv-tortured-roots-p02695", 
+  "width": "242"
 }

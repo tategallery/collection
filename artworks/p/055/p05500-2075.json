@@ -1,6 +1,5 @@
 {
   "acno": "P05500", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 838 x 597 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "597", 
   "id": 2075, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 224, 
   "subjectCount": 2, 
-  "title": "Cream Glazed Pot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05500_8.jpg", 
+  "title": "Cream Glazed Pot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-cream-glazed-pot-p05500", 
+  "width": "838"
 }

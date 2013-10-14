@@ -1,6 +1,5 @@
 {
   "acno": "T00465", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1885"
   }, 
   "dateText": "1885", 
+  "depth": "", 
   "dimensions": "support: 540 x 445 mm\r\nframe: 787 x 691 x 69 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "445", 
   "id": 14380, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 256, 
   "subjectCount": 3, 
-  "title": "Emile Bernard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6678, 
+                "name": "Bernard, Emile", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00465_8.jpg", 
+  "title": "Emile Bernard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/toulouse-lautrec-emile-bernard-t00465", 
+  "width": "540"
 }

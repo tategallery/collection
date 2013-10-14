@@ -1,6 +1,5 @@
 {
   "acno": "T05006", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1943"
   }, 
   "dateText": "1943", 
+  "depth": "28", 
   "dimensions": "object: 298 x 210 x 28 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Fruit de lutin", 
   "groupTitle": null, 
+  "height": "210", 
   "id": 596, 
   "inscription": null, 
   "medium": "Walnut", 
@@ -44,7 +41,67 @@
       "workCount": 98
     }
   ], 
-  "popularity": 339, 
   "subjectCount": 3, 
-  "title": "Impish Fruit"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 774, 
+                "name": "fruit - non-specific", 
+                "workCount": 86
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05006_8.jpg", 
+  "title": "Impish Fruit", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/arp-impish-fruit-t05006", 
+  "width": "298"
 }

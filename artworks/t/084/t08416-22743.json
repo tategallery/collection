@@ -1,6 +1,5 @@
 {
   "acno": "T08416", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "T08347-T08445; T08871; T08875; T10264", 
     "completeStatus": "IRRELEVANT", 
@@ -24,59 +23,83 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 175 x 135 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings by Nathaniel Dance-Holland and George Dance", 
+  "height": "135", 
   "id": 22743, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T08416_38103", 
-      "sizes": [
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T08/T08416_38103_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 101
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T08/T08416_38103_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 202
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T08/T08416_38103_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 405
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T08/T08416_38103_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1217
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite and ink on paper", 
   "movementCount": 0, 
-  "popularity": 41, 
   "subjectCount": 3, 
-  "title": "A Dog-Like ?Dragon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 847, 
+                "name": "caricature", 
+                "workCount": 261
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08416_8.jpg", 
+  "title": "A Dog-Like ?Dragon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-holland-a-dog-like-dragon-t08416", 
+  "width": "175"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T12005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 4, 
@@ -48,10 +47,11 @@
     "text": "c.1930"
   }, 
   "dateText": "c.1930", 
+  "depth": "", 
   "dimensions": "support: 310 x 240 mm\r\nframe: 560 x 489 x 29 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Cadavre exquis", 
   "groupTitle": null, 
+  "height": "240", 
   "id": 85551, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -68,7 +68,79 @@
       "workCount": 98
     }
   ], 
-  "popularity": 288, 
   "subjectCount": 4, 
-  "title": "Exquisite Corpse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9985, 
+                "name": "arrow", 
+                "workCount": 23
+              }, 
+              {
+                "id": 821, 
+                "name": "music", 
+                "workCount": 62
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6919, 
+                "name": "fragmentation", 
+                "workCount": 166
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5020, 
+                "name": "telegraph pole", 
+                "workCount": 27
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12005_8.jpg", 
+  "title": "Exquisite Corpse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/breton-exquisite-corpse-t12005", 
+  "width": "310"
 }

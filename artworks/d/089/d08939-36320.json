@@ -1,6 +1,5 @@
 {
   "acno": "D08939", 
-  "addlImageCount": 0, 
   "catTextResId": 1137345, 
   "catalogueGroup": {
     "accessionRanges": "D08865-D08939; D40815-D40817", 
@@ -28,17 +27,69 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 166 x 208 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV 48", 
   "foreignTitle": null, 
   "groupTitle": "Ivy Bridge to Penzance Sketchbook [Finberg CXXV]", 
+  "height": "208", 
   "id": 36320, 
   "inscription": null, 
   "medium": "Graphite and waercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 21, 
   "subjectCount": 4, 
-  "title": "The Bed of a River in a Wooded Valley, Probably the Erme at Ivybridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08939_8.jpg", 
+  "title": "The Bed of a River in a Wooded Valley, Probably the Erme at Ivybridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-bed-of-a-river-in-a-wooded-valley-probably-the-erme-at-ivybridge-d08939", 
+  "width": "166"
 }

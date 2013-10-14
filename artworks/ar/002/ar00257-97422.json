@@ -1,6 +1,5 @@
 {
   "acno": "AR00257", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 310 x 207 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "207", 
   "id": 97422, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
@@ -41,7 +41,41 @@
       "workCount": 248
     }
   ], 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Stars and Half Moons"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }, 
+              {
+                "id": 1707, 
+                "name": "star", 
+                "workCount": 134
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00257_8.jpg", 
+  "title": "Stars and Half Moons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-stars-and-half-moons-ar00257", 
+  "width": "310"
 }

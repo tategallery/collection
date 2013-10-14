@@ -1,6 +1,5 @@
 {
   "acno": "D24122", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24107-D24167", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1826"
   }, 
   "dateText": "c.1826", 
+  "depth": "", 
   "dimensions": "support: 158 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVI 8 a", 
   "foreignTitle": null, 
   "groupTitle": "France and Folkestone Sketchbook [Finberg CCLVI]", 
+  "height": "106", 
   "id": 51459, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24122_8.jpg", 
+  "title": "Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harbour-d24122", 
+  "width": "158"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T11571", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08083-T08094; T11535-T11614", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,81 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 90 x 125 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Patrick Allan Fraser Album", 
+  "height": "125", 
   "id": 25684, 
   "inscription": null, 
   "medium": "Etching and engraving on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "Feasonts"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence", 
+                "workCount": 262
+              }, 
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1520, 
+                "name": "pheasant", 
+                "workCount": 24
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11571_8.jpg", 
+  "title": "Feasonts", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-feasonts-t11571", 
+  "width": "90"
 }

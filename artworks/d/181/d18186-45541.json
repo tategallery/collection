@@ -1,6 +1,5 @@
 {
   "acno": "D18186", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18159-D18310; D41437-D41439", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 115 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCIX 16", 
   "foreignTitle": null, 
   "groupTitle": "Norfolk, Suffolk and Essex Sketchbook [Finberg CCIX]", 
+  "height": "188", 
   "id": 45541, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Ruined Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18186_8.jpg", 
+  "title": "Ruined Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-castle-d18186", 
+  "width": "115"
 }

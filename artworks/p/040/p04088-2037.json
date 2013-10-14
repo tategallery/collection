@@ -1,6 +1,5 @@
 {
   "acno": "P04088", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 359 x 308 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "308", 
   "id": 2037, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 155, 
   "subjectCount": 1, 
-  "title": "Coal Fire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1907, 
+                "name": "fire, open", 
+                "workCount": 62
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04088_8.jpg", 
+  "title": "Coal Fire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-coal-fire-p04088", 
+  "width": "359"
 }

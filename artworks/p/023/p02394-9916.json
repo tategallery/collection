@@ -1,6 +1,5 @@
 {
   "acno": "P02394", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02394-P02399", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "unconfirmed: 220 x 160 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seated Figures", 
+  "height": "160", 
   "id": 9916, 
   "inscription": "date inscribed", 
   "medium": null, 
   "movementCount": 0, 
-  "popularity": 314, 
   "subjectCount": 2, 
-  "title": "Seated Figure I Line Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02394_8.jpg", 
+  "title": "Seated Figure I Line Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-seated-figure-i-line-drawing-p02394", 
+  "width": "220"
 }

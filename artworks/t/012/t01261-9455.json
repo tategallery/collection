@@ -1,6 +1,5 @@
 {
   "acno": "T01261", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 251 x 327 mm\r\nframe: 482 x 664 x 32 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Mouvement immobile II", 
   "groupTitle": null, 
+  "height": "327", 
   "id": 9455, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint and paper on board", 
@@ -41,7 +41,67 @@
       "workCount": 75
     }
   ], 
-  "popularity": 149, 
   "subjectCount": 3, 
-  "title": "Mouvement Immobile II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 2438, 
+                "name": "pun", 
+                "workCount": 48
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01261_8.jpg", 
+  "title": "Mouvement Immobile II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mesens-mouvement-immobile-ii-t01261", 
+  "width": "251"
 }

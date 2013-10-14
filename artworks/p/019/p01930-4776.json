@@ -1,6 +1,5 @@
 {
   "acno": "P01930", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01930-P01937; P02006", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1955-6"
   }, 
   "dateText": "c.1955-6", 
+  "depth": "", 
   "dimensions": "image: 385 x 334 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opus 6", 
+  "height": "334", 
   "id": 4776, 
   "inscription": null, 
   "medium": "Monoprint from wood engraving on paper", 
@@ -47,7 +47,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 38, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01930_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01930", 
+  "width": "385"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D17884", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17834-D17912; D40961-D40965", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1823-4"
   }, 
   "dateText": "c.1823-4", 
+  "depth": "", 
   "dimensions": "support: 103 x 167 mm", 
-  "displayLocation": null, 
   "finberg": "CCV 28 a", 
   "foreignTitle": null, 
   "groupTitle": "Old London Bridge Sketchbook [Finberg CCV]", 
+  "height": "167", 
   "id": 45239, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 58, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "Groups of Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17884_8.jpg", 
+  "title": "Groups of Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-groups-of-figures-d17884", 
+  "width": "103"
 }

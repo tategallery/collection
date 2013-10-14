@@ -1,6 +1,5 @@
 {
   "acno": "D18285", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18159-D18310; D41437-D41439", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 115 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCIX 70 a", 
   "foreignTitle": null, 
   "groupTitle": "Norfolk, Suffolk and Essex Sketchbook [Finberg CCIX]", 
+  "height": "188", 
   "id": 45640, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 142, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Bridge with Town, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18285_8.jpg", 
+  "title": "Bridge with Town, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-town-etc-d18285", 
+  "width": "115"
 }

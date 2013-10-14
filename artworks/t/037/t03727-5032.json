@@ -1,6 +1,5 @@
 {
   "acno": "T03727", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,105 @@
     "text": "1912, posthumous cast"
   }, 
   "dateText": "1912, posthumous cast", 
+  "depth": "", 
   "dimensions": "object: 321 x 368 x 381 mm, 15 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 5032, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T03727_133958", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T03/T03727_133958_7.jpg", 
-          "height": 119, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T03/T03727_133958_8.jpg", 
-          "height": 239, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T03/T03727_133958_9.jpg", 
-          "height": 479, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T03/T03727_133958_10.jpg", 
-          "height": 1437, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 96, 
   "subjectCount": 6, 
-  "title": "Fallen Workman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 500, 
+                "name": "falling", 
+                "workCount": 88
+              }, 
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 12874, 
+                "name": "pain", 
+                "workCount": 36
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5566, 
+                "name": "labourer", 
+                "workCount": 46
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts", 
+            "workCount": 360
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03727_8.jpg", 
+  "title": "Fallen Workman", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-fallen-workman-t03727", 
+  "width": ""
 }

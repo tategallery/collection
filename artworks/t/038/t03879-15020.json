@@ -1,6 +1,5 @@
 {
   "acno": "T03879", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1810"
   }, 
   "dateText": "exhibited 1810", 
+  "depth": "", 
   "dimensions": "support: 605 x 900 mm\r\nframe: 902 x 1209 x 155 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "900", 
   "id": 15020, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,144 @@
       "workCount": 35
     }
   ], 
-  "popularity": 215, 
   "subjectCount": 10, 
-  "title": "Cockermouth Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5823, 
+                "name": "Cockermouth, Cockermouth Castle", 
+                "workCount": 21
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria", 
+                "workCount": 316
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District", 
+                "workCount": 196
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03879_8.jpg", 
+  "title": "Cockermouth Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cockermouth-castle-t03879", 
+  "width": "605"
 }

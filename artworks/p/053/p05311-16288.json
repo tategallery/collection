@@ -1,6 +1,5 @@
 {
   "acno": "P05311", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05308-P05312", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 710 x 740 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Container", 
+  "height": "740", 
   "id": 16288, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 30, 
   "subjectCount": 3, 
-  "title": "Container [silver]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16188, 
+                "name": "container", 
+                "workCount": 6
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number", 
+                "workCount": 155
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05311_8.jpg", 
+  "title": "Container [silver]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-container-silver-p05311", 
+  "width": "710"
 }

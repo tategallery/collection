@@ -1,6 +1,5 @@
 {
   "acno": "D24922", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,58 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 139 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCLX 86", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "191", 
   "id": 52259, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Houses and Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24922_8.jpg", 
+  "title": "Houses and Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-and-church-d24922", 
+  "width": "139"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D30048", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30002-D30129; D41222", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,119 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIX 24 a", 
   "foreignTitle": null, 
   "groupTitle": "Trieste, Graz and Danube Sketchbook [Finberg CCXCIX]", 
+  "height": "127", 
   "id": 57308, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 50, 
-  "popularity": 61, 
   "subjectCount": 7, 
-  "title": "(1) Spielberg; (2) Enns; (3) Spielberg; (4) Mauthausen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria", 
+                "workCount": 329
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 15059, 
+                "name": "Enns", 
+                "workCount": 3
+              }, 
+              {
+                "id": 15058, 
+                "name": "Mauthausen", 
+                "workCount": 3
+              }, 
+              {
+                "id": 15057, 
+                "name": "Spielberg", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30048_8_R.jpg", 
+  "title": "(1) Spielberg; (2) Enns; (3) Spielberg; (4) Mauthausen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-spielberg-2-enns-3-spielberg-4-mauthausen-d30048", 
+  "width": "198"
 }

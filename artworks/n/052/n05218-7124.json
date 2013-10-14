@@ -1,6 +1,5 @@
 {
   "acno": "N05218", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,98 @@
     "text": "1907"
   }, 
   "dateText": "1907", 
+  "depth": "", 
   "dimensions": "support: 508 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 7124, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 244, 
   "subjectCount": 6, 
-  "title": "W.B. Yeats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5966, 
+                "name": "Yeats, William Butler", 
+                "workCount": 2
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }, 
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5079, 
+                "name": "playwright", 
+                "workCount": 24
+              }, 
+              {
+                "id": 1181, 
+                "name": "poet", 
+                "workCount": 136
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05218_8.jpg", 
+  "title": "W.B. Yeats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-wb-yeats-n05218", 
+  "width": "508"
 }

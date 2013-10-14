@@ -1,6 +1,5 @@
 {
   "acno": "AR00009", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "3", 
   "dimensions": "support: 302 x 230 x 3 mm\r\nframe: 321 x 250 x 34 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "230", 
   "id": 98182, 
   "inscription": null, 
   "medium": "Oil paint on hardboard", 
   "movementCount": 0, 
-  "popularity": 178, 
   "subjectCount": 4, 
-  "title": "Night Branch"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch", 
+                "workCount": 118
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night", 
+                "workCount": 468
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette", 
+                "workCount": 215
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00009_8.jpg", 
+  "title": "Night Branch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-night-branch-ar00009", 
+  "width": "302"
 }

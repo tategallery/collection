@@ -1,6 +1,5 @@
 {
   "acno": "D01980", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01912-D01991; D41266-D41274", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 330 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "XLV 41 a", 
   "foreignTitle": null, 
   "groupTitle": "Lancashire and North Wales Sketchbook [Finberg XLV]", 
+  "height": "228", 
   "id": 29384, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 86, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Foliage of a Group of Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage", 
+                "workCount": 157
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01980_8.jpg", 
+  "title": "Foliage of a Group of Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-foliage-of-a-group-of-trees-d01980", 
+  "width": "330"
 }

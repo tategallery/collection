@@ -1,6 +1,5 @@
 {
   "acno": "D01508", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01461-D01624; D01626-D01628; D40752; D41422-D41423; D41434-D41435; D41451-D41452", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 131 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "XL 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Dynevor Castle Sketchbook [Finberg XL]", 
+  "height": "95", 
   "id": 28914, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 60, 
-  "popularity": 49, 
   "subjectCount": 4, 
-  "title": "Study of a Kneeling Male Nude with Raised Left Arm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 272, 
+                "name": "kneeling", 
+                "workCount": 438
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01508_8.jpg", 
+  "title": "Study of a Kneeling Male Nude with Raised Left Arm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-kneeling-male-nude-with-raised-left-arm-d01508", 
+  "width": "131"
 }

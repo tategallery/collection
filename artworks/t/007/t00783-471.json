@@ -1,6 +1,5 @@
 {
   "acno": "T00783", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "support: 762 x 762 mm\r\nframe: 780 x 780 x 30 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 471, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on fibreboard", 
@@ -54,7 +51,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 1541, 
   "subjectCount": 2, 
-  "title": "Study for Homage to the Square: Departing in Yellow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00783_8.jpg", 
+  "title": "Study for Homage to the Square: Departing in Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-study-for-homage-to-the-square-departing-in-yellow-t00783", 
+  "width": "762"
 }

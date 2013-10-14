@@ -1,6 +1,5 @@
 {
   "acno": "T07970", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,59 +20,253 @@
     "text": "1999"
   }, 
   "dateText": "1999", 
+  "depth": "", 
   "dimensions": "overall display dimensions variable\r\nduration: 15min", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 76323, 
-  "images": [
-    {
-      "copyright": "\u00a9 Shirin Neshat", 
-      "filenameBase": "T07970_281881", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07970_281881_7.jpg", 
-          "height": 99, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07970_281881_8.jpg", 
-          "height": 198, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07970_281881_9.jpg", 
-          "height": 396, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07970_281881_10.jpg", 
-          "height": 1188, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Film, 16 mm, shown as video, 2 projections, colour and sound (stereo)", 
   "movementCount": 0, 
-  "popularity": 636, 
   "subjectCount": 16, 
-  "title": "Soliloquy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16804, 
+                "name": "Iranian", 
+                "workCount": 1
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality", 
+            "workCount": 351
+          }, 
+          {
+            "children": [
+              {
+                "id": 4143, 
+                "name": "Middle East", 
+                "workCount": 31
+              }
+            ], 
+            "id": 152, 
+            "name": "fashion, dress: nations/regions", 
+            "workCount": 217
+          }, 
+          {
+            "children": [
+              {
+                "id": 12833, 
+                "name": "cultural identity", 
+                "workCount": 168
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }, 
+          {
+            "children": [
+              {
+                "id": 3614, 
+                "name": "exile", 
+                "workCount": 8
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics", 
+            "workCount": 375
+          }, 
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender", 
+                "workCount": 151
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4901, 
+                "name": "Turkey", 
+                "workCount": 19
+              }, 
+              {
+                "id": 16348, 
+                "name": "USA, New York", 
+                "workCount": 18
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4048, 
+                "name": "contrast", 
+                "workCount": 67
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3924, 
+                "name": "desert", 
+                "workCount": 91
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5741, 
+                "name": "prayer", 
+                "workCount": 90
+              }, 
+              {
+                "id": 5750, 
+                "name": "worship", 
+                "workCount": 61
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery", 
+            "workCount": 671
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking", 
+                "workCount": 376
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07970_8.jpg", 
+  "title": "Soliloquy", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/neshat-soliloquy-t07970", 
+  "width": "display"
 }

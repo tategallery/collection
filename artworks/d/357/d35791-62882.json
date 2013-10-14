@@ -1,6 +1,5 @@
 {
   "acno": "D35791", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35758-D35796; D35798-D35804; D35806-D35821; D35823-D35836; D41226-D41229", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1845-6"
   }, 
   "dateText": "c.1845-6", 
+  "depth": "", 
   "dimensions": "support: 76 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIII 18", 
   "foreignTitle": null, 
   "groupTitle": "Kent Sketchbook [Finberg CCCLXIII]", 
+  "height": "98", 
   "id": 62882, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 39, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "A Ship in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }, 
+              {
+                "id": 3242, 
+                "name": "ship, steam", 
+                "workCount": 49
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35791_8.jpg", 
+  "title": "A Ship in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ship-in-distance-d35791", 
+  "width": "76"
 }

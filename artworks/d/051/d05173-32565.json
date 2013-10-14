@@ -1,6 +1,5 @@
 {
   "acno": "D05173", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05166; D05168-D05244; D40640-D40649", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1800-7"
   }, 
   "dateText": "c.1800-7", 
+  "depth": "", 
   "dimensions": "support: 119 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIV 6 a", 
   "foreignTitle": null, 
   "groupTitle": "Academies Sketchbook [Finberg LXXXIV]", 
+  "height": "73", 
   "id": 32565, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 16, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "Top of a Mast, with Ropes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }, 
+              {
+                "id": 5779, 
+                "name": "rigging", 
+                "workCount": 37
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05173_8.jpg", 
+  "title": "Top of a Mast, with Ropes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-top-of-a-mast-with-ropes-d05173", 
+  "width": "119"
 }

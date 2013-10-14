@@ -1,6 +1,5 @@
 {
   "acno": "D26665", 
-  "addlImageCount": 0, 
   "catTextResId": 1135102, 
   "catalogueGroup": {
     "accessionRanges": "D26619-D26666; D41131-D41132", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 101 x 158 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXI 24", 
   "foreignTitle": null, 
   "groupTitle": "Loch Long Sketchbook [Finberg CCLXXI]", 
+  "height": "158", 
   "id": 54002, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "The Firth of Forth Around Blackness"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26665_8.jpg", 
+  "title": "The Firth of Forth Around Blackness", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-firth-of-forth-around-blackness-d26665", 
+  "width": "101"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D04633", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,112 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 473 x 315 mm", 
-  "displayLocation": null, 
   "finberg": "LXXV 41", 
   "foreignTitle": null, 
   "groupTitle": "St Gothard and Mont Blanc Sketchbook [Finberg LXXV]", 
+  "height": "315", 
   "id": 32026, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 87, 
-  "popularity": 48, 
   "subjectCount": 7, 
-  "title": "Unterseen [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }, 
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 12258, 
+                "name": "Unterseen", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04633_8_R.jpg", 
+  "title": "Unterseen [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-unterseen-turner-d04633", 
+  "width": "473"
 }

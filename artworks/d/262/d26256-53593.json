@@ -1,6 +1,5 @@
 {
   "acno": "D26256", 
-  "addlImageCount": 0, 
   "catTextResId": 1136184, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,71 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 86", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "181", 
   "id": 53593, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 175, 
-  "popularity": 62, 
   "subjectCount": 3, 
-  "title": "57 High Street, Prestonpans, the Former Residence of Walter Scott"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26256_8.jpg", 
+  "title": "57 High Street, Prestonpans, the Former Residence of Walter Scott", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-57-high-street-prestonpans-the-former-residence-of-walter-scott-d26256", 
+  "width": "111"
 }

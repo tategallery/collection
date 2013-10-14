@@ -1,6 +1,5 @@
 {
   "acno": "T07359", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1957-61"
   }, 
   "dateText": "c.1957-61", 
+  "depth": "", 
   "dimensions": "support: 340 x 270 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "270", 
   "id": 26058, 
   "inscription": null, 
   "medium": "Oil paint on paper", 
@@ -41,7 +41,74 @@
       "workCount": 377
     }
   ], 
-  "popularity": 162, 
   "subjectCount": 3, 
-  "title": "Two Owls, No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1623, 
+                "name": "owl", 
+                "workCount": 41
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1018, 
+                "name": "platform", 
+                "workCount": 30
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07359_8.jpg", 
+  "title": "Two Owls, No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bacon-two-owls-no-2-t07359", 
+  "width": "340"
 }

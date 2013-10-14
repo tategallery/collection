@@ -1,6 +1,5 @@
 {
   "acno": "D26727", 
-  "addlImageCount": 0, 
   "catTextResId": 1136416, 
   "catalogueGroup": {
     "accessionRanges": "D26667-D26747", 
@@ -28,17 +27,59 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 119 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXII 32 a", 
   "foreignTitle": null, 
   "groupTitle": "Loch Ard Sketchbook [Finberg CCLXXII]", 
+  "height": "184", 
   "id": 54064, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 57, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Lochleven Castle, Kinross"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26727_8.jpg", 
+  "title": "Lochleven Castle, Kinross", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lochleven-castle-kinross-d26727", 
+  "width": "119"
 }

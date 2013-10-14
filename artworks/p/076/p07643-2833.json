@@ -1,6 +1,5 @@
 {
   "acno": "P07643", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07641-P07643", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "image: 265 x 267 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Landfall Set", 
+  "height": "267", 
   "id": 2833, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 94, 
   "subjectCount": 4, 
-  "title": "Frankfurters"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6928, 
+                "name": "advertising", 
+                "workCount": 237
+              }, 
+              {
+                "id": 6931, 
+                "name": "urban environment", 
+                "workCount": 135
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6991, 
+                "name": "restaurant", 
+                "workCount": 4
+              }
+            ], 
+            "id": 23, 
+            "name": "places of entertainment", 
+            "workCount": 268
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07643_8.jpg", 
+  "title": "Frankfurters", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cottingham-frankfurters-p07643", 
+  "width": "265"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04381", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,110 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "support: 686 x 762 mm\r\nframe: 942 x 1020 x 68 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 6674, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 190, 
   "subjectCount": 7, 
-  "title": "Whernside"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 12512, 
+                "name": "Whernside", 
+                "workCount": 3
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North", 
+                "workCount": 679
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04381_8.jpg", 
+  "title": "Whernside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/holmes-whernside-n04381", 
+  "width": "686"
 }

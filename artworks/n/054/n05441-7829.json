@@ -1,6 +1,5 @@
 {
   "acno": "N05441", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "c.1935-9"
   }, 
   "dateText": "c.1935-9", 
+  "depth": "241", 
   "dimensions": "object: 229 x 197 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "197", 
   "id": 7829, 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 5, 
-  "title": "Russian Peasant"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1173, 
+                "name": "Jewish", 
+                "workCount": 32
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity", 
+            "workCount": 475
+          }, 
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4458, 
+                "name": "Russian", 
+                "workCount": 14
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality", 
+            "workCount": 351
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05441_8.jpg", 
+  "title": "Russian Peasant", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kavanagh-russian-peasant-n05441", 
+  "width": "229"
 }

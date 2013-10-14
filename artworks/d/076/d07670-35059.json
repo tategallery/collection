@@ -1,6 +1,5 @@
 {
   "acno": "D07670", 
-  "addlImageCount": 0, 
   "catTextResId": 1131157, 
   "catalogueGroup": {
     "accessionRanges": "D07593-D07754; D40662", 
@@ -28,17 +27,71 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXI 49", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXI]", 
+  "height": "110", 
   "id": 35059, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 99, 
-  "popularity": 68, 
   "subjectCount": 3, 
-  "title": "Oxford; Architectural Details of the Queen's College; Accounts (Inscriptions by Turner)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07670_8.jpg", 
+  "title": "Oxford; Architectural Details of the Queen's College; Accounts (Inscriptions by Turner)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-oxford-architectural-details-of-the-queens-college-accounts-inscriptions-by-turner-d07670", 
+  "width": "88"
 }

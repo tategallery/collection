@@ -1,6 +1,5 @@
 {
   "acno": "P04629", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04625-P04634", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 715 x 560 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Basque Suite", 
+  "height": "560", 
   "id": 10360, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,46 @@
       "workCount": 102
     }
   ], 
-  "popularity": 115, 
   "subjectCount": 3, 
-  "title": "No. 13"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04629_8.jpg", 
+  "title": "No. 13", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-no-13-p04629", 
+  "width": "715"
 }

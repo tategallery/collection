@@ -1,6 +1,5 @@
 {
   "acno": "P01973", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01961-P01984; P11003", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 152 x 143 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Conditional Probability Machine", 
+  "height": "143", 
   "id": 11093, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,93 @@
       "workCount": 846
     }
   ], 
-  "popularity": 33, 
   "subjectCount": 4, 
-  "title": "Pages from the Aerospace Medical Library: Untitled (Baboon on Sled)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10215, 
+                "name": "baboon", 
+                "workCount": 5
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10183, 
+                "name": "experiment", 
+                "workCount": 33
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01973_8.jpg", 
+  "title": "Pages from the Aerospace Medical Library: Untitled (Baboon on Sled)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-untitled-baboon-on-sled-p01973", 
+  "width": "152"
 }

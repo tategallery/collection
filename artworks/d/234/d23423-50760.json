@@ -1,6 +1,5 @@
 {
   "acno": "D23423", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 133 x 91 mm", 
-  "displayLocation": null, 
   "finberg": "CCL 46", 
   "foreignTitle": null, 
   "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "height": "91", 
   "id": 50760, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 93, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "A Porch, Columns, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }, 
+              {
+                "id": 7063, 
+                "name": "portico", 
+                "workCount": 43
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23423_8.jpg", 
+  "title": "A Porch, Columns, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-porch-columns-etc-d23423", 
+  "width": "133"
 }

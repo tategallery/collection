@@ -1,6 +1,5 @@
 {
   "acno": "D02675", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 115 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "LIV 47 a", 
   "foreignTitle": null, 
   "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "height": "162", 
   "id": 30078, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 98, 
-  "popularity": 49, 
   "subjectCount": 5, 
-  "title": "Roslin Castle: Part of the Ruins"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8181, 
+                "name": "Midlothian", 
+                "workCount": 100
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9222, 
+                "name": "Roslin, Roslin Castle", 
+                "workCount": 42
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02675_8.jpg", 
+  "title": "Roslin Castle: Part of the Ruins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-roslin-castle-part-of-the-ruins-d02675", 
+  "width": "115"
 }

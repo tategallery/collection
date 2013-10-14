@@ -1,6 +1,5 @@
 {
   "acno": "AR00006", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1992"
   }, 
   "dateText": "1992", 
+  "depth": "6", 
   "dimensions": "support: 231 x 320 x 6 mm\r\nframe: 250 x 321 x 34 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "320", 
   "id": 98177, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 355, 
   "subjectCount": 1, 
-  "title": "Daisies #2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy", 
+                "workCount": 17
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00006_8.jpg", 
+  "title": "Daisies #2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-daisies-2-ar00006", 
+  "width": "231"
 }

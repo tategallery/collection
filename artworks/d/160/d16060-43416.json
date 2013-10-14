@@ -1,6 +1,5 @@
 {
   "acno": "D16060", 
-  "addlImageCount": 0, 
   "catTextResId": 1137984, 
   "catalogueGroup": {
     "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
@@ -28,17 +27,76 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVI 76 a", 
   "foreignTitle": null, 
   "groupTitle": "Naples, Paestum and Rome Sketchbook [Finberg CLXXXVI]", 
+  "height": "189", 
   "id": 43416, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 158, 
-  "popularity": 3, 
   "subjectCount": 4, 
-  "title": "Distant View of Vesuvius Seen from Marechiaro"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16060_8_R.jpg", 
+  "title": "Distant View of Vesuvius Seen from Marechiaro", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-view-of-vesuvius-seen-from-marechiaro-d16060", 
+  "width": "113"
 }

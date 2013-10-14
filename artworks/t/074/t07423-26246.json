@@ -1,6 +1,5 @@
 {
   "acno": "T07423", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "c.1986"
   }, 
   "dateText": "c.1986", 
+  "depth": "230", 
   "dimensions": "object: 385 x 100 x 230 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "100", 
   "id": 26246, 
   "inscription": null, 
   "medium": "Plaster and metal on plaster base", 
   "movementCount": 0, 
-  "popularity": 101, 
   "subjectCount": 2, 
-  "title": "Small Running Man"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 564, 
+                "name": "running", 
+                "workCount": 92
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07423_8.jpg", 
+  "title": "Small Running Man", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-small-running-man-t07423", 
+  "width": "385"
 }

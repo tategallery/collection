@@ -1,6 +1,5 @@
 {
   "acno": "P05208", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P02436; P05190-P05214", 
     "completeStatus": "COMPLETE", 
@@ -27,55 +26,12 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 747 x 502 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A-Z Box", 
+  "height": "502", 
   "id": 14293, 
-  "images": [
-    {
-      "copyright": "\u00a9 Joe Tilson. All Rights Reserved, DACS 2002", 
-      "filenameBase": "P05208_280306", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P05/P05208_280306_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 88
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P05/P05208_280306_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 175
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P05/P05208_280306_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 350
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P05/P05208_280306_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1050
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 1, 
@@ -91,7 +47,137 @@
       "workCount": 846
     }
   ], 
-  "popularity": 75, 
   "subjectCount": 10, 
-  "title": "T - Tania la Guerillera"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17182, 
+                "name": "Bunke Bider, Hayd\u00e8e Tamara, 'Tania'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 6656, 
+                "name": "Guevara, Che", 
+                "workCount": 8
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }, 
+          {
+            "children": [
+              {
+                "id": 5052, 
+                "name": "execution", 
+                "workCount": 50
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment", 
+            "workCount": 318
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement", 
+                "workCount": 166
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05208_8.jpg", 
+  "title": "T - Tania la Guerillera", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-t-tania-la-guerillera-p05208", 
+  "width": "747"
 }

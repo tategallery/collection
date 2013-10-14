@@ -1,6 +1,5 @@
 {
   "acno": "T06979", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "c.1855, c.1866"
   }, 
   "dateText": "c.1855, c.1866", 
+  "depth": "", 
   "dimensions": "image: 226 x 148 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "148", 
   "id": 21318, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T06979_141006", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T06/T06979_141006_7.jpg", 
-          "height": 86, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T06/T06979_141006_8.jpg", 
-          "height": 173, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T06/T06979_141006_9.jpg", 
-          "height": 347, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T06/T06979_141006_10.jpg", 
-          "height": 1042, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 1, 
@@ -85,7 +41,91 @@
       "workCount": 405
     }
   ], 
-  "popularity": 95, 
   "subjectCount": 5, 
-  "title": "Study for 'The Eve of St Agnes'. Verso: Study for 'The Guarded Bower'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4262, 
+                "name": "Keats, John, 'The Eve of St Agnes'", 
+                "workCount": 5
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing", 
+                "workCount": 349
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06979_8.jpg", 
+  "title": "Study for 'The Eve of St Agnes'. Verso: Study for 'The Guarded Bower'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hughes-study-for-the-eve-of-st-agnes-verso-study-for-the-guarded-bower-t06979", 
+  "width": "226"
 }

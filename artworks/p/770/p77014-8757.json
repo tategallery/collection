@@ -1,6 +1,5 @@
 {
   "acno": "P77014", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77014-P77018", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1982"
   }, 
   "dateText": "1982", 
+  "depth": "", 
   "dimensions": "image: 609 x 603 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Forms Derived from a Cube", 
+  "height": "603", 
   "id": 8757, 
   "inscription": null, 
   "medium": "Watercolour and woodcut on paper", 
@@ -57,7 +57,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 418, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77014_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p77014", 
+  "width": "609"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "A00227", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": null, 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,67 @@
   "creditLine": "Presented by the artist's widow 1888", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": null, 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
   "id": 7257, 
   "inscription": null, 
   "medium": "Ink and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 28, 
   "subjectCount": 4, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands", 
+                "workCount": 234
+              }, 
+              {
+                "id": 1219, 
+                "name": "legs crossed", 
+                "workCount": 116
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00227_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a00227", 
+  "width": ""
 }

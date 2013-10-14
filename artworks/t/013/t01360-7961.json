@@ -1,6 +1,5 @@
 {
   "acno": "T01360", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "5359", 
   "dimensions": "object: 4420 x 4350 x 5359 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4350", 
   "id": 7961, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,72 @@
       "workCount": 52
     }
   ], 
-  "popularity": 226, 
   "subjectCount": 4, 
-  "title": "Call"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature", 
+                "workCount": 129
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01360_8.jpg", 
+  "title": "Call", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/king-call-t01360", 
+  "width": "4420"
 }

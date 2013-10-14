@@ -1,6 +1,5 @@
 {
   "acno": "AR00068", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960-98"
   }, 
   "dateText": "1960-98", 
+  "depth": "460", 
   "dimensions": "displayed: 2000 x 1800 x 460 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1800", 
   "id": 98214, 
   "inscription": null, 
   "medium": "Steel panel, enamel on paper on 2 canvases, fabric, coal, 3 metal hooks and metal rod", 
@@ -41,7 +41,53 @@
       "workCount": 24
     }
   ], 
-  "popularity": 500, 
   "subjectCount": 3, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth", 
+                "workCount": 62
+              }, 
+              {
+                "id": 3899, 
+                "name": "hook", 
+                "workCount": 5
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 4153, 
+                "name": "sack", 
+                "workCount": 29
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00068_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-ar00068", 
+  "width": "2000"
 }

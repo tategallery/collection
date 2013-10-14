@@ -1,6 +1,5 @@
 {
   "acno": "A00111", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "A00111-A00127", 
     "completeStatus": "COMPLETE", 
@@ -27,59 +26,230 @@
     "text": "1821/c.1830"
   }, 
   "dateText": "1821/c.1830", 
+  "depth": "", 
   "dimensions": "image: 62 x 84 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Illustrations to Thornton's 'Pastorals of Virgil'", 
+  "height": "84", 
   "id": 1118, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "A00111_303546", 
-      "sizes": [
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "A/A00/A00111_303546_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 96
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "A/A00/A00111_303546_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 192
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "A/A00/A00111_303546_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 548
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "A/A00/A00111_303546_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1152
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood engraving on paper", 
   "movementCount": 0, 
-  "popularity": 72, 
   "subjectCount": 17, 
-  "title": "Frontispiece: Thenot and Colinet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10640, 
+                "name": "Philips, Ambrose, 'Imitation of Virgil's First Eclogue'", 
+                "workCount": 34
+              }, 
+              {
+                "id": 10638, 
+                "name": "Thornton, Robert John, 'The Pastorals of Virgil ...'", 
+                "workCount": 34
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }, 
+          {
+            "children": [
+              {
+                "id": 4094, 
+                "name": "Virgil, 'Eclogues'", 
+                "workCount": 35
+              }
+            ], 
+            "id": 56, 
+            "name": "classical", 
+            "workCount": 184
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5663, 
+                "name": "crook", 
+                "workCount": 32
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }, 
+          {
+            "children": [
+              {
+                "id": 7719, 
+                "name": "instrument, panpipes", 
+                "workCount": 9
+              }, 
+              {
+                "id": 2680, 
+                "name": "instrument, pipe", 
+                "workCount": 30
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6764, 
+                "name": "foolishness", 
+                "workCount": 13
+              }, 
+              {
+                "id": 940, 
+                "name": "happiness", 
+                "workCount": 62
+              }, 
+              {
+                "id": 5345, 
+                "name": "sadness", 
+                "workCount": 75
+              }, 
+              {
+                "id": 6727, 
+                "name": "wisdom", 
+                "workCount": 10
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 708, 
+                "name": "shepherd / shepherdess", 
+                "workCount": 163
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00111_8.jpg", 
+  "title": "Frontispiece: Thenot and Colinet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-frontispiece-thenot-and-colinet-a00111", 
+  "width": "62"
 }

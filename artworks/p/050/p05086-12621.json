@@ -1,6 +1,5 @@
 {
   "acno": "P05086", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "support: 591 x 521 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "521", 
   "id": 12621, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and mixed media on paper", 
@@ -41,7 +41,103 @@
       "workCount": 248
     }
   ], 
-  "popularity": 81, 
   "subjectCount": 6, 
-  "title": "Fraser"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16145, 
+                "name": "Fraser", 
+                "workCount": 3
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4116, 
+                "name": "name", 
+                "workCount": 76
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 203, 
+                "name": "spectacles", 
+                "workCount": 126
+              }, 
+              {
+                "id": 1639, 
+                "name": "tie", 
+                "workCount": 60
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05086_8.jpg", 
+  "title": "Fraser", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivers-fraser-p05086", 
+  "width": "591"
 }

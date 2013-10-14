@@ -1,6 +1,5 @@
 {
   "acno": "P07675", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07673-P07678", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 320 x 320 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Epiduaro", 
   "groupTitle": "Collection", 
+  "height": "320", 
   "id": 16982, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,60 @@
       "workCount": 24
     }
   ], 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "Epidaurus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6128, 
+                "name": "ruler", 
+                "workCount": 13
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07675_8.jpg", 
+  "title": "Epidaurus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolini-epidaurus-p07675", 
+  "width": "320"
 }

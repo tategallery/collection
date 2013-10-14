@@ -1,6 +1,5 @@
 {
   "acno": "T08602", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1814"
   }, 
   "dateText": "1814", 
+  "depth": "", 
   "dimensions": "support: 209 x 290 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "290", 
   "id": 23995, 
   "inscription": "date inscribed", 
   "medium": "Graphite, ink and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "Landscape with Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08602_8.jpg", 
+  "title": "Landscape with Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilson-landscape-with-trees-t08602", 
+  "width": "209"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D25574", 
-  "addlImageCount": 0, 
   "catTextResId": 1133934, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 74 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIV 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "height": "94", 
   "id": 52911, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "?Skiddaw from Keswick"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25574_8.jpg", 
+  "title": "?Skiddaw from Keswick", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-skiddaw-from-keswick-d25574", 
+  "width": "74"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D40599", 
-  "addlImageCount": 0, 
   "catTextResId": 1130646, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
@@ -28,17 +27,47 @@
     "text": "1805-9"
   }, 
   "dateText": "1805-9", 
+  "depth": "", 
   "dimensions": "support: 115 x 190 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "height": "190", 
   "id": 64348, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 23, 
   "subjectCount": 1, 
-  "title": "?Figure(s)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40599_8.jpg", 
+  "title": "?Figure(s)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-d40599", 
+  "width": "115"
 }

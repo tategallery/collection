@@ -1,6 +1,5 @@
 {
   "acno": "N03718", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "1922"
   }, 
   "dateText": "1922", 
+  "depth": "", 
   "dimensions": "support: 156 x 127 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "127", 
   "id": 2970, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "Smiling Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1380, 
+                "name": "earring", 
+                "workCount": 31
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03718_8.jpg", 
+  "title": "Smiling Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cundell-smiling-woman-n03718", 
+  "width": "156"
 }

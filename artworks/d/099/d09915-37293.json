@@ -1,6 +1,5 @@
 {
   "acno": "D09915", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09889-D09986; D40813; D41524", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1813"
   }, 
   "dateText": "c.1813", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXV 17", 
   "foreignTitle": null, 
   "groupTitle": "Chemistry and Apuleia Sketchbook [Finberg CXXXV]", 
+  "height": "110", 
   "id": 37293, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "popularity": 24, 
   "subjectCount": 1, 
-  "title": "A Fir Tree"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2831, 
+                "name": "fir", 
+                "workCount": 20
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09915_8_R.jpg", 
+  "title": "A Fir Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fir-tree-d09915", 
+  "width": "89"
 }

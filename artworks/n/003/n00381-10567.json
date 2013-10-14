@@ -1,6 +1,5 @@
 {
   "acno": "N00381", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 302 x 406 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 10567, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on mahogany", 
@@ -41,7 +41,115 @@
       "workCount": 35
     }
   ], 
-  "popularity": 126, 
   "subjectCount": 7, 
-  "title": "A Landscape ('The Angler's Nook')"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2280, 
+                "name": "fishing", 
+                "workCount": 198
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00381_8.jpg", 
+  "title": "A Landscape ('The Angler's Nook')", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nasmyth-a-landscape-the-anglers-nook-n00381", 
+  "width": "302"
 }

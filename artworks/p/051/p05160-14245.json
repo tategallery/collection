@@ -1,6 +1,5 @@
 {
   "acno": "P05160", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "image: 578 x 841 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "841", 
   "id": 14245, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 69, 
   "subjectCount": 3, 
-  "title": "1/2 Ziggurat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05160_8.jpg", 
+  "title": "1/2 Ziggurat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-12-ziggurat-p05160", 
+  "width": "578"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04724", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1906"
   }, 
   "dateText": "c.1906", 
+  "depth": "", 
   "dimensions": "support: 654 x 549 mm\r\nframe: 869 x 762 x 103 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Le Jardinier Vallier", 
   "groupTitle": null, 
+  "height": "549", 
   "id": 2115, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,108 @@
       "workCount": 22
     }
   ], 
-  "popularity": 1188, 
   "subjectCount": 7, 
-  "title": "The Gardener Vallier"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4248, 
+                "name": "Vallier", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 1215, 
+                "name": "arms folded", 
+                "workCount": 84
+              }, 
+              {
+                "id": 1219, 
+                "name": "legs crossed", 
+                "workCount": 116
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2989, 
+                "name": "gardening", 
+                "workCount": 45
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04724_8.jpg", 
+  "title": "The Gardener Vallier", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cezanne-the-gardener-vallier-n04724", 
+  "width": "654"
 }

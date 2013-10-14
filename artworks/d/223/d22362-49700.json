@@ -1,6 +1,5 @@
 {
   "acno": "D22362", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 78 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXL 22 a", 
   "foreignTitle": null, 
   "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "height": "108", 
   "id": 49700, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 46, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "View, with Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22362_8_R.jpg", 
+  "title": "View, with Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-with-buildings-d22362", 
+  "width": "78"
 }

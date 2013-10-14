@@ -1,6 +1,5 @@
 {
   "acno": "D08821", 
-  "addlImageCount": 0, 
   "catTextResId": 1137304, 
   "catalogueGroup": {
     "accessionRanges": "D08807-D08815; D08817-D08822; D08824; D08826-D08842; D08844; D08846; D08848-D08863; D08940; D40821; D41522", 
@@ -28,17 +27,145 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 170 x 209 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIV 14", 
   "foreignTitle": null, 
   "groupTitle": "Corfe to Dartmouth Sketchbook [Finberg CXXIV]", 
+  "height": "209", 
   "id": 36208, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 95, 
   "subjectCount": 8, 
-  "title": "Swanage Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset", 
+                "workCount": 170
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2408, 
+                "name": "Swanage - non-specific", 
+                "workCount": 10
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08821_8.jpg", 
+  "title": "Swanage Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-swanage-harbour-d08821", 
+  "width": "170"
 }

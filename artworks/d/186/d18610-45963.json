@@ -1,6 +1,5 @@
 {
   "acno": "D18610", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18595-D18704; D40969-D40973", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 114 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCXII 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Thames Sketchbook [Finberg CCXII]", 
+  "height": "188", 
   "id": 45963, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "Back View of Hussar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5446, 
+                "name": "uniform", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18610_8.jpg", 
+  "title": "Back View of Hussar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-back-view-of-hussar-d18610", 
+  "width": "114"
 }

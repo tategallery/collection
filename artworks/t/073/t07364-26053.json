@@ -1,6 +1,5 @@
 {
   "acno": "T07364", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1957-61"
   }, 
   "dateText": "c.1957-61", 
+  "depth": "", 
   "dimensions": "support: 340 x 270 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "270", 
   "id": 26053, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,98 @@
       "workCount": 377
     }
   ], 
-  "popularity": 279, 
   "subjectCount": 5, 
-  "title": "Seated Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 839, 
+                "name": "couch", 
+                "workCount": 157
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure", 
+                "workCount": 162
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07364_8.jpg", 
+  "title": "Seated Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bacon-seated-figure-t07364", 
+  "width": "340"
 }

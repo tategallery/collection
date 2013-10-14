@@ -1,6 +1,5 @@
 {
   "acno": "D06583", 
-  "addlImageCount": 0, 
   "catTextResId": 1139117, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
@@ -28,17 +27,85 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "support: 118 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "C 53", 
   "foreignTitle": null, 
   "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "height": "187", 
   "id": 33974, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 117, 
-  "popularity": 50, 
   "subjectCount": 3, 
-  "title": "Blacksmith Shoeing a Horse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4427, 
+                "name": "blacksmith", 
+                "workCount": 18
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts", 
+            "workCount": 360
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06583_8.jpg", 
+  "title": "Blacksmith Shoeing a Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-blacksmith-shoeing-a-horse-d06583", 
+  "width": "118"
 }

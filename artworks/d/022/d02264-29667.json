@@ -1,6 +1,5 @@
 {
   "acno": "D02264", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02243-D02341; D40772-D40774", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 150 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "XLIX 21", 
   "foreignTitle": null, 
   "groupTitle": "Salisbury Sketchbook [Finberg XLIX]", 
+  "height": "123", 
   "id": 29667, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "Landscape with a Distant Windmill and Low Sun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02264_8.jpg", 
+  "title": "Landscape with a Distant Windmill and Low Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-a-distant-windmill-and-low-sun-d02264", 
+  "width": "150"
 }

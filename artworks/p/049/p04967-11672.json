@@ -1,6 +1,5 @@
 {
   "acno": "P04967", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04965-P04994", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,79 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 194 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Humument Vol. III", 
+  "height": "140", 
   "id": 11672, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "[no title: p. 60]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10074, 
+                "name": "Mallock, William Hurrell, 'A Human Document'", 
+                "workCount": 88
+              }, 
+              {
+                "id": 10075, 
+                "name": "Phillips, Tom, 'A Humument'", 
+                "workCount": 88
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04967_8.jpg", 
+  "title": "[no title: p. 60]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-no-title-p-60-p04967", 
+  "width": "194"
 }

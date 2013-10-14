@@ -1,6 +1,5 @@
 {
   "acno": "T00523", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "", 
   "dimensions": "support: 1270 x 1270 mm\r\nframe: 1342 x 1342 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1270", 
   "id": 13829, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 2, 
-  "title": "Polychromatic G"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4408, 
+                "name": "letter of alphabet", 
+                "workCount": 82
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00523_8.jpg", 
+  "title": "Polychromatic G", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stephenson-polychromatic-g-t00523", 
+  "width": "1270"
 }

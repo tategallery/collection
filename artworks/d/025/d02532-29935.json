@@ -1,6 +1,5 @@
 {
   "acno": "D02532", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 164 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "LIII 41 a", 
   "foreignTitle": null, 
   "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "height": "117", 
   "id": 29935, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 84, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Landscape with a River and Distant Town with a High Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02532_8.jpg", 
+  "title": "Landscape with a River and Distant Town with a High Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-a-river-and-distant-town-with-a-high-tower-d02532", 
+  "width": "164"
 }

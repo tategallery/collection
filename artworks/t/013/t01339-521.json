@@ -1,6 +1,5 @@
 {
   "acno": "T01339", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "533", 
   "dimensions": "object: 876 x 2134 x 533 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2134", 
   "id": 521, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,72 @@
       "workCount": 52
     }
   ], 
-  "popularity": 100, 
   "subjectCount": 4, 
-  "title": "X-Act"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof", 
+                "workCount": 66
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01339_8.jpg", 
+  "title": "X-Act", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-x-act-t01339", 
+  "width": "876"
 }

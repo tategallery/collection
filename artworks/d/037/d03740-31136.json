@@ -1,6 +1,5 @@
 {
   "acno": "D03740", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03736-D03777; D40806-D40808", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 158 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "LXIII 5", 
   "foreignTitle": null, 
   "groupTitle": "Colour Bill Sketchbook [Finberg LXIII]", 
+  "height": "98", 
   "id": 31136, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Boats with Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03740_8.jpg", 
+  "title": "Boats with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boats-with-figures-d03740", 
+  "width": "158"
 }

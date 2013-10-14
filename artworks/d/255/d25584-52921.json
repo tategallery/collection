@@ -1,6 +1,5 @@
 {
   "acno": "D25584", 
-  "addlImageCount": 0, 
   "catTextResId": 1133944, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 74 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIV 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "height": "94", 
   "id": 52921, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Mayburgh Henge and Beacon Hill, Penrith"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25584_8.jpg", 
+  "title": "Mayburgh Henge and Beacon Hill, Penrith", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mayburgh-henge-and-beacon-hill-penrith-d25584", 
+  "width": "74"
 }

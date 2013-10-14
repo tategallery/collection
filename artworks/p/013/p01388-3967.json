@@ -1,6 +1,5 @@
 {
   "acno": "P01388", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 473 x 359 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "359", 
   "id": 3967, 
   "inscription": "date inscribed", 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 4, 
-  "title": "Bird Song"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01388_8.jpg", 
+  "title": "Bird Song", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/domjan-bird-song-p01388", 
+  "width": "473"
 }

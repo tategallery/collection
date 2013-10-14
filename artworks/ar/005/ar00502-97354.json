@@ -1,6 +1,5 @@
 {
   "acno": "AR00502", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "33", 
   "dimensions": "support: 2287 x 1780 x 33 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1780", 
   "id": 97354, 
   "inscription": null, 
   "medium": "Acrylic paint and silkscreen on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 248
     }
   ], 
-  "popularity": 748, 
   "subjectCount": 1, 
-  "title": "Dollar Sign"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12390, 
+                "name": "dollar sign", 
+                "workCount": 3
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00502_8.jpg", 
+  "title": "Dollar Sign", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-dollar-sign-ar00502", 
+  "width": "2287"
 }

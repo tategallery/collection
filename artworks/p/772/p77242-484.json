@@ -1,6 +1,5 @@
 {
   "acno": "P77242", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "image: 234 x 307 mm", 
-  "displayLocation": null, 
   "foreignTitle": "La Nuit", 
   "groupTitle": null, 
+  "height": "307", 
   "id": 484, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
@@ -41,7 +41,55 @@
       "workCount": 48
     }
   ], 
-  "popularity": 368, 
   "subjectCount": 2, 
-  "title": "The Night"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night", 
+                "workCount": 468
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77242_8.jpg", 
+  "title": "The Night", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/alechinsky-the-night-p77242", 
+  "width": "234"
 }

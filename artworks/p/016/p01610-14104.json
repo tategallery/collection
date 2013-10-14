@@ -1,6 +1,5 @@
 {
   "acno": "P01610", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 178 x 178 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "178", 
   "id": 14104, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 2, 
-  "title": "Small Garden"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01610_8.jpg", 
+  "title": "Small Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sydney-small-garden-p01610", 
+  "width": "178"
 }

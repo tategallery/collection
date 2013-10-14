@@ -1,6 +1,5 @@
 {
   "acno": "T02819", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T02415-T03024; T03239-T03240", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,131 @@
     "text": null
   }, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 162 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
   "id": 3414, 
   "inscription": null, 
   "medium": "Aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 40, 
   "subjectCount": 7, 
-  "title": "Loch-duich, Ross-shire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute", 
+                "workCount": 237
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 10795, 
+                "name": "Loch Duich", 
+                "workCount": 2
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1208, 
+                "name": "seagull", 
+                "workCount": 92
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02819_8.jpg", 
+  "title": "Loch-duich, Ross-shire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-loch-duich-ross-shire-t02819", 
+  "width": "162"
 }

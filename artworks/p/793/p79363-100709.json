@@ -1,6 +1,5 @@
 {
   "acno": "P79363", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P79359-P79373", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,93 @@
     "text": "2007"
   }, 
   "dateText": "2007", 
+  "depth": "", 
   "dimensions": "image: 206 x 280 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "E3 4RR", 
+  "height": "280", 
   "id": 100709, 
   "inscription": null, 
   "medium": "Photo-etching and aquatint on copperplate on paper", 
   "movementCount": 0, 
-  "popularity": 115, 
   "subjectCount": 5, 
-  "title": "The Fight"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9947, 
+                "name": "boxing", 
+                "workCount": 5
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 545, 
+                "name": "fighting", 
+                "workCount": 122
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 1628, 
+                "name": "skeleton", 
+                "workCount": 70
+              }, 
+              {
+                "id": 2448, 
+                "name": "skull", 
+                "workCount": 71
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79363_8.jpg", 
+  "title": "The Fight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hiller-the-fight-p79363", 
+  "width": "206"
 }

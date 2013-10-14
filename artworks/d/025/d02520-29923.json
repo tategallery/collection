@@ -1,6 +1,5 @@
 {
   "acno": "D02520", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 164 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "LIII 35 a", 
   "foreignTitle": null, 
   "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "height": "117", 
   "id": 29923, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 72, 
-  "popularity": 11, 
   "subjectCount": 5, 
-  "title": "Hilly Landscape with a Ruined Castle on the Skyline"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02520_8.jpg", 
+  "title": "Hilly Landscape with a Ruined Castle on the Skyline", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hilly-landscape-with-a-ruined-castle-on-the-skyline-d02520", 
+  "width": "164"
 }

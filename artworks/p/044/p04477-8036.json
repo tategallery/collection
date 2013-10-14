@@ -1,6 +1,5 @@
 {
   "acno": "P04477", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 382 x 244 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "244", 
   "id": 8036, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,48 @@
       "workCount": 377
     }
   ], 
-  "popularity": 44, 
   "subjectCount": 2, 
-  "title": "(23) Benia Krik"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12371, 
+                "name": "book, Babel, Isaac, 'Benia Krik'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 2814, 
+                "name": "gun, handgun", 
+                "workCount": 44
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04477_8.jpg", 
+  "title": "(23) Benia Krik", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-23-benia-krik-p04477", 
+  "width": "382"
 }

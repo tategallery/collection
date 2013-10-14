@@ -1,6 +1,5 @@
 {
   "acno": "P01252", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01248-P01252", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 668 x 895 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Prints Part II", 
+  "height": "895", 
   "id": 10928, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 49
     }
   ], 
-  "popularity": 73, 
   "subjectCount": 1, 
-  "title": "Pink-Yellow II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01252_8.jpg", 
+  "title": "Pink-Yellow II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/olitski-pink-yellow-ii-p01252", 
+  "width": "668"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02412", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02393-D02461", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 143 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "LII 13", 
   "foreignTitle": null, 
   "groupTitle": "Guisborough Shore Sketchbook [Finberg LII]", 
+  "height": "103", 
   "id": 29815, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Beached Fishing-Boats, with a Distant Headland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02412_8.jpg", 
+  "title": "Beached Fishing-Boats, with a Distant Headland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-beached-fishing-boats-with-a-distant-headland-d02412", 
+  "width": "143"
 }

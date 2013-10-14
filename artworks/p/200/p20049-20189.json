@@ -1,6 +1,5 @@
 {
   "acno": "P20049", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20049-P20057", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,102 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "image: 522 x 405 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album", 
+  "height": "405", 
   "id": 20189, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 35, 
   "subjectCount": 4, 
-  "title": "Title Page"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9334, 
+                "name": "biology", 
+                "workCount": 30
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7361, 
+                "name": "cell structure", 
+                "workCount": 51
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20049_8.jpg", 
+  "title": "Title Page", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winters-title-page-p20049", 
+  "width": "522"
 }

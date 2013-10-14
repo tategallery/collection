@@ -1,6 +1,5 @@
 {
   "acno": "D23622", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23525-D23698; D41074-D41076", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "?1832"
   }, 
   "dateText": "?1832", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLII 54 a", 
   "foreignTitle": null, 
   "groupTitle": "Guernsey Sketchbook [Finberg CCLII]", 
+  "height": "187", 
   "id": 50959, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 110, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Castle on Island; Also Views of Town on Sloping Banks on Headland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2414, 
+                "name": "island", 
+                "workCount": 310
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23622_8.jpg", 
+  "title": "Castle on Island; Also Views of Town on Sloping Banks on Headland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-island-also-views-of-town-on-sloping-banks-on-headland-d23622", 
+  "width": "114"
 }

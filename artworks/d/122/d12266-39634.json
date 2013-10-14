@@ -1,6 +1,5 @@
 {
   "acno": "D12266", 
-  "addlImageCount": 0, 
   "catTextResId": 1139468, 
   "catalogueGroup": {
     "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
@@ -28,17 +27,59 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 232 x 328 mm", 
-  "displayLocation": null, 
   "finberg": "CLVI 5", 
   "foreignTitle": null, 
   "groupTitle": "Raby Sketchbook [Finberg CLVI]", 
+  "height": "328", 
   "id": 39634, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 50, 
   "subjectCount": 2, 
-  "title": "Old Hollinside Manor House across the Derwent Valley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12266_8.jpg", 
+  "title": "Old Hollinside Manor House across the Derwent Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-old-hollinside-manor-house-across-the-derwent-valley-d12266", 
+  "width": "232"
 }

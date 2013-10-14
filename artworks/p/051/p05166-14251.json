@@ -1,6 +1,5 @@
 {
   "acno": "P05166", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965-6"
   }, 
   "dateText": "1965-6", 
+  "depth": "", 
   "dimensions": "image: 584 x 941 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "941", 
   "id": 14251, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,67 @@
       "workCount": 846
     }
   ], 
-  "popularity": 35, 
   "subjectCount": 3, 
-  "title": "5 Objects in Space"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6355, 
+                "name": "ring", 
+                "workCount": 21
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 9544, 
+                "name": "watch", 
+                "workCount": 9
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3485, 
+                "name": "space", 
+                "workCount": 22
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05166_8.jpg", 
+  "title": "5 Objects in Space", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-5-objects-in-space-p05166", 
+  "width": "584"
 }

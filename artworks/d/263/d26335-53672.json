@@ -1,6 +1,5 @@
 {
   "acno": "D26335", 
-  "addlImageCount": 0, 
   "catTextResId": 1136265, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,59 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIX 40", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "190", 
   "id": 53672, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 81, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "A Courtyard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1152, 
+                "name": "courtyard", 
+                "workCount": 66
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26335_8.jpg", 
+  "title": "A Courtyard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-courtyard-d26335", 
+  "width": "113"
 }

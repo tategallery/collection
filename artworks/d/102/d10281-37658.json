@@ -1,6 +1,5 @@
 {
   "acno": "D10281", 
-  "addlImageCount": 0, 
   "catTextResId": 1131327, 
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
@@ -28,17 +27,83 @@
     "text": "?1813"
   }, 
   "dateText": "?1813", 
+  "depth": "", 
   "dimensions": "support: 181 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVII 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "height": "228", 
   "id": 37658, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 110, 
-  "popularity": 39, 
   "subjectCount": 4, 
-  "title": "The River Tamar below Gunnislake, with Calstock Church Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10281_8_R.jpg", 
+  "title": "The River Tamar below Gunnislake, with Calstock Church Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-river-tamar-below-gunnislake-with-calstock-church-beyond-d10281", 
+  "width": "181"
 }

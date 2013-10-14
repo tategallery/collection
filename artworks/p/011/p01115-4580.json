@@ -1,6 +1,5 @@
 {
   "acno": "P01115", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01107-P01125", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 497 x 345 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Chaucer's 'Canterbury Tales'", 
+  "height": "345", 
   "id": 4580, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 3, 
-  "title": "The Nun's Priests' Tale"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8737, 
+                "name": "Chaucer, Geoffrey, 'Canterbury Tales: The Nun's Priest's Tale'", 
+                "workCount": 3
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2100, 
+                "name": "chicken", 
+                "workCount": 63
+              }, 
+              {
+                "id": 4856, 
+                "name": "cockerel", 
+                "workCount": 33
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01115_8.jpg", 
+  "title": "The Nun's Priests' Tale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-the-nuns-priests-tale-p01115", 
+  "width": "497"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N03506", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1897"
   }, 
   "dateText": "c.1897", 
+  "depth": "", 
   "dimensions": "support: 635 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 14160, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,141 @@
       "workCount": 35
     }
   ], 
-  "popularity": 517, 
   "subjectCount": 8, 
-  "title": "St Paul's"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames", 
+                "workCount": 649
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 2732, 
+                "name": "St Paul's Cathedral", 
+                "workCount": 56
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03506_8.jpg", 
+  "title": "St Paul's", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thomson-st-pauls-n03506", 
+  "width": "635"
 }

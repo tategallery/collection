@@ -1,6 +1,5 @@
 {
   "acno": "T10193", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08461; T10178-T10241; T11663-T11669", 
     "completeStatus": "IRRELEVANT", 
@@ -27,10 +26,11 @@
     "text": "?c.1810"
   }, 
   "dateText": "?c.1810", 
+  "depth": "", 
   "dimensions": "support: 387 x 270 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Flaxman", 
+  "height": "270", 
   "id": 24283, 
   "inscription": null, 
   "medium": "Graphite and ink on paper", 
@@ -47,7 +47,84 @@
       "workCount": 310
     }
   ], 
-  "popularity": 75, 
   "subjectCount": 5, 
-  "title": "The Evolution of Religious Architecture, after Le Moine and Michelinot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan", 
+                "workCount": 90
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }, 
+              {
+                "id": 2550, 
+                "name": "temple", 
+                "workCount": 235
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10193_8.jpg", 
+  "title": "The Evolution of Religious Architecture, after Le Moine and Michelinot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-the-evolution-of-religious-architecture-after-le-moine-and-michelinot-t10193", 
+  "width": "387"
 }

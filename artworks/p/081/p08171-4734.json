@@ -1,6 +1,5 @@
 {
   "acno": "P08171", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P08164-P08173", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1930"
   }, 
   "dateText": "1930", 
+  "depth": "", 
   "dimensions": "image: 370 x 274 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Architectural Lithographs", 
+  "height": "274", 
   "id": 4734, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,96 @@
       "workCount": 67
     }
   ], 
-  "popularity": 157, 
   "subjectCount": 6, 
-  "title": "A Staircase / Narbonne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 8728, 
+                "name": "Narbonne", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 1011, 
+                "name": "balustrade", 
+                "workCount": 91
+              }, 
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3054, 
+                "name": "hallway", 
+                "workCount": 46
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08171_8.jpg", 
+  "title": "A Staircase / Narbonne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-a-staircase-narbonne-p08171", 
+  "width": "370"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N03685", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "c.1922"
   }, 
   "dateText": "c.1922", 
+  "depth": "", 
   "dimensions": "support: 762 x 368 mm\r\nframe: 925 x 798 x 65 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "368", 
   "id": 15789, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 115, 
   "subjectCount": 4, 
-  "title": "Miss Buchanan"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6082, 
+                "name": "Buchanan, Mary", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 4670, 
+                "name": "hands clasped", 
+                "workCount": 115
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2813, 
+                "name": "artist, sculptor", 
+                "workCount": 49
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03685_8.jpg", 
+  "title": "Miss Buchanan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-miss-buchanan-n03685", 
+  "width": "762"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D18600", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18595-D18704; D40969-D40973", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 114 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCXII 4", 
   "foreignTitle": null, 
   "groupTitle": "Thames Sketchbook [Finberg CCXII]", 
+  "height": "188", 
   "id": 45953, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Ornamental Barge, with Flags, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18600_8_R.jpg", 
+  "title": "Ornamental Barge, with Flags, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ornamental-barge-with-flags-etc-d18600", 
+  "width": "114"
 }

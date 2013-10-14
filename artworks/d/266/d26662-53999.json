@@ -1,6 +1,5 @@
 {
   "acno": "D26662", 
-  "addlImageCount": 0, 
   "catTextResId": 1135099, 
   "catalogueGroup": {
     "accessionRanges": "D26619-D26666; D41131-D41132", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 101 x 158 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXI 22 a", 
   "foreignTitle": null, 
   "groupTitle": "Loch Long Sketchbook [Finberg CCLXXI]", 
+  "height": "158", 
   "id": 53999, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 46, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "Views of the Firth of Forth from the River, With Alloa Old Kirk"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26662_8.jpg", 
+  "title": "Views of the Firth of Forth from the River, With Alloa Old Kirk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-of-the-firth-of-forth-from-the-river-with-alloa-old-kirk-d26662", 
+  "width": "101"
 }

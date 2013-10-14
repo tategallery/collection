@@ -1,6 +1,5 @@
 {
   "acno": "D40696", 
-  "addlImageCount": 0, 
   "catTextResId": 1139206, 
   "catalogueGroup": {
     "accessionRanges": "D05376-D05427; D40694-D40696", 
@@ -28,17 +27,52 @@
     "text": "c.1805"
   }, 
   "dateText": "c.1805", 
+  "depth": "", 
   "dimensions": "support: 185 x 118 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Shipwreck (1) Sketchbook [Finberg LXXXVII]", 
+  "height": "118", 
   "id": 64443, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 63, 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "Stern of the 'Argonaut', in Two Positions"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull", 
+                "workCount": 77
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40696_8.jpg", 
+  "title": "Stern of the 'Argonaut', in Two Positions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-stern-of-the-argonaut-in-two-positions-d40696", 
+  "width": "185"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01407", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01406-P01408", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 550 x 695 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Three Variations", 
+  "height": "695", 
   "id": 5640, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 74, 
   "subjectCount": 2, 
-  "title": "Variation B"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01407_8.jpg", 
+  "title": "Variation B", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/green-variation-b-p01407", 
+  "width": "550"
 }

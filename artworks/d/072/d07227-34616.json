@@ -1,6 +1,5 @@
 {
   "acno": "D07227", 
-  "addlImageCount": 0, 
   "catTextResId": 1129651, 
   "catalogueGroup": {
     "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
@@ -28,17 +27,107 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CVI 75 a", 
   "foreignTitle": null, 
   "groupTitle": "Derbyshire Sketchbook [Finberg CVI]", 
+  "height": "185", 
   "id": 34616, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 158, 
-  "popularity": 21, 
   "subjectCount": 6, 
-  "title": "Broken Wall among Trees on a River Bank"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement", 
+                "workCount": 133
+              }, 
+              {
+                "id": 9016, 
+                "name": "turret", 
+                "workCount": 56
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07227_8.jpg", 
+  "title": "Broken Wall among Trees on a River Bank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-broken-wall-among-trees-on-a-river-bank-d07227", 
+  "width": "108"
 }

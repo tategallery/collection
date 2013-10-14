@@ -1,6 +1,5 @@
 {
   "acno": "D24506", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24500-D24565; D41261", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 118 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVIII 4", 
   "foreignTitle": null, 
   "groupTitle": "Dieppe, Rouen and Paris Sketchbook [Finberg CCLVIII]", 
+  "height": "123", 
   "id": 51843, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 62, 
   "subjectCount": 5, 
-  "title": "Castle on Rock. (?Tancarville)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 8832, 
+                "name": "Tancarville, Ch\u00e2teau de Tancarville", 
+                "workCount": 26
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24506_8.jpg", 
+  "title": "Castle on Rock. (?Tancarville)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-tancarville-d24506", 
+  "width": "118"
 }

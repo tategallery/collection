@@ -1,6 +1,5 @@
 {
   "acno": "D06489", 
-  "addlImageCount": 0, 
   "catTextResId": 1130685, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
@@ -28,17 +27,102 @@
     "text": "c.1807-8"
   }, 
   "dateText": "c.1807-8", 
+  "depth": "", 
   "dimensions": "support: 115 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "XCIX 74 a", 
   "foreignTitle": null, 
   "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "height": "190", 
   "id": 33880, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 158, 
-  "popularity": 21, 
   "subjectCount": 5, 
-  "title": "A Dentist's Shop: Study for 'The Unpaid Bill, or the Dentist Reproving his Son's Prodigality'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12088, 
+                "name": "dentist", 
+                "workCount": 1
+              }, 
+              {
+                "id": 2828, 
+                "name": "doctor", 
+                "workCount": 26
+              }
+            ], 
+            "id": 127, 
+            "name": "medical", 
+            "workCount": 48
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11206, 
+                "name": "interior - non-specific", 
+                "workCount": 36
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06489_8_R.jpg", 
+  "title": "A Dentist's Shop: Study for 'The Unpaid Bill, or the Dentist Reproving his Son's Prodigality'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-dentists-shop-study-for-the-unpaid-bill-or-the-dentist-reproving-his-sons-prodigality-d06489", 
+  "width": "115"
 }

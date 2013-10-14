@@ -1,6 +1,5 @@
 {
   "acno": "T07160", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "2000", 
   "dimensions": "displayed: 40 x 2000 x 2000 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2000", 
   "id": 21782, 
   "inscription": null, 
   "medium": "Marble", 
@@ -51,7 +51,91 @@
       "workCount": 58
     }
   ], 
-  "popularity": 1798, 
   "subjectCount": 5, 
-  "title": "Small White Pebble Circles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4678, 
+                "name": "ripple", 
+                "workCount": 28
+              }, 
+              {
+                "id": 2892, 
+                "name": "water", 
+                "workCount": 47
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone", 
+                "workCount": 72
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07160_8.jpg", 
+  "title": "Small White Pebble Circles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-small-white-pebble-circles-t07160", 
+  "width": "40"
 }

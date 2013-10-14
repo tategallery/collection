@@ -1,6 +1,5 @@
 {
   "acno": "T11457", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11448-T11486; T11633-T11636; T11723", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,69 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 162 x 303 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A New Method for Assisting the Invention in the Composition of Landscape", 
+  "height": "303", 
   "id": 25620, 
   "inscription": null, 
   "medium": "Aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 3, 
-  "title": "10. A Track Proceeding Forward from the Eye, Bounded by Groups of Objects"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11457_8.jpg", 
+  "title": "10. A Track Proceeding Forward from the Eye, Bounded by Groups of Objects", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-10-a-track-proceeding-forward-from-the-eye-bounded-by-groups-of-objects-t11457", 
+  "width": "162"
 }

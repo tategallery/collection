@@ -1,6 +1,5 @@
 {
   "acno": "AR00612", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "image: 320 x 382 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "382", 
   "id": 97435, 
   "inscription": null, 
   "medium": "Ink and dye on paper on board", 
@@ -41,7 +41,113 @@
       "workCount": 248
     }
   ], 
-  "popularity": 26, 
   "subjectCount": 8, 
-  "title": "Instruments with Hands"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17654, 
+                "name": "clapping", 
+                "workCount": 3
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3061, 
+                "name": "instrument, drum", 
+                "workCount": 47
+              }, 
+              {
+                "id": 5405, 
+                "name": "instrument, keyboard", 
+                "workCount": 3
+              }, 
+              {
+                "id": 754, 
+                "name": "instrument, stringed", 
+                "workCount": 38
+              }, 
+              {
+                "id": 2521, 
+                "name": "instrument, trumpet", 
+                "workCount": 25
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music", 
+                "workCount": 317
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00612_8.jpg", 
+  "title": "Instruments with Hands", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-instruments-with-hands-ar00612", 
+  "width": "320"
 }

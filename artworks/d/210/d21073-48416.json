@@ -1,6 +1,5 @@
 {
   "acno": "D21073", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20990-D21015; D21018-D21132; D41001-D41003", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 145 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXX 42 a", 
   "foreignTitle": null, 
   "groupTitle": "Lyons to Marseilles Sketchbook [Finberg CCXXX]", 
+  "height": "111", 
   "id": 48416, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 88, 
-  "popularity": 10, 
   "subjectCount": 4, 
-  "title": "Castle on Rock. Ch\u00e2teau ?Le Dinoir [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21073_8.jpg", 
+  "title": "Castle on Rock. Ch\u00e2teau ?Le Dinoir [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-chateau-le-dinoir-turner-d21073", 
+  "width": "145"
 }

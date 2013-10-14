@@ -1,6 +1,5 @@
 {
   "acno": "D06329", 
-  "addlImageCount": 0, 
   "catTextResId": 1130513, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,102 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 182 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 122", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "117", 
   "id": 33720, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 245, 
-  "popularity": 40, 
   "subjectCount": 5, 
-  "title": "Willows by the River, a Ruined Building in the Distance to the Left: ?Ankerwycke Priory"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 2314, 
+                "name": "willow", 
+                "workCount": 23
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06329_8_R.jpg", 
+  "title": "Willows by the River, a Ruined Building in the Distance to the Left: ?Ankerwycke Priory", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-willows-by-the-river-a-ruined-building-in-the-distance-to-the-left-ankerwycke-priory-d06329", 
+  "width": "182"
 }

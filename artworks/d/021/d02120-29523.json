@@ -1,6 +1,5 @@
 {
   "acno": "D02120", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01993-D02177; D40765-D40771", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1799-1800"
   }, 
   "dateText": "1799-1800", 
+  "depth": "", 
   "dimensions": "support: 131 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "XLVI 83", 
   "foreignTitle": null, 
   "groupTitle": "Dolbadarn Sketchbook [Finberg XLVI]", 
+  "height": "78", 
   "id": 29523, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 169, 
-  "popularity": 18, 
   "subjectCount": 6, 
-  "title": "A Group of Figures in a Storm, for an Historical Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 1070, 
+                "name": "gesticulating", 
+                "workCount": 101
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02120_8.jpg", 
+  "title": "A Group of Figures in a Storm, for an Historical Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-group-of-figures-in-a-storm-for-an-historical-composition-d02120", 
+  "width": "131"
 }

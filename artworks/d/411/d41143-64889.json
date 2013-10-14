@@ -1,6 +1,5 @@
 {
   "acno": "D41143", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35069-D35124; D41141-D41143", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 116 x 106 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Grindelwald Sketchbook [Finberg CCCXLVIII]", 
+  "height": "106", 
   "id": 64889, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 59, 
-  "popularity": 3, 
   "subjectCount": 1, 
-  "title": "Sketches of Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41143_8.jpg", 
+  "title": "Sketches of Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-of-mountains-d41143", 
+  "width": "116"
 }

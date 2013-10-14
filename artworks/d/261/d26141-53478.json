@@ -1,6 +1,5 @@
 {
   "acno": "D26141", 
-  "addlImageCount": 0, 
   "catTextResId": 1136069, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,59 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 24 a", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "181", 
   "id": 53478, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 50, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "St Mary's Loch, Selkirkshire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26141_8.jpg", 
+  "title": "St Mary's Loch, Selkirkshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-marys-loch-selkirkshire-d26141", 
+  "width": "111"
 }

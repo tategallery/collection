@@ -1,6 +1,5 @@
 {
   "acno": "D01785", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,69 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 174 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "XLII 110", 
   "foreignTitle": null, 
   "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "height": "125", 
   "id": 29190, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 112, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "A Ruined Castle above a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01785_8.jpg", 
+  "title": "A Ruined Castle above a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ruined-castle-above-a-river-d01785", 
+  "width": "174"
 }

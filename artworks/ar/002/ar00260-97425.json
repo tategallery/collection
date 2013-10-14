@@ -1,6 +1,5 @@
 {
   "acno": "AR00260", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "", 
   "dimensions": "image: 495 x 355 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "355", 
   "id": 97425, 
   "inscription": null, 
   "medium": "Ink, gold paint and dye on paper", 
@@ -41,7 +41,65 @@
       "workCount": 248
     }
   ], 
-  "popularity": 30, 
   "subjectCount": 4, 
-  "title": "Young Man with Heart"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }, 
+              {
+                "id": 3598, 
+                "name": "heart", 
+                "workCount": 25
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1696, 
+                "name": "looking up", 
+                "workCount": 104
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00260_8.jpg", 
+  "title": "Young Man with Heart", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-young-man-with-heart-ar00260", 
+  "width": "495"
 }

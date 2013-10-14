@@ -1,6 +1,5 @@
 {
   "acno": "D05540", 
-  "addlImageCount": 0, 
   "catTextResId": 1129853, 
   "catalogueGroup": {
     "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
@@ -28,17 +27,97 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 150 x 258 mm", 
-  "displayLocation": null, 
   "finberg": "XC 33 a", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures: Isleworth Sketchbook [Finberg XC]", 
+  "height": "258", 
   "id": 32932, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 68, 
-  "popularity": 17, 
   "subjectCount": 4, 
-  "title": "A Classical Harbour, with Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05540_8.jpg", 
+  "title": "A Classical Harbour, with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-classical-harbour-with-figures-d05540", 
+  "width": "150"
 }

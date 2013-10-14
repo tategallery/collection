@@ -1,6 +1,5 @@
 {
   "acno": "T06806", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "support: 388 x 291 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Bouteille et verre", 
   "groupTitle": null, 
+  "height": "291", 
   "id": 20864, 
   "inscription": null, 
   "medium": "Printed paper, graphite, oil paint, chalk on millboard", 
@@ -41,7 +41,91 @@
       "workCount": 44
     }
   ], 
-  "popularity": 346, 
   "subjectCount": 5, 
-  "title": "Bottle and Glass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 1074, 
+                "name": "drink, wine", 
+                "workCount": 32
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific", 
+                "workCount": 155
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06806_8.jpg", 
+  "title": "Bottle and Glass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/laurens-bottle-and-glass-t06806", 
+  "width": "388"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P02919", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02912-P02926", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 250 x 195 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Animals in the Zoo", 
+  "height": "195", 
   "id": 10171, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 62, 
   "subjectCount": 1, 
-  "title": "Leopard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4607, 
+                "name": "leopard", 
+                "workCount": 26
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02919_8.jpg", 
+  "title": "Leopard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-leopard-p02919", 
+  "width": "250"
 }

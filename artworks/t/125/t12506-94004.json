@@ -1,6 +1,5 @@
 {
   "acno": "T12506", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "800", 
   "dimensions": "support, each: 800 x 800 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "800", 
   "id": 94004, 
   "inscription": null, 
   "medium": "Acrylic paint on 3 canvases", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 2, 
-  "title": "Rhythm from Three Intervals"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12506_8.jpg", 
+  "title": "Rhythm from Three Intervals", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saunders-rhythm-from-three-intervals-t12506", 
+  "width": "each:"
 }

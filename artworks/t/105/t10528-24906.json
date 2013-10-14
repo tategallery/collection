@@ -1,6 +1,5 @@
 {
   "acno": "T10528", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,59 +17,62 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 123 x 148 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "148", 
   "id": 24906, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T10528_144473", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10528_144473_7.jpg", 
-          "height": 107, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10528_144473_8.jpg", 
-          "height": 214, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10528_144473_9.jpg", 
-          "height": 428, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10528_144473_10.jpg", 
-          "height": 1284, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "[title not known] Verso: Sketch of Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1215, 
+                "name": "arms folded", 
+                "workCount": 84
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10528_8.jpg", 
+  "title": "[title not known] Verso: Sketch of Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-title-not-known-verso-sketch-of-castle-t10528", 
+  "width": "123"
 }

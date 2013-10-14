@@ -1,6 +1,5 @@
 {
   "acno": "T01200", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "213", 
   "dimensions": "object: 1492 x 1099 x 213 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1099", 
   "id": 14516, 
   "inscription": null, 
   "medium": "Plastic and Perspex", 
@@ -44,7 +41,41 @@
       "workCount": 52
     }
   ], 
-  "popularity": 242, 
   "subjectCount": 2, 
-  "title": "Anabasis I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01200_8.jpg", 
+  "title": "Anabasis I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tucker-anabasis-i-t01200", 
+  "width": "1492"
 }

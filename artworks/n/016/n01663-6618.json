@@ -1,6 +1,5 @@
 {
   "acno": "N01663", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1741"
   }, 
   "dateText": "1741", 
+  "depth": "", 
   "dimensions": "support: 762 x 635 mm\r\nframe: 1037 x 916 x 122 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "635", 
   "id": 6618, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,101 @@
       "workCount": 15
     }
   ], 
-  "popularity": 210, 
   "subjectCount": 7, 
-  "title": "Mrs Salter"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4040, 
+                "name": "Salter, Elizabeth", 
+                "workCount": 1
+              }, 
+              {
+                "id": 4041, 
+                "name": "Secker, Elizabeth", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5689, 
+                "name": "cartouche", 
+                "workCount": 20
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress", 
+                "workCount": 212
+              }, 
+              {
+                "id": 629, 
+                "name": "jewellery", 
+                "workCount": 82
+              }, 
+              {
+                "id": 7842, 
+                "name": "lace", 
+                "workCount": 11
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01663_8.jpg", 
+  "title": "Mrs Salter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hogarth-mrs-salter-n01663", 
+  "width": "762"
 }

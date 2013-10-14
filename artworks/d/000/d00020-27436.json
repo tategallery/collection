@@ -1,6 +1,5 @@
 {
   "acno": "D00020", 
-  "addlImageCount": 0, 
   "catTextResId": 1140174, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,47 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 160 x 249 mm", 
-  "displayLocation": null, 
   "finberg": "II 8 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "249", 
   "id": 27436, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 19, 
   "subjectCount": 1, 
-  "title": "Study of a Stag Seen from the Front"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer", 
+                "workCount": 123
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00020_8.jpg", 
+  "title": "Study of a Stag Seen from the Front", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-stag-seen-from-the-front-d00020", 
+  "width": "160"
 }

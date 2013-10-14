@@ -1,6 +1,5 @@
 {
   "acno": "P77505", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77496-P77505", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "image: 598 x 799 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Untitled", 
+  "height": "799", 
   "id": 20218, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 56, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77505_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/judd-no-title-p77505", 
+  "width": "598"
 }

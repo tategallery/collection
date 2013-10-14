@@ -1,6 +1,5 @@
 {
   "acno": "D40631", 
-  "addlImageCount": 0, 
   "catTextResId": 1131057, 
   "catalogueGroup": {
     "accessionRanges": "D05717-D05765; D40631; D40633; D40660", 
@@ -28,17 +27,47 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 153 x 216 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Sussex Sketchbook [Finberg XCII]", 
+  "height": "216", 
   "id": 64380, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 50, 
-  "popularity": 13, 
   "subjectCount": 1, 
-  "title": "?Downs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40631_8_R.jpg", 
+  "title": "?Downs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-downs-d40631", 
+  "width": "153"
 }

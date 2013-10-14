@@ -1,6 +1,5 @@
 {
   "acno": "P07106", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07104-P07110", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "image: 615 x 797 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fragments", 
+  "height": "797", 
   "id": 12591, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on Perspex", 
@@ -47,7 +47,60 @@
       "workCount": 57
     }
   ], 
-  "popularity": 860, 
   "subjectCount": 3, 
-  "title": "Fragment 3/11"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6741, 
+                "name": "visual illusion", 
+                "workCount": 99
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07106_8.jpg", 
+  "title": "Fragment 3/11", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-fragment-311-p07106", 
+  "width": "615"
 }

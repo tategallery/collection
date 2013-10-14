@@ -1,6 +1,5 @@
 {
   "acno": "T00734", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1931"
   }, 
   "dateText": "1931", 
+  "depth": "", 
   "dimensions": "support: 660 x 508 mm\r\nframe: 673 x 825 x 90 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 10551, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,101 @@
       "workCount": 33
     }
   ], 
-  "popularity": 413, 
   "subjectCount": 7, 
-  "title": "Kinetic Feature"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00734_8.jpg", 
+  "title": "Kinetic Feature", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-kinetic-feature-t00734", 
+  "width": "660"
 }

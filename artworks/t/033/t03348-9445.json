@@ -1,6 +1,5 @@
 {
   "acno": "T03348", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,100 @@
     "text": "c.1945-50"
   }, 
   "dateText": "c.1945-50", 
+  "depth": "", 
   "dimensions": "support: 613 x 1070 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1070", 
   "id": 9445, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 145, 
   "subjectCount": 5, 
-  "title": "Sleeping Woman in a Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03348_8.jpg", 
+  "title": "Sleeping Woman in a Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/meninsky-sleeping-woman-in-a-landscape-t03348", 
+  "width": "613"
 }

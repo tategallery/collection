@@ -1,6 +1,5 @@
 {
   "acno": "T08271", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,76 @@
     "text": "1829"
   }, 
   "dateText": "1829", 
+  "depth": "", 
   "dimensions": "support: 178 x 124 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "124", 
   "id": 23434, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T08271_141197", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08271_141197_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 88
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08271_141197_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 176
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08271_141197_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 352
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08271_141197_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1057
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Graphite, gouache and watercolour on paper. Verso: graphite and ink on paper", 
   "movementCount": 0, 
-  "popularity": 78, 
   "subjectCount": 3, 
-  "title": "Portrait of Henry Walter. Verso: Profile of a Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9635, 
+                "name": "Walter, Henry", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 198, 
+                "name": "artist - non-specific", 
+                "workCount": 74
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08271_8.jpg", 
+  "title": "Portrait of Henry Walter. Verso: Profile of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richmond-portrait-of-henry-walter-verso-profile-of-a-woman-t08271", 
+  "width": "178"
 }

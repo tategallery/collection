@@ -1,6 +1,5 @@
 {
   "acno": "D32040", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31929-D31936; D31938-D32053; D32055-D32097; D32099-D32116; D41113-D41114", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 203 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIV 58 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice Sketchbook [Finberg CCCXIV]", 
+  "height": "109", 
   "id": 59259, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 4, 
   "subjectCount": 1, 
-  "title": "Head and Bust of Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32040_8.jpg", 
+  "title": "Head and Bust of Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-head-and-bust-of-woman-d32040", 
+  "width": "203"
 }

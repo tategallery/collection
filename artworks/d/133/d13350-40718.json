@@ -1,6 +1,5 @@
 {
   "acno": "D13350", 
-  "addlImageCount": 0, 
   "catTextResId": 1131892, 
   "catalogueGroup": {
     "accessionRanges": "D13322-D13448; D40682-D40684", 
@@ -28,17 +27,52 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 99 x 159 mm", 
-  "displayLocation": null, 
   "finberg": "CLXV 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Bass Rock and Edinburgh Sketchbook [Finberg CLXV]", 
+  "height": "159", 
   "id": 40718, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "Rock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13350_8.jpg", 
+  "title": "Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-rock-d13350", 
+  "width": "99"
 }

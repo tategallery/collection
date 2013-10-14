@@ -1,6 +1,5 @@
 {
   "acno": "P04512", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 502 x 365 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "365", 
   "id": 8071, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,86 @@
       "workCount": 377
     }
   ], 
-  "popularity": 93, 
   "subjectCount": 4, 
-  "title": "Baghdad"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5878, 
+                "name": "Baghdad", 
+                "workCount": 2
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 5879, 
+                "name": "Iraq", 
+                "workCount": 19
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04512_8.jpg", 
+  "title": "Baghdad", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-baghdad-p04512", 
+  "width": "502"
 }

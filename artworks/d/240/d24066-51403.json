@@ -1,6 +1,5 @@
 {
   "acno": "D24066", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23886-D24076; D41070", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 174 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIV 93 a", 
   "foreignTitle": null, 
   "groupTitle": "Seine and Paris Sketchbook [Finberg CCLIV]", 
+  "height": "117", 
   "id": 51403, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 188, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Street Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24066_8.jpg", 
+  "title": "Street Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-d24066", 
+  "width": "174"
 }

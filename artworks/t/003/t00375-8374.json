@@ -1,6 +1,5 @@
 {
   "acno": "T00375", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 1829 x 1524 mm\r\nframe: 1840 x 1535 x 52 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1524", 
   "id": 8374, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,115 @@
       "workCount": 409
     }
   ], 
-  "popularity": 594, 
   "subjectCount": 7, 
-  "title": "Thermal"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }, 
+              {
+                "id": 5716, 
+                "name": "thermal", 
+                "workCount": 1
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural", 
+                "workCount": 539
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13562, 
+                "name": "gliding", 
+                "workCount": 3
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00375_8.jpg", 
+  "title": "Thermal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lanyon-thermal-t00375", 
+  "width": "1829"
 }

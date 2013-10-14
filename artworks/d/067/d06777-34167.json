@@ -1,6 +1,5 @@
 {
   "acno": "D06777", 
-  "addlImageCount": 0, 
   "catTextResId": 1130870, 
   "catalogueGroup": {
     "accessionRanges": "D06721-D06829; D40666-D40668", 
@@ -28,17 +27,52 @@
     "text": "c.1808"
   }, 
   "dateText": "c.1808", 
+  "depth": "", 
   "dimensions": "support: 76 x 115 mm", 
-  "displayLocation": null, 
   "finberg": "CII 29 a", 
   "foreignTitle": null, 
   "groupTitle": "Greenwich Sketchbook [Finberg CII]", 
+  "height": "115", 
   "id": 34167, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 60, 
-  "popularity": 31, 
   "subjectCount": 2, 
-  "title": "Thames Barges"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06777_8.jpg", 
+  "title": "Thames Barges", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-thames-barges-d06777", 
+  "width": "76"
 }

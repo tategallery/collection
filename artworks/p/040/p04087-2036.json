@@ -1,6 +1,5 @@
 {
   "acno": "P04087", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 711 x 937 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "937", 
   "id": 2036, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 159, 
   "subjectCount": 1, 
-  "title": "Loudspeaker"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13213, 
+                "name": "loudspeaker", 
+                "workCount": 5
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04087_8.jpg", 
+  "title": "Loudspeaker", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-loudspeaker-p04087", 
+  "width": "711"
 }

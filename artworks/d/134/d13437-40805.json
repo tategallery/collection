@@ -1,6 +1,5 @@
 {
   "acno": "D13437", 
-  "addlImageCount": 0, 
   "catTextResId": 1131983, 
   "catalogueGroup": {
     "accessionRanges": "D13322-D13448; D40682-D40684", 
@@ -28,17 +27,76 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 99 x 159 mm", 
-  "displayLocation": null, 
   "finberg": "CLXV 63", 
   "foreignTitle": null, 
   "groupTitle": "Bass Rock and Edinburgh Sketchbook [Finberg CLXV]", 
+  "height": "159", 
   "id": 40805, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 131, 
-  "popularity": 19, 
   "subjectCount": 4, 
-  "title": "Buildings: The Calton Gaol and Edinburgh High Street"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement", 
+                "workCount": 133
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }, 
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13437_8_R.jpg", 
+  "title": "Buildings: The Calton Gaol and Edinburgh High Street", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-the-calton-gaol-and-edinburgh-high-street-d13437", 
+  "width": "99"
 }

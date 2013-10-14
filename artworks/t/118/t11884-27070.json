@@ -1,6 +1,5 @@
 {
   "acno": "T11884", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "4000", 
   "dimensions": "displayed: 370 x 4000 x 4000 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4000", 
   "id": 27070, 
   "inscription": null, 
   "medium": "Slate", 
@@ -51,7 +51,98 @@
       "workCount": 58
     }
   ], 
-  "popularity": 1530, 
   "subjectCount": 5, 
-  "title": "Red Slate Circle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16348, 
+                "name": "USA, New York", 
+                "workCount": 18
+              }, 
+              {
+                "id": 4323, 
+                "name": "USA, Vermont", 
+                "workCount": 2
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature", 
+                "workCount": 129
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4645, 
+                "name": "slate", 
+                "workCount": 19
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11884_8.jpg", 
+  "title": "Red Slate Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-red-slate-circle-t11884", 
+  "width": "370"
 }

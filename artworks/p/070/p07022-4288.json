@@ -1,6 +1,5 @@
 {
   "acno": "P07022", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 230 x 330 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "330", 
   "id": 4288, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,86 @@
       "workCount": 478
     }
   ], 
-  "popularity": 44, 
   "subjectCount": 4, 
-  "title": "The Washington Fountain [collaboration with Karl Torok]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture", 
+                "workCount": 386
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07022_8.jpg", 
+  "title": "The Washington Fountain [collaboration with Karl Torok]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-the-washington-fountain-collaboration-with-karl-torok-p07022", 
+  "width": "230"
 }

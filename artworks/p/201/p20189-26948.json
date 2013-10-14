@@ -1,6 +1,5 @@
 {
   "acno": "P20189", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20185-P20190", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 277 x 213 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "NOT", 
+  "height": "213", 
   "id": 26948, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 41, 
   "subjectCount": 2, 
-  "title": "V"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20189_8.jpg", 
+  "title": "V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/karshan-v-p20189", 
+  "width": "277"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D04874", 
-  "addlImageCount": 0, 
   "catTextResId": 1133578, 
   "catalogueGroup": {
     "accessionRanges": "D04797-D04814; D04816-D04874; D40661", 
@@ -28,17 +27,66 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 198 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVIII 74 a", 
   "foreignTitle": null, 
   "groupTitle": "Swiss Figures Sketchbook [Finberg LXXVIII]", 
+  "height": "163", 
   "id": 32266, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 150, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04874_8.jpg", 
+  "title": "Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-d04874", 
+  "width": "198"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T07592", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1988-9"
   }, 
   "dateText": "1988-9", 
+  "depth": "1040", 
   "dimensions": "unconfirmed: 2390 x 1205 x 1040 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1205", 
   "id": 26952, 
   "inscription": null, 
   "medium": "Sandstone and pigment", 
@@ -41,7 +41,60 @@
       "workCount": 44
     }
   ], 
-  "popularity": 624, 
   "subjectCount": 3, 
-  "title": "Adam"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1557, 
+                "name": "Adam", 
+                "workCount": 27
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament", 
+            "workCount": 290
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07592_8.jpg", 
+  "title": "Adam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kapoor-adam-t07592", 
+  "width": "2390"
 }

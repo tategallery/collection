@@ -1,6 +1,5 @@
 {
   "acno": "P78297", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78291-P78298", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "", 
   "dimensions": "image: 737 x 888 mm\r\nimage: 737 x 888 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Kilometre Theatre and Seven Other Seminal Achitectural Projects", 
+  "height": "888", 
   "id": 26589, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,84 @@
       "workCount": 26
     }
   ], 
-  "popularity": 75, 
   "subjectCount": 5, 
-  "title": "Storehouse/Starehouse of Art"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan", 
+                "workCount": 90
+              }, 
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5176, 
+                "name": "museum", 
+                "workCount": 43
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78297_8.jpg", 
+  "title": "Storehouse/Starehouse of Art", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mclean-storehousestarehouse-of-art-p78297", 
+  "width": "737"
 }

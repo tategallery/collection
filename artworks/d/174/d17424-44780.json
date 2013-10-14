@@ -1,6 +1,5 @@
 {
   "acno": "D17424", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17365-D17507; D40691-D40693", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 112 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIX 36 a", 
   "foreignTitle": null, 
   "groupTitle": "Medway Sketchbook [Finberg CXCIX]", 
+  "height": "190", 
   "id": 44780, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "popularity": 35, 
   "subjectCount": 4, 
-  "title": "Uniform of Marine, an Officer's Cocked Hat, a Port-Hole with Mouth of Guns Protruding, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery", 
+                "workCount": 70
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }, 
+          {
+            "children": [
+              {
+                "id": 5446, 
+                "name": "uniform", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13383, 
+                "name": "marine", 
+                "workCount": 1
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17424_8.jpg", 
+  "title": "Uniform of Marine, an Officer's Cocked Hat, a Port-Hole with Mouth of Guns Protruding, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-uniform-of-marine-an-officers-cocked-hat-a-port-hole-with-mouth-of-guns-protruding-etc-d17424", 
+  "width": "112"
 }

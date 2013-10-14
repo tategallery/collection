@@ -1,6 +1,5 @@
 {
   "acno": "P77865", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 734 x 548 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "548", 
   "id": 21666, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 84, 
   "subjectCount": 3, 
-  "title": "Portrait Head and Neck"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1696, 
+                "name": "looking up", 
+                "workCount": 104
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77865_8.jpg", 
+  "title": "Portrait Head and Neck", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bevan-portrait-head-and-neck-p77865", 
+  "width": "734"
 }

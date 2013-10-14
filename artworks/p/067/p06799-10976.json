@@ -1,6 +1,5 @@
 {
   "acno": "P06799", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,55 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 660 x 486 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "486", 
   "id": 10976, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "Four Birds"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7670, 
+                "name": "bird of prey", 
+                "workCount": 17
+              }, 
+              {
+                "id": 930, 
+                "name": "eagle", 
+                "workCount": 36
+              }, 
+              {
+                "id": 1623, 
+                "name": "owl", 
+                "workCount": 41
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06799_8.jpg", 
+  "title": "Four Birds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/organ-four-birds-p06799", 
+  "width": "660"
 }

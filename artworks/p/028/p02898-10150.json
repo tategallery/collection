@@ -1,6 +1,5 @@
 {
   "acno": "P02898", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "1971, published 1978"
   }, 
   "dateText": "1971, published 1978", 
+  "depth": "", 
   "dimensions": "image: 149 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "152", 
   "id": 10150, 
   "inscription": null, 
   "medium": "Etching, aquatint and drypoint on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 3, 
-  "title": "Tunnel Arch and Window"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 5848, 
+                "name": "tunnel", 
+                "workCount": 30
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02898_8.jpg", 
+  "title": "Tunnel Arch and Window", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-tunnel-arch-and-window-p02898", 
+  "width": "149"
 }

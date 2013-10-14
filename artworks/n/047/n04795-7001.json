@@ -1,6 +1,5 @@
 {
   "acno": "N04795", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "c.1914-18"
   }, 
   "dateText": "c.1914-18", 
+  "depth": "", 
   "dimensions": "support: 457 x 381 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "381", 
   "id": 7001, 
   "inscription": null, 
   "medium": "Oil paint on plywood", 
   "movementCount": 0, 
-  "popularity": 321, 
   "subjectCount": 5, 
-  "title": "Kitchen Utensils"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }, 
+              {
+                "id": 19668, 
+                "name": "cauldron", 
+                "workCount": 24
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 3578, 
+                "name": "cupboard", 
+                "workCount": 35
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1032, 
+                "name": "vegetable - non-specific", 
+                "workCount": 37
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3256, 
+                "name": "kitchen", 
+                "workCount": 42
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04795_8.jpg", 
+  "title": "Kitchen Utensils", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hunter-kitchen-utensils-n04795", 
+  "width": "457"
 }

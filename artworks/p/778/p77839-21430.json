@@ -1,6 +1,5 @@
 {
   "acno": "P77839", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P77769-P77770; P77773-P77781; P77788-P77799; P77839-P77850", 
     "completeStatus": "INCOMPLETE", 
@@ -27,55 +26,12 @@
     "text": "1985"
   }, 
   "dateText": "1985", 
+  "depth": "", 
   "dimensions": "image: 166 x 255 mm\r\nimage: 195 x 195 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Proposals", 
+  "height": "255", 
   "id": 21430, 
-  "images": [
-    {
-      "copyright": "\u00a9 Estate of Ian Hamilton Finlay", 
-      "filenameBase": "P77839_121324", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P77/P77839_121324_7.jpg", 
-          "height": 110, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P77/P77839_121324_8.jpg", 
-          "height": 220, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P77/P77839_121324_9.jpg", 
-          "height": 440, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P77/P77839_121324_10.jpg", 
-          "height": 1320, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 1, 
@@ -91,7 +47,79 @@
       "workCount": 478
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 4, 
-  "title": "Gateway to a Grove"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77839_8.jpg", 
+  "title": "Gateway to a Grove", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-gateway-to-a-grove-p77839", 
+  "width": "166"
 }

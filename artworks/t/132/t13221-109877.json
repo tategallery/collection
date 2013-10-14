@@ -1,6 +1,5 @@
 {
   "acno": "T13221", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,62 +20,45 @@
     "text": "2009"
   }, 
   "dateText": "2009", 
+  "depth": "2100", 
   "dimensions": "object: 2880 x 2200 x 2100 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2200", 
   "id": 109877, 
-  "images": [
-    {
-      "copyright": "\u00a9 Eva Rothschild", 
-      "filenameBase": "T13221_298877", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T13/T13221_298877_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 83
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T13/T13221_298877_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 167
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T13/T13221_298877_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 475
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T13/T13221_298877_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 999
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Powder coated aluminium and Perspex", 
   "movementCount": 0, 
-  "popularity": 352, 
   "subjectCount": 1, 
-  "title": "Legend"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13221_8.jpg", 
+  "title": "Legend", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothschild-legend-t13221", 
+  "width": "2880"
 }

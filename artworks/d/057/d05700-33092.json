@@ -1,6 +1,5 @@
 {
   "acno": "D05700", 
-  "addlImageCount": 0, 
   "catTextResId": 1131011, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
@@ -28,17 +27,90 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 128 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "XCI 83", 
   "foreignTitle": null, 
   "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "height": "201", 
   "id": 33092, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 167, 
-  "popularity": 25, 
   "subjectCount": 4, 
-  "title": "Bayham Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05700_8_R.jpg", 
+  "title": "Bayham Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bayham-abbey-d05700", 
+  "width": "128"
 }

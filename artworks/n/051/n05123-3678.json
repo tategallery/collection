@@ -1,6 +1,5 @@
 {
   "acno": "N05123", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "", 
   "dimensions": "support: 406 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 3678, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 2, 
-  "title": "Sheep's Skull and Ferns"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8485, 
+                "name": "fern", 
+                "workCount": 17
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 1851, 
+                "name": "skull", 
+                "workCount": 66
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05123_8.jpg", 
+  "title": "Sheep's Skull and Ferns", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dean-sheeps-skull-and-ferns-n05123", 
+  "width": "406"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D26428", 
-  "addlImageCount": 0, 
   "catTextResId": 1136358, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,59 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIX 88", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "190", 
   "id": 53765, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 177, 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "North Bridge, Edinburgh"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26428_8.jpg", 
+  "title": "North Bridge, Edinburgh", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-north-bridge-edinburgh-d26428", 
+  "width": "113"
 }

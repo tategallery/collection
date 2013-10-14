@@ -1,6 +1,5 @@
 {
   "acno": "D10937", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1815-16"
   }, 
   "dateText": "c.1815-16", 
+  "depth": "", 
   "dimensions": "support: 154 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CXLIV 37 a", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
+  "height": "97", 
   "id": 38312, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 78, 
-  "popularity": 63, 
   "subjectCount": 2, 
-  "title": "Architectural Details"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1011, 
+                "name": "balustrade", 
+                "workCount": 91
+              }, 
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10937_8.jpg", 
+  "title": "Architectural Details", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-architectural-details-d10937", 
+  "width": "154"
 }

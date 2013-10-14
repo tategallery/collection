@@ -1,6 +1,5 @@
 {
   "acno": "T12176", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,59 +20,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "570", 
   "dimensions": "displayed: 935 x 830 x 570 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "830", 
   "id": 88173, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T12176_284877", 
-      "sizes": [
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12176_284877_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 101
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12176_284877_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 202
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12176_284877_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 405
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12176_284877_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1214
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Table, metal cabinet, 1000 cards and thread", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "1000 mm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17500, 
+                "name": "card index", 
+                "workCount": 2
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12176_8.jpg", 
+  "title": "1000 mm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brouwn-1000-mm-t12176", 
+  "width": "935"
 }

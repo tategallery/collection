@@ -1,6 +1,5 @@
 {
   "acno": "D24344", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24168-D24499; D40603-D40604; D40622-D40623", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 175 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVII 90 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris and Environs Sketchbook [Finberg CCLVII]", 
+  "height": "127", 
   "id": 51681, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 182, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24344_8.jpg", 
+  "title": "Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-d24344", 
+  "width": "175"
 }

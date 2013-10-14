@@ -1,6 +1,5 @@
 {
   "acno": "D14575", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14489-D14652; D40893-D40897", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 111 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVI 43 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice to Ancona Sketchbook [Finberg CLXXVI]", 
+  "height": "184", 
   "id": 41937, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 96, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "A Gateway"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14575_8_R.jpg", 
+  "title": "A Gateway", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-gateway-d14575", 
+  "width": "111"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D25345", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,75 @@
     "text": "c.1820-30"
   }, 
   "dateText": "c.1820-30", 
+  "depth": "", 
   "dimensions": "support: 187 x 280 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIII 223", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "280", 
   "id": 52682, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "A River, with Steep and Wooded Banks"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25345_8.jpg", 
+  "title": "A River, with Steep and Wooded Banks", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-with-steep-and-wooded-banks-d25345", 
+  "width": "187"
 }

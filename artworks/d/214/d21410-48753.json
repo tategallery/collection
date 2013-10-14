@@ -1,6 +1,5 @@
 {
   "acno": "D21410", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21271-D21411; D41043-D41044", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 159 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXII 76", 
   "foreignTitle": null, 
   "groupTitle": "Coast of Genoa Sketchbook [Finberg CCXXXII]", 
+  "height": "98", 
   "id": 48753, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 153, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "Doorway, Column, and Other Sketches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }, 
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21410_8.jpg", 
+  "title": "Doorway, Column, and Other Sketches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-doorway-column-and-other-sketches-d21410", 
+  "width": "159"
 }

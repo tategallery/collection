@@ -1,6 +1,5 @@
 {
   "acno": "D25539", 
-  "addlImageCount": 0, 
   "catTextResId": 1133898, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
@@ -28,17 +27,83 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 74 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIV 8 a", 
   "foreignTitle": null, 
   "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "height": "94", 
   "id": 52876, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25539_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d25539", 
+  "width": "74"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D23321", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23246-D23335; D41040-D41042", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 153 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLIX 39", 
   "foreignTitle": null, 
   "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook [Finberg CCXLIX]", 
+  "height": "103", 
   "id": 50658, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 83, 
-  "popularity": 58, 
   "subjectCount": 3, 
-  "title": "Paris: The Pont du Passy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 14169, 
+                "name": "Paris, Pont du Passy", 
+                "workCount": 2
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23321_8_R.jpg", 
+  "title": "Paris: The Pont du Passy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-paris-the-pont-du-passy-d23321", 
+  "width": "153"
 }

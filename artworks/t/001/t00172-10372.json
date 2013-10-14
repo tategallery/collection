@@ -1,6 +1,5 @@
 {
   "acno": "T00172", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1935-6"
   }, 
   "dateText": "c.1935-6", 
+  "depth": "", 
   "dimensions": "support: 457 x 356 mm\r\nframe: 555 x 454 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "356", 
   "id": 10372, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 7
     }
   ], 
-  "popularity": 291, 
   "subjectCount": 1, 
-  "title": "Objective Abstraction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00172_8.jpg", 
+  "title": "Objective Abstraction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moynihan-objective-abstraction-t00172", 
+  "width": "457"
 }

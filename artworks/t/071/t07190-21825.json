@@ -1,6 +1,5 @@
 {
   "acno": "T07190", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "2800", 
   "dimensions": "unconfirmed: 2000 x 2000 x 2800 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2000", 
   "id": 21825, 
   "inscription": null, 
   "medium": "Painted wood", 
@@ -41,7 +41,60 @@
       "workCount": 44
     }
   ], 
-  "popularity": 299, 
   "subjectCount": 3, 
-  "title": "It Is Believed That Some Dinosaurs Could Run Faster Than a Cheetah"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2476, 
+                "name": "contemporary society", 
+                "workCount": 226
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07190_8.jpg", 
+  "title": "It Is Believed That Some Dinosaurs Could Run Faster Than a Cheetah", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/opie-it-is-believed-that-some-dinosaurs-could-run-faster-than-a-cheetah-t07190", 
+  "width": "2000"
 }

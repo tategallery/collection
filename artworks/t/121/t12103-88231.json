@@ -1,6 +1,5 @@
 {
   "acno": "T12103", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,57 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "50", 
   "dimensions": "object: 50 x 50 x 50 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "50", 
   "id": 88231, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T12103_298977", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12103_298977_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 100
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12103_298977_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 199
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12103_298977_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 568
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12103_298977_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1195
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Reduced stoneware", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Incense Box"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 18372, 
+                "name": "incense", 
+                "workCount": 1
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12103_8.jpg", 
+  "title": "Incense Box", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamada-incense-box-t12103", 
+  "width": "50"
 }

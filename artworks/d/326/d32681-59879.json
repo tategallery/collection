@@ -1,6 +1,5 @@
 {
   "acno": "D32681", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32664-D32682; D32684; D32686-D32707; D41033-D41034", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 161 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXIII 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Rhine Sketchbook [Finberg CCCXXIII]", 
+  "height": "97", 
   "id": 59879, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Buildings beside River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32681_8.jpg", 
+  "title": "Buildings beside River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-beside-river-d32681", 
+  "width": "161"
 }

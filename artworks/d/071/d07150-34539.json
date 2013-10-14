@@ -1,6 +1,5 @@
 {
   "acno": "D07150", 
-  "addlImageCount": 0, 
   "catTextResId": 1129576, 
   "catalogueGroup": {
     "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
@@ -28,17 +27,133 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CVI 15", 
   "foreignTitle": null, 
   "groupTitle": "Derbyshire Sketchbook [Finberg CVI]", 
+  "height": "185", 
   "id": 34539, 
   "inscription": null, 
   "medium": "Ink on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 52, 
   "subjectCount": 7, 
-  "title": "The Dove Aqueduct and the Trent and Mersey Canal, with a Barge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding", 
+                "workCount": 560
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07150_8.jpg", 
+  "title": "The Dove Aqueduct and the Trent and Mersey Canal, with a Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-dove-aqueduct-and-the-trent-and-mersey-canal-with-a-barge-d07150", 
+  "width": "108"
 }

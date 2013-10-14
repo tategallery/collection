@@ -1,6 +1,5 @@
 {
   "acno": "D23358", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 133 x 91 mm", 
-  "displayLocation": null, 
   "finberg": "CCL 13", 
   "foreignTitle": null, 
   "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "height": "91", 
   "id": 50695, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "A Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23358_8.jpg", 
+  "title": "A Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-town-d23358", 
+  "width": "133"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05662", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1905"
   }, 
   "dateText": "c.1905", 
+  "depth": "", 
   "dimensions": "support: 870 x 743 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "743", 
   "id": 1866, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,120 @@
       "workCount": 67
     }
   ], 
-  "popularity": 234, 
   "subjectCount": 8, 
-  "title": "Lady Strachey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3337, 
+                "name": "Grant, Jane Maria", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3338, 
+                "name": "Strachey, Jane Maria, Lady", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 1454, 
+                "name": "woman, old", 
+                "workCount": 125
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1889, 
+                "name": "collar", 
+                "workCount": 43
+              }, 
+              {
+                "id": 203, 
+                "name": "spectacles", 
+                "workCount": 126
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05662_8.jpg", 
+  "title": "Lady Strachey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bussy-lady-strachey-n05662", 
+  "width": "870"
 }

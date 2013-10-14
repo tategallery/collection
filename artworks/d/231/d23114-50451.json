@@ -1,6 +1,5 @@
 {
   "acno": "D23114", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23011-D23150; D40496-D40497; D40500", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 168 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLVII 63", 
   "foreignTitle": null, 
   "groupTitle": "Morlaise to Nantes Sketchbook [Finberg CCXLVII]", 
+  "height": "108", 
   "id": 50451, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "A Windmill and Church Tower, Perhaps near Nantes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23114_8.jpg", 
+  "title": "A Windmill and Church Tower, Perhaps near Nantes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-windmill-and-church-tower-perhaps-near-nantes-d23114", 
+  "width": "168"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P77300", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77294-P77300", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1989"
   }, 
   "dateText": "1989", 
+  "depth": "", 
   "dimensions": "image: 910 x 760 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seven Lithographs", 
+  "height": "760", 
   "id": 17336, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77300_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-brun-no-title-p77300", 
+  "width": "910"
 }

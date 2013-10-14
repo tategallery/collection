@@ -1,6 +1,5 @@
 {
   "acno": "D13891", 
-  "addlImageCount": 0, 
   "catTextResId": 1138709, 
   "catalogueGroup": {
     "accessionRanges": "D13859-D13878; D13880-D13924; D13926; D13928-D13933; D40673-D40676", 
@@ -28,17 +27,97 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 88 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXI 18", 
   "foreignTitle": null, 
   "groupTitle": "Route to Rome Sketchbook [Finberg CLXXI]", 
+  "height": "114", 
   "id": 41257, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 78, 
   "subjectCount": 4, 
-  "title": "Sketches by Turner of a View of Foligno, and a Figure Carrying a Pot; and Notes by James Hakewill on Travelling in Italy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11542, 
+                "name": "Foligno - non-specific", 
+                "workCount": 6
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13891_8.jpg", 
+  "title": "Sketches by Turner of a View of Foligno, and a Figure Carrying a Pot; and Notes by James Hakewill on Travelling in Italy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-by-turner-of-a-view-of-foligno-and-a-figure-carrying-a-pot-and-notes-by-james-hakewill-on-travelling-in-italy-d13891", 
+  "width": "88"
 }

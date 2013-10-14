@@ -1,6 +1,5 @@
 {
   "acno": "T01171", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960-4"
   }, 
   "dateText": "1960-4", 
+  "depth": "841", 
   "dimensions": "object: 762 x 841 x 841 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "841", 
   "id": 4808, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -41,7 +41,55 @@
       "workCount": 148
     }
   ], 
-  "popularity": 142, 
   "subjectCount": 2, 
-  "title": "Torsion (Project for a Fountain)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01171_8.jpg", 
+  "title": "Torsion (Project for a Fountain)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-torsion-project-for-a-fountain-t01171", 
+  "width": "762"
 }

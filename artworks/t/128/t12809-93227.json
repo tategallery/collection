@@ -1,6 +1,5 @@
 {
   "acno": "T12809", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "2002"
   }, 
   "dateText": "2002", 
+  "depth": "900", 
   "dimensions": "unconfirmed: 4600 x 900 x 900 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "900", 
   "id": 93227, 
   "inscription": null, 
   "medium": "Wood", 
   "movementCount": 0, 
-  "popularity": 239, 
   "subjectCount": 2, 
-  "title": "Table and Pillar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12809_8.jpg", 
+  "title": "Table and Pillar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ai-table-and-pillar-t12809", 
+  "width": "4600"
 }

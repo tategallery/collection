@@ -1,6 +1,5 @@
 {
   "acno": "AR00270", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "support: 340 x 303 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "303", 
   "id": 97436, 
   "inscription": null, 
   "medium": "Ink and tempera on paper", 
@@ -41,7 +41,72 @@
       "workCount": 248
     }
   ], 
-  "popularity": 32, 
   "subjectCount": 4, 
-  "title": "Six Handbags"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6928, 
+                "name": "advertising", 
+                "workCount": 237
+              }, 
+              {
+                "id": 6930, 
+                "name": "fashion", 
+                "workCount": 62
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3051, 
+                "name": "bag", 
+                "workCount": 53
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 11002, 
+                "name": "frame", 
+                "workCount": 17
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00270_8.jpg", 
+  "title": "Six Handbags", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-six-handbags-ar00270", 
+  "width": "340"
 }

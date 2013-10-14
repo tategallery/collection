@@ -1,6 +1,5 @@
 {
   "acno": "D22130", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21975-D22012; D22014-D22150; D41045-D41046; D41540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 120 x 203 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVIII 80", 
   "foreignTitle": null, 
   "groupTitle": "Kenilworth Sketchbook [Finberg CCXXXVIII]", 
+  "height": "203", 
   "id": 49468, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 165, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "Ruins of Castle, with Distant Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22130_8.jpg", 
+  "title": "Ruins of Castle, with Distant Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-of-castle-with-distant-town-d22130", 
+  "width": "120"
 }

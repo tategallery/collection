@@ -1,6 +1,5 @@
 {
   "acno": "T12656", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,208 @@
     "text": "c.1936-9"
   }, 
   "dateText": "c.1936-9", 
+  "depth": "", 
   "dimensions": "support: 254 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "152", 
   "id": 99362, 
-  "images": [
-    {
-      "copyright": "\u00a9 The estate of William Roberts", 
-      "filenameBase": "T12656_302080", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T12/T12656_302080_7.jpg", 
-          "height": 88, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T12/T12656_302080_8.jpg", 
-          "height": 175, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T12/T12656_302080_9.jpg", 
-          "height": 500, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T12/T12656_302080_10.jpg", 
-          "height": 1052, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 71, 
   "subjectCount": 14, 
-  "title": "Oboe Players"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4174, 
+                "name": "instrument, wind", 
+                "workCount": 8
+              }, 
+              {
+                "id": 4563, 
+                "name": "metronome", 
+                "workCount": 8
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 844, 
+                "name": "rug", 
+                "workCount": 61
+              }, 
+              {
+                "id": 2576, 
+                "name": "stool", 
+                "workCount": 79
+              }, 
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music", 
+                "workCount": 317
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1617, 
+                "name": "musician", 
+                "workCount": 82
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15436, 
+                "name": "shutters", 
+                "workCount": 7
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12656_8.jpg", 
+  "title": "Oboe Players", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roberts-oboe-players-t12656", 
+  "width": "254"
 }

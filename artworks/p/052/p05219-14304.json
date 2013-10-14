@@ -1,6 +1,5 @@
 {
   "acno": "P05219", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05218-P05220; P05224", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "unconfirmed: 978 x 679 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Alcheringa", 
+  "height": "679", 
   "id": 14304, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and mixed media on paper", 
@@ -47,7 +47,115 @@
       "workCount": 846
     }
   ], 
-  "popularity": 56, 
   "subjectCount": 7, 
-  "title": "Alcheringa 2 - Air"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2891, 
+                "name": "air", 
+                "workCount": 12
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 16157, 
+                "name": "constellation, Ursa Major", 
+                "workCount": 1
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }, 
+          {
+            "children": [
+              {
+                "id": 5674, 
+                "name": "crow", 
+                "workCount": 16
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05219_8.jpg", 
+  "title": "Alcheringa 2 - Air", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-alcheringa-2-air-p05219", 
+  "width": "978"
 }

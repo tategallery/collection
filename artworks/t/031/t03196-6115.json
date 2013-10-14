@@ -1,6 +1,5 @@
 {
   "acno": "T03196", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T03194-T03202", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "c.1958"
   }, 
   "dateText": "c.1958", 
+  "depth": "", 
   "dimensions": "support: 175 x 225 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies for 'The Pit Pony' [T00354]", 
+  "height": "225", 
   "id": 6115, 
   "inscription": null, 
   "medium": "Ink on paper", 
   "movementCount": 0, 
-  "popularity": 55, 
   "subjectCount": 3, 
-  "title": "Reclining Miner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5059, 
+                "name": "miner", 
+                "workCount": 44
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts", 
+            "workCount": 360
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03196_8.jpg", 
+  "title": "Reclining Miner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/herman-reclining-miner-t03196", 
+  "width": "175"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00230", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919"
   }, 
   "dateText": "1919", 
+  "depth": "", 
   "dimensions": "support: 1524 x 832 mm\r\nframe: 1590 x 905 x 59 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "832", 
   "id": 12659, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,136 @@
       "workCount": 39
     }
   ], 
-  "popularity": 196, 
   "subjectCount": 7, 
-  "title": "The Diners"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 5508, 
+                "name": "Restaurant de la Tour Eiffel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1269, 
+                "name": "eating", 
+                "workCount": 117
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking", 
+            "workCount": 348
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening", 
+                "workCount": 210
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1270, 
+                "name": "restaurant", 
+                "workCount": 21
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00230_8.jpg", 
+  "title": "The Diners", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roberts-the-diners-t00230", 
+  "width": "1524"
 }

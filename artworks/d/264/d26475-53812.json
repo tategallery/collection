@@ -1,6 +1,5 @@
 {
   "acno": "D26475", 
-  "addlImageCount": 0, 
   "catTextResId": 1134909, 
   "catalogueGroup": {
     "accessionRanges": "D26436-D26618; D41082-D41083", 
@@ -28,17 +27,97 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 125 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXX 20 a", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and the West Sketchbook [Finberg CCLXX]", 
+  "height": "201", 
   "id": 53812, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 42, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Views on Loch Fyne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26475_8.jpg", 
+  "title": "Views on Loch Fyne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-on-loch-fyne-d26475", 
+  "width": "125"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D12263", 
-  "addlImageCount": 0, 
   "catTextResId": 1139455, 
   "catalogueGroup": {
     "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
@@ -28,17 +27,78 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 232 x 328 mm", 
-  "displayLocation": null, 
   "finberg": "CLVI 2", 
   "foreignTitle": null, 
   "groupTitle": "Raby Sketchbook [Finberg CLVI]", 
+  "height": "328", 
   "id": 39631, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "North Lodge, Witton Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12263_8.jpg", 
+  "title": "North Lodge, Witton Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-north-lodge-witton-castle-d12263", 
+  "width": "232"
 }

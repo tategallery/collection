@@ -1,6 +1,5 @@
 {
   "acno": "D33176", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33132-D33235; D41137", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 138 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXIX 23", 
   "foreignTitle": null, 
   "groupTitle": "Between Lucerne and Thun Sketchbook [Finberg CCCXXIX]", 
+  "height": "82", 
   "id": 60355, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 47, 
-  "popularity": 2, 
   "subjectCount": 1, 
-  "title": "Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33176_8.jpg", 
+  "title": "Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-d33176", 
+  "width": "138"
 }

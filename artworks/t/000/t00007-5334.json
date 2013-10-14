@@ -1,6 +1,5 @@
 {
   "acno": "T00007", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,100 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "", 
   "dimensions": "support: 470 x 571 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "571", 
   "id": 5334, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 5, 
-  "title": "Summer Stream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 8123, 
+                "name": "Scottish Borders", 
+                "workCount": 159
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00007_8.jpg", 
+  "title": "Summer Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gillies-summer-stream-t00007", 
+  "width": "470"
 }

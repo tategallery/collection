@@ -1,6 +1,5 @@
 {
   "acno": "T01357", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967-8"
   }, 
   "dateText": "1967-8", 
+  "depth": "2508", 
   "dimensions": "object: 1841 x 4362 x 2508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4362", 
   "id": 1226, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,41 @@
       "workCount": 52
     }
   ], 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "1st Sculpture"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01357_8.jpg", 
+  "title": "1st Sculpture", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bolus-1st-sculpture-t01357", 
+  "width": "1841"
 }

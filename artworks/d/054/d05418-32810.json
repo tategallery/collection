@@ -1,6 +1,5 @@
 {
   "acno": "D05418", 
-  "addlImageCount": 0, 
   "catTextResId": 1139198, 
   "catalogueGroup": {
     "accessionRanges": "D05376-D05427; D40694-D40696", 
@@ -28,17 +27,57 @@
     "text": "c.1805"
   }, 
   "dateText": "c.1805", 
+  "depth": "", 
   "dimensions": "support: 185 x 118 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVII 43", 
   "foreignTitle": null, 
   "groupTitle": "Shipwreck (1) Sketchbook [Finberg LXXXVII]", 
+  "height": "118", 
   "id": 32810, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 26, 
   "subjectCount": 3, 
-  "title": "Studies of the 'Victory'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull", 
+                "workCount": 77
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }, 
+              {
+                "id": 7825, 
+                "name": "ship, warship, 'HMS Victory'", 
+                "workCount": 22
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05418_8.jpg", 
+  "title": "Studies of the 'Victory'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-the-victory-d05418", 
+  "width": "185"
 }

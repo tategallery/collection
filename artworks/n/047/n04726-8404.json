@@ -1,6 +1,5 @@
 {
   "acno": "N04726", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,129 @@
     "text": "1915"
   }, 
   "dateText": "1915", 
+  "depth": "", 
   "dimensions": "support: 330 x 460 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "460", 
   "id": 8404, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 243, 
   "subjectCount": 8, 
-  "title": "Portraits (Marie Laurencin, Cecilia de Madrazo and the Dog Coco)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5806, 
+                "name": "Laurencin, Marie", 
+                "workCount": 1
+              }, 
+              {
+                "id": 5807, 
+                "name": "de Madrazo, Cecilia", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1491, 
+                "name": "pointing", 
+                "workCount": 171
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }, 
+              {
+                "id": 2378, 
+                "name": "ribbon", 
+                "workCount": 33
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04726_8.jpg", 
+  "title": "Portraits (Marie Laurencin, Cecilia de Madrazo and the Dog Coco)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/laurencin-portraits-marie-laurencin-cecilia-de-madrazo-and-the-dog-coco-n04726", 
+  "width": "330"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02593", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,57 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 164 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "LIII 89 a", 
   "foreignTitle": null, 
   "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "height": "117", 
   "id": 29996, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 180, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "Overgrown Cliffs, with the Sea to the Right"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02593_8.jpg", 
+  "title": "Overgrown Cliffs, with the Sea to the Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-overgrown-cliffs-with-the-sea-to-the-right-d02593", 
+  "width": "164"
 }

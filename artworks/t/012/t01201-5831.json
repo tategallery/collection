@@ -1,6 +1,5 @@
 {
   "acno": "T01201", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "", 
   "dimensions": "support: 914 x 1219 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 5831, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,115 @@
       "workCount": 178
     }
   ], 
-  "popularity": 439, 
   "subjectCount": 7, 
-  "title": "Trainsition IIII"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car", 
+                "workCount": 168
+              }, 
+              {
+                "id": 1109, 
+                "name": "train", 
+                "workCount": 52
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5020, 
+                "name": "telegraph pole", 
+                "workCount": 27
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01201_8.jpg", 
+  "title": "Trainsition IIII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-trainsition-iiii-t01201", 
+  "width": "914"
 }

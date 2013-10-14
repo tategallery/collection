@@ -1,6 +1,5 @@
 {
   "acno": "T01569", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1563"
   }, 
   "dateText": "1563", 
+  "depth": "", 
   "dimensions": "support: 378 x 302 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "302", 
   "id": 4207, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
@@ -44,7 +41,132 @@
       "workCount": 17
     }
   ], 
-  "popularity": 514, 
   "subjectCount": 9, 
-  "title": "Portrait of Elizabeth Roydon, Lady Golding"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3998, 
+                "name": "Golding, Elizabeth, Lady", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3997, 
+                "name": "Roydon, Elizabeth", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7757, 
+                "name": "coat of arms", 
+                "workCount": 95
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }, 
+          {
+            "children": [
+              {
+                "id": 1120, 
+                "name": "glove", 
+                "workCount": 72
+              }, 
+              {
+                "id": 2217, 
+                "name": "necklace", 
+                "workCount": 72
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7349, 
+                "name": "mourning dress", 
+                "workCount": 9
+              }
+            ], 
+            "id": 151, 
+            "name": "fashion, dress: ceremonial/royal", 
+            "workCount": 89
+          }, 
+          {
+            "children": [
+              {
+                "id": 6914, 
+                "name": "widow", 
+                "workCount": 18
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01569_8.jpg", 
+  "title": "Portrait of Elizabeth Roydon, Lady Golding", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/eworth-portrait-of-elizabeth-roydon-lady-golding-t01569", 
+  "width": "378"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D33232", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33132-D33235; D41137", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 138 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXIX 51", 
   "foreignTitle": null, 
   "groupTitle": "Between Lucerne and Thun Sketchbook [Finberg CCCXXIX]", 
+  "height": "82", 
   "id": 60411, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 103, 
-  "popularity": 68, 
   "subjectCount": 4, 
-  "title": "Castle of Thun, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 9886, 
+                "name": "Thun", 
+                "workCount": 12
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33232_8.jpg", 
+  "title": "Castle of Thun, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-of-thun-etc-d33232", 
+  "width": "138"
 }

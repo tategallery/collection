@@ -1,6 +1,5 @@
 {
   "acno": "A01020", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,100 @@
     "text": "1822"
   }, 
   "dateText": "1822", 
+  "depth": "", 
   "dimensions": "support: 102 x 83 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "83", 
   "id": 16166, 
   "inscription": "date inscribed", 
   "medium": "Ink and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 65, 
   "subjectCount": 5, 
-  "title": "After Rembrandt"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10701, 
+                "name": "Rembrandt, painting", 
+                "workCount": 4
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works", 
+            "workCount": 1052
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01020_8.jpg", 
+  "title": "After Rembrandt", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilkie-after-rembrandt-a01020", 
+  "width": "102"
 }

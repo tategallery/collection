@@ -1,6 +1,5 @@
 {
   "acno": "D17360", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17207-D17364; D40685-D40686", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1821"
   }, 
   "dateText": "c.1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CXCVIII 89 a", 
   "foreignTitle": null, 
   "groupTitle": "Folkestone Sketchbook [Finberg CXCVIII]", 
+  "height": "187", 
   "id": 44716, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 180, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Vessels at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17360_8.jpg", 
+  "title": "Vessels at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessels-at-sea-d17360", 
+  "width": "113"
 }

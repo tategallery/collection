@@ -1,6 +1,5 @@
 {
   "acno": "D08979", 
-  "addlImageCount": 0, 
   "catTextResId": 1134690, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
@@ -28,16 +27,65 @@
     "text": "?1809"
   }, 
   "dateText": "?1809", 
+  "depth": "", 
   "dimensions": "support: 126 x 202 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVII 12", 
   "foreignTitle": null, 
   "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "height": "202", 
   "id": 36358, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "?The South-West Coast of Cumbria"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08979_8.jpg", 
+  "title": "?The South-West Coast of Cumbria", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-south-west-coast-of-cumbria-d08979", 
+  "width": "126"
 }

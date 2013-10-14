@@ -1,6 +1,5 @@
 {
   "acno": "N06078", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1931"
   }, 
   "dateText": "1931", 
+  "depth": "273", 
   "dimensions": "object: 737 x 368 x 273 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "368", 
   "id": 9681, 
   "inscription": null, 
   "medium": "Ancaster stone", 
@@ -41,7 +41,60 @@
       "workCount": 37
     }
   ], 
-  "popularity": 336, 
   "subjectCount": 3, 
-  "title": "Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 1025, 
+                "name": "torso", 
+                "workCount": 77
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06078_8.jpg", 
+  "title": "Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-girl-n06078", 
+  "width": "737"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P07233", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 400 x 6001 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "6001", 
   "id": 6430, 
-  "images": [
-    {
-      "copyright": "\u00a9 John Hilliard", 
-      "filenameBase": "P07233_149458", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P07/P07233_149458_7.jpg", 
-          "height": 102, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P07/P07233_149458_8.jpg", 
-          "height": 203, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P07/P07233_149458_9.jpg", 
-          "height": 407, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P07/P07233_149458_10.jpg", 
-          "height": 1220, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "12 photographs, black and white, on paper", 
   "movementCount": 1, 
@@ -85,7 +41,55 @@
       "workCount": 478
     }
   ], 
-  "popularity": 302, 
   "subjectCount": 2, 
-  "title": "Sixty Seconds of Light"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17031, 
+                "name": "stopwatch", 
+                "workCount": 1
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07233_8.jpg", 
+  "title": "Sixty Seconds of Light", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hilliard-sixty-seconds-of-light-p07233", 
+  "width": "400"
 }

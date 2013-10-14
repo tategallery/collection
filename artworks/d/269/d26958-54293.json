@@ -1,6 +1,5 @@
 {
   "acno": "D26958", 
-  "addlImageCount": 0, 
   "catTextResId": 1135299, 
   "catalogueGroup": {
     "accessionRanges": "D26955-D26965; D41021-D41022", 
@@ -28,17 +27,71 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 91 x 153 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXV 2 a", 
   "foreignTitle": null, 
   "groupTitle": "Sound of Mull (?) No. 2 Sketchbook [Finberg CCLXXV]", 
+  "height": "153", 
   "id": 54293, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 6, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Aros Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26958_8.jpg", 
+  "title": "Aros Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-aros-castle-d26958", 
+  "width": "91"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D14893", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 97 x 132 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVIII 35", 
   "foreignTitle": null, 
   "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "height": "132", 
   "id": 42251, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 22, 
   "subjectCount": 3, 
-  "title": "Town on Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14893_8.jpg", 
+  "title": "Town on Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-on-hill-d14893", 
+  "width": "97"
 }

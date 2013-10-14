@@ -1,6 +1,5 @@
 {
   "acno": "P07016", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 330 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 4282, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,65 @@
       "workCount": 478
     }
   ], 
-  "popularity": 54, 
   "subjectCount": 4, 
-  "title": "Homage to Mozart [collaboration with Ron Costley]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4207, 
+                "name": "dedication", 
+                "workCount": 16
+              }, 
+              {
+                "id": 4116, 
+                "name": "name", 
+                "workCount": 76
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07016_8.jpg", 
+  "title": "Homage to Mozart [collaboration with Ron Costley]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-homage-to-mozart-collaboration-with-ron-costley-p07016", 
+  "width": "330"
 }

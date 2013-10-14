@@ -1,6 +1,5 @@
 {
   "acno": "P11663", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "", 
   "dimensions": "image: 195 x 175 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "175", 
   "id": 26927, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,91 @@
       "workCount": 27
     }
   ], 
-  "popularity": 72, 
   "subjectCount": 5, 
-  "title": "His Majesty's Servants"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 922, 
+                "name": "cigarette", 
+                "workCount": 33
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2800, 
+                "name": "smoking", 
+                "workCount": 142
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11663_8.jpg", 
+  "title": "His Majesty's Servants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/boswell-his-majestys-servants-p11663", 
+  "width": "195"
 }

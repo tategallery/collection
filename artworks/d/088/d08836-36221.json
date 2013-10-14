@@ -1,6 +1,5 @@
 {
   "acno": "D08836", 
-  "addlImageCount": 0, 
   "catTextResId": 1137317, 
   "catalogueGroup": {
     "accessionRanges": "D08807-D08815; D08817-D08822; D08824; D08826-D08842; D08844; D08846; D08848-D08863; D08940; D40821; D41522", 
@@ -28,17 +27,59 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 170 x 209 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIV 25", 
   "foreignTitle": null, 
   "groupTitle": "Corfe to Dartmouth Sketchbook [Finberg CXXIV]", 
+  "height": "209", 
   "id": 36221, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 63, 
   "subjectCount": 2, 
-  "title": "Sandsfoot Castle, Weymouth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08836_8.jpg", 
+  "title": "Sandsfoot Castle, Weymouth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sandsfoot-castle-weymouth-d08836", 
+  "width": "170"
 }

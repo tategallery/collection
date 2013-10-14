@@ -1,6 +1,5 @@
 {
   "acno": "N02134", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1861"
   }, 
   "dateText": "1861", 
+  "depth": "", 
   "dimensions": "support: 210 x 264 mm\r\nframe: 385 x 440 x 80 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "264", 
   "id": 4225, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 271, 
   "subjectCount": 2, 
-  "title": "A Plate of Apples"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02134_8.jpg", 
+  "title": "A Plate of Apples", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fantin-latour-a-plate-of-apples-n02134", 
+  "width": "210"
 }

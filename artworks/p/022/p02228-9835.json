@@ -1,6 +1,5 @@
 {
   "acno": "P02228", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02228-P02244", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,107 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "30", 
   "dimensions": "object: 310 x 395 x 30 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sheep Album", 
+  "height": "395", 
   "id": 9835, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 74, 
   "subjectCount": 5, 
-  "title": "Sheep Album Cover"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10907, 
+                "name": "book, Moore, Henry, 'Sheep'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02228_8.jpg", 
+  "title": "Sheep Album Cover", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-sheep-album-cover-p02228", 
+  "width": "310"
 }

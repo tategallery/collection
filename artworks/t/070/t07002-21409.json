@@ -1,6 +1,5 @@
 {
   "acno": "T07002", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1995"
   }, 
   "dateText": "1995", 
+  "depth": "42", 
   "dimensions": "support: 2586 x 3610 x 42 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3610", 
   "id": 21409, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 97, 
   "subjectCount": 2, 
-  "title": "Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1696, 
+                "name": "looking up", 
+                "workCount": 104
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07002_8.jpg", 
+  "title": "Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bevan-head-t07002", 
+  "width": "2586"
 }

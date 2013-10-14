@@ -1,6 +1,5 @@
 {
   "acno": "AR00480", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,74 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 220 x 245 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "245", 
   "id": 95875, 
   "inscription": "date inscribed", 
   "medium": "Woodcut on paper mounted on paper", 
   "movementCount": 0, 
-  "popularity": 288, 
   "subjectCount": 4, 
-  "title": "Night Sky Woodcut"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night", 
+                "workCount": 468
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1707, 
+                "name": "star", 
+                "workCount": 134
+              }, 
+              {
+                "id": 17774, 
+                "name": "universe", 
+                "workCount": 18
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00480_8.jpg", 
+  "title": "Night Sky Woodcut", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/celmins-night-sky-woodcut-ar00480", 
+  "width": "220"
 }

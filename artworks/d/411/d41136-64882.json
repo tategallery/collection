@@ -1,6 +1,5 @@
 {
   "acno": "D41136", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32881; D32883-D32885; D32887-D32946; D32948-D32974; D32976-D33018; D33020-D33030; D33032-D33036; D41136", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Berne, Heidelberg and Rhine Sketchbook [Finberg CCCXXVI]", 
+  "height": "111", 
   "id": 64882, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 187, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "A Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41136_8.jpg", 
+  "title": "A Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-building-d41136", 
+  "width": "181"
 }

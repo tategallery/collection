@@ -1,6 +1,5 @@
 {
   "acno": "P04476", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 577 x 431 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "431", 
   "id": 8035, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 28, 
   "subjectCount": 2, 
-  "title": "(22) Reklame durch das Schaufenster"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12368, 
+                "name": "book, Jahn, Bruno, 'Reklame durch das Schaufenster'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04476_8.jpg", 
+  "title": "(22) Reklame durch das Schaufenster", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-22-reklame-durch-das-schaufenster-p04476", 
+  "width": "577"
 }

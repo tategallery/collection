@@ -1,6 +1,5 @@
 {
   "acno": "D00403", 
-  "addlImageCount": 0, 
   "catTextResId": 1141098, 
   "catalogueGroup": {
     "accessionRanges": "D00327; D00328; D00330-D00344; D00347-D00354; D00358-D00366; D00369-D00372; D00377; D00378; D00402; D00403; D00405; D00662; D00664; D00699; D00700; D36581-D36583; D40040; D40041; D40235-D40238; D40271", 
@@ -28,16 +27,65 @@
     "text": "?1794"
   }, 
   "dateText": "?1794", 
+  "depth": "", 
   "dimensions": "support: 215 x 140 mm", 
-  "displayLocation": null, 
   "finberg": "XXIII c", 
   "foreignTitle": null, 
   "groupTitle": "Drawings Made on the Midland Tour", 
+  "height": "140", 
   "id": 27818, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 25, 
   "subjectCount": 2, 
-  "title": "A Watermill, with the Corner of a Large Barn or a Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5445, 
+                "name": "waterwheel", 
+                "workCount": 17
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00403_8.jpg", 
+  "title": "A Watermill, with the Corner of a Large Barn or a Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-watermill-with-the-corner-of-a-large-barn-or-a-church-d00403", 
+  "width": "215"
 }

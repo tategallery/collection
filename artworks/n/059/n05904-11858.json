@@ -1,6 +1,5 @@
 {
   "acno": "N05904", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1909-10"
   }, 
   "dateText": "1909-10", 
+  "depth": "", 
   "dimensions": "support: 921 x 730 mm\r\nframe: 1199 x 1005 x 108 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Femme nue assise", 
   "groupTitle": null, 
+  "height": "730", 
   "id": 11858, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,67 @@
       "workCount": 44
     }
   ], 
-  "popularity": 5634, 
   "subjectCount": 3, 
-  "title": "Seated Nude"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05904_8.jpg", 
+  "title": "Seated Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picasso-seated-nude-n05904", 
+  "width": "921"
 }

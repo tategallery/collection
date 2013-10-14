@@ -1,6 +1,5 @@
 {
   "acno": "N02666", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,100 @@
     "text": "1850"
   }, 
   "dateText": "1850", 
+  "depth": "", 
   "dimensions": "support: 267 x 359 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "359", 
   "id": 2863, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 419, 
   "subjectCount": 5, 
-  "title": "A Windy Day"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 2332, 
+                "name": "heathland", 
+                "workCount": 259
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind", 
+                "workCount": 122
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking", 
+                "workCount": 376
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02666_8.jpg", 
+  "title": "A Windy Day", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cox-a-windy-day-n02666", 
+  "width": "267"
 }

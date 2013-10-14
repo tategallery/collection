@@ -1,6 +1,5 @@
 {
   "acno": "P77187", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "", 
   "dimensions": "image: 420 x 360 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "360", 
   "id": 5195, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,67 @@
       "workCount": 16
     }
   ], 
-  "popularity": 104, 
   "subjectCount": 3, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7201, 
+                "name": "insect", 
+                "workCount": 22
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77187_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilbert-untitled-p77187", 
+  "width": "420"
 }

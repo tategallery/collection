@@ -1,6 +1,5 @@
 {
   "acno": "D21052", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20990-D21015; D21018-D21132; D41001-D41003", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 145 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXX 32", 
   "foreignTitle": null, 
   "groupTitle": "Lyons to Marseilles Sketchbook [Finberg CCXXX]", 
+  "height": "111", 
   "id": 48395, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 67, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Bridge, with Ruins"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21052_8_R.jpg", 
+  "title": "Bridge, with Ruins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-ruins-d21052", 
+  "width": "145"
 }

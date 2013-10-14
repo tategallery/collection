@@ -1,6 +1,5 @@
 {
   "acno": "D04532", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,147 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 275 x 212 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIV 39", 
   "foreignTitle": null, 
   "groupTitle": "Grenoble Sketchbook [Finberg LXXIV]", 
+  "height": "212", 
   "id": 31925, 
   "inscription": null, 
   "medium": "Chalk, gouache and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 124, 
   "subjectCount": 10, 
-  "title": "Rumilly, near Annecy: Houses on the Bank of the River N\u00e9phaz"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 7919, 
+                "name": "River N\u00e9phaz", 
+                "workCount": 1
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 7918, 
+                "name": "Rumilly", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04532_8.jpg", 
+  "title": "Rumilly, near Annecy: Houses on the Bank of the River N\u00e9phaz", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-rumilly-near-annecy-houses-on-the-bank-of-the-river-nephaz-d04532", 
+  "width": "275"
 }

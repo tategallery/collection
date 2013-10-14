@@ -1,6 +1,5 @@
 {
   "acno": "N05309", 
-  "addlImageCount": 0, 
   "catTextResId": 1135619, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
@@ -22,15 +21,64 @@
     "text": "c.1911"
   }, 
   "dateText": "c.1911", 
+  "depth": "", 
   "dimensions": "support: 279 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "190", 
   "id": 13425, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 89, 
   "subjectCount": 2, 
-  "title": "The Straw Hat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05309_8.jpg", 
+  "title": "The Straw Hat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-the-straw-hat-n05309", 
+  "width": "279"
 }

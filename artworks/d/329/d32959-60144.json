@@ -1,6 +1,5 @@
 {
   "acno": "D32959", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32881; D32883-D32885; D32887-D32946; D32948-D32974; D32976-D33018; D33020-D33030; D33032-D33036; D41136", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,109 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVI 40 a", 
   "foreignTitle": null, 
   "groupTitle": "Berne, Heidelberg and Rhine Sketchbook [Finberg CCCXXVI]", 
+  "height": "111", 
   "id": 60144, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 82, 
-  "popularity": 30, 
   "subjectCount": 5, 
-  "title": "Heidelberg"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 7436, 
+                "name": "Heidelberg - non-specific", 
+                "workCount": 49
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32959_8.jpg", 
+  "title": "Heidelberg", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-heidelberg-d32959", 
+  "width": "181"
 }

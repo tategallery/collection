@@ -1,6 +1,5 @@
 {
   "acno": "T01341", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "279", 
   "dimensions": "object: 1140 x 1575 x 279 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1575", 
   "id": 523, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,41 @@
       "workCount": 52
     }
   ], 
-  "popularity": 77, 
   "subjectCount": 2, 
-  "title": "Jump"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01341_8.jpg", 
+  "title": "Jump", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-jump-t01341", 
+  "width": "1140"
 }

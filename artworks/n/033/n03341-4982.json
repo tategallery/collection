@@ -1,6 +1,5 @@
 {
   "acno": "N03341", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "c.1913"
   }, 
   "dateText": "c.1913", 
+  "depth": "", 
   "dimensions": "support: 178 x 318 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "318", 
   "id": 4982, 
   "inscription": null, 
   "medium": "Ink and chalk on paper", 
   "movementCount": 0, 
-  "popularity": 149, 
   "subjectCount": 2, 
-  "title": "A Dog"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 10478, 
+                "name": "lying down", 
+                "workCount": 23
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03341_8.jpg", 
+  "title": "A Dog", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-a-dog-n03341", 
+  "width": "178"
 }

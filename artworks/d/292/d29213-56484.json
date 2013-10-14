@@ -1,6 +1,5 @@
 {
   "acno": "D29213", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29213-D29237; D29239-D29264; D29266-D29273; D29275-D29377; D41206-D41208", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 104 x 148 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIV 1", 
   "foreignTitle": null, 
   "groupTitle": "Fort Bard Sketchbook [Finberg CCXCIV]", 
+  "height": "148", 
   "id": 56484, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Verres, Val d'Aosta, Looking towards the Convent of St Gilles with the Fort beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29213_8.jpg", 
+  "title": "Verres, Val d'Aosta, Looking towards the Convent of St Gilles with the Fort beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-verres-val-daosta-looking-towards-the-convent-of-st-gilles-with-the-fort-beyond-d29213", 
+  "width": "104"
 }

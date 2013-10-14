@@ -1,6 +1,5 @@
 {
   "acno": "T00538", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "support: 921 x 603 mm\r\nframe: 1019 x 695 x 65 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "603", 
   "id": 8851, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 159, 
   "subjectCount": 3, 
-  "title": "Homage to a Cat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2371, 
+                "name": "breast", 
+                "workCount": 48
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat", 
+                "workCount": 126
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00538_8.jpg", 
+  "title": "Homage to a Cat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lindner-homage-to-a-cat-t00538", 
+  "width": "921"
 }

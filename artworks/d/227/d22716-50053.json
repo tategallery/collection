@@ -1,6 +1,5 @@
 {
   "acno": "D22716", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "1827"
   }, 
   "dateText": "1827", 
+  "depth": "", 
   "dimensions": "support: 140 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLIV 54", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "191", 
   "id": 50053, 
   "inscription": null, 
   "medium": "Gouache on paper", 
   "movementCount": 0, 
-  "popularity": 14, 
   "subjectCount": 3, 
-  "title": "Setting Sun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22716_8.jpg", 
+  "title": "Setting Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-setting-sun-d22716", 
+  "width": "140"
 }

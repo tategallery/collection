@@ -1,6 +1,5 @@
 {
   "acno": "T00713", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1937-52"
   }, 
   "dateText": "c.1937-52", 
+  "depth": "", 
   "dimensions": "support: 648 x 648 mm\r\nframe: 840 x 840 x 93 mm", 
-  "displayLocation": null, 
   "foreignTitle": "La Toupie", 
   "groupTitle": null, 
+  "height": "648", 
   "id": 920, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,137 @@
       "workCount": 98
     }
   ], 
-  "popularity": 977, 
   "subjectCount": 10, 
-  "title": "Peg-Top"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }, 
+              {
+                "id": 1586, 
+                "name": "bone", 
+                "workCount": 33
+              }, 
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6730, 
+                "name": "eroticism", 
+                "workCount": 196
+              }, 
+              {
+                "id": 3185, 
+                "name": "seduction", 
+                "workCount": 10
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships", 
+            "workCount": 742
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1404, 
+                "name": "top", 
+                "workCount": 2
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models", 
+            "workCount": 246
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00713_8.jpg", 
+  "title": "Peg-Top", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bellmer-peg-top-t00713", 
+  "width": "648"
 }

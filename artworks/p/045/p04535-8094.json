@@ -1,6 +1,5 @@
 {
   "acno": "P04535", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 752 x 549 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "549", 
   "id": 8094, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -51,7 +51,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "Men of Europe 1915"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12320, 
+                "name": "book, Jouve, Pierre Jean, 'Men of Europe, 1915'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04535_8.jpg", 
+  "title": "Men of Europe 1915", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-men-of-europe-1915-p04535", 
+  "width": "752"
 }

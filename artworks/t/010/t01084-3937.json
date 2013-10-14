@@ -1,6 +1,5 @@
 {
   "acno": "T01084", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1915"
   }, 
   "dateText": "c.1915", 
+  "depth": "", 
   "dimensions": "support: 413 x 508 mm\r\nframe: 490 x 585 x 39 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 3937, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,55 @@
       "workCount": 39
     }
   ], 
-  "popularity": 348, 
   "subjectCount": 2, 
-  "title": "Abstract Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01084_8.jpg", 
+  "title": "Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dismorr-abstract-composition-t01084", 
+  "width": "413"
 }

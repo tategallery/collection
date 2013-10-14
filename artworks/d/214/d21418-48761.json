@@ -1,6 +1,5 @@
 {
   "acno": "D21418", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21412-D21536; D21538-D21587; D40997-D40998", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 143 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIII 4", 
   "foreignTitle": null, 
   "groupTitle": "Genoa and Florence Sketchbook [Finberg CCXXXIII]", 
+  "height": "97", 
   "id": 48761, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }, 
+              {
+                "id": 211, 
+                "name": "wall", 
+                "workCount": 280
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21418_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d21418", 
+  "width": "143"
 }

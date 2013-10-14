@@ -1,6 +1,5 @@
 {
   "acno": "D27962", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27940-D28041; D41107; D41127", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVI 12 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Bruges Sketchbook [Finberg CCLXXXVI]", 
+  "height": "116", 
   "id": 55281, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "popularity": 14, 
   "subjectCount": 3, 
-  "title": "Steamer at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3219, 
+                "name": "boat, steam", 
+                "workCount": 133
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke", 
+                "workCount": 295
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27962_8_R.jpg", 
+  "title": "Steamer at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-steamer-at-sea-d27962", 
+  "width": "90"
 }

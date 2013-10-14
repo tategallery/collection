@@ -1,6 +1,5 @@
 {
   "acno": "P04217", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04216-P04225", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 604 x 475 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tool Box", 
+  "height": "475", 
   "id": 3909, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 248
     }
   ], 
-  "popularity": 140, 
   "subjectCount": 2, 
-  "title": "Tool Box 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 258, 
+                "name": "pliers", 
+                "workCount": 9
+              }, 
+              {
+                "id": 3959, 
+                "name": "tripod", 
+                "workCount": 2
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04217_8.jpg", 
+  "title": "Tool Box 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-tool-box-2-p04217", 
+  "width": "604"
 }

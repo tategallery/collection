@@ -1,6 +1,5 @@
 {
   "acno": "D16701", 
-  "addlImageCount": 0, 
   "catTextResId": 1142601, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,52 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 128 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 31", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "98", 
   "id": 44057, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 65, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "?Mountains near Les \u00c9chelles, Savoy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16701_8.jpg", 
+  "title": "?Mountains near Les \u00c9chelles, Savoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-near-les-echelles-savoy-d16701", 
+  "width": "128"
 }

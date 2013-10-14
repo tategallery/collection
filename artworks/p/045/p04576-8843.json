@@ -1,6 +1,5 @@
 {
   "acno": "P04576", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04575-P04578", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 522 x 595 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Four Seasons", 
+  "height": "595", 
   "id": 8843, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Summer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04576_8.jpg", 
+  "title": "Summer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lin-summer-p04576", 
+  "width": "522"
 }

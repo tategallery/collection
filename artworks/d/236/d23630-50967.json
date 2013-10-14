@@ -1,6 +1,5 @@
 {
   "acno": "D23630", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23525-D23698; D41074-D41076", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "?1832"
   }, 
   "dateText": "?1832", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLII 58 a", 
   "foreignTitle": null, 
   "groupTitle": "Guernsey Sketchbook [Finberg CCLII]", 
+  "height": "187", 
   "id": 50967, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 29, 
   "subjectCount": 4, 
-  "title": "Interior of Cottage, with Drawers, Cradle, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3747, 
+                "name": "chest of drawers", 
+                "workCount": 16
+              }, 
+              {
+                "id": 3430, 
+                "name": "cradle", 
+                "workCount": 11
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23630_8.jpg", 
+  "title": "Interior of Cottage, with Drawers, Cradle, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-cottage-with-drawers-cradle-etc-d23630", 
+  "width": "114"
 }

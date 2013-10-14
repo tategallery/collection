@@ -1,6 +1,5 @@
 {
   "acno": "T07189", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1994-6"
   }, 
   "dateText": "1994-6", 
+  "depth": "", 
   "dimensions": "unconfirmed: 387 x 394 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "394", 
   "id": 21813, 
   "inscription": null, 
   "medium": "Vinyl record and box", 
@@ -41,7 +41,86 @@
       "workCount": 81
     }
   ], 
-  "popularity": 134, 
   "subjectCount": 4, 
-  "title": "mneme"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 5198, 
+                "name": "record", 
+                "workCount": 8
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6787, 
+                "name": "language", 
+                "workCount": 9
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6852, 
+                "name": "memory", 
+                "workCount": 106
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07189_8.jpg", 
+  "title": "mneme", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-mneme-t07189", 
+  "width": "387"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D08584", 
-  "addlImageCount": 0, 
   "catTextResId": 1137061, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,47 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 117 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 113 a", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "75", 
   "id": 35971, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 234, 
-  "popularity": 34, 
   "subjectCount": 1, 
-  "title": "Trees beside a West Country Path or Stream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08584_8_R.jpg", 
+  "title": "Trees beside a West Country Path or Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-beside-a-west-country-path-or-stream-d08584", 
+  "width": "117"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T10463", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T10455-T10493", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,81 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 125 x 181 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Small Lakes Sketchbook", 
+  "height": "181", 
   "id": 24773, 
   "inscription": "date inscribed", 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
-  "popularity": 13, 
   "subjectCount": 4, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool", 
+                "workCount": 376
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10463_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-t10463", 
+  "width": "125"
 }

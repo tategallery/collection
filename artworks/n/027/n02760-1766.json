@@ -1,6 +1,5 @@
 {
   "acno": "N02760", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1873"
   }, 
   "dateText": "1873", 
+  "depth": "", 
   "dimensions": "support: 210 x 133 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "133", 
   "id": 1766, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 524, 
   "subjectCount": 2, 
-  "title": "Desiderium"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02760_8.jpg", 
+  "title": "Desiderium", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-desiderium-n02760", 
+  "width": "210"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P78466", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78455-P78474", 
     "completeStatus": "COMPLETE", 
@@ -36,10 +35,11 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "image: 228 x 78 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Exquisite Corpse", 
+  "height": "78", 
   "id": 177, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -66,7 +66,129 @@
       "workCount": 232
     }
   ], 
-  "popularity": 239, 
   "subjectCount": 7, 
-  "title": "Exquisite Corpse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal/human", 
+                "workCount": 160
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }, 
+          {
+            "children": [
+              {
+                "id": 15931, 
+                "name": "mosquito", 
+                "workCount": 2
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance", 
+                "workCount": 103
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4577, 
+                "name": "entrails", 
+                "workCount": 7
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 517, 
+                "name": "washing", 
+                "workCount": 72
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2575, 
+                "name": "tub", 
+                "workCount": 32
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78466_8.jpg", 
+  "title": "Exquisite Corpse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78466", 
+  "width": "228"
 }

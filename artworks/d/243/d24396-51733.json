@@ -1,6 +1,5 @@
 {
   "acno": "D24396", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24168-D24499; D40603-D40604; D40622-D40623", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 175 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVII 116 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris and Environs Sketchbook [Finberg CCLVII]", 
+  "height": "127", 
   "id": 51733, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 234, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "A Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24396_8.jpg", 
+  "title": "A Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-d24396", 
+  "width": "175"
 }

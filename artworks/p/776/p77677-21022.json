@@ -1,6 +1,5 @@
 {
   "acno": "P77677", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77675-P77678", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 228 x 330 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Four Lines", 
+  "height": "330", 
   "id": 21022, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Four Lines III"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77677_8.jpg", 
+  "title": "Four Lines III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/salter-four-lines-iii-p77677", 
+  "width": "228"
 }

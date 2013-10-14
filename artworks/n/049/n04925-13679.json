@@ -1,6 +1,5 @@
 {
   "acno": "N04925", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,124 @@
     "text": "1922"
   }, 
   "dateText": "1922", 
+  "depth": "", 
   "dimensions": "support: 352 x 594 mm\r\nframe: 500 x 740 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "594", 
   "id": 13679, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 125, 
   "subjectCount": 7, 
-  "title": "The Robing of Christ"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ", 
+                "workCount": 193
+              }, 
+              {
+                "id": 2588, 
+                "name": "Passion", 
+                "workCount": 41
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament", 
+            "workCount": 394
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4208, 
+                "name": "blindfold", 
+                "workCount": 13
+              }, 
+              {
+                "id": 2848, 
+                "name": "robe", 
+                "workCount": 44
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 518, 
+                "name": "dressing / undressing", 
+                "workCount": 67
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04925_8.jpg", 
+  "title": "The Robing of Christ", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/spencer-the-robing-of-christ-n04925", 
+  "width": "352"
 }

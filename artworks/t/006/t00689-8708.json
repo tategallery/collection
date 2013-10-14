@@ -1,6 +1,5 @@
 {
   "acno": "T00689", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "?exhibited 1915"
   }, 
   "dateText": "?exhibited 1915", 
+  "depth": "", 
   "dimensions": "support: 2007 x 1537 mm\r\nframe: 2195 x 1740 x 60 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1537", 
   "id": 8708, 
   "inscription": null, 
   "medium": "Oil paint and graphite on canvas", 
@@ -44,7 +41,84 @@
       "workCount": 39
     }
   ], 
-  "popularity": 966, 
   "subjectCount": 5, 
-  "title": "The Crowd"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd", 
+                "workCount": 566
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00689_8.jpg", 
+  "title": "The Crowd", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-the-crowd-t00689", 
+  "width": "2007"
 }

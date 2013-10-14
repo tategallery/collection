@@ -1,6 +1,5 @@
 {
   "acno": "P05416", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 730 x 581 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "581", 
   "id": 2070, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 112, 
   "subjectCount": 1, 
-  "title": "Big Sausage"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3783, 
+                "name": "sausage", 
+                "workCount": 9
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05416_8.jpg", 
+  "title": "Big Sausage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-big-sausage-p05416", 
+  "width": "730"
 }

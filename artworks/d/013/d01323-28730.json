@@ -1,6 +1,5 @@
 {
   "acno": "D01323", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01247-D01326; D01328-D01333; D01335-D01355; D40575-D40576", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 332 x 225 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVIII 69", 
   "foreignTitle": null, 
   "groupTitle": "Hereford Court Sketchbook [Finberg XXXVIII]", 
+  "height": "225", 
   "id": 28730, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 209, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "A Mill and Other Buildings in a River Valley with Hills Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9808, 
+                "name": "mill", 
+                "workCount": 19
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01323_8_R.jpg", 
+  "title": "A Mill and Other Buildings in a River Valley with Hills Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mill-and-other-buildings-in-a-river-valley-with-hills-beyond-d01323", 
+  "width": "332"
 }

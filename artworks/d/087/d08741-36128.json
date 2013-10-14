@@ -1,6 +1,5 @@
 {
   "acno": "D08741", 
-  "addlImageCount": 0, 
   "catTextResId": 1137219, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,59 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 75 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 207 a", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "117", 
   "id": 36128, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 422, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Three Views of Restormel Castle; ?the Tents of a Military Camp"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08741_8.jpg", 
+  "title": "Three Views of Restormel Castle; ?the Tents of a Military Camp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-views-of-restormel-castle-the-tents-of-a-military-camp-d08741", 
+  "width": "75"
 }

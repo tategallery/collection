@@ -1,6 +1,5 @@
 {
   "acno": "D28659", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28657-D28681; D28683-D28790; D41146-D41147", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCI a 2", 
   "foreignTitle": null, 
   "groupTitle": "Rhine (between Cologne and Mayence) also Moselle and Aix-la-Chapelle Sketchbook [Finberg CCXCI (a)]", 
+  "height": "117", 
   "id": 55977, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Castles on Rock beside River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28659_8.jpg", 
+  "title": "Castles on Rock beside River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castles-on-rock-beside-river-d28659", 
+  "width": "90"
 }

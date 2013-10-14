@@ -1,6 +1,5 @@
 {
   "acno": "P01957", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01955-P01957; P04869-P04879", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 888 x 610 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Universal Electronic Vacuum", 
+  "height": "610", 
   "id": 11077, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,79 @@
       "workCount": 846
     }
   ], 
-  "popularity": 92, 
   "subjectCount": 4, 
-  "title": "7 Pyramide in form einer achtel skugel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10716, 
+                "name": "Hokusai, Katsushika, print, 'The Great Wave off Kanagawa'", 
+                "workCount": 3
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works", 
+            "workCount": 1052
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3183, 
+                "name": "parrot", 
+                "workCount": 15
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01957_8.jpg", 
+  "title": "7 Pyramide in form einer achtel skugel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-7-pyramide-in-form-einer-achtel-skugel-p01957", 
+  "width": "888"
 }

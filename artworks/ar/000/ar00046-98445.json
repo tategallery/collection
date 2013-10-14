@@ -1,6 +1,5 @@
 {
   "acno": "AR00046", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "29", 
   "dimensions": "support: 1372 x 1520 x 29 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1520", 
   "id": 98445, 
   "inscription": "date inscribed", 
   "medium": "Coffee, egg white, mustard and graphite on canvas", 
   "movementCount": 0, 
-  "popularity": 130, 
   "subjectCount": 2, 
-  "title": "DANCE?"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance", 
+                "workCount": 214
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00046_8.jpg", 
+  "title": "DANCE?", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ruscha-dance-ar00046", 
+  "width": "1372"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N02945", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1886"
   }, 
   "dateText": "1886", 
+  "depth": "159", 
   "dimensions": "object: 533 x 225 x 159 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "225", 
   "id": 8582, 
   "inscription": null, 
   "medium": "Wax and metal on wooden base", 
@@ -41,7 +41,89 @@
       "workCount": 26
     }
   ], 
-  "popularity": 125, 
   "subjectCount": 6, 
-  "title": "Study for 'Needless Alarms'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety", 
+                "workCount": 137
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 2594, 
+                "name": "looking down", 
+                "workCount": 126
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1106, 
+                "name": "watching", 
+                "workCount": 306
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02945_8.jpg", 
+  "title": "Study for 'Needless Alarms'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leighton-study-for-needless-alarms-n02945", 
+  "width": "533"
 }

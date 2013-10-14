@@ -1,6 +1,5 @@
 {
   "acno": "D25724", 
-  "addlImageCount": 0, 
   "catTextResId": 1134088, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 59 x 96 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 45", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "96", 
   "id": 53061, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Continuation of Berwick Castle and the Tweed Estuary"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25724_8_R.jpg", 
+  "title": "Continuation of Berwick Castle and the Tweed Estuary", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-continuation-of-berwick-castle-and-the-tweed-estuary-d25724", 
+  "width": "59"
 }

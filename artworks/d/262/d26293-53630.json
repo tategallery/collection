@@ -1,6 +1,5 @@
 {
   "acno": "D26293", 
-  "addlImageCount": 0, 
   "catTextResId": 1136223, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,71 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIX 18", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "190", 
   "id": 53630, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 35, 
   "subjectCount": 3, 
-  "title": "Craignethan Castle, Lanarkshire: Tower House and Andrew Hay's House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26293_8.jpg", 
+  "title": "Craignethan Castle, Lanarkshire: Tower House and Andrew Hay's House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-craignethan-castle-lanarkshire-tower-house-and-andrew-hays-house-d26293", 
+  "width": "113"
 }

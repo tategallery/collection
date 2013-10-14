@@ -1,6 +1,5 @@
 {
   "acno": "P04287", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 587 x 794 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "794", 
   "id": 6148, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 140, 
   "subjectCount": 2, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04287_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heron-untitled-p04287", 
+  "width": "587"
 }

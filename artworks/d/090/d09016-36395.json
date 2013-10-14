@@ -1,6 +1,5 @@
 {
   "acno": "D09016", 
-  "addlImageCount": 0, 
   "catTextResId": 1134727, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
@@ -28,16 +27,58 @@
     "text": "?1809"
   }, 
   "dateText": "?1809", 
+  "depth": "", 
   "dimensions": "support: 125 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVII 37", 
   "foreignTitle": null, 
   "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "height": "201", 
   "id": 36395, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "A Mountain Valley, Probably in the Lake District"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09016_8.jpg", 
+  "title": "A Mountain Valley, Probably in the Lake District", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mountain-valley-probably-in-the-lake-district-d09016", 
+  "width": "125"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05242", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05238-P05247", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 204 x 255 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Variations", 
+  "height": "255", 
   "id": 14507, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,60 @@
       "workCount": 52
     }
   ], 
-  "popularity": 17, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1244, 
+                "name": "stick", 
+                "workCount": 24
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05242_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tucker-no-title-p05242", 
+  "width": "204"
 }

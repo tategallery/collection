@@ -1,6 +1,5 @@
 {
   "acno": "D16061", 
-  "addlImageCount": 0, 
   "catTextResId": 1137985, 
   "catalogueGroup": {
     "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
@@ -28,17 +27,71 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVI 77", 
   "foreignTitle": null, 
   "groupTitle": "Naples, Paestum and Rome Sketchbook [Finberg CLXXXVI]", 
+  "height": "189", 
   "id": 43417, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 159, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "?Marechiaro"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16061_8_R.jpg", 
+  "title": "?Marechiaro", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-marechiaro-d16061", 
+  "width": "113"
 }

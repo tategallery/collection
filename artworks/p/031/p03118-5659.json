@@ -1,6 +1,5 @@
 {
   "acno": "P03118", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03117-P03120", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 545 x 692 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Two Plus Two", 
+  "height": "692", 
   "id": 5659, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 2, 
-  "title": "Black over White"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03118_8.jpg", 
+  "title": "Black over White", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/green-black-over-white-p03118", 
+  "width": "545"
 }

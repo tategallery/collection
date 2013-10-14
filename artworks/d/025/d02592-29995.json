@@ -1,6 +1,5 @@
 {
   "acno": "D02592", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 164 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "LIII 89", 
   "foreignTitle": null, 
   "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "height": "117", 
   "id": 29995, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 179, 
-  "popularity": 28, 
   "subjectCount": 2, 
-  "title": "A Sailing Boat ?at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02592_8.jpg", 
+  "title": "A Sailing Boat ?at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sailing-boat-at-sea-d02592", 
+  "width": "164"
 }

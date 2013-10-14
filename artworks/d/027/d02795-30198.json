@@ -1,6 +1,5 @@
 {
   "acno": "D02795", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 115 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "LIV 108", 
   "foreignTitle": null, 
   "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "height": "162", 
   "id": 30198, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 219, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "The Ruins of Rievaulx Abbey: Study of a Skeleton ?of a Bullock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 4389, 
+                "name": "skeleton", 
+                "workCount": 14
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02795_8.jpg", 
+  "title": "The Ruins of Rievaulx Abbey: Study of a Skeleton ?of a Bullock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-ruins-of-rievaulx-abbey-study-of-a-skeleton-of-a-bullock-d02795", 
+  "width": "115"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04896", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,84 @@
     "text": "1936"
   }, 
   "dateText": "1936", 
+  "depth": "", 
   "dimensions": "support: 635 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 2008, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 84, 
   "subjectCount": 6, 
-  "title": "The Refectory Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain", 
+                "workCount": 201
+              }, 
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }, 
+              {
+                "id": 2009, 
+                "name": "fruit, pear", 
+                "workCount": 23
+              }, 
+              {
+                "id": 1035, 
+                "name": "vegetable, marrow", 
+                "workCount": 4
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04896_8.jpg", 
+  "title": "The Refectory Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/carter-the-refectory-table-n04896", 
+  "width": "635"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D22904", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22779-D22904; D41061-D41062", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 68 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLV 72 a", 
   "foreignTitle": null, 
   "groupTitle": "Arundel and Shoreham Sketchbook [Finberg CCXLV]", 
+  "height": "110", 
   "id": 50241, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 146, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22904_8_R.jpg", 
+  "title": "Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-d22904", 
+  "width": "68"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D24431", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24168-D24499; D40603-D40604; D40622-D40623", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 175 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVII 134 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris and Environs Sketchbook [Finberg CCLVII]", 
+  "height": "127", 
   "id": 51768, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 270, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24431_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d24431", 
+  "width": "175"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T08401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08347-T08445; T08871; T08875; T10264", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,81 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 164 x 118 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings by Nathaniel Dance-Holland and George Dance", 
+  "height": "118", 
   "id": 22728, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "Two Men, One a Supplicant, the Other in Wig and Gown"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 5207, 
+                "name": "pleading", 
+                "workCount": 30
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2848, 
+                "name": "robe", 
+                "workCount": 44
+              }, 
+              {
+                "id": 5040, 
+                "name": "wig", 
+                "workCount": 67
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08401_8.jpg", 
+  "title": "Two Men, One a Supplicant, the Other in Wig and Gown", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-holland-two-men-one-a-supplicant-the-other-in-wig-and-gown-t08401", 
+  "width": "164"
 }

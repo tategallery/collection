@@ -1,6 +1,5 @@
 {
   "acno": "D12331", 
-  "addlImageCount": 0, 
   "catTextResId": 1139331, 
   "catalogueGroup": {
     "accessionRanges": "D12318-D12448; D40917-D40923", 
@@ -28,17 +27,102 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLVII 11", 
   "foreignTitle": null, 
   "groupTitle": "Durham, North Shore, Sketchbook [Finberg CLVII]", 
+  "height": "185", 
   "id": 39699, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 23, 
-  "popularity": 69, 
   "subjectCount": 5, 
-  "title": "Durham Cathedral and Castle beyond Elvet Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2868, 
+                "name": "Durham", 
+                "workCount": 216
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9145, 
+                "name": "Durham, Durham Cathedral", 
+                "workCount": 33
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12331_8.jpg", 
+  "title": "Durham Cathedral and Castle beyond Elvet Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-durham-cathedral-and-castle-beyond-elvet-bridge-d12331", 
+  "width": "116"
 }

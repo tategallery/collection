@@ -1,6 +1,5 @@
 {
   "acno": "N05491", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "c.1827"
   }, 
   "dateText": "c.1827", 
+  "depth": "", 
   "dimensions": "support: 908 x 603 mm\r\nframe: 1010 x 701 x 55 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "603", 
   "id": 14949, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 1823, 
   "subjectCount": 2, 
-  "title": "Three Seascapes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05491_8.jpg", 
+  "title": "Three Seascapes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-seascapes-n05491", 
+  "width": "908"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05298", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05297-P05302", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 743 x 670 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Lorry I", 
+  "height": "670", 
   "id": 16275, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1109, 
+                "name": "train", 
+                "workCount": 52
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05298_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-no-title-p05298", 
+  "width": "743"
 }

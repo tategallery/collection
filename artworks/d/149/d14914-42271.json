@@ -1,6 +1,5 @@
 {
   "acno": "D14914", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 97 x 132 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVIII 46 a", 
   "foreignTitle": null, 
   "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "height": "132", 
   "id": 42271, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Recumbent Female Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14914_8_R.jpg", 
+  "title": "Recumbent Female Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-recumbent-female-figure-d14914", 
+  "width": "97"
 }

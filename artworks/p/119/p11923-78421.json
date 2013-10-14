@@ -1,6 +1,5 @@
 {
   "acno": "P11923", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 432 x 560 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "560", 
   "id": 78421, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,79 @@
       "workCount": 478
     }
   ], 
-  "popularity": 326, 
   "subjectCount": 4, 
-  "title": "Poster Poem (Le Circus)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3010, 
+                "name": "circus", 
+                "workCount": 19
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1571, 
+                "name": "poem", 
+                "workCount": 84
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11923_8.jpg", 
+  "title": "Poster Poem (Le Circus)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-poster-poem-le-circus-p11923", 
+  "width": "432"
 }

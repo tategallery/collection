@@ -1,6 +1,5 @@
 {
   "acno": "T00304", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,120 @@
     "text": "c.1949"
   }, 
   "dateText": "c.1949", 
+  "depth": "", 
   "dimensions": "support: 540 x 650 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "650", 
   "id": 9213, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 130, 
   "subjectCount": 9, 
-  "title": "Orchestra"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10062, 
+                "name": "concert", 
+                "workCount": 25
+              }, 
+              {
+                "id": 6049, 
+                "name": "orchestra", 
+                "workCount": 8
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2069, 
+                "name": "instrument, clarinet", 
+                "workCount": 7
+              }, 
+              {
+                "id": 4755, 
+                "name": "instrument, double bass", 
+                "workCount": 4
+              }, 
+              {
+                "id": 3061, 
+                "name": "instrument, drum", 
+                "workCount": 47
+              }, 
+              {
+                "id": 2521, 
+                "name": "instrument, trumpet", 
+                "workCount": 25
+              }, 
+              {
+                "id": 3011, 
+                "name": "instrument, violin", 
+                "workCount": 49
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00304_8.jpg", 
+  "title": "Orchestra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mane-katz-orchestra-t00304", 
+  "width": "540"
 }

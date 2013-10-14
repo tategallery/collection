@@ -1,6 +1,5 @@
 {
   "acno": "N04166", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1925"
   }, 
   "dateText": "1925", 
+  "depth": "", 
   "dimensions": "support: 400 x 600 mm\r\nframe: 625 x 822 x 85 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Verre et plat de pommes", 
   "groupTitle": null, 
+  "height": "600", 
   "id": 1442, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
@@ -41,7 +41,65 @@
       "workCount": 5
     }
   ], 
-  "popularity": 494, 
   "subjectCount": 4, 
-  "title": "Glass and Plate of Apples"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }, 
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1071, 
+                "name": "table cloth", 
+                "workCount": 44
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04166_8.jpg", 
+  "title": "Glass and Plate of Apples", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/braque-glass-and-plate-of-apples-n04166", 
+  "width": "400"
 }

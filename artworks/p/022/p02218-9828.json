@@ -1,6 +1,5 @@
 {
   "acno": "P02218", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02201-P02219", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 291 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Auden Poems Moore Lithographs Portfolio", 
+  "height": "210", 
   "id": 9828, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 1, 
-  "title": "The Forest"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest", 
+                "workCount": 225
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02218_8.jpg", 
+  "title": "The Forest", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-the-forest-p02218", 
+  "width": "291"
 }

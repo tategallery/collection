@@ -1,6 +1,5 @@
 {
   "acno": "D25686", 
-  "addlImageCount": 0, 
   "catTextResId": 1134050, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 96 x 59 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 25", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "59", 
   "id": 53023, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Costumed Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25686_8.jpg", 
+  "title": "Costumed Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-costumed-figures-d25686", 
+  "width": "96"
 }

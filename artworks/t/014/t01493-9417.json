@@ -1,6 +1,5 @@
 {
   "acno": "T01493", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "support: 760 x 640 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "640", 
   "id": 9417, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 75, 
   "subjectCount": 1, 
-  "title": "Chessboard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3793, 
+                "name": "chess board", 
+                "workCount": 8
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games", 
+            "workCount": 127
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01493_8.jpg", 
+  "title": "Chessboard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mead-chessboard-t01493", 
+  "width": "760"
 }

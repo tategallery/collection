@@ -1,6 +1,5 @@
 {
   "acno": "P06771", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 502 x 394 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "394", 
   "id": 2798, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 2, 
-  "title": "Goshawk"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6421, 
+                "name": "hawk", 
+                "workCount": 10
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2045, 
+                "name": "railing", 
+                "workCount": 61
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06771_8.jpg", 
+  "title": "Goshawk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cordery-goshawk-p06771", 
+  "width": "502"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P06400", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,83 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 591 x 813 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "813", 
   "id": 10905, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "Canal Lock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal", 
+                "workCount": 545
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8747, 
+                "name": "lock", 
+                "workCount": 44
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06400_8.jpg", 
+  "title": "Canal Lock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconnor-canal-lock-p06400", 
+  "width": "591"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00090", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1951"
   }, 
   "dateText": "1951", 
+  "depth": "", 
   "dimensions": "support: 914 x 711 mm\r\nframe: 1132 x 927 x 53 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "711", 
   "id": 15717, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,79 @@
       "workCount": 107
     }
   ], 
-  "popularity": 297, 
   "subjectCount": 4, 
-  "title": "Leaping Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1011, 
+                "name": "balustrade", 
+                "workCount": 91
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure", 
+                "workCount": 162
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 6717, 
+                "name": "leaping", 
+                "workCount": 16
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00090_8.jpg", 
+  "title": "Leaping Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vaughan-leaping-figure-t00090", 
+  "width": "914"
 }

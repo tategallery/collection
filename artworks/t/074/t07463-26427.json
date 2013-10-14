@@ -1,6 +1,5 @@
 {
   "acno": "T07463", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "68", 
   "dimensions": "support: 3308 x 4955 x 68 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Norwegische Sicht", 
   "groupTitle": null, 
+  "height": "4955", 
   "id": 26427, 
   "inscription": null, 
   "medium": "Household emulsion paint on canvas", 
   "movementCount": 0, 
-  "popularity": 176, 
   "subjectCount": 3, 
-  "title": "Norwegian Sight"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6783, 
+                "name": "philosophy, Eastern", 
+                "workCount": 6
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07463_8.jpg", 
+  "title": "Norwegian Sight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/federle-norwegian-sight-t07463", 
+  "width": "3308"
 }

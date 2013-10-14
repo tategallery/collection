@@ -1,6 +1,5 @@
 {
   "acno": "P07107", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07104-P07110", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "image: 699 x 672 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fragments", 
+  "height": "672", 
   "id": 12592, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on Perspex", 
@@ -47,7 +47,46 @@
       "workCount": 57
     }
   ], 
-  "popularity": 393, 
   "subjectCount": 3, 
-  "title": "Fragment 4/6"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11717, 
+                "name": "order", 
+                "workCount": 32
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }, 
+              {
+                "id": 6749, 
+                "name": "symmetry", 
+                "workCount": 184
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07107_8.jpg", 
+  "title": "Fragment 4/6", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-fragment-46-p07107", 
+  "width": "699"
 }

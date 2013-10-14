@@ -1,6 +1,5 @@
 {
   "acno": "N03960", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1923"
   }, 
   "dateText": "1923", 
+  "depth": "305", 
   "dimensions": "object: 356 x 635 x 305 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "635", 
   "id": 1622, 
   "inscription": "date inscribed", 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 93, 
   "subjectCount": 4, 
-  "title": "Ju-Jitsu"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1730, 
+                "name": "jiu-jitsu", 
+                "workCount": 2
+              }, 
+              {
+                "id": 1522, 
+                "name": "wrestling", 
+                "workCount": 13
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03960_8.jpg", 
+  "title": "Ju-Jitsu", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-ju-jitsu-n03960", 
+  "width": "356"
 }

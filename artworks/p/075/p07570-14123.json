@@ -1,6 +1,5 @@
 {
   "acno": "P07570", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 654 x 892 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Le Tamis", 
   "groupTitle": null, 
+  "height": "892", 
   "id": 14123, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,60 @@
       "workCount": 48
     }
   ], 
-  "popularity": 308, 
   "subjectCount": 3, 
-  "title": "The Sieve"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07570_8.jpg", 
+  "title": "The Sieve", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tapies-the-sieve-p07570", 
+  "width": "654"
 }

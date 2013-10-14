@@ -1,6 +1,5 @@
 {
   "acno": "D09371", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1812-13"
   }, 
   "dateText": "c.1812-13", 
+  "depth": "", 
   "dimensions": "support: 158 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXI 134", 
   "foreignTitle": null, 
   "groupTitle": "Plymouth, Hamoaze Sketchbook [Finberg CXXXI]", 
+  "height": "93", 
   "id": 36750, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 447, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Outskirts of a Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09371_8.jpg", 
+  "title": "Outskirts of a Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-outskirts-of-a-town-d09371", 
+  "width": "158"
 }

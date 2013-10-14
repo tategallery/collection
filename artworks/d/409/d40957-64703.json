@@ -1,6 +1,5 @@
 {
   "acno": "D40957", 
-  "addlImageCount": 0, 
   "catTextResId": 1138534, 
   "catalogueGroup": {
     "accessionRanges": "D16486-D16640; D40955-D40957", 
@@ -28,17 +27,71 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 189 x 113 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Rome and Florence Sketchbook [Finberg CXCI]", 
+  "height": "113", 
   "id": 64703, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 185, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "Part of the Inscription on the Base of the Column of Marcus Aurelius in Piazza Colonna, Rome; and a Sketch of Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40957_8.jpg", 
+  "title": "Part of the Inscription on the Base of the Column of Marcus Aurelius in Piazza Colonna, Rome; and a Sketch of Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-the-inscription-on-the-base-of-the-column-of-marcus-aurelius-in-piazza-colonna-rome-and-a-sketch-of-mountains-d40957", 
+  "width": "189"
 }

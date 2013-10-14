@@ -1,6 +1,5 @@
 {
   "acno": "P78360", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78353-P78363", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1998-9"
   }, 
   "dateText": "1998-9", 
+  "depth": "", 
   "dimensions": "unconfirmed: 670 x 800 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Brushwork Series", 
+  "height": "800", 
   "id": 27143, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,46 @@
       "workCount": 409
     }
   ], 
-  "popularity": 77, 
   "subjectCount": 3, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78360_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heron-title-not-known-p78360", 
+  "width": "670"
 }

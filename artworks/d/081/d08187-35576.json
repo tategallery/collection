@@ -1,6 +1,5 @@
 {
   "acno": "D08187", 
-  "addlImageCount": 0, 
   "catTextResId": 1131798, 
   "catalogueGroup": {
     "accessionRanges": "D08108; D08109; D08179-D08187; D08222; D25373; D40045; N02942", 
@@ -28,16 +27,75 @@
     "text": "c.1815-19"
   }, 
   "dateText": "c.1815-19", 
+  "depth": "", 
   "dimensions": "support: 231 x 316 mm", 
-  "displayLocation": null, 
   "finberg": "CXVIII g", 
   "foreignTitle": null, 
   "groupTitle": "Liber Studiorum: Probable or Possible Designs, not Engraved in Turner's Lifetime", 
+  "height": "316", 
   "id": 35576, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "A Lake or River with Wooded Banks and a Distant Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08187_8.jpg", 
+  "title": "A Lake or River with Wooded Banks and a Distant Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-lake-or-river-with-wooded-banks-and-a-distant-bridge-d08187", 
+  "width": "231"
 }

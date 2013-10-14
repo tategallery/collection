@@ -1,6 +1,5 @@
 {
   "acno": "D05449", 
-  "addlImageCount": 0, 
   "catTextResId": 1139245, 
   "catalogueGroup": {
     "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
@@ -28,17 +27,83 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 184 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIX 4", 
   "foreignTitle": null, 
   "groupTitle": "Nelson Sketchbook [Finberg LXXXIX]", 
+  "height": "114", 
   "id": 32841, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 66, 
   "subjectCount": 4, 
-  "title": "Studies of a Marine's Uniform"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3023, 
+                "name": "sailor", 
+                "workCount": 86
+              }, 
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05449_8_R.jpg", 
+  "title": "Studies of a Marine's Uniform", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-a-marines-uniform-d05449", 
+  "width": "184"
 }

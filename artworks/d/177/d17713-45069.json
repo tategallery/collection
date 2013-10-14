@@ -1,6 +1,5 @@
 {
   "acno": "D17713", 
-  "addlImageCount": 0, 
   "catTextResId": 1133256, 
   "catalogueGroup": {
     "accessionRanges": "D17672-D17718; D40978-D40980", 
@@ -28,17 +27,59 @@
     "text": "1822"
   }, 
   "dateText": "1822", 
+  "depth": "", 
   "dimensions": "support: 111 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCI 40", 
   "foreignTitle": null, 
   "groupTitle": "King at Edinburgh Sketchbook [Finberg CCI]", 
+  "height": "188", 
   "id": 45069, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 81, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Figures in a Boat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17713_8.jpg", 
+  "title": "Figures in a Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-in-a-boat-d17713", 
+  "width": "111"
 }

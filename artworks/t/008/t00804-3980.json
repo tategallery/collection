@@ -1,6 +1,5 @@
 {
   "acno": "T00804", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "support: 1556 x 2349 mm\r\nframe: 1610 x 2410 x 60 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Molto a punta", 
   "groupTitle": null, 
+  "height": "2349", 
   "id": 3980, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,65 @@
       "workCount": 57
     }
   ], 
-  "popularity": 288, 
   "subjectCount": 4, 
-  "title": "Very Sharp"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6745, 
+                "name": "rhythm", 
+                "workCount": 39
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion", 
+                "workCount": 99
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00804_8.jpg", 
+  "title": "Very Sharp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dorazio-very-sharp-t00804", 
+  "width": "1556"
 }

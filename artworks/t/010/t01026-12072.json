@@ -1,6 +1,5 @@
 {
   "acno": "T01026", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1934/1967"
   }, 
   "dateText": "1934/1967", 
+  "depth": "", 
   "dimensions": "object: 1006 x 1159 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1159", 
   "id": 12072, 
   "inscription": null, 
   "medium": "Oil paint, zinc, wood, glass and dowelling on canvas on plywood", 
@@ -51,7 +51,77 @@
       "workCount": 13
     }
   ], 
-  "popularity": 410, 
   "subjectCount": 5, 
-  "title": "Construction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01026_8.jpg", 
+  "title": "Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-construction-t01026", 
+  "width": "1006"
 }

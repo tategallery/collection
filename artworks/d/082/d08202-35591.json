@@ -1,6 +1,5 @@
 {
   "acno": "D08202", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,101 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 220 x 317 mm", 
-  "displayLocation": null, 
   "finberg": "CXIX O", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "317", 
   "id": 35591, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 5, 
-  "title": "A House (?with a Watermill) by a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 818, 
+                "name": "reed", 
+                "workCount": 65
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08202_8.jpg", 
+  "title": "A House (?with a Watermill) by a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-house-with-a-watermill-by-a-river-d08202", 
+  "width": "220"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04084", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 711 x 924 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "924", 
   "id": 2033, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 564, 
   "subjectCount": 2, 
-  "title": "Cafe Sign"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04084_8.jpg", 
+  "title": "Cafe Sign", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-cafe-sign-p04084", 
+  "width": "711"
 }

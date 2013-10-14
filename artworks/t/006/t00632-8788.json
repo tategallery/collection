@@ -1,6 +1,5 @@
 {
   "acno": "T00632", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1918"
   }, 
   "dateText": "1918", 
+  "depth": "", 
   "dimensions": "support: 965 x 781 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Herrenportr\u00e4t Professor Cassirer", 
   "groupTitle": null, 
+  "height": "781", 
   "id": 8788, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,84 @@
       "workCount": 39
     }
   ], 
-  "popularity": 165, 
   "subjectCount": 5, 
-  "title": "Professor Richard Cassirer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5906, 
+                "name": "Cassirer, Richard, Professor", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 2085, 
+                "name": "hands crossed", 
+                "workCount": 24
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5908, 
+                "name": "professor", 
+                "workCount": 9
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific", 
+            "workCount": 173
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00632_8.jpg", 
+  "title": "Professor Richard Cassirer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/liebermann-professor-richard-cassirer-t00632", 
+  "width": "965"
 }

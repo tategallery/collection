@@ -1,6 +1,5 @@
 {
   "acno": "AR00134", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "Overall display dimensions variable", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 98484, 
   "inscription": null, 
   "medium": "Vinyl wall text", 
@@ -44,7 +41,55 @@
       "workCount": 478
     }
   ], 
-  "popularity": 88, 
   "subjectCount": 2, 
-  "title": "TAKEN UP WITH"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2016, 
+                "name": "phrase", 
+                "workCount": 77
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00134_8.jpg", 
+  "title": "TAKEN UP WITH", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/weiner-taken-up-with-ar00134", 
+  "width": "display"
 }

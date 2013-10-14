@@ -1,6 +1,5 @@
 {
   "acno": "D00571", 
-  "addlImageCount": 0, 
   "catTextResId": 1140898, 
   "catalogueGroup": {
     "accessionRanges": "D00553-D00595; D00597-D00599; D00601-D00610; D00612-D00625; D00627-D00638; D00642-D00643; D00645-D00646; D00648-D00661; D40553-D40558", 
@@ -28,17 +27,239 @@
     "text": "1795"
   }, 
   "dateText": "1795", 
+  "depth": "", 
   "dimensions": "support: 264 x 203 mm", 
-  "displayLocation": null, 
   "finberg": "XXVI 18", 
   "foreignTitle": null, 
   "groupTitle": "South Wales Sketchbook [Finberg XXVI]", 
+  "height": "203", 
   "id": 27986, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 90, 
   "subjectCount": 17, 
-  "title": "Llanstephan Castle from the Foreshore, with a Lime-Kiln and Vessels in the Foreground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7483, 
+                "name": "Carmarthenshire", 
+                "workCount": 46
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7952, 
+                "name": "Llanstephan, Llanstephan Castle", 
+                "workCount": 6
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 7482, 
+                "name": "River Tywi", 
+                "workCount": 18
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2609, 
+                "name": "anchor", 
+                "workCount": 66
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }, 
+              {
+                "id": 3785, 
+                "name": "oar", 
+                "workCount": 8
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 1236, 
+                "name": "estuary", 
+                "workCount": 299
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5662, 
+                "name": "kiln", 
+                "workCount": 38
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00571_8.jpg", 
+  "title": "Llanstephan Castle from the Foreshore, with a Lime-Kiln and Vessels in the Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-llanstephan-castle-from-the-foreshore-with-a-lime-kiln-and-vessels-in-the-foreground-d00571", 
+  "width": "264"
 }

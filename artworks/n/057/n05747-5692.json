@@ -1,6 +1,5 @@
 {
   "acno": "N05747", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1914"
   }, 
   "dateText": "1914", 
+  "depth": "", 
   "dimensions": "support: 921 x 727 mm\r\nframe: 1001 x 812 x 79 mm", 
-  "displayLocation": null, 
   "foreignTitle": "La Jalousie", 
   "groupTitle": null, 
+  "height": "727", 
   "id": 5692, 
   "inscription": "date inscribed", 
   "medium": "Gouache, paper, chalk and charcoal on canvas", 
@@ -41,7 +41,103 @@
       "workCount": 44
     }
   ], 
-  "popularity": 992, 
   "subjectCount": 6, 
-  "title": "The Sunblind"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4069, 
+                "name": "blind", 
+                "workCount": 11
+              }, 
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific", 
+                "workCount": 155
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05747_8.jpg", 
+  "title": "The Sunblind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-the-sunblind-n05747", 
+  "width": "921"
 }

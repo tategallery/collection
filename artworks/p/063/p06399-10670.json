@@ -1,6 +1,5 @@
 {
   "acno": "P06399", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01416; P06005; P06108; P06130; P06241; P06324; P06346; P06359; P06399; P06457; P06519; P06700", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 667 x 800 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Penwith Portfolio", 
+  "height": "800", 
   "id": 10670, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 123, 
   "subjectCount": 2, 
-  "title": "abstract 1936"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06399_8.jpg", 
+  "title": "abstract 1936", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-abstract-1936-p06399", 
+  "width": "667"
 }

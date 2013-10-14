@@ -1,6 +1,5 @@
 {
   "acno": "D04745", 
-  "addlImageCount": 0, 
   "catTextResId": 1133448, 
   "catalogueGroup": {
     "accessionRanges": "D04736-D04796; D40791-D40794", 
@@ -28,17 +27,102 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 154 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVII 10", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Strassburg and Oxford Sketchbook [Finberg LXXVII]", 
+  "height": "240", 
   "id": 32138, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 23, 
   "subjectCount": 5, 
-  "title": "St Nicolas-de-Port: the Basilica from a Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04745_8.jpg", 
+  "title": "St Nicolas-de-Port: the Basilica from a Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-nicolas-de-port-the-basilica-from-a-bridge-d04745", 
+  "width": "154"
 }

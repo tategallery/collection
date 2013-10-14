@@ -1,6 +1,5 @@
 {
   "acno": "D06016", 
-  "addlImageCount": 0, 
   "catTextResId": 1130192, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
@@ -28,17 +27,47 @@
     "text": "c.1807-8"
   }, 
   "dateText": "c.1807-8", 
+  "depth": "", 
   "dimensions": "support: 92 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "XCVI 45 a", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "height": "163", 
   "id": 33407, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 92, 
-  "popularity": 23, 
   "subjectCount": 1, 
-  "title": "A Pony"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06016_8.jpg", 
+  "title": "A Pony", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-pony-d06016", 
+  "width": "92"
 }

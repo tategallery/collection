@@ -1,6 +1,5 @@
 {
   "acno": "D16883", 
-  "addlImageCount": 0, 
   "catTextResId": 1138658, 
   "catalogueGroup": {
     "accessionRanges": "D16762-D16889; D40988-D40990", 
@@ -28,17 +27,47 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 94 x 115 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIII 102 a", 
   "foreignTitle": null, 
   "groupTitle": "Remarks (Italy) Sketchbook [Finberg CXCIII]", 
+  "height": "115", 
   "id": 44239, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 208, 
-  "popularity": 4, 
   "subjectCount": 1, 
-  "title": "A View, ?France"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16883_8_R.jpg", 
+  "title": "A View, ?France", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-view-france-d16883", 
+  "width": "94"
 }

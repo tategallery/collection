@@ -1,6 +1,5 @@
 {
   "acno": "D33516", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33506-D33507; D33509-D33524; D40325", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,65 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 234 x 664 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXIII 11", 
   "foreignTitle": null, 
   "groupTitle": "Fluelen, Berne and Fribourg Sketchbook [Finberg CCCXXXIII]", 
+  "height": "664", 
   "id": 60687, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Street Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33516_8.jpg", 
+  "title": "Street Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-d33516", 
+  "width": "234"
 }

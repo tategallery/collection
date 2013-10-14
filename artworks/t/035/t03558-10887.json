@@ -1,6 +1,5 @@
 {
   "acno": "T03558", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,103 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "support: 1219 x 1219 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 10887, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on hardboard", 
   "movementCount": 0, 
-  "popularity": 407, 
   "subjectCount": 7, 
-  "title": "Antarctica"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5000, 
+                "name": "Antarctica", 
+                "workCount": 3
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 5001, 
+                "name": "McMurdo Sound", 
+                "workCount": 1
+              }, 
+              {
+                "id": 5002, 
+                "name": "Mount Erebus", 
+                "workCount": 1
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03558_8.jpg", 
+  "title": "Antarctica", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nolan-antarctica-t03558", 
+  "width": "1219"
 }

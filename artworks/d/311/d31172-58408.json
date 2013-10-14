@@ -1,6 +1,5 @@
 {
   "acno": "D31172", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31138-D31143; D31145-D31150; D31152-D31156; D31158-D31222; D41125-D41126", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 171 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVIII 21", 
   "foreignTitle": null, 
   "groupTitle": "Arco and Vigne Sketchbook [Finberg CCCVIII]", 
+  "height": "111", 
   "id": 58408, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "River, with Castle, Etc., on Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31172_8.jpg", 
+  "title": "River, with Castle, Etc., on Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-castle-etc-on-hill-d31172", 
+  "width": "171"
 }

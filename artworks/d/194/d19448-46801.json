@@ -1,6 +1,5 @@
 {
   "acno": "D19448", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXV 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "height": "189", 
   "id": 46801, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "Views of Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19448_8_R.jpg", 
+  "title": "Views of Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-of-town-d19448", 
+  "width": "113"
 }

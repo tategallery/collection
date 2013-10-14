@@ -1,6 +1,5 @@
 {
   "acno": "P77286", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1985"
   }, 
   "dateText": "1985", 
+  "depth": "", 
   "dimensions": "image: 597 x 851 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Metalle", 
   "groupTitle": null, 
+  "height": "851", 
   "id": 12701, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,93 @@
       "workCount": 26
     }
   ], 
-  "popularity": 97, 
   "subjectCount": 4, 
-  "title": "Metals"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2000, 
+                "name": "metal", 
+                "workCount": 7
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry", 
+                "workCount": 184
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77286_8.jpg", 
+  "title": "Metals", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baumgarten-metals-p77286", 
+  "width": "597"
 }

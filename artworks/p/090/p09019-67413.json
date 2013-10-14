@@ -1,6 +1,5 @@
 {
   "acno": "P09019", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09000-P09025", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "unconfirmed: 502 x 698 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "An Assemblage of Several Things", 
+  "height": "698", 
   "id": 67413, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09019_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/house-no-title-p09019", 
+  "width": "502"
 }

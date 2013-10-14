@@ -1,6 +1,5 @@
 {
   "acno": "P02485", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02484-P02487", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1971-2"
   }, 
   "dateText": "1971-2", 
+  "depth": "", 
   "dimensions": "image: 615 x 613 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Four Seasons", 
+  "height": "613", 
   "id": 8657, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 35, 
   "subjectCount": 3, 
-  "title": "Summer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02485_8.jpg", 
+  "title": "Summer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-summer-p02485", 
+  "width": "615"
 }

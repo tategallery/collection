@@ -1,6 +1,5 @@
 {
   "acno": "P05415", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 746 x 911 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "911", 
   "id": 2069, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,67 @@
       "workCount": 846
     }
   ], 
-  "popularity": 200, 
   "subjectCount": 3, 
-  "title": "Bananas and Leaves"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage", 
+                "workCount": 157
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2192, 
+                "name": "fruit, banana", 
+                "workCount": 13
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05415_8.jpg", 
+  "title": "Bananas and Leaves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-bananas-and-leaves-p05415", 
+  "width": "746"
 }

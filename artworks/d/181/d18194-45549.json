@@ -1,6 +1,5 @@
 {
   "acno": "D18194", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18159-D18310; D41437-D41439", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 115 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCIX 20", 
   "foreignTitle": null, 
   "groupTitle": "Norfolk, Suffolk and Essex Sketchbook [Finberg CCIX]", 
+  "height": "188", 
   "id": 45549, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 9, 
   "subjectCount": 5, 
-  "title": "River Scene, with Shipping and a Round Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18194_8.jpg", 
+  "title": "River Scene, with Shipping and a Round Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scene-with-shipping-and-a-round-tower-d18194", 
+  "width": "115"
 }

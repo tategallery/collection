@@ -1,6 +1,5 @@
 {
   "acno": "D27347", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27281-D27365; D41144-D41145", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 206 x 86 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX 43", 
   "foreignTitle": null, 
   "groupTitle": "Gravesend and Margate Sketchbook [Finberg CCLXXIX]", 
+  "height": "86", 
   "id": 54682, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 87, 
-  "popularity": 5, 
   "subjectCount": 1, 
-  "title": "Brow of Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27347_8.jpg", 
+  "title": "Brow of Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-brow-of-hill-d27347", 
+  "width": "206"
 }

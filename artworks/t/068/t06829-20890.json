@@ -1,6 +1,5 @@
 {
   "acno": "T06829", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1956"
   }, 
   "dateText": "1956", 
+  "depth": "", 
   "dimensions": "support: 691 x 781 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "781", 
   "id": 20890, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,72 @@
       "workCount": 15
     }
   ], 
-  "popularity": 291, 
   "subjectCount": 4, 
-  "title": "Santa Panagia (Sicily)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3710, 
+                "name": "Italy, Sicily", 
+                "workCount": 11
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 3709, 
+                "name": "Santa Panagia", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }, 
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06829_8.jpg", 
+  "title": "Santa Panagia (Sicily)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guttuso-santa-panagia-sicily-t06829", 
+  "width": "691"
 }

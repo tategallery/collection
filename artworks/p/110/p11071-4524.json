@@ -1,6 +1,5 @@
 {
   "acno": "P11071", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "image: 844 x 632 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "632", 
   "id": 4524, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,46 @@
       "workCount": 102
     }
   ], 
-  "popularity": 221, 
   "subjectCount": 3, 
-  "title": "Blue Blood Stone"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11071_8.jpg", 
+  "title": "Blue Blood Stone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/francis-blue-blood-stone-p11071", 
+  "width": "844"
 }

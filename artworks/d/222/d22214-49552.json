@@ -1,6 +1,5 @@
 {
   "acno": "D22214", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 114 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIX 35", 
   "foreignTitle": null, 
   "groupTitle": "Worcester and Shrewsbury Sketchbook [Finberg CCXXXIX]", 
+  "height": "191", 
   "id": 49552, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Interior of Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22214_8_R.jpg", 
+  "title": "Interior of Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-church-d22214", 
+  "width": "114"
 }

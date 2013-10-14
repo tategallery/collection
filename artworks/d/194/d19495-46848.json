@@ -1,6 +1,5 @@
 {
   "acno": "D19495", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXV 58 a", 
   "foreignTitle": null, 
   "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "height": "189", 
   "id": 46848, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 18, 
   "subjectCount": 4, 
-  "title": "Houses on Canal"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal", 
+                "workCount": 545
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19495_8_R.jpg", 
+  "title": "Houses on Canal", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-on-canal-d19495", 
+  "width": "113"
 }

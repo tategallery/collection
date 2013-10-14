@@ -1,6 +1,5 @@
 {
   "acno": "P03141", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 503 x 367 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "367", 
   "id": 7972, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,86 @@
       "workCount": 377
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 4, 
-  "title": "(37) Menschen der Zeit"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12412, 
+                "name": "book, 'Menschen Der Zeit'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03141_8.jpg", 
+  "title": "(37) Menschen der Zeit", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-37-menschen-der-zeit-p03141", 
+  "width": "503"
 }

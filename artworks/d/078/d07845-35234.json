@@ -1,6 +1,5 @@
 {
   "acno": "D07845", 
-  "addlImageCount": 0, 
   "catTextResId": 1135799, 
   "catalogueGroup": {
     "accessionRanges": "D07755-D07852; D40804", 
@@ -28,17 +27,102 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 107 x 180 mm", 
-  "displayLocation": null, 
   "finberg": "CXII 84 a", 
   "foreignTitle": null, 
   "groupTitle": "Frittlewell Sketchbook [Finberg CXII]", 
+  "height": "180", 
   "id": 35234, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 170, 
-  "popularity": 75, 
   "subjectCount": 5, 
-  "title": "Cowdray Castle and the Stone Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9410, 
+                "name": "Cowdrey House", 
+                "workCount": 4
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks", 
+            "workCount": 837
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2023, 
+                "name": "Sussex, West", 
+                "workCount": 261
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07845_8_R.jpg", 
+  "title": "Cowdray Castle and the Stone Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cowdray-castle-and-the-stone-bridge-d07845", 
+  "width": "107"
 }

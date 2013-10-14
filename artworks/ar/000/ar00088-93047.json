@@ -1,6 +1,5 @@
 {
   "acno": "AR00088", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1964-85"
   }, 
   "dateText": "1964-85", 
+  "depth": "640", 
   "dimensions": "displayed: 1830 x 1550 x 640 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Fettstuhl", 
   "groupTitle": null, 
+  "height": "1550", 
   "id": 93047, 
   "inscription": null, 
   "medium": "Wood, glass, metal, fabric, paint, fat and thermometer", 
   "movementCount": 0, 
-  "popularity": 537, 
   "subjectCount": 4, 
-  "title": "Fat Chair"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }, 
+              {
+                "id": 1985, 
+                "name": "display case / vitrine", 
+                "workCount": 28
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1987, 
+                "name": "fat", 
+                "workCount": 13
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1995, 
+                "name": "life - fat", 
+                "workCount": 3
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death", 
+            "workCount": 96
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00088_8.jpg", 
+  "title": "Fat Chair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-fat-chair-ar00088", 
+  "width": "1830"
 }

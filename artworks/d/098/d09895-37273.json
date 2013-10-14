@@ -1,6 +1,5 @@
 {
   "acno": "D09895", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09889-D09986; D40813; D41524", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "c.1813"
   }, 
   "dateText": "c.1813", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXV 4", 
   "foreignTitle": null, 
   "groupTitle": "Chemistry and Apuleia Sketchbook [Finberg CXXXV]", 
+  "height": "110", 
   "id": 37273, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "River with Hills on Either Side; Castle on Promontory in Distance (?Dartmouth Castle)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09895_8.jpg", 
+  "title": "River with Hills on Either Side; Castle on Promontory in Distance (?Dartmouth Castle)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-hills-on-either-side-castle-on-promontory-in-distance-dartmouth-castle-d09895", 
+  "width": "89"
 }

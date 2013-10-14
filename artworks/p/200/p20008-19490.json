@@ -1,6 +1,5 @@
 {
   "acno": "P20008", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02991-P02999; P20000-P20040", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1990"
   }, 
   "dateText": "1990", 
+  "depth": "", 
   "dimensions": "image: 178 x 153 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fifty Etchings", 
+  "height": "153", 
   "id": 19490, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 40, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural", 
+                "workCount": 539
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 3745, 
+                "name": "winged horse", 
+                "workCount": 11
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20008_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-brun-no-title-p20008", 
+  "width": "178"
 }

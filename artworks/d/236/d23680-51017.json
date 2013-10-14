@@ -1,6 +1,5 @@
 {
   "acno": "D23680", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23525-D23698; D41074-D41076", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "?1832"
   }, 
   "dateText": "?1832", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLII 83 a", 
   "foreignTitle": null, 
   "groupTitle": "Guernsey Sketchbook [Finberg CCLII]", 
+  "height": "187", 
   "id": 51017, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 168, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Street Scene, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }, 
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23680_8.jpg", 
+  "title": "Street Scene, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-etc-d23680", 
+  "width": "114"
 }

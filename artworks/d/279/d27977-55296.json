@@ -1,6 +1,5 @@
 {
   "acno": "D27977", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27940-D28041; D41107; D41127", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVI 20 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Bruges Sketchbook [Finberg CCLXXXVI]", 
+  "height": "116", 
   "id": 55296, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 42, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "Ships Sailing and Distant Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27977_8_R.jpg", 
+  "title": "Ships Sailing and Distant Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ships-sailing-and-distant-coast-d27977", 
+  "width": "90"
 }

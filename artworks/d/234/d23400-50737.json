@@ -1,6 +1,5 @@
 {
   "acno": "D23400", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 133 x 91 mm", 
-  "displayLocation": null, 
   "finberg": "CCL 34 a", 
   "foreignTitle": null, 
   "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "height": "91", 
   "id": 50737, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "Church on Hill; Also Group of Female Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23400_8.jpg", 
+  "title": "Church on Hill; Also Group of Female Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-on-hill-also-group-of-female-figures-d23400", 
+  "width": "133"
 }

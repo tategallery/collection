@@ -1,6 +1,5 @@
 {
   "acno": "T00163", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1929"
   }, 
   "dateText": "c.1929", 
+  "depth": "", 
   "dimensions": "support: 378 x 445 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "445", 
   "id": 6598, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,115 @@
       "workCount": 13
     }
   ], 
-  "popularity": 197, 
   "subjectCount": 7, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 4086, 
+                "name": "egg", 
+                "workCount": 13
+              }, 
+              {
+                "id": 774, 
+                "name": "fruit - non-specific", 
+                "workCount": 86
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00163_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkins-still-life-t00163", 
+  "width": "378"
 }

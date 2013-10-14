@@ -1,6 +1,5 @@
 {
   "acno": "D06377", 
-  "addlImageCount": 0, 
   "catTextResId": 1130565, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
@@ -28,17 +27,66 @@
     "text": "c.1805-9"
   }, 
   "dateText": "c.1805-9", 
+  "depth": "", 
   "dimensions": "support: 115 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "XCIX 12", 
   "foreignTitle": null, 
   "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "height": "190", 
   "id": 33768, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Barges and other Vessels, Sailing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06377_8.jpg", 
+  "title": "Barges and other Vessels, Sailing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-barges-and-other-vessels-sailing-d06377", 
+  "width": "115"
 }

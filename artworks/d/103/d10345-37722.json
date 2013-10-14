@@ -1,6 +1,5 @@
 {
   "acno": "D10345", 
-  "addlImageCount": 0, 
   "catTextResId": 1131574, 
   "catalogueGroup": {
     "accessionRanges": "D10343-D10348; D10350-D10408; D40814; D40834", 
@@ -28,17 +27,59 @@
     "text": "c.1816-17"
   }, 
   "dateText": "c.1816-17", 
+  "depth": "", 
   "dimensions": "support: 129 x 205 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIX 3", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXXXIX]", 
+  "height": "205", 
   "id": 37722, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 31, 
   "subjectCount": 2, 
-  "title": "A Classical Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10345_8.jpg", 
+  "title": "A Classical Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-classical-composition-d10345", 
+  "width": "129"
 }

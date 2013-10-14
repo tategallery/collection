@@ -1,6 +1,5 @@
 {
   "acno": "D15151", 
-  "addlImageCount": 0, 
   "catTextResId": 1139563, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 24", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42507, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Sketch of a Tomb, Rome"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11495, 
+                "name": "gravestone / tomb", 
+                "workCount": 238
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15151_8.jpg", 
+  "title": "Sketch of a Tomb, Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketch-of-a-tomb-rome-d15151", 
+  "width": "161"
 }

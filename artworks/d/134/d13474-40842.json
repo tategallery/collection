@@ -1,6 +1,5 @@
 {
   "acno": "D13474", 
-  "addlImageCount": 0, 
   "catTextResId": 1132019, 
   "catalogueGroup": {
     "accessionRanges": "D13449-D13586; D40934-D40937", 
@@ -28,17 +27,47 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 90 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVI 13 a", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh, 1818, Sketchbook [Finberg CLXVI]", 
+  "height": "112", 
   "id": 40842, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 28, 
-  "popularity": 16, 
   "subjectCount": 1, 
-  "title": "North Shields from the South"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13474_8.jpg", 
+  "title": "North Shields from the South", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-north-shields-from-the-south-d13474", 
+  "width": "90"
 }

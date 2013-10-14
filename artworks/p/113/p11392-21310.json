@@ -1,6 +1,5 @@
 {
   "acno": "P11392", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965-8"
   }, 
   "dateText": "1965-8", 
+  "depth": "", 
   "dimensions": "image: 186 x 192 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "192", 
   "id": 21310, 
   "inscription": null, 
   "medium": "Wood engraving on paper", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 49, 
   "subjectCount": 2, 
-  "title": "Opus 11"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11392_8.jpg", 
+  "title": "Opus 11", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-opus-11-p11392", 
+  "width": "186"
 }

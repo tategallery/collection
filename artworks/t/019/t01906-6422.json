@@ -1,6 +1,5 @@
 {
   "acno": "T01906", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "", 
   "dimensions": "support: 606 x 1216 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1216", 
   "id": 6422, 
   "inscription": "date inscribed", 
   "medium": "Blackboard paint and enamel paint on canvas", 
@@ -41,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 200, 
   "subjectCount": 2, 
-  "title": "Orthogonal / Diagonal Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01906_8.jpg", 
+  "title": "Orthogonal / Diagonal Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-orthogonal-diagonal-composition-t01906", 
+  "width": "606"
 }

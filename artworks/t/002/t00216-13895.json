@@ -1,6 +1,5 @@
 {
   "acno": "T00216", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "support: 762 x 635 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "635", 
   "id": 13895, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 3, 
-  "title": "Olive Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 14833, 
+                "name": "Torri del Benaco", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3269, 
+                "name": "olive", 
+                "workCount": 17
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00216_8.jpg", 
+  "title": "Olive Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stokes-olive-trees-t00216", 
+  "width": "762"
 }

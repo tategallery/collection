@@ -1,6 +1,5 @@
 {
   "acno": "D20607", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20596-D20732; D41014-D41018", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,69 @@
     "text": "c.1827"
   }, 
   "dateText": "c.1827", 
+  "depth": "", 
   "dimensions": "support: 112 x 192 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXVI 8", 
   "foreignTitle": null, 
   "groupTitle": "Windsor and Cowes, Isle of Wight Sketchbook [Finberg CCXXVI]", 
+  "height": "192", 
   "id": 47958, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 21, 
   "subjectCount": 4, 
-  "title": "Storm on the Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20607_8.jpg", 
+  "title": "Storm on the Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-on-the-coast-d20607", 
+  "width": "112"
 }

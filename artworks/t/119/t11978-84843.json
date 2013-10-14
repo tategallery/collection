@@ -1,6 +1,5 @@
 {
   "acno": "T11978", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "c.1963"
   }, 
   "dateText": "c.1963", 
+  "depth": "460", 
   "dimensions": "object: 815 x 910 x 460 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "910", 
   "id": 84843, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T11978_283425", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T11/T11978_283425_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 101
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T11/T11978_283425_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 202
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T11/T11978_283425_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 404
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T11/T11978_283425_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1213
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Perspex and painted wood", 
   "movementCount": 1, 
@@ -85,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 170, 
   "subjectCount": 2, 
-  "title": "Abstract in White, Green, Black, Blue, Red, Grey and Pink"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11978_8.jpg", 
+  "title": "Abstract in White, Green, Black, Blue, Red, Grey and Pink", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-abstract-in-white-green-black-blue-red-grey-and-pink-t11978", 
+  "width": "815"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T06901", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "unconfirmed: 1420 x 1780 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1780", 
   "id": 21194, 
   "inscription": null, 
   "medium": "Oil paint and charcoal on canvas", 
   "movementCount": 0, 
-  "popularity": 112, 
   "subjectCount": 4, 
-  "title": "The Nile near Kom Ombo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1147, 
+                "name": "Egypt", 
+                "workCount": 65
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 4452, 
+                "name": "River Nile", 
+                "workCount": 8
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06901_8.jpg", 
+  "title": "The Nile near Kom Ombo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/weschke-the-nile-near-kom-ombo-t06901", 
+  "width": "1420"
 }

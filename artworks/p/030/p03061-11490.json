@@ -1,6 +1,5 @@
 {
   "acno": "P03061", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03001-P03006; P03011-P03022; P03031-P03036; P03039-P03044; P03059-P03064", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 358 x 459 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Great War: Britain's Efforts and Ideals", 
+  "height": "459", 
   "id": 11490, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,91 @@
       "workCount": 141
     }
   ], 
-  "popularity": 102, 
   "subjectCount": 5, 
-  "title": "Transport by Sea: Supplying the Navy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10117, 
+                "name": "airship", 
+                "workCount": 1
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air", 
+            "workCount": 144
+          }, 
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03061_8.jpg", 
+  "title": "Transport by Sea: Supplying the Navy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pears-transport-by-sea-supplying-the-navy-p03061", 
+  "width": "358"
 }

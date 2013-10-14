@@ -1,6 +1,5 @@
 {
   "acno": "T13016", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "unconfirmed: 2135 x 2130 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2130", 
   "id": 109020, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 88, 
   "subjectCount": 2, 
-  "title": "Wake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13016_8.jpg", 
+  "title": "Wake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vaux-wake-t13016", 
+  "width": "2135"
 }

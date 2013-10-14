@@ -1,6 +1,5 @@
 {
   "acno": "N04534", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1913, cast 1930"
   }, 
   "dateText": "1913, cast 1930", 
+  "depth": "83", 
   "dimensions": "object: 210 x 89 x 83 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "89", 
   "id": 5003, 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 93, 
   "subjectCount": 3, 
-  "title": "Torso of a Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 1025, 
+                "name": "torso", 
+                "workCount": 77
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04534_8.jpg", 
+  "title": "Torso of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-torso-of-a-woman-n04534", 
+  "width": "210"
 }

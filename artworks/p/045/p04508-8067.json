@@ -1,6 +1,5 @@
 {
   "acno": "P04508", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 689 x 943 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "943", 
   "id": 8067, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,79 @@
       "workCount": 377
     }
   ], 
-  "popularity": 204, 
   "subjectCount": 4, 
-  "title": "Bedroom"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }, 
+              {
+                "id": 3747, 
+                "name": "chest of drawers", 
+                "workCount": 16
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom", 
+                "workCount": 177
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04508_8.jpg", 
+  "title": "Bedroom", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-bedroom-p04508", 
+  "width": "689"
 }

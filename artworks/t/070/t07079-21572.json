@@ -1,6 +1,5 @@
 {
   "acno": "T07079", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "", 
   "dimensions": "support: 2545 x 3615 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3615", 
   "id": 21572, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 108, 
   "subjectCount": 2, 
-  "title": "Spitz"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07079_8.jpg", 
+  "title": "Spitz", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frize-spitz-t07079", 
+  "width": "2545"
 }

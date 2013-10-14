@@ -1,6 +1,5 @@
 {
   "acno": "P03049", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03045-P03050", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 403 x 316 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Britain's Efforts and Ideals", 
+  "height": "316", 
   "id": 10607, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,117 @@
       "workCount": 141
     }
   ], 
-  "popularity": 309, 
   "subjectCount": 6, 
-  "title": "Banking at 4000 Feet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 885, 
+                "name": "aerial view", 
+                "workCount": 34
+              }, 
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3464, 
+                "name": "aircraft, military", 
+                "workCount": 66
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air", 
+            "workCount": 144
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5167, 
+                "name": "pilot", 
+                "workCount": 16
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03049_8.jpg", 
+  "title": "Banking at 4000 Feet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nevinson-banking-at-4000-feet-p03049", 
+  "width": "403"
 }

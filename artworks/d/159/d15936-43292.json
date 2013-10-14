@@ -1,6 +1,5 @@
 {
   "acno": "D15936", 
-  "addlImageCount": 0, 
   "catTextResId": 1137860, 
   "catalogueGroup": {
     "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
@@ -28,17 +27,100 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVI 15", 
   "foreignTitle": null, 
   "groupTitle": "Naples, Paestum and Rome Sketchbook [Finberg CLXXXVI]", 
+  "height": "189", 
   "id": 43292, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 108, 
   "subjectCount": 6, 
-  "title": "Naples and Vesuvius, from near Virgil's Tomb"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 6198, 
+                "name": "Vesuvius", 
+                "workCount": 54
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 6199, 
+                "name": "volcano", 
+                "workCount": 70
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15936_8.jpg", 
+  "title": "Naples and Vesuvius, from near Virgil's Tomb", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-naples-and-vesuvius-from-near-virgils-tomb-d15936", 
+  "width": "113"
 }

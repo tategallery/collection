@@ -1,6 +1,5 @@
 {
   "acno": "D27126", 
-  "addlImageCount": 0, 
   "catTextResId": 1135492, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 104 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 62", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "163", 
   "id": 54461, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 125, 
-  "popularity": 16, 
   "subjectCount": 3, 
-  "title": "Fort George from Rosemarkie with the Parish Church, Black Isle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27126_8_R.jpg", 
+  "title": "Fort George from Rosemarkie with the Parish Church, Black Isle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fort-george-from-rosemarkie-with-the-parish-church-black-isle-d27126", 
+  "width": "104"
 }

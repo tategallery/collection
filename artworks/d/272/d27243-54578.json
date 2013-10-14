@@ -1,6 +1,5 @@
 {
   "acno": "D27243", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27226-D27280; D41084-D41085", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVIII 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Mouth of the Thames Sketchbook [Finberg CCLXXVIII]", 
+  "height": "189", 
   "id": 54578, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 6, 
   "subjectCount": 4, 
-  "title": "River Scenes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27243_8.jpg", 
+  "title": "River Scenes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scenes-d27243", 
+  "width": "113"
 }

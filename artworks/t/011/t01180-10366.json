@@ -1,6 +1,5 @@
 {
   "acno": "T01180", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 2134 x 2540 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2540", 
   "id": 10366, 
   "inscription": null, 
   "medium": "Acrylic paint and charcoal on canvas", 
@@ -41,7 +41,41 @@
       "workCount": 102
     }
   ], 
-  "popularity": 463, 
   "subjectCount": 2, 
-  "title": "Open No. 122 in Scarlet and Blue"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01180_8.jpg", 
+  "title": "Open No. 122 in Scarlet and Blue", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-open-no-122-in-scarlet-and-blue-t01180", 
+  "width": "2134"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03674", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1967"
   }, 
   "dateText": "c.1967", 
+  "depth": "1295", 
   "dimensions": "object: 2210 x 1295 x 1295 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Cono", 
   "groupTitle": null, 
+  "height": "1295", 
   "id": 9452, 
   "inscription": null, 
   "medium": "Willow", 
@@ -41,7 +41,36 @@
       "workCount": 24
     }
   ], 
-  "popularity": 280, 
   "subjectCount": 1, 
-  "title": "Cone"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03674_8.jpg", 
+  "title": "Cone", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/merz-cone-t03674", 
+  "width": "2210"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D23476", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23457-D23524", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 123 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCLI 10 a", 
   "foreignTitle": null, 
   "groupTitle": "Rouen, Le Havre, Caen, Bayeux and Isigny Sketchbook [Finberg CCLI]", 
+  "height": "98", 
   "id": 50813, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "On Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23476_8.jpg", 
+  "title": "On Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-on-coast-d23476", 
+  "width": "123"
 }

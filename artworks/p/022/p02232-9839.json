@@ -1,6 +1,5 @@
 {
   "acno": "P02232", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02228-P02244", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 323 x 412 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sheep Album", 
+  "height": "412", 
   "id": 9839, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 148, 
   "subjectCount": 5, 
-  "title": "Sheep in Snow Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow", 
+                "workCount": 131
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02232_8.jpg", 
+  "title": "Sheep in Snow Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-sheep-in-snow-scene-p02232", 
+  "width": "323"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D11987", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11974-D11994; D40712-D40714", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 180 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CLII 11 a", 
   "foreignTitle": null, 
   "groupTitle": "The Aqueduct Sketchbook [Finberg CLII]", 
+  "height": "117", 
   "id": 39356, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 1, 
   "subjectCount": 2, 
-  "title": "Hillside"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11987_8.jpg", 
+  "title": "Hillside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hillside-d11987", 
+  "width": "180"
 }

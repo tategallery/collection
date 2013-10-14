@@ -1,6 +1,5 @@
 {
   "acno": "N06091", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1573"
   }, 
   "dateText": "1573", 
+  "depth": "", 
   "dimensions": "support: 685 x 522 mm\r\nframe: 810 x 655 x 60 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "522", 
   "id": 5554, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
@@ -44,7 +41,89 @@
       "workCount": 17
     }
   ], 
-  "popularity": 455, 
   "subjectCount": 6, 
-  "title": "Lady Kytson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3644, 
+                "name": "Cornwallis, Elizabeth", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3643, 
+                "name": "Kytson, Lady", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 1215, 
+                "name": "arms folded", 
+                "workCount": 84
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress", 
+                "workCount": 212
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06091_8.jpg", 
+  "title": "Lady Kytson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gower-lady-kytson-n06091", 
+  "width": "685"
 }

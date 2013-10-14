@@ -1,6 +1,5 @@
 {
   "acno": "P04719", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04706-P04720", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 548 x 452 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Floral Images", 
+  "height": "452", 
   "id": 10851, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 72, 
   "subjectCount": 2, 
-  "title": "Print 14"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04719_8.jpg", 
+  "title": "Print 14", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nolan-print-14-p04719", 
+  "width": "548"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P07783", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1982"
   }, 
   "dateText": "1982", 
+  "depth": "", 
   "dimensions": "image: 178 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "152", 
   "id": 4551, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,60 @@
       "workCount": 377
     }
   ], 
-  "popularity": 445, 
   "subjectCount": 3, 
-  "title": "The Painter's Mother"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3447, 
+                "name": "Freud", 
+                "workCount": 2
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1454, 
+                "name": "woman, old", 
+                "workCount": 125
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07783_8.jpg", 
+  "title": "The Painter's Mother", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freud-the-painters-mother-p07783", 
+  "width": "178"
 }

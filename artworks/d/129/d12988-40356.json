@@ -1,6 +1,5 @@
 {
   "acno": "D12988", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12884-D12992; D41392-D41396", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 202 x 265 mm", 
-  "displayLocation": null, 
   "finberg": "CLXI 57", 
   "foreignTitle": null, 
   "groupTitle": "Rhine Sketchbook [Finberg CLXI]", 
+  "height": "265", 
   "id": 40356, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 117, 
-  "popularity": 89, 
   "subjectCount": 3, 
-  "title": "The Town Hall, Cologne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9136, 
+                "name": "Cologne - non-specific", 
+                "workCount": 66
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8229, 
+                "name": "town hall", 
+                "workCount": 49
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12988_8.jpg", 
+  "title": "The Town Hall, Cologne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-town-hall-cologne-d12988", 
+  "width": "202"
 }

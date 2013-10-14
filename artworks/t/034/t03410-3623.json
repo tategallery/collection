@@ -1,6 +1,5 @@
 {
   "acno": "T03410", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "2210", 
   "dimensions": "support, each: 1880 x 2210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1880", 
   "id": 3623, 
   "inscription": "date inscribed", 
   "medium": "600 works on paper, ink, on 10 panels", 
@@ -41,7 +41,67 @@
       "workCount": 478
     }
   ], 
-  "popularity": 343, 
   "subjectCount": 3, 
-  "title": "Card Index: Filing Cabinet, Part 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12880, 
+                "name": "classification", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 3647, 
+                "name": "history", 
+                "workCount": 69
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03410_8.jpg", 
+  "title": "Card Index: Filing Cabinet, Part 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/darboven-card-index-filing-cabinet-part-2-t03410", 
+  "width": "each:"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T10885", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T10823-T10890; T11724-T11725; T11732-T11733", 
     "completeStatus": "IRRELEVANT", 
@@ -24,10 +23,11 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 198 x 156 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Designs for Tombs and Monuments", 
+  "height": "156", 
   "id": 24721, 
   "inscription": null, 
   "medium": "Graphite, pen and watercolour on paper", 
@@ -44,7 +44,101 @@
       "workCount": 310
     }
   ], 
-  "popularity": 14, 
   "subjectCount": 7, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 701, 
+                "name": "drapery", 
+                "workCount": 109
+              }, 
+              {
+                "id": 5210, 
+                "name": "toga", 
+                "workCount": 12
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 11495, 
+                "name": "gravestone / tomb", 
+                "workCount": 238
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture", 
+                "workCount": 386
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10885_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-title-not-known-t10885", 
+  "width": "198"
 }

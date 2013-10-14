@@ -1,6 +1,5 @@
 {
   "acno": "D27998", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27940-D28041; D41107; D41127", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVI 32 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Bruges Sketchbook [Finberg CCLXXXVI]", 
+  "height": "116", 
   "id": 55317, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 66, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Building, with Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27998_8.jpg", 
+  "title": "Building, with Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-building-with-tower-d27998", 
+  "width": "90"
 }

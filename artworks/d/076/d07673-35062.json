@@ -1,6 +1,5 @@
 {
   "acno": "D07673", 
-  "addlImageCount": 0, 
   "catTextResId": 1131160, 
   "catalogueGroup": {
     "accessionRanges": "D07593-D07754; D40662", 
@@ -28,17 +27,59 @@
     "text": "circa 1809-11"
   }, 
   "dateText": "circa 1809-11", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXI 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXI]", 
+  "height": "110", 
   "id": 35062, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 104, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Figures Fishing or Setting Traps"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling", 
+                "workCount": 438
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07673_8.jpg", 
+  "title": "Figures Fishing or Setting Traps", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-fishing-or-setting-traps-d07673", 
+  "width": "88"
 }

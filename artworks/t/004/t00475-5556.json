@@ -1,6 +1,5 @@
 {
   "acno": "T00475", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "support: 635 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 5556, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,139 @@
       "workCount": 29
     }
   ], 
-  "popularity": 123, 
   "subjectCount": 9, 
-  "title": "Path with Elder and Hazel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1532, 
+                "name": "Berkshire", 
+                "workCount": 204
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 3659, 
+                "name": "Lambourne Woodlands, Dance's Copse", 
+                "workCount": 1
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3656, 
+                "name": "elder", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3657, 
+                "name": "hazel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest", 
+                "workCount": 225
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00475_8.jpg", 
+  "title": "Path with Elder and Hazel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gowing-path-with-elder-and-hazel-t00475", 
+  "width": "635"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D12423", 
-  "addlImageCount": 0, 
   "catTextResId": 1139424, 
   "catalogueGroup": {
     "accessionRanges": "D12318-D12448; D40917-D40923", 
@@ -28,17 +27,47 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLVII 81", 
   "foreignTitle": null, 
   "groupTitle": "Durham, North Shore, Sketchbook [Finberg CLVII]", 
+  "height": "185", 
   "id": 39791, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 163, 
-  "popularity": 18, 
   "subjectCount": 1, 
-  "title": "Prudhoe Castle from across the River Tyne at Ovingham"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12423_8.jpg", 
+  "title": "Prudhoe Castle from across the River Tyne at Ovingham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-prudhoe-castle-from-across-the-river-tyne-at-ovingham-d12423", 
+  "width": "116"
 }

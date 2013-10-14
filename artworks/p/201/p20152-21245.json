@@ -1,6 +1,5 @@
 {
   "acno": "P20152", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20148-P20153", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1993"
   }, 
   "dateText": "1993", 
+  "depth": "", 
   "dimensions": "image: 193 x 310 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Museum Studies", 
+  "height": "310", 
   "id": 21245, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,134 @@
       "workCount": 846
     }
   ], 
-  "popularity": 43, 
   "subjectCount": 8, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9910, 
+                "name": "battle", 
+                "workCount": 97
+              }, 
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 604, 
+                "name": "riding", 
+                "workCount": 560
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1257, 
+                "name": "shield", 
+                "workCount": 88
+              }, 
+              {
+                "id": 878, 
+                "name": "spear", 
+                "workCount": 101
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20152_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-title-not-known-p20152", 
+  "width": "193"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02803", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 115 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "LIV 113", 
   "foreignTitle": null, 
   "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "height": "162", 
   "id": 30206, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 229, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Study of Waves"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02803_8.jpg", 
+  "title": "Study of Waves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-waves-d02803", 
+  "width": "115"
 }

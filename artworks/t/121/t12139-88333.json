@@ -1,6 +1,5 @@
 {
   "acno": "T12139", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "370", 
   "dimensions": "object: 197 x 450 x 370 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "450", 
   "id": 88333, 
   "inscription": null, 
   "medium": "Bronze; with Jamie Sargeant", 
@@ -41,7 +41,55 @@
       "workCount": 478
     }
   ], 
-  "popularity": 53, 
   "subjectCount": 2, 
-  "title": "Drum"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3061, 
+                "name": "instrument, drum", 
+                "workCount": 47
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12139_8.jpg", 
+  "title": "Drum", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-drum-t12139", 
+  "width": "197"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01254", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01253-P01257", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 354 x 250 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Girls", 
+  "height": "250", 
   "id": 10995, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
@@ -47,7 +47,79 @@
       "workCount": 36
     }
   ], 
-  "popularity": 1742, 
   "subjectCount": 4, 
-  "title": "Little Lorraine"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1866, 
+                "name": "twisting", 
+                "workCount": 42
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "", 
+  "title": "Little Lorraine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ovenden-little-lorraine-p01254", 
+  "width": "354"
 }

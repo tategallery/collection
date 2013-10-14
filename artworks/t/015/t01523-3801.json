@@ -1,6 +1,5 @@
 {
   "acno": "T01523", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957-8"
   }, 
   "dateText": "1957-8", 
+  "depth": "", 
   "dimensions": "support: 1518 x 2438 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2438", 
   "id": 3801, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, paper and card on hardboard", 
@@ -41,7 +41,41 @@
       "workCount": 11
     }
   ], 
-  "popularity": 170, 
   "subjectCount": 2, 
-  "title": "Golem I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01523_8.jpg", 
+  "title": "Golem I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-golem-i-t01523", 
+  "width": "1518"
 }

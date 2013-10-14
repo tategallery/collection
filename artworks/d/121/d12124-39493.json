@@ -1,6 +1,5 @@
 {
   "acno": "D12124", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12124-D12239; D40851-D40853; D41537", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CLIV a 1", 
   "foreignTitle": null, 
   "groupTitle": "Liber Notes (2) Sketchbook [Finberg CLIV a]", 
+  "height": "110", 
   "id": 39493, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Houses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12124_8.jpg", 
+  "title": "Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-d12124", 
+  "width": "89"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02439", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02393-D02461", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 143 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "LII 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Guisborough Shore Sketchbook [Finberg LII]", 
+  "height": "103", 
   "id": 29842, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "A Beached Fishing-Boat, with the Sea Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02439_8.jpg", 
+  "title": "A Beached Fishing-Boat, with the Sea Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-beached-fishing-boat-with-the-sea-beyond-d02439", 
+  "width": "143"
 }

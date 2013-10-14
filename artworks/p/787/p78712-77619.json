@@ -1,6 +1,5 @@
 {
   "acno": "P78712", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78712-P78716", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "2001"
   }, 
   "dateText": "2001", 
+  "depth": "", 
   "dimensions": "image: 295 x 420 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "BQ Poster Edition", 
+  "height": "420", 
   "id": 77619, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 116, 
   "subjectCount": 2, 
-  "title": "Untitled Figure 1"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78712_8.jpg", 
+  "title": "Untitled Figure 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-untitled-figure-1-p78712", 
+  "width": "295"
 }

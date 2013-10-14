@@ -1,6 +1,5 @@
 {
   "acno": "T07362", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1957-61"
   }, 
   "dateText": "c.1957-61", 
+  "depth": "", 
   "dimensions": "support: 340 x 270 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "270", 
   "id": 26056, 
   "inscription": null, 
   "medium": "Oil paint on paper", 
@@ -41,7 +41,48 @@
       "workCount": 377
     }
   ], 
-  "popularity": 148, 
   "subjectCount": 2, 
-  "title": "Figure with Left Arm Raised, No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07362_8.jpg", 
+  "title": "Figure with Left Arm Raised, No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bacon-figure-with-left-arm-raised-no-2-t07362", 
+  "width": "340"
 }

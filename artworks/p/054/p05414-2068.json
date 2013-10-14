@@ -1,6 +1,5 @@
 {
   "acno": "P05414", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 857 x 775 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "775", 
   "id": 2068, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,74 @@
       "workCount": 846
     }
   ], 
-  "popularity": 202, 
   "subjectCount": 3, 
-  "title": "White Pot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage", 
+                "workCount": 157
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05414_8.jpg", 
+  "title": "White Pot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-white-pot-p05414", 
+  "width": "857"
 }

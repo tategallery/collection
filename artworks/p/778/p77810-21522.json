@@ -1,6 +1,5 @@
 {
   "acno": "P77810", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77805-P77814", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 282 x 360 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Works by Ten Painters", 
+  "height": "360", 
   "id": 21522, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 147, 
   "subjectCount": 3, 
-  "title": "Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77810_8.jpg", 
+  "title": "Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davis-composition-p77810", 
+  "width": "282"
 }

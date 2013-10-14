@@ -1,6 +1,5 @@
 {
   "acno": "D00334", 
-  "addlImageCount": 0, 
   "catTextResId": 1141059, 
   "catalogueGroup": {
     "accessionRanges": "D00327; D00328; D00330-D00344; D00347-D00354; D00358-D00366; D00369-D00372; D00377; D00378; D00402; D00403; D00405; D00662; D00664; D00699; D00700; D36581-D36583; D40040; D40041; D40235-D40238; D40271", 
@@ -28,16 +27,113 @@
     "text": "1794"
   }, 
   "dateText": "1794", 
+  "depth": "", 
   "dimensions": "support: 210 x 275 mm", 
-  "displayLocation": null, 
   "finberg": "XXI H 1", 
   "foreignTitle": null, 
   "groupTitle": "Drawings Made on the Midland Tour", 
+  "height": "275", 
   "id": 27750, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 72, 
   "subjectCount": 6, 
-  "title": "Eliseg's Pillar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6883, 
+                "name": "Denbighshire", 
+                "workCount": 54
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7522, 
+                "name": "Llangollen, Eliseg's Pillar", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }, 
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 241, 
+                "name": "column", 
+                "workCount": 135
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00334_8.jpg", 
+  "title": "Eliseg's Pillar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-elisegs-pillar-d00334", 
+  "width": "210"
 }

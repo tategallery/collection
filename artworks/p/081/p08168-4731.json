@@ -1,6 +1,5 @@
 {
   "acno": "P08168", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P08164-P08173", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1930"
   }, 
   "dateText": "1930", 
+  "depth": "", 
   "dimensions": "image: 375 x 278 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Architectural Lithographs", 
+  "height": "278", 
   "id": 4731, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,122 @@
       "workCount": 67
     }
   ], 
-  "popularity": 95, 
   "subjectCount": 7, 
-  "title": "Notre Dame, Clermont Ferrand"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8725, 
+                "name": "Clermont-Ferrand", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }, 
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 8442, 
+                "name": "pulpit", 
+                "workCount": 22
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08168_8.jpg", 
+  "title": "Notre Dame, Clermont Ferrand", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-notre-dame-clermont-ferrand-p08168", 
+  "width": "375"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D18924", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 43", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46277, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 87, 
-  "popularity": 70, 
   "subjectCount": 4, 
-  "title": "Architectural Details"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 8755, 
+                "name": "gable", 
+                "workCount": 22
+              }, 
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18924_8.jpg", 
+  "title": "Architectural Details", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-architectural-details-d18924", 
+  "width": "155"
 }

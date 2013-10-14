@@ -1,6 +1,5 @@
 {
   "acno": "T06982", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1983-5"
   }, 
   "dateText": "1983-5", 
+  "depth": "", 
   "dimensions": "support: 2085 x 2872 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2872", 
   "id": 21313, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 59, 
   "subjectCount": 2, 
-  "title": "Two Cows"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06982_8.jpg", 
+  "title": "Two Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kinley-two-cows-t06982", 
+  "width": "2085"
 }

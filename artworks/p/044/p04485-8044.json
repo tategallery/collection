@@ -1,6 +1,5 @@
 {
   "acno": "P04485", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 411 x 551 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "551", 
   "id": 8044, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "(32) The Prevention of Destitution"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12328, 
+                "name": "book, Webb, S.J. and B., 'The Prevention of Destitution'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04485_8.jpg", 
+  "title": "(32) The Prevention of Destitution", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-32-the-prevention-of-destitution-p04485", 
+  "width": "411"
 }

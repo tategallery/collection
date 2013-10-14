@@ -1,6 +1,5 @@
 {
   "acno": "N06245", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1951-2"
   }, 
   "dateText": "1951-2", 
+  "depth": "", 
   "dimensions": "support: 559 x 762 mm\r\nframe: 752 x 960 x 100 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 13222, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 369, 
   "subjectCount": 3, 
-  "title": "Mackerel on a Plate"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4897, 
+                "name": "fish", 
+                "workCount": 16
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6719, 
+                "name": "mackerel", 
+                "workCount": 6
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06245_8.jpg", 
+  "title": "Mackerel on a Plate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-mackerel-on-a-plate-n06245", 
+  "width": "559"
 }

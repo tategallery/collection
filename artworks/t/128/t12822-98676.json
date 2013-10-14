@@ -1,6 +1,5 @@
 {
   "acno": "T12822", 
-  "addlImageCount": 2, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,104 +20,64 @@
     "text": "1971, remade 1986"
   }, 
   "dateText": "1971, remade 1986", 
+  "depth": "100", 
   "dimensions": "displayed: 3000 x 8100 x 100 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "8100", 
   "id": 98676, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T12822_292648", 
-      "sizes": [
-        {
-          "caption": "Additional  view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292648_7.jpg", 
-          "height": 98, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292648_8.jpg", 
-          "height": 196, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292648_9.jpg", 
-          "height": 559, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292648_10.jpg", 
-          "height": 1177, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }, 
-    {
-      "copyright": null, 
-      "filenameBase": "T12822_292650", 
-      "sizes": [
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292650_7.jpg", 
-          "height": 90, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292650_8.jpg", 
-          "height": 180, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292650_9.jpg", 
-          "height": 514, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T12/T12822_292650_10.jpg", 
-          "height": 1082, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood", 
   "movementCount": 0, 
-  "popularity": 317, 
   "subjectCount": 2, 
-  "title": "From Surface to Surface"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12822_8.jpg", 
+  "title": "From Surface to Surface", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/koshimizu-from-surface-to-surface-t12822", 
+  "width": "3000"
 }

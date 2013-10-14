@@ -1,6 +1,5 @@
 {
   "acno": "D27197", 
-  "addlImageCount": 0, 
   "catTextResId": 1135563, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,85 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 104 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 127 a", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "163", 
   "id": 54532, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 256, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "Aberdeen Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27197_8.jpg", 
+  "title": "Aberdeen Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-aberdeen-harbour-d27197", 
+  "width": "104"
 }

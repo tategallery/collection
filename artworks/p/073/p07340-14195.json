@@ -1,6 +1,5 @@
 {
   "acno": "P07340", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07338-P07342", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "unconfirmed: 805 x 615 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Furnished Landscape", 
+  "height": "615", 
   "id": 14195, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 97, 
   "subjectCount": 2, 
-  "title": "Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07340_8.jpg", 
+  "title": "Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tillyer-landscape-p07340", 
+  "width": "805"
 }

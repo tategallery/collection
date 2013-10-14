@@ -1,6 +1,5 @@
 {
   "acno": "D35845", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,77 @@
     "text": "after c.1830"
   }, 
   "dateText": "after c.1830", 
+  "depth": "", 
   "dimensions": "support: 243 x 302 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 8", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "302", 
   "id": 62933, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Mountains beside Lake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35845_8.jpg", 
+  "title": "Mountains beside Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-beside-lake-d35845", 
+  "width": "243"
 }

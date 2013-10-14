@@ -1,6 +1,5 @@
 {
   "acno": "P11094", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1951"
   }, 
   "dateText": "1951", 
+  "depth": "", 
   "dimensions": "image: 102 x 151 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "151", 
   "id": 5898, 
   "inscription": null, 
   "medium": "Linocut on paper", 
@@ -41,7 +41,84 @@
       "workCount": 409
     }
   ], 
-  "popularity": 77, 
   "subjectCount": 5, 
-  "title": "Birds and Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night", 
+                "workCount": 468
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11094_8.jpg", 
+  "title": "Birds and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hayman-birds-and-trees-p11094", 
+  "width": "102"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D08325", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1809-14"
   }, 
   "dateText": "c.1809-14", 
+  "depth": "", 
   "dimensions": "support: 69 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXXII 27", 
   "foreignTitle": null, 
   "groupTitle": "Finance Sketchbook [Finberg CXXII]", 
+  "height": "112", 
   "id": 35714, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "R. Fair [Turner] (?a Rag Fair)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5598, 
+                "name": "fair", 
+                "workCount": 41
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08325_8.jpg", 
+  "title": "R. Fair [Turner] (?a Rag Fair)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-r-fair-turner-a-rag-fair-d08325", 
+  "width": "69"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D13553", 
-  "addlImageCount": 0, 
   "catTextResId": 1132098, 
   "catalogueGroup": {
     "accessionRanges": "D13449-D13586; D40934-D40937", 
@@ -28,17 +27,90 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 90 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVI 53", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh, 1818, Sketchbook [Finberg CLXVI]", 
+  "height": "112", 
   "id": 40921, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 107, 
-  "popularity": 21, 
   "subjectCount": 4, 
-  "title": "A Bridge, a Study of Sky and Vessels Passing Castle on Promontory"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13553_8.jpg", 
+  "title": "A Bridge, a Study of Sky and Vessels Passing Castle on Promontory", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-bridge-a-study-of-sky-and-vessels-passing-castle-on-promontory-d13553", 
+  "width": "90"
 }

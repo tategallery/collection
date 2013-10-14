@@ -1,6 +1,5 @@
 {
   "acno": "P03131", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03127-P03131", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 248 x 248 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cultures [collaboration with Ian Tyson]", 
+  "height": "248", 
   "id": 4344, 
   "inscription": null, 
   "medium": "Relief print on paper", 
@@ -47,7 +47,41 @@
       "workCount": 478
     }
   ], 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03131_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fisher-no-title-p03131", 
+  "width": "248"
 }

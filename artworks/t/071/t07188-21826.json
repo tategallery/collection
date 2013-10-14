@@ -1,6 +1,5 @@
 {
   "acno": "T07188", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1993"
   }, 
   "dateText": "1993", 
+  "depth": "", 
   "dimensions": "support: 775 x 580 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "580", 
   "id": 21826, 
   "inscription": null, 
   "medium": "Oil paint on hardboard", 
@@ -41,7 +41,79 @@
       "workCount": 377
     }
   ], 
-  "popularity": 285, 
   "subjectCount": 4, 
-  "title": "Portrait of Anne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8479, 
+                "name": "Anne", 
+                "workCount": 3
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07188_8.jpg", 
+  "title": "Portrait of Anne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kossoff-portrait-of-anne-t07188", 
+  "width": "775"
 }

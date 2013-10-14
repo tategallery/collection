@@ -1,6 +1,5 @@
 {
   "acno": "D41403", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17720-D17757; D41403", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1822-3"
   }, 
   "dateText": "1822-3", 
+  "depth": "", 
   "dimensions": "support: 178 x 257 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Ports of England Sketchbook [Finberg CCII]", 
+  "height": "257", 
   "id": 65101, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 65, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Two Groups of Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41403_8.jpg", 
+  "title": "Two Groups of Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-groups-of-figures-d41403", 
+  "width": "178"
 }

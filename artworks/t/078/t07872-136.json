@@ -1,6 +1,5 @@
 {
   "acno": "T07872", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,194 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "1130", 
   "dimensions": "object: 2100 x 3785 x 1130 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3785", 
   "id": 136, 
-  "images": [
-    {
-      "copyright": "\u00a9 The estate of Juan Mu\u00f1oz", 
-      "filenameBase": "T07872_281585", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07872_281585_7.jpg", 
-          "height": 95, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07872_281585_8.jpg", 
-          "height": 190, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07872_281585_9.jpg", 
-          "height": 380, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07872_281585_10.jpg", 
-          "height": 1141, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood and resin", 
   "movementCount": 0, 
-  "popularity": 993, 
   "subjectCount": 14, 
-  "title": "Towards the Corner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3111, 
+                "name": "Asian", 
+                "workCount": 60
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity", 
+            "workCount": 475
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 4670, 
+                "name": "hands clasped", 
+                "workCount": 115
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 6701, 
+                "name": "laughing", 
+                "workCount": 33
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench", 
+                "workCount": 102
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 1120, 
+                "name": "glove", 
+                "workCount": 72
+              }, 
+              {
+                "id": 760, 
+                "name": "jacket", 
+                "workCount": 52
+              }, 
+              {
+                "id": 3712, 
+                "name": "trousers", 
+                "workCount": 11
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3981, 
+                "name": "menace", 
+                "workCount": 100
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07872_8.jpg", 
+  "title": "Towards the Corner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/munoz-towards-the-corner-t07872", 
+  "width": "2100"
 }

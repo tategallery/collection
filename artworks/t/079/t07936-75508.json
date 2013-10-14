@@ -1,6 +1,5 @@
 {
   "acno": "T07936", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,81 @@
     "text": "1996-7"
   }, 
   "dateText": "1996-7", 
+  "depth": "550", 
   "dimensions": "object: 1240 x 2360 x 550 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2360", 
   "id": 75508, 
-  "images": [
-    {
-      "copyright": "\u00a9 Elizabeth Wright", 
-      "filenameBase": "T07936_283070", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07936_283070_7.jpg", 
-          "height": 100, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07936_283070_8.jpg", 
-          "height": 199, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07936_283070_9.jpg", 
-          "height": 399, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07936_283070_10.jpg", 
-          "height": 1196, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Steel, rubber and plastic", 
   "movementCount": 0, 
-  "popularity": 725, 
   "subjectCount": 4, 
-  "title": "B.S.A. Tour of Britain Racer Enlarged to 135%"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4849, 
+                "name": "bicycle", 
+                "workCount": 35
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6743, 
+                "name": "illogicality", 
+                "workCount": 17
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation", 
+                "workCount": 145
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6741, 
+                "name": "visual illusion", 
+                "workCount": 99
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07936_8.jpg", 
+  "title": "B.S.A. Tour of Britain Racer Enlarged to 135%", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-bsa-tour-of-britain-racer-enlarged-to-135-t07936", 
+  "width": "1240"
 }

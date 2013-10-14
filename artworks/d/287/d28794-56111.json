@@ -1,6 +1,5 @@
 {
   "acno": "D28794", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28791-D28816; D28818-D28829; D28831-D28832; D28834-D28835; D28837-D28838; D28840-D28841; D28843-D28844; D28846-D28847; D28849-D28853; D28855-D28861; D28863; D28865; D28867; D28869; D28871; D28873", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 77 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCI b 4", 
   "foreignTitle": null, 
   "groupTitle": "Colour Studies (1) Sketchbook [Finberg CCXCI (b)]", 
+  "height": "101", 
   "id": 56111, 
   "inscription": null, 
   "medium": "Watercolour and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "An Interior, with Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28794_8.jpg", 
+  "title": "An Interior, with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-interior-with-figures-d28794", 
+  "width": "77"
 }

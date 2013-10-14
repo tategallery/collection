@@ -1,6 +1,5 @@
 {
   "acno": "T02146", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1928-36"
   }, 
   "dateText": "1928-36", 
+  "depth": "400", 
   "dimensions": "object: 352 x 410 x 400 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "410", 
   "id": 4815, 
   "inscription": null, 
   "medium": "Perspex", 
@@ -41,7 +41,55 @@
       "workCount": 148
     }
   ], 
-  "popularity": 452, 
   "subjectCount": 2, 
-  "title": "Torsion"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02146_8.jpg", 
+  "title": "Torsion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-torsion-t02146", 
+  "width": "352"
 }

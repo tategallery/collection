@@ -1,6 +1,5 @@
 {
   "acno": "N04430", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,74 @@
     "text": "exhibited 1908"
   }, 
   "dateText": "exhibited 1908", 
+  "depth": "222", 
   "dimensions": "object: 540 x 267 x 222 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "267", 
   "id": 8517, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "N04430_128450", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N04/N04430_128450_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 82
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N04/N04430_128450_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 165
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N04/N04430_128450_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 331
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N04/N04430_128450_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 995
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Marble", 
   "movementCount": 0, 
-  "popularity": 82, 
   "subjectCount": 4, 
-  "title": "Margaret Clausen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14323, 
+                "name": "Clausen, Margaret", 
+                "workCount": 1
+              }, 
+              {
+                "id": 14324, 
+                "name": "Derrick, Margaret", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04430_8.jpg", 
+  "title": "Margaret Clausen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-margaret-clausen-n04430", 
+  "width": "540"
 }

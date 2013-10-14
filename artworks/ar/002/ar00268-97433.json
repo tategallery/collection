@@ -1,6 +1,5 @@
 {
   "acno": "AR00268", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1956"
   }, 
   "dateText": "1956", 
+  "depth": "", 
   "dimensions": "support: 456 x 326 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "326", 
   "id": 97433, 
   "inscription": null, 
   "medium": "Paper on ink, dye and graphite on paper", 
@@ -41,7 +41,74 @@
       "workCount": 248
     }
   ], 
-  "popularity": 63, 
   "subjectCount": 3, 
-  "title": "Shoes and Roses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1283, 
+                "name": "rose", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00268_8.jpg", 
+  "title": "Shoes and Roses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-shoes-and-roses-ar00268", 
+  "width": "456"
 }

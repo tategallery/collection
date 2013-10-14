@@ -1,6 +1,5 @@
 {
   "acno": "AR00222", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1985"
   }, 
   "dateText": "1985", 
+  "depth": "", 
   "dimensions": "unconfirmed: 508 x 406 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 97285, 
   "inscription": null, 
   "medium": "Photograph, gelatine silver print on paper", 
   "movementCount": 0, 
-  "popularity": 236, 
   "subjectCount": 4, 
-  "title": "Gun Blast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2814, 
+                "name": "gun, handgun", 
+                "workCount": 44
+              }, 
+              {
+                "id": 12084, 
+                "name": "weapon, firing / explosion", 
+                "workCount": 77
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 934, 
+                "name": "hand/hands raised", 
+                "workCount": 90
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00222_8.jpg", 
+  "title": "Gun Blast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mapplethorpe-gun-blast-ar00222", 
+  "width": "508"
 }

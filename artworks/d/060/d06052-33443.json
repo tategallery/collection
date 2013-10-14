@@ -1,6 +1,5 @@
 {
   "acno": "D06052", 
-  "addlImageCount": 0, 
   "catTextResId": 1130230, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
@@ -28,17 +27,88 @@
     "text": "c.1807"
   }, 
   "dateText": "c.1807", 
+  "depth": "", 
   "dimensions": "support: 92 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "XCVI 65 c", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "height": "163", 
   "id": 33443, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 136, 
-  "popularity": 22, 
   "subjectCount": 5, 
-  "title": "Haymakers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 688, 
+                "name": "farm labourer", 
+                "workCount": 86
+              }, 
+              {
+                "id": 2837, 
+                "name": "harvesting", 
+                "workCount": 163
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06052_8_R.jpg", 
+  "title": "Haymakers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-haymakers-d06052", 
+  "width": "92"
 }

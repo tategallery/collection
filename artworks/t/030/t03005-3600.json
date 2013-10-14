@@ -1,6 +1,5 @@
 {
   "acno": "T03005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T02415-T03024; T03239-T03240", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,131 @@
     "text": null
   }, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 162 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
   "id": 3600, 
   "inscription": null, 
   "medium": "Aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 61, 
   "subjectCount": 7, 
-  "title": "View from Mount Edgecumbe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon", 
+                "workCount": 434
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 18158, 
+                "name": "Mount Edgcumbe", 
+                "workCount": 14
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer", 
+                "workCount": 123
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03005_8.jpg", 
+  "title": "View from Mount Edgecumbe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-view-from-mount-edgecumbe-t03005", 
+  "width": "162"
 }

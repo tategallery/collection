@@ -1,6 +1,5 @@
 {
   "acno": "P01103", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 387 x 587 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "587", 
   "id": 4568, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 79, 
   "subjectCount": 2, 
-  "title": "Horse's Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4606, 
+                "name": "head", 
+                "workCount": 110
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01103_8.jpg", 
+  "title": "Horse's Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-horses-head-p01103", 
+  "width": "387"
 }

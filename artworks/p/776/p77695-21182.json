@@ -1,6 +1,5 @@
 {
   "acno": "P77695", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77682-P77695", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,110 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 98 x 62 mm\r\nimage: 90 x 56 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Autobiographical Series", 
+  "height": "62", 
   "id": 21182, 
   "inscription": null, 
   "medium": "Drypoint on paper", 
   "movementCount": 0, 
-  "popularity": 132, 
   "subjectCount": 7, 
-  "title": "Boy and Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 1106, 
+                "name": "watching", 
+                "workCount": 306
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2378, 
+                "name": "ribbon", 
+                "workCount": 33
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77695_8.jpg", 
+  "title": "Boy and Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bourgeois-boy-and-girl-p77695", 
+  "width": "98"
 }

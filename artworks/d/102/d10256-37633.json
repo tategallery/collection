@@ -1,6 +1,5 @@
 {
   "acno": "D10256", 
-  "addlImageCount": 0, 
   "catTextResId": 1131299, 
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
@@ -28,17 +27,76 @@
     "text": "c.1813"
   }, 
   "dateText": "c.1813", 
+  "depth": "", 
   "dimensions": "support: 181 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVII 38", 
   "foreignTitle": null, 
   "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "height": "228", 
   "id": 37633, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 262, 
   "subjectCount": 4, 
-  "title": "A Stormy Sea and Sky by Daylight, Possibly a Study Relating to the Eddystone Lighthouse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10256_8_R.jpg", 
+  "title": "A Stormy Sea and Sky by Daylight, Possibly a Study Relating to the Eddystone Lighthouse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stormy-sea-and-sky-by-daylight-possibly-a-study-relating-to-the-eddystone-lighthouse-d10256", 
+  "width": "181"
 }

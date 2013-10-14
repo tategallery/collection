@@ -1,6 +1,5 @@
 {
   "acno": "T03588", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959-60"
   }, 
   "dateText": "1959-60", 
+  "depth": "", 
   "dimensions": "object: 610 x 730 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Natura", 
   "groupTitle": null, 
+  "height": "730", 
   "id": 4493, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -41,7 +41,79 @@
       "workCount": 8
     }
   ], 
-  "popularity": 629, 
   "subjectCount": 4, 
-  "title": "Nature"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9592, 
+                "name": "cosmos", 
+                "workCount": 25
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation", 
+                "workCount": 145
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2542, 
+                "name": "planet", 
+                "workCount": 17
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03588_8.jpg", 
+  "title": "Nature", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fontana-nature-t03588", 
+  "width": "610"
 }

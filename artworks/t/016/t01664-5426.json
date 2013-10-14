@@ -1,6 +1,5 @@
 {
   "acno": "T01664", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "c.1902"
   }, 
   "dateText": "c.1902", 
+  "depth": "", 
   "dimensions": "support: 264 x 498 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Terre et ciel", 
   "groupTitle": null, 
+  "height": "498", 
   "id": 5426, 
   "inscription": null, 
   "medium": "Gouache on paper", 
   "movementCount": 0, 
-  "popularity": 275, 
   "subjectCount": 5, 
-  "title": "Earth and Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01664_8.jpg", 
+  "title": "Earth and Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-earth-and-sky-t01664", 
+  "width": "264"
 }

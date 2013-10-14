@@ -1,6 +1,5 @@
 {
   "acno": "D02052", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01993-D02177; D40765-D40771", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1799-1800"
   }, 
   "dateText": "1799-1800", 
+  "depth": "", 
   "dimensions": "support: 131 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "XLVI 40", 
   "foreignTitle": null, 
   "groupTitle": "Dolbadarn Sketchbook [Finberg XLVI]", 
+  "height": "78", 
   "id": 29455, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 83, 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "Studies of Plants (?by a River or Lake)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant", 
+                "workCount": 198
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02052_8.jpg", 
+  "title": "Studies of Plants (?by a River or Lake)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-plants-by-a-river-or-lake-d02052", 
+  "width": "131"
 }

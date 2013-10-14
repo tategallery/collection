@@ -1,6 +1,5 @@
 {
   "acno": "T01966", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "support: 508 x 381 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "381", 
   "id": 16378, 
   "inscription": null, 
   "medium": "Watercolour and graphite on paper", 
@@ -41,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 77, 
   "subjectCount": 2, 
-  "title": "Study for 'Looped Network Suspended in Pictorial Space'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01966_8.jpg", 
+  "title": "Study for 'Looped Network Suspended in Pictorial Space'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wise-study-for-looped-network-suspended-in-pictorial-space-t01966", 
+  "width": "508"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D25674", 
-  "addlImageCount": 0, 
   "catTextResId": 1134038, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,71 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 59 x 96 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 19", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "96", 
   "id": 53011, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 39, 
-  "popularity": 18, 
   "subjectCount": 3, 
-  "title": "Manchester, Blackfriar's Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25674_8.jpg", 
+  "title": "Manchester, Blackfriar's Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-manchester-blackfriars-bridge-d25674", 
+  "width": "59"
 }

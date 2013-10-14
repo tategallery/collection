@@ -1,6 +1,5 @@
 {
   "acno": "T11904", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 2, 
@@ -30,62 +29,98 @@
     "text": "2004"
   }, 
   "dateText": "2004", 
+  "depth": "", 
   "dimensions": "1290 x 1220 x 700 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "700", 
   "id": 84095, 
-  "images": [
-    {
-      "copyright": "\u00a9 Jeremy Deller & Alan Kane", 
-      "filenameBase": "T11904_285175", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11904_285175_7.jpg", 
-          "height": 101, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11904_285175_8.jpg", 
-          "height": 203, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11904_285175_9.jpg", 
-          "height": 405, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11904_285175_10.jpg", 
-          "height": 1215, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Table, stainless steel tea urn, stainless steel teapot, 12 ceramic tea mugs and wood tray", 
   "movementCount": 0, 
-  "popularity": 585, 
   "subjectCount": 6, 
-  "title": "Souped Up Tea Urn & Teapot (Dartford 2004)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug", 
+                "workCount": 106
+              }, 
+              {
+                "id": 4672, 
+                "name": "tea pot", 
+                "workCount": 22
+              }, 
+              {
+                "id": 3353, 
+                "name": "tea urn", 
+                "workCount": 3
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 4673, 
+                "name": "tray", 
+                "workCount": 8
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour", 
+                "workCount": 241
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11904_8.jpg", 
+  "title": "Souped Up Tea Urn & Teapot (Dartford 2004)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deller-souped-up-tea-urn-teapot-dartford-2004-t11904", 
+  "width": "1220"
 }

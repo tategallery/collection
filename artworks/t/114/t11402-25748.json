@@ -1,6 +1,5 @@
 {
   "acno": "T11402", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11381-T11440", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,69 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 184 x 235 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies of Landscapes", 
+  "height": "235", 
   "id": 25748, 
   "inscription": null, 
   "medium": "Etching and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11402_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/francia-title-not-known-t11402", 
+  "width": "184"
 }

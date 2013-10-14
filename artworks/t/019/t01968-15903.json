@@ -1,6 +1,5 @@
 {
   "acno": "T01968", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1928"
   }, 
   "dateText": "c.1928", 
+  "depth": "", 
   "dimensions": "support: 117 x 403 mm\r\nFrame: 197 x 487 x 30mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "403", 
   "id": 15903, 
   "inscription": null, 
   "medium": "Oil paint on board", 
@@ -51,7 +51,108 @@
       "workCount": 409
     }
   ], 
-  "popularity": 327, 
   "subjectCount": 7, 
-  "title": "String of Boats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1515, 
+                "name": "St Ives - non-specific", 
+                "workCount": 26
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse", 
+                "workCount": 278
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01968_8.jpg", 
+  "title": "String of Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wallis-string-of-boats-t01968", 
+  "width": "117"
 }

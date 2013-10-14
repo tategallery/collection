@@ -1,6 +1,5 @@
 {
   "acno": "P01155", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 784 x 581 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "581", 
   "id": 4695, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 102, 
   "subjectCount": 2, 
-  "title": "Zebra"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01155_8.jpg", 
+  "title": "Zebra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-zebra-p01155", 
+  "width": "784"
 }

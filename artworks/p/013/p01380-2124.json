@@ -1,6 +1,5 @@
 {
   "acno": "P01380", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01377-P01382", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1965-6"
   }, 
   "dateText": "1965-6", 
+  "depth": "", 
   "dimensions": "image: 509 x 654 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Moon Series", 
+  "height": "654", 
   "id": 2124, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,67 @@
       "workCount": 85
     }
   ], 
-  "popularity": 33, 
   "subjectCount": 3, 
-  "title": "Moon Series D"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01380_8.jpg", 
+  "title": "Moon Series D", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chadwick-moon-series-d-p01380", 
+  "width": "509"
 }

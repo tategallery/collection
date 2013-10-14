@@ -1,6 +1,5 @@
 {
   "acno": "D28220", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28167-D28290; D41087-D41089", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1839"
   }, 
   "dateText": "1839", 
+  "depth": "", 
   "dimensions": "support: 168 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVIII 27 a", 
   "foreignTitle": null, 
   "groupTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook [Finberg CCLXXXVIII]", 
+  "height": "101", 
   "id": 55539, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 56, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Towers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28220_8.jpg", 
+  "title": "Towers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-towers-d28220", 
+  "width": "168"
 }

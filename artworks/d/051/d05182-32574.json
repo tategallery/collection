@@ -1,6 +1,5 @@
 {
   "acno": "D05182", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05166; D05168-D05244; D40640-D40649", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1800-7"
   }, 
   "dateText": "c.1800-7", 
+  "depth": "", 
   "dimensions": "support: 172 x 119 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIV 13 a", 
   "foreignTitle": null, 
   "groupTitle": "Academies Sketchbook [Finberg LXXXIV]", 
+  "height": "119", 
   "id": 32574, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 30, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Top of a Mast, with Pennant"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }, 
+              {
+                "id": 5779, 
+                "name": "rigging", 
+                "workCount": 37
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05182_8.jpg", 
+  "title": "Top of a Mast, with Pennant", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-top-of-a-mast-with-pennant-d05182", 
+  "width": "172"
 }

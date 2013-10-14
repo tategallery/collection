@@ -1,6 +1,5 @@
 {
   "acno": "T08286", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08279-T08346; T10555; T11632", 
     "completeStatus": "IRRELEVANT", 
@@ -27,15 +26,69 @@
     "text": "1796"
   }, 
   "dateText": "1796", 
+  "depth": "", 
   "dimensions": "support: 125 x 102 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Nathaniel Dance-Holland", 
+  "height": "102", 
   "id": 22709, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 3, 
-  "title": "Portrait of a Boy. Verso: Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1841, 
+                "name": "male", 
+                "workCount": 151
+              }
+            ], 
+            "id": 1789, 
+            "name": "portraits: unidentified", 
+            "workCount": 277
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08286_8.jpg", 
+  "title": "Portrait of a Boy. Verso: Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-holland-portrait-of-a-boy-verso-drawing-t08286", 
+  "width": "125"
 }

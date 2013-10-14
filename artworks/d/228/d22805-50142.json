@@ -1,6 +1,5 @@
 {
   "acno": "D22805", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22779-D22904; D41061-D41062", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 68 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLV 14 a", 
   "foreignTitle": null, 
   "groupTitle": "Arundel and Shoreham Sketchbook [Finberg CCXLV]", 
+  "height": "110", 
   "id": 50142, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 30, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "A Mansion; and Other Sketches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22805_8.jpg", 
+  "title": "A Mansion; and Other Sketches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mansion-and-other-sketches-d22805", 
+  "width": "68"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D31107", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31020-D31137; D41023-D41024", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 162 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVII 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Copenhagen to Dresden Sketchbook [Finberg CCCVII]", 
+  "height": "89", 
   "id": 58346, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 90, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "(1) Cliffs above the Sea or a River; (2) Two Sailing Ships, with Cliffs in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31107_8.jpg", 
+  "title": "(1) Cliffs above the Sea or a River; (2) Two Sailing Ships, with Cliffs in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-cliffs-above-the-sea-or-a-river-2-two-sailing-ships-with-cliffs-in-the-distance-d31107", 
+  "width": "162"
 }

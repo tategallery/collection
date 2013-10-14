@@ -1,6 +1,5 @@
 {
   "acno": "D26626", 
-  "addlImageCount": 0, 
   "catTextResId": 1135063, 
   "catalogueGroup": {
     "accessionRanges": "D26619-D26666; D41131-D41132", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 101 x 158 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXI 4 a", 
   "foreignTitle": null, 
   "groupTitle": "Loch Long Sketchbook [Finberg CCLXXI]", 
+  "height": "158", 
   "id": 53963, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Loch Goil Looking South with Carrick Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26626_8.jpg", 
+  "title": "Loch Goil Looking South with Carrick Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-loch-goil-looking-south-with-carrick-castle-d26626", 
+  "width": "101"
 }

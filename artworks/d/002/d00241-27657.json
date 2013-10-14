@@ -1,6 +1,5 @@
 {
   "acno": "D00241", 
-  "addlImageCount": 0, 
   "catTextResId": 1140759, 
   "catalogueGroup": {
     "accessionRanges": "D00207-D00234; D00237-D00259; D40749-D40751; D41421; D41432", 
@@ -28,17 +27,107 @@
     "text": "1794"
   }, 
   "dateText": "1794", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "XIX 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Matlock Sketchbook [Finberg XIX]", 
+  "height": "181", 
   "id": 27657, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 67, 
   "subjectCount": 6, 
-  "title": "Croyland: The Triangular Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11449, 
+                "name": "Crowland - non-specific", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2871, 
+                "name": "Lincolnshire", 
+                "workCount": 51
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 1104, 
+                "name": "fence", 
+                "workCount": 262
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00241_8.jpg", 
+  "title": "Croyland: The Triangular Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-croyland-the-triangular-bridge-d00241", 
+  "width": "111"
 }

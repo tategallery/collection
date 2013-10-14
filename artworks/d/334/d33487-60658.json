@@ -1,6 +1,5 @@
 {
   "acno": "D33487", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33470-D33505; D40160; D40323-D40324; D40419-D40420", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,101 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 230 x 294 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXII 17", 
   "foreignTitle": null, 
   "groupTitle": "Fribourg, Lausanne and Geneva Sketchbook [Finberg CCCXXXII]", 
+  "height": "294", 
   "id": 60658, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 5, 
-  "title": "Lake Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33487_8.jpg", 
+  "title": "Lake Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-scene-d33487", 
+  "width": "230"
 }

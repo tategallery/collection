@@ -1,6 +1,5 @@
 {
   "acno": "D31929", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31929-D31936; D31938-D32053; D32055-D32097; D32099-D32116; D41113-D41114", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 203 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIV 1", 
   "foreignTitle": null, 
   "groupTitle": "Venice Sketchbook [Finberg CCCXIV]", 
+  "height": "109", 
   "id": 59149, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 4, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "The Arches of a Balcony"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31929_8.jpg", 
+  "title": "The Arches of a Balcony", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-arches-of-a-balcony-d31929", 
+  "width": "203"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D11228", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11042-D11371; D40844-D40845; D41443", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1816"
   }, 
   "dateText": "1816", 
+  "depth": "", 
   "dimensions": "support: 154 x 96 mm", 
-  "displayLocation": null, 
   "finberg": "CXLV 114", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 2 Sketchbook [Finberg CXLV]", 
+  "height": "96", 
   "id": 38603, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 229, 
-  "popularity": 82, 
   "subjectCount": 4, 
-  "title": "Wycliffe Hall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2868, 
+                "name": "Durham", 
+                "workCount": 216
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 12500, 
+                "name": "Wycliffe, Wycliffe Hall", 
+                "workCount": 9
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11228_8.jpg", 
+  "title": "Wycliffe Hall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wycliffe-hall-d11228", 
+  "width": "154"
 }

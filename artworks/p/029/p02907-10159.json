@@ -1,6 +1,5 @@
 {
   "acno": "P02907", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02907-P02911", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,107 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 277 x 184 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Artist's Hand", 
+  "height": "184", 
   "id": 10159, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 1020, 
   "subjectCount": 5, 
-  "title": "The Artist's Hand I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10035, 
+                "name": "Moore, Henry", 
+                "workCount": 5
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2813, 
+                "name": "artist, sculptor", 
+                "workCount": 49
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10312, 
+                "name": "old age", 
+                "workCount": 23
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02907_8.jpg", 
+  "title": "The Artist's Hand I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-the-artists-hand-i-p02907", 
+  "width": "277"
 }

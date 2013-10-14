@@ -1,6 +1,5 @@
 {
   "acno": "D09007", 
-  "addlImageCount": 0, 
   "catTextResId": 1134718, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
@@ -28,16 +27,51 @@
     "text": "c.1809-10"
   }, 
   "dateText": "c.1809-10", 
+  "depth": "", 
   "dimensions": "support: 125 x 202 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVII 30", 
   "foreignTitle": null, 
   "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "height": "202", 
   "id": 36386, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "A Wooded Hillside"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09007_8.jpg", 
+  "title": "A Wooded Hillside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-wooded-hillside-d09007", 
+  "width": "125"
 }

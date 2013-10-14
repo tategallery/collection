@@ -1,6 +1,5 @@
 {
   "acno": "D32756", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32756-D32779; D32781-D32814; D32816-D32835; D32837-D32846; D32848-D32853; D32855-D32880; D41148-D41149", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 90 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXV 1", 
   "foreignTitle": null, 
   "groupTitle": "Rhine and Switzerland Sketchbook [Finberg CCCXXV]", 
+  "height": "113", 
   "id": 59949, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "View of Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32756_8.jpg", 
+  "title": "View of Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-town-d32756", 
+  "width": "90"
 }

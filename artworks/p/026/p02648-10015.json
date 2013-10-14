@@ -1,6 +1,5 @@
 {
   "acno": "P02648", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 270 x 368 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "368", 
   "id": 10015, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 2, 
-  "title": "Man and Woman Three Quarter Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02648_8.jpg", 
+  "title": "Man and Woman Three Quarter Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-man-and-woman-three-quarter-figures-p02648", 
+  "width": "270"
 }

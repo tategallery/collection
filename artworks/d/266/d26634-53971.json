@@ -1,6 +1,5 @@
 {
   "acno": "D26634", 
-  "addlImageCount": 0, 
   "catTextResId": 1135071, 
   "catalogueGroup": {
     "accessionRanges": "D26619-D26666; D41131-D41132", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 158 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXI 8 a", 
   "foreignTitle": null, 
   "groupTitle": "Loch Long Sketchbook [Finberg CCLXXI]", 
+  "height": "101", 
   "id": 53971, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Dunderave Castle; and Ben Arthur From Arrochar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26634_8.jpg", 
+  "title": "Dunderave Castle; and Ben Arthur From Arrochar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunderave-castle-and-ben-arthur-from-arrochar-d26634", 
+  "width": "158"
 }

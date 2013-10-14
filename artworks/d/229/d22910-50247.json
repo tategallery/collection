@@ -1,6 +1,5 @@
 {
   "acno": "D22910", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22905-D23010; D41063", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1828"
   }, 
   "dateText": "c.1828", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLVI 6", 
   "foreignTitle": null, 
   "groupTitle": "Brighton, Newhaven and Cowdray Sketchbook [Finberg CCXLVI]", 
+  "height": "190", 
   "id": 50247, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "View on Coast, with Shipping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22910_8.jpg", 
+  "title": "View on Coast, with Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-on-coast-with-shipping-d22910", 
+  "width": "113"
 }

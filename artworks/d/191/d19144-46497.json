@@ -1,6 +1,5 @@
 {
   "acno": "D19144", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 154", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46497, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 309, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13375, 
+                "name": "Aachen, Aachen Cathedral", 
+                "workCount": 4
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19144_8.jpg", 
+  "title": "Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-d19144", 
+  "width": "155"
 }

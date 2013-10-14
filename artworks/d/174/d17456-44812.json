@@ -1,6 +1,5 @@
 {
   "acno": "D17456", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17365-D17507; D40691-D40693", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 112 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIX 55 a", 
   "foreignTitle": null, 
   "groupTitle": "Medway Sketchbook [Finberg CXCIX]", 
+  "height": "190", 
   "id": 44812, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 112, 
-  "popularity": 12, 
   "subjectCount": 1, 
-  "title": "On Banks of River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17456_8_R.jpg", 
+  "title": "On Banks of River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-on-banks-of-river-d17456", 
+  "width": "112"
 }

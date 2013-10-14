@@ -1,6 +1,5 @@
 {
   "acno": "P04544", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04544-P04547", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 686 x 1015 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Series of Four Prints", 
+  "height": "1015", 
   "id": 8168, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 2, 
-  "title": "A. Black"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 621, 
+                "name": "mathematics", 
+                "workCount": 37
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04544_8.jpg", 
+  "title": "A. Black", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knowles-a-black-p04544", 
+  "width": "686"
 }

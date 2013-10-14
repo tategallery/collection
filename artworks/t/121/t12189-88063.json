@@ -1,6 +1,5 @@
 {
   "acno": "T12189", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,83 @@
     "text": "1976,1997"
   }, 
   "dateText": "1976,1997", 
+  "depth": "2080", 
   "dimensions": "object: 450 x 1190 x 2080 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Letto", 
   "groupTitle": null, 
+  "height": "1190", 
   "id": 88063, 
   "inscription": null, 
   "medium": "Iron alloy, plywood, foam and cotton", 
   "movementCount": 0, 
-  "popularity": 82, 
   "subjectCount": 3, 
-  "title": "Bed"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 877, 
+                "name": "dysfunction", 
+                "workCount": 26
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12189_8.jpg", 
+  "title": "Bed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pistoletto-bed-t12189", 
+  "width": "450"
 }

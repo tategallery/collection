@@ -1,6 +1,5 @@
 {
   "acno": "D02034", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01993-D02177; D40765-D40771", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1799-1800"
   }, 
   "dateText": "1799-1800", 
+  "depth": "", 
   "dimensions": "support: 131 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "XLVI 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Dolbadarn Sketchbook [Finberg XLVI]", 
+  "height": "78", 
   "id": 29437, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 56, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "A Village with a Small Church or Chapel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02034_8.jpg", 
+  "title": "A Village with a Small Church or Chapel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-village-with-a-small-church-or-chapel-d02034", 
+  "width": "131"
 }

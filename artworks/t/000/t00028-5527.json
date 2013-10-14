@@ -1,6 +1,5 @@
 {
   "acno": "T00028", 
-  "addlImageCount": 0, 
   "catTextResId": 1139010, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "c.1912"
   }, 
   "dateText": "c.1912", 
+  "depth": "", 
   "dimensions": "support: 635 x 760 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "760", 
   "id": 5527, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,141 @@
       "workCount": 56
     }
   ], 
-  "popularity": 405, 
   "subjectCount": 8, 
-  "title": "The Fig Tree"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3624, 
+                "name": "Camden Town, Houghton Place", 
+                "workCount": 3
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3648, 
+                "name": "fig", 
+                "workCount": 3
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00028_8.jpg", 
+  "title": "The Fig Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gore-the-fig-tree-t00028", 
+  "width": "635"
 }

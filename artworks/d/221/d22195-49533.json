@@ -1,6 +1,5 @@
 {
   "acno": "D22195", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 114 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIX 25 a", 
   "foreignTitle": null, 
   "groupTitle": "Worcester and Shrewsbury Sketchbook [Finberg CCXXXIX]", 
+  "height": "191", 
   "id": 49533, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 52, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Road, with Distant Mansion"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22195_8.jpg", 
+  "title": "Road, with Distant Mansion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-road-with-distant-mansion-d22195", 
+  "width": "114"
 }

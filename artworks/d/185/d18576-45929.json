@@ -1,6 +1,5 @@
 {
   "acno": "D18576", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXI 33", 
   "foreignTitle": null, 
   "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "height": "189", 
   "id": 45929, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 67, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Landscape with River in Mid-Distance; Also Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18576_8.jpg", 
+  "title": "Landscape with River in Mid-Distance; Also Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-river-in-mid-distance-also-distant-hills-d18576", 
+  "width": "113"
 }

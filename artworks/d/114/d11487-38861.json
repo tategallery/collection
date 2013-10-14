@@ -1,6 +1,5 @@
 {
   "acno": "D11487", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11442-D11479; D11481-D11517; D40839-D40843; D41497", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,138 @@
     "text": "1816"
   }, 
   "dateText": "1816", 
+  "depth": "", 
   "dimensions": "support: 125 x 206 mm", 
-  "displayLocation": null, 
   "finberg": "CXLVII 29", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 4 Sketchbook [Finberg CXLVII]", 
+  "height": "206", 
   "id": 38861, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 59, 
-  "popularity": 33, 
   "subjectCount": 8, 
-  "title": "(i) Brignall Church; (ii) Wycliffe House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8152, 
+                "name": "Brignall", 
+                "workCount": 7
+              }, 
+              {
+                "id": 12500, 
+                "name": "Wycliffe, Wycliffe Hall", 
+                "workCount": 9
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2868, 
+                "name": "Durham", 
+                "workCount": 216
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7808, 
+                "name": "River Greta", 
+                "workCount": 31
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11487_8.jpg", 
+  "title": "(i) Brignall Church; (ii) Wycliffe House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-i-brignall-church-ii-wycliffe-house-d11487", 
+  "width": "125"
 }

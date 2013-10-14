@@ -1,6 +1,5 @@
 {
   "acno": "D33437", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33406-D33469; D41103-D41104", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 173 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXI 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Lake of Zug and Goldau Sketchbook [Finberg CCCXXXI]", 
+  "height": "73", 
   "id": 60608, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 17, 
   "subjectCount": 5, 
-  "title": "Sun Setting (or Rising)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise", 
+                "workCount": 138
+              }, 
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33437_8.jpg", 
+  "title": "Sun Setting (or Rising)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sun-setting-or-rising-d33437", 
+  "width": "173"
 }

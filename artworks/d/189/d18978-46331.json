@@ -1,6 +1,5 @@
 {
   "acno": "D18978", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 70 a", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46331, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 142, 
-  "popularity": 37, 
   "subjectCount": 3, 
-  "title": "Hof Port [Turner], Rotterdam"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2751, 
+                "name": "Netherlands", 
+                "workCount": 251
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 7435, 
+                "name": "Rotterdam - non-specific", 
+                "workCount": 84
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18978_8.jpg", 
+  "title": "Hof Port [Turner], Rotterdam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hof-port-turner-rotterdam-d18978", 
+  "width": "155"
 }

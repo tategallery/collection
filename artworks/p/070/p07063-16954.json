@@ -1,6 +1,5 @@
 {
   "acno": "P07063", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07061-P07065", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 355 x 355 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Composite Series (set of 5)", 
+  "height": "355", 
   "id": 16954, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -57,7 +57,41 @@
       "workCount": 140
     }
   ], 
-  "popularity": 161, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07063_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07063", 
+  "width": "355"
 }

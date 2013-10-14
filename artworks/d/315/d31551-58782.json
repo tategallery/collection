@@ -1,6 +1,5 @@
 {
   "acno": "D31551", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31416-D31426; D31428-D31466; D31468-D31559; D31561-D31567; D31569-D31570; D31572-D31575; D31577-D31581; D31583-D31586; D31588-D31592; D31594-D31597; D41262-D41263; D41500", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,126 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 184 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXI 69", 
   "foreignTitle": null, 
   "groupTitle": "Vienna up to Venice Sketchbook [Finberg CCCXI]", 
+  "height": "113", 
   "id": 58782, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 139, 
-  "popularity": 68, 
   "subjectCount": 7, 
-  "title": "(1) Bolzano; (2) Verona: View down Piazza delle Erbe to Piazza dei Signori"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10364, 
+                "name": "Bolzano - non-specific", 
+                "workCount": 11
+              }, 
+              {
+                "id": 7780, 
+                "name": "Verona, Piazza delle Erbe", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 239, 
+                "name": "Renaissance", 
+                "workCount": 110
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31551_8.jpg", 
+  "title": "(1) Bolzano; (2) Verona: View down Piazza delle Erbe to Piazza dei Signori", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-bolzano-2-verona-view-down-piazza-delle-erbe-to-piazza-dei-signori-d31551", 
+  "width": "184"
 }

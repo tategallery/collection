@@ -1,6 +1,5 @@
 {
   "acno": "D06544", 
-  "addlImageCount": 0, 
   "catTextResId": 1139067, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
@@ -28,17 +27,47 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "support: 118 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "C 25", 
   "foreignTitle": null, 
   "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "height": "187", 
   "id": 33935, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 14, 
   "subjectCount": 1, 
-  "title": "Men-of-War"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06544_8.jpg", 
+  "title": "Men-of-War", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-men-of-war-d06544", 
+  "width": "118"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01964", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01961-P01984; P11003", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 102 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Conditional Probability Machine", 
+  "height": "140", 
   "id": 11084, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 85, 
   "subjectCount": 3, 
-  "title": "Secrets of Life - The Human Machine and How it Works: Reproduction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10213, 
+                "name": "organ", 
+                "workCount": 3
+              }, 
+              {
+                "id": 3702, 
+                "name": "vein", 
+                "workCount": 3
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01964_8.jpg", 
+  "title": "Secrets of Life - The Human Machine and How it Works: Reproduction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-secrets-of-life-the-human-machine-and-how-it-works-reproduction-p01964", 
+  "width": "102"
 }

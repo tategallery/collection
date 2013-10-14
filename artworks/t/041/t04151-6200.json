@@ -1,6 +1,5 @@
 {
   "acno": "T04151", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "support: 278 x 216 mm\r\nframe: 450 x 380 x 37 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "216", 
   "id": 6200, 
   "inscription": null, 
   "medium": "Ink on paper", 
@@ -41,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 648, 
   "subjectCount": 1, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04151_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hesse-untitled-t04151", 
+  "width": "278"
 }

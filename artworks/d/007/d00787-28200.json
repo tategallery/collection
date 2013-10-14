@@ -1,6 +1,5 @@
 {
   "acno": "D00787", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1796"
   }, 
   "dateText": "1796", 
+  "depth": "", 
   "dimensions": "support: 110 x 129 mm", 
-  "displayLocation": null, 
   "finberg": "XXX 50", 
   "foreignTitle": null, 
   "groupTitle": "Studies near Brighton Sketchbook [Finberg XXX]", 
+  "height": "129", 
   "id": 28200, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 103, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Cliffs, with a Flight of Steps and a Hut, a Double Gabled House Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00787_8.jpg", 
+  "title": "Cliffs, with a Flight of Steps and a Hut, a Double Gabled House Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-with-a-flight-of-steps-and-a-hut-a-double-gabled-house-beyond-d00787", 
+  "width": "110"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D09012", 
-  "addlImageCount": 0, 
   "catTextResId": 1134723, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
@@ -28,16 +27,75 @@
     "text": "c.1809-10"
   }, 
   "dateText": "c.1809-10", 
+  "depth": "", 
   "dimensions": "support: 125 x 202 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVII 33 v", 
   "foreignTitle": null, 
   "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "height": "202", 
   "id": 36391, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 4, 
-  "title": "?A Castle on a Wooded Hillside above a Wide Valley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09012_8.jpg", 
+  "title": "?A Castle on a Wooded Hillside above a Wide Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-castle-on-a-wooded-hillside-above-a-wide-valley-d09012", 
+  "width": "125"
 }

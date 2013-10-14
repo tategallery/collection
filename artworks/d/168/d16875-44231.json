@@ -1,6 +1,5 @@
 {
   "acno": "D16875", 
-  "addlImageCount": 0, 
   "catTextResId": 1138650, 
   "catalogueGroup": {
     "accessionRanges": "D16762-D16889; D40988-D40990", 
@@ -28,17 +27,66 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 94 x 115 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIII 98 a", 
   "foreignTitle": null, 
   "groupTitle": "Remarks (Italy) Sketchbook [Finberg CXCIII]", 
+  "height": "115", 
   "id": 44231, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 200, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Group of Houses and Trees, ?France"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16875_8.jpg", 
+  "title": "Group of Houses and Trees, ?France", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-houses-and-trees-france-d16875", 
+  "width": "94"
 }

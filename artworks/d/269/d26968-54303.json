@@ -1,6 +1,5 @@
 {
   "acno": "D26968", 
-  "addlImageCount": 0, 
   "catTextResId": 1135333, 
   "catalogueGroup": {
     "accessionRanges": "D26966-D27045", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 150 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVI 3", 
   "foreignTitle": null, 
   "groupTitle": "Fort Augustus Sketchbook [Finberg CCLXXVI]", 
+  "height": "184", 
   "id": 54303, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Ben Nevis from the Caledonian Canal to the West"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26968_8.jpg", 
+  "title": "Ben Nevis from the Caledonian Canal to the West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ben-nevis-from-the-caledonian-canal-to-the-west-d26968", 
+  "width": "150"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D07667", 
-  "addlImageCount": 0, 
   "catTextResId": 1131154, 
   "catalogueGroup": {
     "accessionRanges": "D07593-D07754; D40662", 
@@ -28,17 +27,64 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXI 47 a", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXI]", 
+  "height": "110", 
   "id": 35056, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 96, 
-  "popularity": 40, 
   "subjectCount": 3, 
-  "title": "Oxford; Tower and Chapel of Magdalen College and other Architectural Details"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic", 
+                "workCount": 987
+              }, 
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07667_8.jpg", 
+  "title": "Oxford; Tower and Chapel of Magdalen College and other Architectural Details", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-oxford-tower-and-chapel-of-magdalen-college-and-other-architectural-details-d07667", 
+  "width": "88"
 }

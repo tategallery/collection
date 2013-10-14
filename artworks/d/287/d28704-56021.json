@@ -1,6 +1,5 @@
 {
   "acno": "D28704", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28657-D28681; D28683-D28790; D41146-D41147", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCI a 25 a", 
   "foreignTitle": null, 
   "groupTitle": "Rhine (between Cologne and Mayence) also Moselle and Aix-la-Chapelle Sketchbook [Finberg CCXCI (a)]", 
+  "height": "117", 
   "id": 56021, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 52, 
-  "popularity": 10, 
   "subjectCount": 6, 
-  "title": "Church beside River, with Ruins on Rock Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28704_8.jpg", 
+  "title": "Church beside River, with Ruins on Rock Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-beside-river-with-ruins-on-rock-beyond-d28704", 
+  "width": "90"
 }

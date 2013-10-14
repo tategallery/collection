@@ -1,6 +1,5 @@
 {
   "acno": "T06499", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1701"
   }, 
   "dateText": "1701", 
+  "depth": "", 
   "dimensions": "support: 768 x 639 mm\r\nframe: 948 x 822 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "639", 
   "id": 20268, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -54,7 +51,67 @@
       "workCount": 1
     }
   ], 
-  "popularity": 148, 
   "subjectCount": 3, 
-  "title": "Portrait of Mrs Haire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4218, 
+                "name": "Haire", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1957, 
+                "name": "name of sitter", 
+                "workCount": 46
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06499_8.jpg", 
+  "title": "Portrait of Mrs Haire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dahl-portrait-of-mrs-haire-t06499", 
+  "width": "768"
 }

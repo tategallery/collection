@@ -1,6 +1,5 @@
 {
   "acno": "T03823", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "915", 
   "dimensions": "object: 2360 x 815 x 915 mm", 
-  "displayLocation": null, 
   "foreignTitle": "M\u00e9ta-m\u00e9canique \u00e0 tr\u00e9pied", 
   "groupTitle": null, 
+  "height": "815", 
   "id": 14336, 
   "inscription": null, 
   "medium": "Steel, cardboard, plastic and electric motor", 
@@ -51,7 +51,79 @@
       "workCount": 12
     }
   ], 
-  "popularity": 854, 
   "subjectCount": 4, 
-  "title": "Metamechanical Sculpture with Tripod"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog", 
+                "workCount": 11
+              }, 
+              {
+                "id": 3959, 
+                "name": "tripod", 
+                "workCount": 2
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03823_8.jpg", 
+  "title": "Metamechanical Sculpture with Tripod", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tinguely-metamechanical-sculpture-with-tripod-t03823", 
+  "width": "2360"
 }

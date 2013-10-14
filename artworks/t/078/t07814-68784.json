@@ -1,6 +1,5 @@
 {
   "acno": "T07814", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1939"
   }, 
   "dateText": "1939", 
+  "depth": "", 
   "dimensions": "unconfirmed: 480 x 580 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "580", 
   "id": 68784, 
   "inscription": null, 
   "medium": "Watercolour and gouache on paper", 
   "movementCount": 0, 
-  "popularity": 114, 
   "subjectCount": 3, 
-  "title": "Portrait of Kitty West"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16129, 
+                "name": "West, Kitty", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07814_8.jpg", 
+  "title": "Portrait of Kitty West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hodgkins-portrait-of-kitty-west-t07814", 
+  "width": "480"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00827", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919-20, replica 1985"
   }, 
   "dateText": "1919-20, replica 1985", 
+  "depth": "190", 
   "dimensions": "object: 616 x 241 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "241", 
   "id": 4806, 
   "inscription": null, 
   "medium": "Metal, wood and electric motor", 
@@ -51,7 +51,65 @@
       "workCount": 26
     }
   ], 
-  "popularity": 1522, 
   "subjectCount": 4, 
-  "title": "Kinetic Construction (Standing Wave)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 6745, 
+                "name": "rhythm", 
+                "workCount": 39
+              }, 
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00827_8.jpg", 
+  "title": "Kinetic Construction (Standing Wave)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-kinetic-construction-standing-wave-t00827", 
+  "width": "616"
 }

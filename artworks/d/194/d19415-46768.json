@@ -1,6 +1,5 @@
 {
   "acno": "D19415", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXV 8", 
   "foreignTitle": null, 
   "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "height": "189", 
   "id": 46768, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Coast Scenes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19415_8_R.jpg", 
+  "title": "Coast Scenes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-coast-scenes-d19415", 
+  "width": "113"
 }

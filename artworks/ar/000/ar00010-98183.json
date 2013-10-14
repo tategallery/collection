@@ -1,6 +1,5 @@
 {
   "acno": "AR00010", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,124 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "3", 
   "dimensions": "support: 228 x 299 x 3 mm\r\nframe: 249 x 319 x 34 mm", 
-  "displayLocation": {
-    "name": "Middlesbrough Institute of Modern Art (Middlesbrough, UK)", 
-    "url": "http://www.visitmima.com/"
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "299", 
   "id": 98183, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on hardboard", 
   "movementCount": 0, 
-  "popularity": 236, 
   "subjectCount": 7, 
-  "title": "West Palm Beach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18007, 
+                "name": "Florida, West Palm Beach", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1811, 
+                "name": "USA", 
+                "workCount": 228
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3053, 
+                "name": "light, electric", 
+                "workCount": 61
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 540, 
+                "name": "night", 
+                "workCount": 468
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }, 
+              {
+                "id": 4678, 
+                "name": "ripple", 
+                "workCount": 28
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00010_8.jpg", 
+  "title": "West Palm Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-west-palm-beach-ar00010", 
+  "width": "228"
 }

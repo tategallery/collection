@@ -1,6 +1,5 @@
 {
   "acno": "P77862", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77854-P77864", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1993"
   }, 
   "dateText": "1993", 
+  "depth": "", 
   "dimensions": "image: 193 x 193 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Meeting", 
+  "height": "193", 
   "id": 21691, 
   "inscription": "date inscribed", 
   "medium": "Drypoint on paper", 
   "movementCount": 0, 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "Four Men in White"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 757, 
+                "name": "mouth", 
+                "workCount": 57
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77862_8.jpg", 
+  "title": "Four Men in White", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bevan-four-men-in-white-p77862", 
+  "width": "193"
 }

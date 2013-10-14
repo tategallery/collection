@@ -1,6 +1,5 @@
 {
   "acno": "T03622", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "c.1883"
   }, 
   "dateText": "c.1883", 
+  "depth": "", 
   "dimensions": "support: 305 x 250 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "250", 
   "id": 9186, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 54, 
   "subjectCount": 2, 
-  "title": "Hyacinth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14949, 
+                "name": "hyacinth", 
+                "workCount": 1
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar", 
+                "workCount": 92
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03622_8.jpg", 
+  "title": "Hyacinth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maitland-hyacinth-t03622", 
+  "width": "305"
 }

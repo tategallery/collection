@@ -1,6 +1,5 @@
 {
   "acno": "D06920", 
-  "addlImageCount": 0, 
   "catTextResId": 1133676, 
   "catalogueGroup": {
     "accessionRanges": "D06858-D06983; D40805", 
@@ -28,17 +27,102 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 98 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "CIV 47 a", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.2 Sketchbook [Finberg CIV]", 
+  "height": "162", 
   "id": 34310, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 98, 
-  "popularity": 9, 
   "subjectCount": 5, 
-  "title": "Cattle on the Bank of a River, with Boats Passing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06920_8.jpg", 
+  "title": "Cattle on the Bank of a River, with Boats Passing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cattle-on-the-bank-of-a-river-with-boats-passing-d06920", 
+  "width": "98"
 }

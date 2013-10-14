@@ -1,6 +1,5 @@
 {
   "acno": "T11806", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,69 @@
     "text": "2003"
   }, 
   "dateText": "2003", 
+  "depth": "", 
   "dimensions": "object: 750 x 750 x 4 mm, 6.5 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 80298, 
-  "images": [
-    {
-      "copyright": "\u00a9 Olafur Eliasson", 
-      "filenameBase": "T11806_285707", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11806_285707_7.jpg", 
-          "height": 96, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11806_285707_8.jpg", 
-          "height": 191, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11806_285707_9.jpg", 
-          "height": 382, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11806_285707_10.jpg", 
-          "height": 1147, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Glass, steel cable, motor, floodlight and tripod", 
   "movementCount": 0, 
-  "popularity": 528, 
   "subjectCount": 3, 
-  "title": "Yellow versus Purple"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light", 
+                "workCount": 87
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11806_8.jpg", 
+  "title": "Yellow versus Purple", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/eliasson-yellow-versus-purple-t11806", 
+  "width": ""
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05330", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05327-P05332", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,119 @@
     "text": "1970-1"
   }, 
   "dateText": "1970-1", 
+  "depth": "", 
   "dimensions": "image: 925 x 704 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Berlin Suite", 
+  "height": "704", 
   "id": 16307, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 77, 
   "subjectCount": 6, 
-  "title": "Marcus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10404, 
+                "name": "Berlin - non-specific", 
+                "workCount": 42
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }, 
+          {
+            "children": [
+              {
+                "id": 4680, 
+                "name": "ironwork", 
+                "workCount": 7
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05330_8.jpg", 
+  "title": "Marcus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-marcus-p05330", 
+  "width": "925"
 }

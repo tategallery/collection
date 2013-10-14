@@ -1,6 +1,5 @@
 {
   "acno": "D00206", 
-  "addlImageCount": 0, 
   "catTextResId": 1140223, 
   "catalogueGroup": {
     "accessionRanges": "D00063; D00197-D00206; D40216; D40234", 
@@ -28,16 +27,75 @@
     "text": "c.1797-9"
   }, 
   "dateText": "c.1797-9", 
+  "depth": "", 
   "dimensions": "support: 298 x 460 mm", 
-  "displayLocation": null, 
   "finberg": "XVIII K", 
   "foreignTitle": null, 
   "groupTitle": "Drawings from the Nude Model", 
+  "height": "460", 
   "id": 27622, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
-  "popularity": 115, 
   "subjectCount": 4, 
-  "title": "A Supine Male Nude with One Leg Raised"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 500, 
+                "name": "falling", 
+                "workCount": 88
+              }, 
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00206_8.jpg", 
+  "title": "A Supine Male Nude with One Leg Raised", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-supine-male-nude-with-one-leg-raised-d00206", 
+  "width": "298"
 }

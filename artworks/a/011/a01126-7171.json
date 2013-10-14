@@ -1,6 +1,5 @@
 {
   "acno": "A01126", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1816"
   }, 
   "dateText": "1816", 
+  "depth": "", 
   "dimensions": "image: 189 x 268 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "268", 
   "id": 7171, 
   "inscription": null, 
   "medium": "Etching and mezzotint on paper", 
@@ -47,7 +47,123 @@
       "workCount": 39
     }
   ], 
-  "popularity": 135, 
   "subjectCount": 10, 
-  "title": "The Source of the Arveron"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 9888, 
+                "name": "Glacier des Bois", 
+                "workCount": 7
+              }, 
+              {
+                "id": 8380, 
+                "name": "River Arveyron", 
+                "workCount": 12
+              }, 
+              {
+                "id": 9878, 
+                "name": "Val de Chamonix", 
+                "workCount": 28
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 6876, 
+                "name": "pine", 
+                "workCount": 47
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01126_8.jpg", 
+  "title": "The Source of the Arveron", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-source-of-the-arveron-a01126", 
+  "width": "189"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D24076", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23886-D24076; D41070", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 174 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIV 98 a", 
   "foreignTitle": null, 
   "groupTitle": "Seine and Paris Sketchbook [Finberg CCLIV]", 
+  "height": "117", 
   "id": 51413, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 198, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "The River Marne [Turner], Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24076_8_R.jpg", 
+  "title": "The River Marne [Turner], Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-river-marne-turner-etc-d24076", 
+  "width": "174"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N03616", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1715"
   }, 
   "dateText": "c.1715", 
+  "depth": "", 
   "dimensions": "support: 327 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "241", 
   "id": 8152, 
   "inscription": null, 
   "medium": "Chalk on paper", 
@@ -41,7 +41,48 @@
       "workCount": 34
     }
   ], 
-  "popularity": 110, 
   "subjectCount": 2, 
-  "title": "A Lady"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03616_8.jpg", 
+  "title": "A Lady", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kneller-a-lady-n03616", 
+  "width": "327"
 }

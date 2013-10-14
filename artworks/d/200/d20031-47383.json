@@ -1,6 +1,5 @@
 {
   "acno": "D20031", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18471-D18476; D19552-D19775; D19778-D19946; D19948-D20083; D40727-D40728", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1824"
   }, 
   "dateText": "1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "CCXVI 244 a", 
   "foreignTitle": null, 
   "groupTitle": "Rivers Meuse and Moselle Sketchbook [Finberg CCXVI]", 
+  "height": "78", 
   "id": 47383, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 506, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Bridges and Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20031_8_R.jpg", 
+  "title": "Bridges and Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridges-and-buildings-d20031", 
+  "width": "118"
 }

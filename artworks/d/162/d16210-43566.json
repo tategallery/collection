@@ -1,6 +1,5 @@
 {
   "acno": "D16210", 
-  "addlImageCount": 0, 
   "catTextResId": 1139721, 
   "catalogueGroup": {
     "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVIII 29 a", 
   "foreignTitle": null, 
   "groupTitle": "St Peter's Sketchbook [Finberg CLXXXVIII]", 
+  "height": "189", 
   "id": 43566, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 62, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Part of a Sketch of Rome from the River Tiber, with St Peter's in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16210_8.jpg", 
+  "title": "Part of a Sketch of Rome from the River Tiber, with St Peter's in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-a-sketch-of-rome-from-the-river-tiber-with-st-peters-in-distance-d16210", 
+  "width": "114"
 }

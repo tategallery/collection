@@ -1,6 +1,5 @@
 {
   "acno": "D10524", 
-  "addlImageCount": 0, 
   "catTextResId": 1131518, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,71 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 59", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37900, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 135, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Buildings at Winchelsea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10524_8.jpg", 
+  "title": "Buildings at Winchelsea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-at-winchelsea-d10524", 
+  "width": "155"
 }

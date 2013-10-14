@@ -1,6 +1,5 @@
 {
   "acno": "D01764", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 174 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "XLII 89", 
   "foreignTitle": null, 
   "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "height": "125", 
   "id": 29169, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "A Waterfall, with Trees Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01764_8.jpg", 
+  "title": "A Waterfall, with Trees Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-waterfall-with-trees-beyond-d01764", 
+  "width": "174"
 }

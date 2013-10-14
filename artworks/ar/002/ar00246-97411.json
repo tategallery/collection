@@ -1,6 +1,5 @@
 {
   "acno": "AR00246", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "support: 454 x 365 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "365", 
   "id": 97411, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
@@ -41,7 +41,86 @@
       "workCount": 248
     }
   ], 
-  "popularity": 34, 
   "subjectCount": 4, 
-  "title": "Musical Notes and Sprite Faces"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16105, 
+                "name": "cartoon / comic strip", 
+                "workCount": 115
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour", 
+                "workCount": 241
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4146, 
+                "name": "imp", 
+                "workCount": 9
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism", 
+            "workCount": 194
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 821, 
+                "name": "music", 
+                "workCount": 62
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00246_8.jpg", 
+  "title": "Musical Notes and Sprite Faces", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-musical-notes-and-sprite-faces-ar00246", 
+  "width": "454"
 }

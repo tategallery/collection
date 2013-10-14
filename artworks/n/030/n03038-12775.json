@@ -1,6 +1,5 @@
 {
   "acno": "N03038", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1866"
   }, 
   "dateText": "c.1866", 
+  "depth": "", 
   "dimensions": "support: 337 x 254 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 12775, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,65 @@
       "workCount": 405
     }
   ], 
-  "popularity": 83, 
   "subjectCount": 4, 
-  "title": "Miss Robertson (Mrs Fernandez)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15838, 
+                "name": "Fernandez", 
+                "workCount": 1
+              }, 
+              {
+                "id": 13713, 
+                "name": "Robertson", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03038_8.jpg", 
+  "title": "Miss Robertson (Mrs Fernandez)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-miss-robertson-mrs-fernandez-n03038", 
+  "width": "337"
 }

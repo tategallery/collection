@@ -1,6 +1,5 @@
 {
   "acno": "D07934", 
-  "addlImageCount": 0, 
   "catTextResId": 1135890, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,90 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 83 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 52 a", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "114", 
   "id": 35323, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 108, 
-  "popularity": 29, 
   "subjectCount": 4, 
-  "title": "Man Seated Holding a Gun, and a Barrel of Beer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5009, 
+                "name": "barrel", 
+                "workCount": 158
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle", 
+                "workCount": 197
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07934_8.jpg", 
+  "title": "Man Seated Holding a Gun, and a Barrel of Beer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-man-seated-holding-a-gun-and-a-barrel-of-beer-d07934", 
+  "width": "83"
 }

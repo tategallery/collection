@@ -1,6 +1,5 @@
 {
   "acno": "D19293", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 228 a", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46646, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 458, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19293_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d19293", 
+  "width": "155"
 }

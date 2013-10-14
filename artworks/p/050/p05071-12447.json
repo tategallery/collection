@@ -1,6 +1,5 @@
 {
   "acno": "P05071", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05071-P05080", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,95 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "unconfirmed: 596 x 497 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Beethoven Suite with Variations", 
+  "height": "497", 
   "id": 12447, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 68, 
   "subjectCount": 4, 
-  "title": "Portrait of Beethoven"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6546, 
+                "name": "Beethoven, Ludwig van", 
+                "workCount": 5
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3802, 
+                "name": "composer", 
+                "workCount": 16
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12233, 
+                "name": "sheet music", 
+                "workCount": 20
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05071_8.jpg", 
+  "title": "Portrait of Beethoven", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-portrait-of-beethoven-p05071", 
+  "width": "596"
 }

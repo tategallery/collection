@@ -1,6 +1,5 @@
 {
   "acno": "D09331", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "c.1812-13"
   }, 
   "dateText": "c.1812-13", 
+  "depth": "", 
   "dimensions": "support: 158 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXI 105", 
   "foreignTitle": null, 
   "groupTitle": "Plymouth, Hamoaze Sketchbook [Finberg CXXXI]", 
+  "height": "93", 
   "id": 36710, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 211, 
-  "popularity": 7, 
   "subjectCount": 5, 
-  "title": "House among Trees on Bank of Stream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09331_8.jpg", 
+  "title": "House among Trees on Bank of Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-house-among-trees-on-bank-of-stream-d09331", 
+  "width": "158"
 }

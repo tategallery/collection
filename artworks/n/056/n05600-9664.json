@@ -1,6 +1,5 @@
 {
   "acno": "N05600", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,18 +20,112 @@
     "text": "1943"
   }, 
   "dateText": "1943", 
+  "depth": "76", 
   "dimensions": "object: 140 x 76 x 76 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "76", 
   "id": 9664, 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 245, 
   "subjectCount": 6, 
-  "title": "Maquette for Madonna and Child"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ", 
+                "workCount": 193
+              }, 
+              {
+                "id": 254, 
+                "name": "Virgin Mary", 
+                "workCount": 108
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament", 
+            "workCount": 394
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child", 
+                "workCount": 217
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05600_8.jpg", 
+  "title": "Maquette for Madonna and Child", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-maquette-for-madonna-and-child-n05600", 
+  "width": "140"
 }

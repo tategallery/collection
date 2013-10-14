@@ -1,6 +1,5 @@
 {
   "acno": "P02391", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02384-P02393", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 175 x 180 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Nudes", 
+  "height": "180", 
   "id": 9913, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 74, 
   "subjectCount": 5, 
-  "title": "Seated Figure Back"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02391_8.jpg", 
+  "title": "Seated Figure Back", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-seated-figure-back-p02391", 
+  "width": "175"
 }

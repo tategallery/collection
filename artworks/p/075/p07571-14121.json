@@ -1,6 +1,5 @@
 {
   "acno": "P07571", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 560 x 843 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Cartographie", 
   "groupTitle": null, 
+  "height": "843", 
   "id": 14121, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,55 @@
       "workCount": 48
     }
   ], 
-  "popularity": 460, 
   "subjectCount": 2, 
-  "title": "Cartography"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07571_8.jpg", 
+  "title": "Cartography", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tapies-cartography-p07571", 
+  "width": "560"
 }

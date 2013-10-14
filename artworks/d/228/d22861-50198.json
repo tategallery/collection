@@ -1,6 +1,5 @@
 {
   "acno": "D22861", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22779-D22904; D41061-D41062", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 68 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLV 46 a", 
   "foreignTitle": null, 
   "groupTitle": "Arundel and Shoreham Sketchbook [Finberg CCXLV]", 
+  "height": "110", 
   "id": 50198, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Ruined Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22861_8_R.jpg", 
+  "title": "Ruined Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-castle-d22861", 
+  "width": "68"
 }

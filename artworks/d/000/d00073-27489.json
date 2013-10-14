@@ -1,6 +1,5 @@
 {
   "acno": "D00073", 
-  "addlImageCount": 0, 
   "catTextResId": 1140121, 
   "catalogueGroup": {
     "accessionRanges": "D00072-D00107; D40733-D40736", 
@@ -28,17 +27,78 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 185 x 263 mm", 
-  "displayLocation": null, 
   "finberg": "VI 2", 
   "foreignTitle": null, 
   "groupTitle": "Bristol and Malmesbury Sketchbook [Finberg VI]", 
+  "height": "263", 
   "id": 27489, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "Study of the Head of a Woman in a Ruched Cap"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 201, 
+                "name": "hat, cap", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00073_8.jpg", 
+  "title": "Study of the Head of a Woman in a Ruched Cap", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-the-head-of-a-woman-in-a-ruched-cap-d00073", 
+  "width": "185"
 }

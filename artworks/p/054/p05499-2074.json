@@ -1,6 +1,5 @@
 {
   "acno": "P05499", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 838 x 597 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "597", 
   "id": 2074, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,72 @@
       "workCount": 846
     }
   ], 
-  "popularity": 860, 
   "subjectCount": 4, 
-  "title": "Bowl and Fruit"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }, 
+              {
+                "id": 2009, 
+                "name": "fruit, pear", 
+                "workCount": 23
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05499_8.jpg", 
+  "title": "Bowl and Fruit", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-bowl-and-fruit-p05499", 
+  "width": "838"
 }

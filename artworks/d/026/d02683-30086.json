@@ -1,6 +1,5 @@
 {
   "acno": "D02683", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 115 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "LIV 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "height": "162", 
   "id": 30086, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 106, 
-  "popularity": 48, 
   "subjectCount": 4, 
-  "title": "A Castle, with Cottages in the Foreground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02683_8_R.jpg", 
+  "title": "A Castle, with Cottages in the Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-castle-with-cottages-in-the-foreground-d02683", 
+  "width": "115"
 }

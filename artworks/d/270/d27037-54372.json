@@ -1,6 +1,5 @@
 {
   "acno": "D27037", 
-  "addlImageCount": 0, 
   "catTextResId": 1135402, 
   "catalogueGroup": {
     "accessionRanges": "D26966-D27045", 
@@ -28,17 +27,64 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 150 x 183 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVI 42", 
   "foreignTitle": null, 
   "groupTitle": "Fort Augustus Sketchbook [Finberg CCLXXVI]", 
+  "height": "183", 
   "id": 54372, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 83, 
-  "popularity": 18, 
   "subjectCount": 3, 
-  "title": "Loch Ness from the Falls of Foyers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27037_8.jpg", 
+  "title": "Loch Ness from the Falls of Foyers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-loch-ness-from-the-falls-of-foyers-d27037", 
+  "width": "150"
 }

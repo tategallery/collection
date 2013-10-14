@@ -1,6 +1,5 @@
 {
   "acno": "D17732", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17720-D17757; D41403", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1822-3"
   }, 
   "dateText": "c.1822-3", 
+  "depth": "", 
   "dimensions": "support: 178 x 257 mm", 
-  "displayLocation": null, 
   "finberg": "CCII 13", 
   "foreignTitle": null, 
   "groupTitle": "Ports of England Sketchbook [Finberg CCII]", 
+  "height": "257", 
   "id": 45087, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 17, 
   "subjectCount": 4, 
-  "title": "Castle on Cliff"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17732_8.jpg", 
+  "title": "Castle on Cliff", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-cliff-d17732", 
+  "width": "178"
 }

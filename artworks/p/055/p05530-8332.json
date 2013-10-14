@@ -1,6 +1,5 @@
 {
   "acno": "P05530", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05529-P05532", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 400 x 397 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Franz K. 2", 
+  "height": "397", 
   "id": 8332, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "K."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05530_8.jpg", 
+  "title": "K.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landsaat-k-p05530", 
+  "width": "400"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D01374", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01356-D01400; D01402-D01460; D41254-D41260; D41433", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 266 x 171 mm", 
-  "displayLocation": null, 
   "finberg": "XXXIX 19", 
   "foreignTitle": null, 
   "groupTitle": "North Wales Sketchbook [Finberg XXXIX]", 
+  "height": "171", 
   "id": 28781, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 96, 
   "subjectCount": 4, 
-  "title": "Looking from above Caernarvon over Mountains West to the Lleyn Peninsula"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7815, 
+                "name": "Caernarfon - non-specific", 
+                "workCount": 2
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire", 
+                "workCount": 249
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01374_8_R.jpg", 
+  "title": "Looking from above Caernarvon over Mountains West to the Lleyn Peninsula", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-looking-from-above-caernarvon-over-mountains-west-to-the-lleyn-peninsula-d01374", 
+  "width": "266"
 }

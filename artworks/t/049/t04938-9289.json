@@ -1,6 +1,5 @@
 {
   "acno": "T04938", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1986"
   }, 
   "dateText": "1986", 
+  "depth": "", 
   "dimensions": "support: 470 x 1005 mm\r\nframe: 619 x 1152 x 39 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1005", 
   "id": 9289, 
   "inscription": "date inscribed", 
   "medium": "Watercolour on paper", 
@@ -41,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 124, 
   "subjectCount": 1, 
-  "title": "I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04938_8.jpg", 
+  "title": "I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marden-i-t04938", 
+  "width": "470"
 }

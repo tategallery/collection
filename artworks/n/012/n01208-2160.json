@@ -1,6 +1,5 @@
 {
   "acno": "N01208", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 749 x 622 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "622", 
   "id": 2160, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 130, 
   "subjectCount": 4, 
-  "title": "William Godwin"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12974, 
+                "name": "Godwin, William", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author", 
+                "workCount": 95
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4438, 
+                "name": "political belief", 
+                "workCount": 52
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics", 
+            "workCount": 375
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01208_8.jpg", 
+  "title": "William Godwin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chandler-william-godwin-n01208", 
+  "width": "749"
 }

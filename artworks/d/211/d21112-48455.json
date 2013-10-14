@@ -1,6 +1,5 @@
 {
   "acno": "D21112", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20990-D21015; D21018-D21132; D41001-D41003", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 145 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXX 62", 
   "foreignTitle": null, 
   "groupTitle": "Lyons to Marseilles Sketchbook [Finberg CCXXX]", 
+  "height": "111", 
   "id": 48455, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Street Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21112_8_R.jpg", 
+  "title": "Street Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-d21112", 
+  "width": "145"
 }

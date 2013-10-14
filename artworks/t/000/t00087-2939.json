@@ -1,6 +1,5 @@
 {
   "acno": "T00087", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "support: 600 x 702 mm\r\nframe: 630 x 733 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Aurora Boreale", 
   "groupTitle": null, 
+  "height": "702", 
   "id": 2939, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,77 @@
       "workCount": 8
     }
   ], 
-  "popularity": 65, 
   "subjectCount": 5, 
-  "title": "Aurora Borealis"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4247, 
+                "name": "Northern Lights", 
+                "workCount": 2
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00087_8.jpg", 
+  "title": "Aurora Borealis", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/crippa-aurora-borealis-t00087", 
+  "width": "600"
 }

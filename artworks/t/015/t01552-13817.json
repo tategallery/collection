@@ -1,6 +1,5 @@
 {
   "acno": "T01552", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 3000 x 1822 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1822", 
   "id": 13817, 
   "inscription": null, 
   "medium": "Alkyd paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 49
     }
   ], 
-  "popularity": 557, 
   "subjectCount": 1, 
-  "title": "Six Mile Bottom"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01552_8.jpg", 
+  "title": "Six Mile Bottom", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stella-six-mile-bottom-t01552", 
+  "width": "3000"
 }

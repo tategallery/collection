@@ -1,6 +1,5 @@
 {
   "acno": "N04702", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,117 @@
     "text": "1932"
   }, 
   "dateText": "1932", 
+  "depth": "", 
   "dimensions": "support: 930 x 660 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "660", 
   "id": 1620, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 128, 
   "subjectCount": 7, 
-  "title": "Portrait of the Painter"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2834, 
+                "name": "Brown, Frederick", 
+                "workCount": 1
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 4507, 
+                "name": "hand/hands on hip", 
+                "workCount": 84
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2835, 
+                "name": "paintbrush", 
+                "workCount": 50
+              }, 
+              {
+                "id": 744, 
+                "name": "picture", 
+                "workCount": 130
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04702_8.jpg", 
+  "title": "Portrait of the Painter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-portrait-of-the-painter-n04702", 
+  "width": "930"
 }

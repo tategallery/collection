@@ -1,6 +1,5 @@
 {
   "acno": "P79368", 
-  "addlImageCount": 2, 
   "catalogueGroup": {
     "accessionRanges": "P79359-P79373", 
     "completeStatus": "COMPLETE", 
@@ -27,101 +26,143 @@
     "text": "2007"
   }, 
   "dateText": "2007", 
+  "depth": "", 
   "dimensions": "image: 297 x 297 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "E3 4RR", 
+  "height": "297", 
   "id": 100714, 
-  "images": [
-    {
-      "copyright": "\u00a9 Hayley Newman, courtesy Matt's Gallery, London", 
-      "filenameBase": "P79368_291173", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291173_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 94
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291173_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 187
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291173_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 534
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291173_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1123
-        }
-      ]
-    }, 
-    {
-      "copyright": "\u00a9 Hayley Newman, courtesy Matt's Gallery, London", 
-      "filenameBase": "P79368_291175", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291175_7.jpg", 
-          "height": 127, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291175_8.jpg", 
-          "height": 254, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291175_9.jpg", 
-          "height": 724, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P79/P79368_291175_10.jpg", 
-          "height": 1523, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 78, 
   "subjectCount": 8, 
-  "title": "Volcano Lady"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }, 
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke", 
+                "workCount": 295
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 6199, 
+                "name": "volcano", 
+                "workCount": 70
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17322, 
+                "name": "skirt", 
+                "workCount": 10
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79368_8.jpg", 
+  "title": "Volcano Lady", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/newman-volcano-lady-p79368", 
+  "width": "297"
 }

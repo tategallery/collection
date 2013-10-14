@@ -1,6 +1,5 @@
 {
   "acno": "P03251", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03241-P03255", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1975-6"
   }, 
   "dateText": "1975-6", 
+  "depth": "", 
   "dimensions": "image: 606 x 425 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "For Jorn", 
+  "height": "425", 
   "id": 13156, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 54, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text", 
+                "workCount": 36
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific", 
+                "workCount": 155
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03251_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saura-no-title-p03251", 
+  "width": "606"
 }

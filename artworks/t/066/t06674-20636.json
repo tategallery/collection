@@ -1,6 +1,5 @@
 {
   "acno": "T06674", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "c.1760-70"
   }, 
   "dateText": "c.1760-70", 
+  "depth": "", 
   "dimensions": "unconfirmed: 452 x 617 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "617", 
   "id": 20636, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 149, 
   "subjectCount": 3, 
-  "title": "Still Life with Palette and Brushes, Fruit and Flowers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4222, 
+                "name": "fruit, grape", 
+                "workCount": 39
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 199, 
+                "name": "palette", 
+                "workCount": 55
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1283, 
+                "name": "rose", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06674_8.jpg", 
+  "title": "Still Life with Palette and Brushes, Fruit and Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pine-still-life-with-palette-and-brushes-fruit-and-flowers-t06674", 
+  "width": "452"
 }

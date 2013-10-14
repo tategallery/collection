@@ -1,6 +1,5 @@
 {
   "acno": "D05962", 
-  "addlImageCount": 0, 
   "catTextResId": 1130137, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
@@ -28,17 +27,47 @@
     "text": "c.1807"
   }, 
   "dateText": "c.1807", 
+  "depth": "", 
   "dimensions": "support: 92 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "XCVI 2", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "height": "163", 
   "id": 33353, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 27, 
   "subjectCount": 1, 
-  "title": "Wild Plants"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 819, 
+                "name": "dock", 
+                "workCount": 30
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05962_8.jpg", 
+  "title": "Wild Plants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wild-plants-d05962", 
+  "width": "92"
 }

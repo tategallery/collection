@@ -1,6 +1,5 @@
 {
   "acno": "D17207", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17207-D17364; D40685-D40686", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1821"
   }, 
   "dateText": "c.1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CXCVIII 1", 
   "foreignTitle": null, 
   "groupTitle": "Folkestone Sketchbook [Finberg CXCVIII]", 
+  "height": "187", 
   "id": 44563, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 13, 
   "subjectCount": 1, 
-  "title": "A Church. St ?Justs Ch. [Turner] (?Oxford)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17207_8.jpg", 
+  "title": "A Church. St ?Justs Ch. [Turner] (?Oxford)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-st-justs-ch-turner-oxford-d17207", 
+  "width": "113"
 }

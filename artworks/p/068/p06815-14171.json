@@ -1,6 +1,5 @@
 {
   "acno": "P06815", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 410 x 635 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "635", 
   "id": 14171, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 118, 
   "subjectCount": 4, 
-  "title": "Norfolk Farm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2368, 
+                "name": "Norfolk", 
+                "workCount": 93
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn", 
+                "workCount": 52
+              }, 
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06815_8.jpg", 
+  "title": "Norfolk Farm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/thornton-norfolk-farm-p06815", 
+  "width": "410"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D12751", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12702-D12883; D40663-D40665", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 150 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CLX 27", 
   "foreignTitle": null, 
   "groupTitle": "Waterloo and Rhine Sketchbook [Finberg CLX]", 
+  "height": "94", 
   "id": 40119, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 2, 
   "subjectCount": 2, 
-  "title": "Quayside Scene at Bonn with Shipping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12751_8.jpg", 
+  "title": "Quayside Scene at Bonn with Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-quayside-scene-at-bonn-with-shipping-d12751", 
+  "width": "150"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D05517", 
-  "addlImageCount": 0, 
   "catTextResId": 1129828, 
   "catalogueGroup": {
     "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
@@ -28,17 +27,90 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 150 x 258 mm", 
-  "displayLocation": null, 
   "finberg": "XC 19 a", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures: Isleworth Sketchbook [Finberg XC]", 
+  "height": "258", 
   "id": 32909, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 40, 
-  "popularity": 23, 
   "subjectCount": 4, 
-  "title": "Classical Harbour Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05517_8.jpg", 
+  "title": "Classical Harbour Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-classical-harbour-buildings-d05517", 
+  "width": "150"
 }

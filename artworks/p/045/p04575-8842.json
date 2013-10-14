@@ -1,6 +1,5 @@
 {
   "acno": "P04575", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04575-P04578", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 523 x 595 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Four Seasons", 
+  "height": "595", 
   "id": 8842, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,55 @@
       "workCount": 140
     }
   ], 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Spring"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring", 
+                "workCount": 49
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04575_8.jpg", 
+  "title": "Spring", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lin-spring-p04575", 
+  "width": "523"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D33438", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33406-D33469; D41103-D41104", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 173 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXI 17", 
   "foreignTitle": null, 
   "groupTitle": "Lake of Zug and Goldau Sketchbook [Finberg CCCXXXI]", 
+  "height": "73", 
   "id": 60609, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "Bridge, with Towers, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33438_8.jpg", 
+  "title": "Bridge, with Towers, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-towers-etc-d33438", 
+  "width": "173"
 }

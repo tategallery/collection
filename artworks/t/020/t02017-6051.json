@@ -1,6 +1,5 @@
 {
   "acno": "T02017", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "255", 
   "dimensions": "object: 1097 x 640 x 255 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "640", 
   "id": 6051, 
   "inscription": null, 
   "medium": "Ancaster stone on beechwood base", 
@@ -41,7 +41,55 @@
       "workCount": 409
     }
   ], 
-  "popularity": 146, 
   "subjectCount": 2, 
-  "title": "Rock Face"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature", 
+                "workCount": 129
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02017_8.jpg", 
+  "title": "Rock Face", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-rock-face-t02017", 
+  "width": "1097"
 }

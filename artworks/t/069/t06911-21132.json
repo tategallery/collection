@@ -1,6 +1,5 @@
 {
   "acno": "T06911", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "support: 507 x 405 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "405", 
   "id": 21132, 
   "inscription": null, 
   "medium": "Ink and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 104, 
   "subjectCount": 3, 
-  "title": "The Bird Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16823, 
+                "name": "bird table", 
+                "workCount": 1
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06911_8.jpg", 
+  "title": "The Bird Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/self-the-bird-table-t06911", 
+  "width": "507"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D00036", 
-  "addlImageCount": 0, 
   "catTextResId": 1140191, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,90 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 160 x 249 mm", 
-  "displayLocation": null, 
   "finberg": "II 20", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "249", 
   "id": 27452, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 135, 
   "subjectCount": 4, 
-  "title": "Part of Nuneham Courtenay"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7448, 
+                "name": "Nuneham Courtenay, Nuneham Park", 
+                "workCount": 7
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire", 
+                "workCount": 265
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00036_8.jpg", 
+  "title": "Part of Nuneham Courtenay", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-nuneham-courtenay-d00036", 
+  "width": "160"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05560", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "image: 600 x 750 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "750", 
   "id": 2079, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 294, 
   "subjectCount": 2, 
-  "title": "Dressed Lobster"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2089, 
+                "name": "lobster", 
+                "workCount": 6
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1272, 
+                "name": "seafood", 
+                "workCount": 11
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05560_8.jpg", 
+  "title": "Dressed Lobster", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-dressed-lobster-p05560", 
+  "width": "600"
 }

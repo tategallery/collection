@@ -1,6 +1,5 @@
 {
   "acno": "D07142", 
-  "addlImageCount": 0, 
   "catTextResId": 1129568, 
   "catalogueGroup": {
     "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
@@ -28,17 +27,114 @@
     "text": "c.1808"
   }, 
   "dateText": "c.1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CVI 8", 
   "foreignTitle": null, 
   "groupTitle": "Derbyshire Sketchbook [Finberg CVI]", 
+  "height": "185", 
   "id": 34531, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 16, 
   "subjectCount": 6, 
-  "title": "A Man Fishing in a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2280, 
+                "name": "fishing", 
+                "workCount": 198
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07142_8.jpg", 
+  "title": "A Man Fishing in a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-man-fishing-in-a-river-d07142", 
+  "width": "108"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D25662", 
-  "addlImageCount": 0, 
   "catTextResId": 1134025, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,52 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 96 x 59 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 11 a", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "59", 
   "id": 52999, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 47, 
   "subjectCount": 2, 
-  "title": "Architectural Details of Jedburgh Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 2068, 
+                "name": "corbel", 
+                "workCount": 18
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25662_8_R.jpg", 
+  "title": "Architectural Details of Jedburgh Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-architectural-details-of-jedburgh-abbey-d25662", 
+  "width": "96"
 }

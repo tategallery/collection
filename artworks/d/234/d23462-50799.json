@@ -1,6 +1,5 @@
 {
   "acno": "D23462", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23457-D23524", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 123 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCLI 3 a", 
   "foreignTitle": null, 
   "groupTitle": "Rouen, Le Havre, Caen, Bayeux and Isigny Sketchbook [Finberg CCLI]", 
+  "height": "98", 
   "id": 50799, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Wagons"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23462_8.jpg", 
+  "title": "Wagons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wagons-d23462", 
+  "width": "123"
 }

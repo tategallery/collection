@@ -1,6 +1,5 @@
 {
   "acno": "P01879", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01878-P01882", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 533 x 533 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Paradox I-V", 
+  "height": "533", 
   "id": 6476, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 232
     }
   ], 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Paradox II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01879_8.jpg", 
+  "title": "Paradox II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hirst-paradox-ii-p01879", 
+  "width": "533"
 }

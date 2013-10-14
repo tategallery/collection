@@ -1,6 +1,5 @@
 {
   "acno": "D01120", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "1796-7"
   }, 
   "dateText": "1796-7", 
+  "depth": "", 
   "dimensions": "support: 113 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVII 3", 
   "foreignTitle": null, 
   "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "height": "93", 
   "id": 28531, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 62, 
   "subjectCount": 5, 
-  "title": "Study of Cloudy Sky over Dark Sea, with a Ship in Sunlight"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01120_8.jpg", 
+  "title": "Study of Cloudy Sky over Dark Sea, with a Ship in Sunlight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-cloudy-sky-over-dark-sea-with-a-ship-in-sunlight-d01120", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D19024", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 93 a", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46377, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 188, 
-  "popularity": 53, 
   "subjectCount": 5, 
-  "title": "Bridge, with Buildings (?Delft)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12273, 
+                "name": "Delft", 
+                "workCount": 4
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 2751, 
+                "name": "Netherlands", 
+                "workCount": 251
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19024_8.jpg", 
+  "title": "Bridge, with Buildings (?Delft)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-buildings-delft-d19024", 
+  "width": "155"
 }

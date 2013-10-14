@@ -1,6 +1,5 @@
 {
   "acno": "P02201", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02201-P02219", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 454 x 514 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Auden Poems Moore Lithographs Portfolio", 
+  "height": "514", 
   "id": 9811, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 64, 
   "subjectCount": 2, 
-  "title": "[portfolio folder]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02201_8.jpg", 
+  "title": "[portfolio folder]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-portfolio-folder-p02201", 
+  "width": "454"
 }

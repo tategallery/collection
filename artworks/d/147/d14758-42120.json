@@ -1,6 +1,5 @@
 {
   "acno": "D14758", 
-  "addlImageCount": 0, 
   "catTextResId": 1138921, 
   "catalogueGroup": {
     "accessionRanges": "D14653-D14832; D40928-D40931", 
@@ -28,17 +27,59 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 110 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVII 54", 
   "foreignTitle": null, 
   "groupTitle": "Ancona to Rome Sketchbook [Finberg CLXXVII]", 
+  "height": "186", 
   "id": 42120, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 109, 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "Terni"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14758_8.jpg", 
+  "title": "Terni", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-terni-d14758", 
+  "width": "110"
 }

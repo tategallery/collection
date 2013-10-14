@@ -1,6 +1,5 @@
 {
   "acno": "T11032", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11015-T11074", 
     "completeStatus": "IRRELEVANT", 
@@ -27,15 +26,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "image: 192 x 264 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "English Scenery", 
+  "height": "264", 
   "id": 25336, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11032_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-title-not-known-t11032", 
+  "width": "192"
 }

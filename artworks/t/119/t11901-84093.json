@@ -1,6 +1,5 @@
 {
   "acno": "T11901", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,45 @@
     "text": "2004"
   }, 
   "dateText": "2004", 
+  "depth": "", 
   "dimensions": "2480 x 2700 x 2540 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2540", 
   "id": 84093, 
-  "images": [
-    {
-      "copyright": "\u00a9 Scott Myles", 
-      "filenameBase": "T11901_283910", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11901_283910_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 101
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11901_283910_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 203
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11901_283910_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 406
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T11/T11901_283910_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1217
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Aluminuim and fabric", 
   "movementCount": 0, 
-  "popularity": 754, 
   "subjectCount": 1, 
-  "title": "After the Mountains, More Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11901_8.jpg", 
+  "title": "After the Mountains, More Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/myles-after-the-mountains-more-mountains-t11901", 
+  "width": "2700"
 }

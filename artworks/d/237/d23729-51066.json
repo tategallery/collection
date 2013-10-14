@@ -1,6 +1,5 @@
 {
   "acno": "D23729", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23699-D23885; D41080-D41081", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "?1829"
   }, 
   "dateText": "?1829", 
+  "depth": "", 
   "dimensions": "support: 156 x 107 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIII 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Tancarville and Lillebonne Sketchbook [Finberg CCLIII]", 
+  "height": "107", 
   "id": 51066, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "Gothic House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic", 
+                "workCount": 987
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23729_8.jpg", 
+  "title": "Gothic House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gothic-house-d23729", 
+  "width": "156"
 }

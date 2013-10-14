@@ -1,6 +1,5 @@
 {
   "acno": "N04384", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "?c.1826"
   }, 
   "dateText": "?c.1826", 
+  "depth": "", 
   "dimensions": "support: 502 x 641 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "641", 
   "id": 4176, 
   "inscription": null, 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 1, 
-  "title": "Study of a Peacock for 'The Judgement of Paris'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2919, 
+                "name": "peacock", 
+                "workCount": 34
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04384_8.jpg", 
+  "title": "Study of a Peacock for 'The Judgement of Paris'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/etty-study-of-a-peacock-for-the-judgement-of-paris-n04384", 
+  "width": "502"
 }

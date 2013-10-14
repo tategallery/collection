@@ -1,6 +1,5 @@
 {
   "acno": "T07860", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "140", 
   "dimensions": "displayed: 2500 x 360 x 140 mm\r\ndisplayed (open case): 200 x 1860 x 385 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Bewegliche Schulterst\u00e4be", 
   "groupTitle": null, 
+  "height": "360", 
   "id": 40, 
   "inscription": null, 
   "medium": "Feathers, wood, fabric and metal", 
@@ -51,7 +51,55 @@
       "workCount": 81
     }
   ], 
-  "popularity": 243, 
   "subjectCount": 2, 
-  "title": "Moveable Shoulder Extensions"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2475, 
+                "name": "clothing", 
+                "workCount": 45
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6460, 
+                "name": "fancy dress / role play", 
+                "workCount": 128
+              }
+            ], 
+            "id": 153, 
+            "name": "fashion, dress: fantasy/fancy", 
+            "workCount": 304
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07860_8.jpg", 
+  "title": "Moveable Shoulder Extensions", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/horn-moveable-shoulder-extensions-t07860", 
+  "width": "2500"
 }

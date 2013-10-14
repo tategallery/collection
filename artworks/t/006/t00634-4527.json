@@ -1,6 +1,5 @@
 {
   "acno": "T00634", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957/62"
   }, 
   "dateText": "1957/62", 
+  "depth": "", 
   "dimensions": "support: 2751 x 4871 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4871", 
   "id": 4527, 
   "inscription": null, 
   "medium": "Oil paint and acrylic paint on canvas", 
@@ -41,7 +41,86 @@
       "workCount": 102
     }
   ], 
-  "popularity": 1548, 
   "subjectCount": 4, 
-  "title": "Around the Blues"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 885, 
+                "name": "aerial view", 
+                "workCount": 34
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural", 
+                "workCount": 539
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00634_8.jpg", 
+  "title": "Around the Blues", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/francis-around-the-blues-t00634", 
+  "width": "2751"
 }

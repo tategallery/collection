@@ -1,6 +1,5 @@
 {
   "acno": "N01985", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,105 @@
     "text": "c.1840-5"
   }, 
   "dateText": "c.1840-5", 
+  "depth": "", 
   "dimensions": "support: 908 x 1219 mm\r\nframe: 1071 x 1377 x 86 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 14823, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 70, 
   "subjectCount": 6, 
-  "title": "Sunrise, a Castle on a Bay: 'Solitude'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay", 
+                "workCount": 404
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise", 
+                "workCount": 138
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01985_8.jpg", 
+  "title": "Sunrise, a Castle on a Bay: 'Solitude'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sunrise-a-castle-on-a-bay-solitude-n01985", 
+  "width": "908"
 }

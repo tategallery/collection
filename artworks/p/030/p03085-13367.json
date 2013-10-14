@@ -1,6 +1,5 @@
 {
   "acno": "P03085", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03083-P03088", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1917"
   }, 
   "dateText": "c.1917", 
+  "depth": "", 
   "dimensions": "image: 362 x 467 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tending the Wounded, from 'Britain's Efforts and Ideals'", 
+  "height": "467", 
   "id": 13367, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,122 @@
       "workCount": 141
     }
   ], 
-  "popularity": 180, 
   "subjectCount": 7, 
-  "title": "On Board a Hospital Transport"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6649, 
+                "name": "deck", 
+                "workCount": 21
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 986, 
+                "name": "wounded", 
+                "workCount": 110
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3023, 
+                "name": "sailor", 
+                "workCount": 86
+              }, 
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03085_8.jpg", 
+  "title": "On Board a Hospital Transport", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/shepperson-on-board-a-hospital-transport-p03085", 
+  "width": "362"
 }

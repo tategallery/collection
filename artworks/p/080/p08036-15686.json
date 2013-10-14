@@ -1,6 +1,5 @@
 {
   "acno": "P08036", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 206 x 149 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "149", 
   "id": 15686, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "P08036_88554", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08036_88554_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 93
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08036_88554_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 186
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08036_88554_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 373
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08036_88554_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1120
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Relief print on paper", 
   "movementCount": 1, 
@@ -85,7 +41,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Do It Yourself II - Dialogues"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8685, 
+                "name": "instructions", 
+                "workCount": 33
+              }, 
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08036_8.jpg", 
+  "title": "Do It Yourself II - Dialogues", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/valoch-do-it-yourself-ii-dialogues-p08036", 
+  "width": "206"
 }

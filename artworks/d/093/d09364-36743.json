@@ -1,6 +1,5 @@
 {
   "acno": "D09364", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1812-13"
   }, 
   "dateText": "c.1812-13", 
+  "depth": "", 
   "dimensions": "support: 158 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXI 130 a", 
   "foreignTitle": null, 
   "groupTitle": "Plymouth, Hamoaze Sketchbook [Finberg CXXXI]", 
+  "height": "93", 
   "id": 36743, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 440, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Group of Houses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09364_8_R.jpg", 
+  "title": "Group of Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-houses-d09364", 
+  "width": "158"
 }

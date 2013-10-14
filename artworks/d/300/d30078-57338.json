@@ -1,6 +1,5 @@
 {
   "acno": "D30078", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30002-D30129; D41222", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIX 41", 
   "foreignTitle": null, 
   "groupTitle": "Trieste, Graz and Danube Sketchbook [Finberg CCXCIX]", 
+  "height": "127", 
   "id": 57338, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 83, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "Sketches of Cliffs, River and Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30078_8.jpg", 
+  "title": "Sketches of Cliffs, River and Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-of-cliffs-river-and-buildings-d30078", 
+  "width": "198"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P78915", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78908-P78915", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "image: 285 x 385 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Kisses and Crosses", 
+  "height": "385", 
   "id": 81056, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 26, 
   "subjectCount": 3, 
-  "title": "Two Crosses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16420, 
+                "name": "cross", 
+                "workCount": 46
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78915_8.jpg", 
+  "title": "Two Crosses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/law-two-crosses-p78915", 
+  "width": "285"
 }

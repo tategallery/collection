@@ -1,6 +1,5 @@
 {
   "acno": "P11280", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1948-51, published 1961"
   }, 
   "dateText": "1948-51, published 1961", 
+  "depth": "", 
   "dimensions": "image: 248 x 198 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Portrait", 
   "groupTitle": null, 
+  "height": "198", 
   "id": 19261, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 138, 
   "subjectCount": 3, 
-  "title": "Portrait"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11280_8.jpg", 
+  "title": "Portrait", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richier-portrait-p11280", 
+  "width": "248"
 }

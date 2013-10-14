@@ -1,6 +1,5 @@
 {
   "acno": "D18489", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18479; D18481; D18483-D18524; D40743", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1810"
   }, 
   "dateText": "c.1810", 
+  "depth": "", 
   "dimensions": "support: 115 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCX a 8", 
   "foreignTitle": null, 
   "groupTitle": "Academy Auditing Sketchbook [Finberg CCX(a)]", 
+  "height": "187", 
   "id": 45842, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "A Figure Lying Down"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18489_8.jpg", 
+  "title": "A Figure Lying Down", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-figure-lying-down-d18489", 
+  "width": "115"
 }

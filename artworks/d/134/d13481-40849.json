@@ -1,6 +1,5 @@
 {
   "acno": "D13481", 
-  "addlImageCount": 0, 
   "catTextResId": 1132026, 
   "catalogueGroup": {
     "accessionRanges": "D13449-D13586; D40934-D40937", 
@@ -28,17 +27,71 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 90 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVI 17", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh, 1818, Sketchbook [Finberg CLXVI]", 
+  "height": "112", 
   "id": 40849, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "Two Sketches of Roslin Castle; and the Continuation of a Sketch of a Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13481_8.jpg", 
+  "title": "Two Sketches of Roslin Castle; and the Continuation of a Sketch of a Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-of-roslin-castle-and-the-continuation-of-a-sketch-of-a-town-d13481", 
+  "width": "90"
 }

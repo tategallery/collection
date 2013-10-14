@@ -1,6 +1,5 @@
 {
   "acno": "AR01124", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1986"
   }, 
   "dateText": "1986", 
+  "depth": "", 
   "dimensions": "Overall displayed dimensions variable", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 104920, 
   "inscription": null, 
   "medium": "Wall text", 
@@ -41,7 +41,74 @@
       "workCount": 478
     }
   ], 
-  "popularity": 682, 
   "subjectCount": 3, 
-  "title": "IDYLLS END IN THUNDERSTORMS"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14461, 
+                "name": "idyll", 
+                "workCount": 39
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01124_8.jpg", 
+  "title": "IDYLLS END IN THUNDERSTORMS", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-idylls-end-in-thunderstorms-ar01124", 
+  "width": "displayed"
 }

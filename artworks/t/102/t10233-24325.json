@@ -1,6 +1,5 @@
 {
   "acno": "T10233", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08461; T10178-T10241; T11663-T11669", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,79 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 75 x 165 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings, Mainly by Flaxman", 
+  "height": "165", 
   "id": 24325, 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 5, 
-  "title": "[title not known] verso: Sketch of Group of Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling", 
+                "workCount": 438
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10233_8.jpg", 
+  "title": "[title not known] verso: Sketch of Group of Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-title-not-known-verso-sketch-of-group-of-figures-t10233", 
+  "width": "75"
 }

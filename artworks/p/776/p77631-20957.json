@@ -1,6 +1,5 @@
 {
   "acno": "P77631", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77629-P77633", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 518 x 662 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies for Holograms (a-e)", 
+  "height": "662", 
   "id": 20957, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,89 @@
       "workCount": 54
     }
   ], 
-  "popularity": 281, 
   "subjectCount": 6, 
-  "title": "c"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16267, 
+                "name": "Nauman, Bruce", 
+                "workCount": 6
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }, 
+              {
+                "id": 6518, 
+                "name": "skin", 
+                "workCount": 13
+              }, 
+              {
+                "id": 4239, 
+                "name": "thumb", 
+                "workCount": 7
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77631_8.jpg", 
+  "title": "c", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nauman-c-p77631", 
+  "width": "518"
 }

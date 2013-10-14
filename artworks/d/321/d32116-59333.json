@@ -1,6 +1,5 @@
 {
   "acno": "D32116", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31929-D31936; D31938-D32053; D32055-D32097; D32099-D32116; D41113-D41114", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 203 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIV 100 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice Sketchbook [Finberg CCCXIV]", 
+  "height": "109", 
   "id": 59333, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 202, 
-  "popularity": 83, 
   "subjectCount": 4, 
-  "title": "Campanile of St Mark's, S. Maurizio, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 6868, 
+                "name": "Venice, San Marco", 
+                "workCount": 71
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower", 
+                "workCount": 177
+              }, 
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32116_8.jpg", 
+  "title": "Campanile of St Mark's, S. Maurizio, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-campanile-of-st-marks-s-maurizio-etc-d32116", 
+  "width": "203"
 }

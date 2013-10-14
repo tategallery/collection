@@ -1,6 +1,5 @@
 {
   "acno": "T01149", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "object: 635 x 305 x 130 mm, 7.3 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 2140, 
   "inscription": null, 
   "medium": "Steel", 
@@ -41,7 +41,48 @@
       "workCount": 85
     }
   ], 
-  "popularity": 167, 
   "subjectCount": 2, 
-  "title": "Twister I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01149_8.jpg", 
+  "title": "Twister I", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/chadwick-twister-i-t01149", 
+  "width": ""
 }

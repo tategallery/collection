@@ -1,6 +1,5 @@
 {
   "acno": "T07010", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1941"
   }, 
   "dateText": "1941", 
+  "depth": "", 
   "dimensions": "support: 217 x 392 mm\r\nframe: 273 x 450 x 25 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "392", 
   "id": 21423, 
   "inscription": null, 
   "medium": "Gouache, oil paint and graphite on paper", 
@@ -51,7 +51,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 668, 
   "subjectCount": 1, 
-  "title": "Drawing for 'Sculpture with Colour' (Forms with Colour)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07010_8.jpg", 
+  "title": "Drawing for 'Sculpture with Colour' (Forms with Colour)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-drawing-for-sculpture-with-colour-forms-with-colour-t07010", 
+  "width": "217"
 }

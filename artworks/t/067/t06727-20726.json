@@ -1,6 +1,5 @@
 {
   "acno": "T06727", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1992"
   }, 
   "dateText": "1992", 
+  "depth": "", 
   "dimensions": "support: 610 x 765 mm\r\nframe: 677 x 828 x 60 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "765", 
   "id": 20726, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,48 @@
       "workCount": 846
     }
   ], 
-  "popularity": 354, 
   "subjectCount": 2, 
-  "title": "Second Glass of Whisky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2247, 
+                "name": "drink, whisky", 
+                "workCount": 2
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06727_8.jpg", 
+  "title": "Second Glass of Whisky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-second-glass-of-whisky-t06727", 
+  "width": "610"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D26859", 
-  "addlImageCount": 0, 
   "catTextResId": 1135216, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
@@ -28,17 +27,76 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 116 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIII 60 a", 
   "foreignTitle": null, 
   "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "height": "186", 
   "id": 54195, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 122, 
-  "popularity": 18, 
   "subjectCount": 4, 
-  "title": "Views North and South From Gallanach Cliffs Near Oban"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26859_8.jpg", 
+  "title": "Views North and South From Gallanach Cliffs Near Oban", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-north-and-south-from-gallanach-cliffs-near-oban-d26859", 
+  "width": "116"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P77499", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77496-P77505", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "image: 598 x 799 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Untitled", 
+  "height": "799", 
   "id": 20224, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
@@ -47,7 +47,55 @@
       "workCount": 140
     }
   ], 
-  "popularity": 243, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77499_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/judd-no-title-p77499", 
+  "width": "598"
 }

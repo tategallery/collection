@@ -1,6 +1,5 @@
 {
   "acno": "A00189", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,59 +17,81 @@
   "creditLine": "Bequeathed by J.R. Holliday 1927", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 146 x 171 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "171", 
   "id": 16588, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "A00189_144848", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A00/A00189_144848_7.jpg", 
-          "height": 107, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A00/A00189_144848_8.jpg", 
-          "height": 215, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A00/A00189_144848_9.jpg", 
-          "height": 430, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A00/A00189_144848_10.jpg", 
-          "height": 1291, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Watercolour and graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 41, 
   "subjectCount": 4, 
-  "title": "Four Figure Studies. Verso: Landscape with Water"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8493, 
+                "name": "bundle", 
+                "workCount": 43
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying", 
+                "workCount": 482
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00189_8.jpg", 
+  "title": "Four Figure Studies. Verso: Landscape with Water", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cox-four-figure-studies-verso-landscape-with-water-a00189", 
+  "width": "146"
 }

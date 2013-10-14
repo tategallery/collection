@@ -1,6 +1,5 @@
 {
   "acno": "D10474", 
-  "addlImageCount": 0, 
   "catTextResId": 1131464, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,47 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 34", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37850, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 79, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Shakespeare Cliff, Dover"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10474_8.jpg", 
+  "title": "Shakespeare Cliff, Dover", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-shakespeare-cliff-dover-d10474", 
+  "width": "155"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D40230", 
-  "addlImageCount": 0, 
   "catTextResId": 1140321, 
   "catalogueGroup": {
     "accessionRanges": "D00189; D00192-D00194; D00898; D40230-D40232", 
@@ -28,16 +27,46 @@
     "text": "1792"
   }, 
   "dateText": "1792", 
+  "depth": "", 
   "dimensions": "support: 136 x 96 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Literary and Other Subjects and Copies", 
+  "height": "96", 
   "id": 63994, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 1, 
-  "title": "Studies of Arms"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40230_8.jpg", 
+  "title": "Studies of Arms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-arms-d40230", 
+  "width": "136"
 }

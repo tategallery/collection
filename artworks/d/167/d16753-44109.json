@@ -1,6 +1,5 @@
 {
   "acno": "D16753", 
-  "addlImageCount": 0, 
   "catTextResId": 1142653, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,52 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 98 x 128 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 62 a", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "128", 
   "id": 44109, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 128, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Two Sketches of a Castle on a Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16753_8.jpg", 
+  "title": "Two Sketches of a Castle on a Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-of-a-castle-on-a-hill-d16753", 
+  "width": "98"
 }

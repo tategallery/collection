@@ -1,6 +1,5 @@
 {
   "acno": "D10381", 
-  "addlImageCount": 0, 
   "catTextResId": 1131609, 
   "catalogueGroup": {
     "accessionRanges": "D10343-D10348; D10350-D10408; D40814; D40834", 
@@ -28,17 +27,90 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 129 x 205 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIX 28", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXXXIX]", 
+  "height": "205", 
   "id": 37757, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 57, 
-  "popularity": 106, 
   "subjectCount": 4, 
-  "title": "Battle Abbey; the Gatehouse and Court House from Abbey Green; and Architectural Details"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8225, 
+                "name": "Battle, Battle Abbey", 
+                "workCount": 15
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East", 
+                "workCount": 382
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10381_8.jpg", 
+  "title": "Battle Abbey; the Gatehouse and Court House from Abbey Green; and Architectural Details", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-battle-abbey-the-gatehouse-and-court-house-from-abbey-green-and-architectural-details-d10381", 
+  "width": "129"
 }

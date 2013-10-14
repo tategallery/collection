@@ -1,6 +1,5 @@
 {
   "acno": "T00136", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,74 @@
     "text": "1948"
   }, 
   "dateText": "1948", 
+  "depth": "", 
   "dimensions": "support: 803 x 648 mm\r\nframe: 928 x 766 x 70 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "648", 
   "id": 13742, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 229, 
   "subjectCount": 4, 
-  "title": "Marathon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety", 
+                "workCount": 137
+              }, 
+              {
+                "id": 1817, 
+                "name": "despair", 
+                "workCount": 52
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00136_8.jpg", 
+  "title": "Marathon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stael-marathon-t00136", 
+  "width": "803"
 }

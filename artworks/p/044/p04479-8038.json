@@ -1,6 +1,5 @@
 {
   "acno": "P04479", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 453 x 338 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "338", 
   "id": 8038, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,36 @@
       "workCount": 377
     }
   ], 
-  "popularity": 18, 
   "subjectCount": 1, 
-  "title": "(25) The Defence of Terrorism"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12374, 
+                "name": "book, Trotsky, Leon 'The Defence of Terrorism'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04479_8.jpg", 
+  "title": "(25) The Defence of Terrorism", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-25-the-defence-of-terrorism-p04479", 
+  "width": "453"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D30700", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30633-D30634; D30636-D30637; D30639-D30668; D30670-D30671; D30673-D30680; D30682-D30684; D30686; D30688-D30723; D30725-D30822; D41225", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,105 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 190 x 118 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIV 37", 
   "foreignTitle": null, 
   "groupTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook [Finberg CCCIV]", 
+  "height": "118", 
   "id": 57942, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 75, 
-  "popularity": 60, 
   "subjectCount": 7, 
-  "title": "Frankfurt: The R\u00f6merberg with the Nikolaikirche (Right) and the Cathedral in the Distance, with Separate Details of Parts of the Nikolaikirche"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14592, 
+                "name": "Frankfurt, Frankfurt Cathedral", 
+                "workCount": 15
+              }, 
+              {
+                "id": 14650, 
+                "name": "Frankfurt, R\u00f6merberg", 
+                "workCount": 1
+              }, 
+              {
+                "id": 14651, 
+                "name": "Frankfurt, St Nicholas's Church", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }, 
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30700_8.jpg", 
+  "title": "Frankfurt: The R\u00f6merberg with the Nikolaikirche (Right) and the Cathedral in the Distance, with Separate Details of Parts of the Nikolaikirche", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-frankfurt-the-romerberg-with-the-nikolaikirche-right-and-the-cathedral-in-the-distance-with-separate-details-of-parts-of-the-nikolaikirche-d30700", 
+  "width": "190"
 }

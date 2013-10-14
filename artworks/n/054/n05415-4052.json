@@ -1,6 +1,5 @@
 {
   "acno": "N05415", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,79 @@
     "text": "1919-20"
   }, 
   "dateText": "1919-20", 
+  "depth": "", 
   "dimensions": "support: 730 x 921 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Nature morte au chou", 
   "groupTitle": null, 
+  "height": "921", 
   "id": 4052, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 178, 
   "subjectCount": 5, 
-  "title": "Still Life with a Cabbage"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread", 
+                "workCount": 33
+              }, 
+              {
+                "id": 2233, 
+                "name": "vegetable, cabbage", 
+                "workCount": 8
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth", 
+                "workCount": 44
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05415_8.jpg", 
+  "title": "Still Life with a Cabbage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dunoyer-de-segonzac-still-life-with-a-cabbage-n05415", 
+  "width": "730"
 }

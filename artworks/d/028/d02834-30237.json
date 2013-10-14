@@ -1,6 +1,5 @@
 {
   "acno": "D02834", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02811-D02926; D40729-D40730", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 197 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "LV 18", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg LV]", 
+  "height": "127", 
   "id": 30237, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 39, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Trees and a Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02834_8.jpg", 
+  "title": "Trees and a Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-and-a-bridge-d02834", 
+  "width": "197"
 }

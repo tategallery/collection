@@ -1,6 +1,5 @@
 {
   "acno": "D22872", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22779-D22904; D41061-D41062", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1828-30"
   }, 
   "dateText": "c.1828-30", 
+  "depth": "", 
   "dimensions": "support: 68 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLV 54 a", 
   "foreignTitle": null, 
   "groupTitle": "Arundel and Shoreham Sketchbook [Finberg CCXLV]", 
+  "height": "110", 
   "id": 50209, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 110, 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "Portrait of a Lady"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22872_8_R.jpg", 
+  "title": "Portrait of a Lady", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-portrait-of-a-lady-d22872", 
+  "width": "68"
 }

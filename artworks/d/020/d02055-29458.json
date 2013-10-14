@@ -1,6 +1,5 @@
 {
   "acno": "D02055", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01993-D02177; D40765-D40771", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1799-1800"
   }, 
   "dateText": "1799-1800", 
+  "depth": "", 
   "dimensions": "support: 131 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "XLVI 41 a", 
   "foreignTitle": null, 
   "groupTitle": "Dolbadarn Sketchbook [Finberg XLVI]", 
+  "height": "78", 
   "id": 29458, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 86, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "A Sailing Barge Laden with Cargo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02055_8.jpg", 
+  "title": "A Sailing Barge Laden with Cargo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sailing-barge-laden-with-cargo-d02055", 
+  "width": "131"
 }

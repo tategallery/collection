@@ -1,6 +1,5 @@
 {
   "acno": "D32027", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31929-D31936; D31938-D32053; D32055-D32097; D32099-D32116; D41113-D41114", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 203 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIV 52", 
   "foreignTitle": null, 
   "groupTitle": "Venice Sketchbook [Finberg CCCXIV]", 
+  "height": "109", 
   "id": 59246, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 105, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "The Entrance to the Arsenale, with One of the Lion Statues; the Rialto Bridge, with the Campanile of San Bartolomeo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32027_8.jpg", 
+  "title": "The Entrance to the Arsenale, with One of the Lion Statues; the Rialto Bridge, with the Campanile of San Bartolomeo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-entrance-to-the-arsenale-with-one-of-the-lion-statues-the-rialto-bridge-with-the-campanile-of-san-bartolomeo-d32027", 
+  "width": "203"
 }

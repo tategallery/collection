@@ -1,6 +1,5 @@
 {
   "acno": "D05464", 
-  "addlImageCount": 0, 
   "catTextResId": 1139274, 
   "catalogueGroup": {
     "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
@@ -28,17 +27,59 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 114 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIX 16", 
   "foreignTitle": null, 
   "groupTitle": "Nelson Sketchbook [Finberg LXXXIX]", 
+  "height": "184", 
   "id": 32856, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 53, 
   "subjectCount": 2, 
-  "title": "Five Sketches of a Man's Face in Profile to Left"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05464_8.jpg", 
+  "title": "Five Sketches of a Man's Face in Profile to Left", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-five-sketches-of-a-mans-face-in-profile-to-left-d05464", 
+  "width": "114"
 }

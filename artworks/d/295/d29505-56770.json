@@ -1,6 +1,5 @@
 {
   "acno": "D29505", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29379-D29418; D29420-D29436; D29438-D29516; D29518-D29551; D29553-D29586; D29588-D29593; D41098", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1835-40"
   }, 
   "dateText": "c.1835-40", 
+  "depth": "", 
   "dimensions": "support: 146 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCV 65 a", 
   "foreignTitle": null, 
   "groupTitle": "Genoa to Grenoble Sketchbook [Finberg CCXCV]", 
+  "height": "103", 
   "id": 56770, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 134, 
-  "popularity": 28, 
   "subjectCount": 3, 
-  "title": "Nice"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 2872, 
+                "name": "Nice - non-specific", 
+                "workCount": 20
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29505_8.jpg", 
+  "title": "Nice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-nice-d29505", 
+  "width": "146"
 }

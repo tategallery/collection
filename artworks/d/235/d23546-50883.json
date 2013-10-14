@@ -1,6 +1,5 @@
 {
   "acno": "D23546", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23525-D23698; D41074-D41076", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "?1832"
   }, 
   "dateText": "?1832", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLII 15", 
   "foreignTitle": null, 
   "groupTitle": "Guernsey Sketchbook [Finberg CCLII]", 
+  "height": "187", 
   "id": 50883, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Road over Rocks"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23546_8_R.jpg", 
+  "title": "Road over Rocks", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-road-over-rocks-d23546", 
+  "width": "114"
 }

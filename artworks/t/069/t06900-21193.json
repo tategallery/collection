@@ -1,6 +1,5 @@
 {
   "acno": "T06900", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "support: 1977 x 1523 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1523", 
   "id": 21193, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,65 @@
       "workCount": 409
     }
   ], 
-  "popularity": 142, 
   "subjectCount": 4, 
-  "title": "Feeding Dog"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06900_8.jpg", 
+  "title": "Feeding Dog", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/weschke-feeding-dog-t06900", 
+  "width": "1977"
 }

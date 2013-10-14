@@ -1,6 +1,5 @@
 {
   "acno": "D22374", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 78 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXL 28 a", 
   "foreignTitle": null, 
   "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "height": "108", 
   "id": 49712, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 58, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Mansion, with Lake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22374_8_R.jpg", 
+  "title": "Mansion, with Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mansion-with-lake-d22374", 
+  "width": "78"
 }

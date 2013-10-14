@@ -1,6 +1,5 @@
 {
   "acno": "T11871", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "20", 
   "dimensions": "support: 800 x 599 x 20 mm\r\n", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "599", 
   "id": 83519, 
   "inscription": null, 
   "medium": "Polyvinyl acetate paint and cards on canvas", 
@@ -44,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 955, 
   "subjectCount": 1, 
-  "title": "Monochrome White Painting"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11871_8.jpg", 
+  "title": "Monochrome White Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/li-monochrome-white-painting-t11871", 
+  "width": "800"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D35244", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35240-D35261; D40442", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,96 @@
     "text": "c.1845"
   }, 
   "dateText": "c.1845", 
+  "depth": "", 
   "dimensions": "support: 221 x 332 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLIII 5", 
   "foreignTitle": null, 
   "groupTitle": "The Whalers Sketchbook [Finberg CCCLIII]", 
+  "height": "332", 
   "id": 62372, 
   "inscription": null, 
   "medium": "Chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "A Steamer Leaving Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3219, 
+                "name": "boat, steam", 
+                "workCount": 133
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse", 
+                "workCount": 278
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35244_8.jpg", 
+  "title": "A Steamer Leaving Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-steamer-leaving-harbour-d35244", 
+  "width": "221"
 }

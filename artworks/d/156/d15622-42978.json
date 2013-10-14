@@ -1,6 +1,5 @@
 {
   "acno": "D15622", 
-  "addlImageCount": 0, 
   "catTextResId": 1138084, 
   "catalogueGroup": {
     "accessionRanges": "D15555-D15693; D15695-D15738; D40945-D40947", 
@@ -28,17 +27,78 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 122 x 197 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXIV 33 a", 
   "foreignTitle": null, 
   "groupTitle": "Gandolfo to Naples Sketchbook [Finberg CLXXXIV]", 
+  "height": "197", 
   "id": 42978, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 44, 
   "subjectCount": 3, 
-  "title": "Capua; and Part of a View of Lake Avernus, Looking towards Cape Misenum"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3879, 
+                "name": "Capua", 
+                "workCount": 11
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15622_8.jpg", 
+  "title": "Capua; and Part of a View of Lake Avernus, Looking towards Cape Misenum", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-capua-and-part-of-a-view-of-lake-avernus-looking-towards-cape-misenum-d15622", 
+  "width": "122"
 }

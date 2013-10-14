@@ -1,6 +1,5 @@
 {
   "acno": "P07202", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1934"
   }, 
   "dateText": "1934", 
+  "depth": "", 
   "dimensions": "image: 159 x 203 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "203", 
   "id": 10674, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
@@ -41,7 +41,41 @@
       "workCount": 33
     }
   ], 
-  "popularity": 386, 
   "subjectCount": 2, 
-  "title": "abstract"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07202_8.jpg", 
+  "title": "abstract", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-abstract-p07202", 
+  "width": "159"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D23447", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 133 x 91 mm", 
-  "displayLocation": null, 
   "finberg": "CCL 58", 
   "foreignTitle": null, 
   "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "height": "91", 
   "id": 50784, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 117, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }, 
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23447_8.jpg", 
+  "title": "Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-d23447", 
+  "width": "133"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T02751", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T02415-T03024; T03239-T03240", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,103 @@
     "text": null
   }, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 162 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
   "id": 3346, 
   "inscription": null, 
   "medium": "Aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 7, 
-  "title": "View on Puffin Island, near Anglesea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8243, 
+                "name": "Anglesey", 
+                "workCount": 21
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1979, 
+                "name": "puffin", 
+                "workCount": 3
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02751_8.jpg", 
+  "title": "View on Puffin Island, near Anglesea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-view-on-puffin-island-near-anglesea-t02751", 
+  "width": "162"
 }

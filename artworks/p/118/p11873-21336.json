@@ -1,6 +1,5 @@
 {
   "acno": "P11873", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11873-P11876", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1989-90"
   }, 
   "dateText": "1989-90", 
+  "depth": "", 
   "dimensions": "image: 206 x 167 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Quartet", 
+  "height": "167", 
   "id": 21336, 
   "inscription": "date inscribed", 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "Bird"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11873_8.jpg", 
+  "title": "Bird", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murray-bird-p11873", 
+  "width": "206"
 }

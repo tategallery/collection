@@ -1,6 +1,5 @@
 {
   "acno": "AR00074", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "2002"
   }, 
   "dateText": "2002", 
+  "depth": "", 
   "dimensions": "object: 530 x 398 x 98mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "398", 
   "id": 98225, 
   "inscription": null, 
   "medium": "5 knives, 2 trains, metal and glass box", 
   "movementCount": 0, 
-  "popularity": 182, 
   "subjectCount": 4, 
-  "title": "Untitled (Knife and Train)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11100, 
+                "name": "knife", 
+                "workCount": 3
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 1653, 
+                "name": "train", 
+                "workCount": 3
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models", 
+            "workCount": 246
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow", 
+                "workCount": 574
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00074_8.jpg", 
+  "title": "Untitled (Knife and Train)", 
+  "units": "98mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-knife-and-train-ar00074", 
+  "width": "530"
 }

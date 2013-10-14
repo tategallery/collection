@@ -1,6 +1,5 @@
 {
   "acno": "D07918", 
-  "addlImageCount": 0, 
   "catTextResId": 1135874, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,59 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 83 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 44", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "114", 
   "id": 35307, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 48, 
   "subjectCount": 2, 
-  "title": "The Foot of a Reclining Female Nude"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1077, 
+                "name": "foot", 
+                "workCount": 38
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07918_8_R.jpg", 
+  "title": "The Foot of a Reclining Female Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-foot-of-a-reclining-female-nude-d07918", 
+  "width": "83"
 }

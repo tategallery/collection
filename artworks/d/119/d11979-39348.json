@@ -1,6 +1,5 @@
 {
   "acno": "D11979", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11974-D11994; D40712-D40714", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 180 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CLII 5", 
   "foreignTitle": null, 
   "groupTitle": "The Aqueduct Sketchbook [Finberg CLII]", 
+  "height": "117", 
   "id": 39348, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Mill Race [Turner] near a Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11979_8_R.jpg", 
+  "title": "Mill Race [Turner] near a Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mill-race-turner-near-a-bridge-d11979", 
+  "width": "180"
 }

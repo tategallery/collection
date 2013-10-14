@@ -1,6 +1,5 @@
 {
   "acno": "P06250", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968-9"
   }, 
   "dateText": "1968-9", 
+  "depth": "", 
   "dimensions": "image: 587 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 6004, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 74, 
   "subjectCount": 2, 
-  "title": "Three Forms Assembling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06250_8.jpg", 
+  "title": "Three Forms Assembling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-three-forms-assembling-p06250", 
+  "width": "587"
 }

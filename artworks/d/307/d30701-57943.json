@@ -1,6 +1,5 @@
 {
   "acno": "D30701", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30633-D30634; D30636-D30637; D30639-D30668; D30670-D30671; D30673-D30680; D30682-D30684; D30686; D30688-D30723; D30725-D30822; D41225", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 190 x 118 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIV 37 a", 
   "foreignTitle": null, 
   "groupTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook [Finberg CCCIV]", 
+  "height": "118", 
   "id": 57943, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 76, 
-  "popularity": 99, 
   "subjectCount": 4, 
-  "title": "Frankfurt: The Fahrtor"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14656, 
+                "name": "Frankfurt, Fahrtor", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30701_8.jpg", 
+  "title": "Frankfurt: The Fahrtor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-frankfurt-the-fahrtor-d30701", 
+  "width": "190"
 }

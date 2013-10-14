@@ -1,6 +1,5 @@
 {
   "acno": "T02215", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1932"
   }, 
   "dateText": "1932", 
+  "depth": "", 
   "dimensions": "support: 781 x 1111 mm\r\nframe: 940 x 1270 x 60 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1111", 
   "id": 6498, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,60 @@
       "workCount": 13
     }
   ], 
-  "popularity": 463, 
   "subjectCount": 3, 
-  "title": "Autumn Composition, Flowers on a Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02215_8.jpg", 
+  "title": "Autumn Composition, Flowers on a Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hitchens-autumn-composition-flowers-on-a-table-t02215", 
+  "width": "781"
 }

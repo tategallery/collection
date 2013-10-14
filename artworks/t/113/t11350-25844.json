@@ -1,6 +1,5 @@
 {
   "acno": "T11350", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T10822; T11290-T11379", 
     "completeStatus": "IRRELEVANT", 
@@ -27,10 +26,11 @@
     "text": "1637"
   }, 
   "dateText": "1637", 
+  "depth": "", 
   "dimensions": "image: 255 x 183 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Miscellaneous Etchings", 
+  "height": "183", 
   "id": 25844, 
   "inscription": "date inscribed", 
   "medium": "Engraving on paper", 
@@ -47,7 +47,94 @@
       "workCount": 28
     }
   ], 
-  "popularity": 88, 
   "subjectCount": 7, 
-  "title": "Pierre Davity Sr de Montmartin Gentilhomme Ordinaire de la Chambre du Roy. Ag\u00e9 de 45 ans 1617"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour", 
+                "workCount": 106
+              }, 
+              {
+                "id": 1890, 
+                "name": "ruff", 
+                "workCount": 14
+              }, 
+              {
+                "id": 6477, 
+                "name": "sash", 
+                "workCount": 11
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }, 
+              {
+                "id": 2465, 
+                "name": "moustache", 
+                "workCount": 33
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 11416, 
+                "name": "d'Avity, Pierre", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11350_8.jpg", 
+  "title": "Pierre Davity Sr de Montmartin Gentilhomme Ordinaire de la Chambre du Roy. Ag\u00e9 de 45 ans 1617", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/british-school-pierre-davity-sr-de-montmartin-gentilhomme-ordinaire-de-la-chambre-du-roy-age-de-45-ans-1617-t11350", 
+  "width": "255"
 }

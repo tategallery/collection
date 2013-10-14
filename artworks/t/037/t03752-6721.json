@@ -1,6 +1,5 @@
 {
   "acno": "T03752", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "314", 
   "dimensions": "object: 172 x 172 x 314 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "172", 
   "id": 6721, 
   "inscription": null, 
   "medium": "Iron", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Black Beetle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13030, 
+                "name": "beetle", 
+                "workCount": 9
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03752_8.jpg", 
+  "title": "Black Beetle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoskin-black-beetle-t03752", 
+  "width": "172"
 }

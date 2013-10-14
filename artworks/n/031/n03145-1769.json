@@ -1,6 +1,5 @@
 {
   "acno": "N03145", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1870"
   }, 
   "dateText": "1870", 
+  "depth": "", 
   "dimensions": "support: 210 x 192 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "192", 
   "id": 1769, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 73, 
   "subjectCount": 2, 
-  "title": "Study of a Girl's Head for 'The Mill'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03145_8.jpg", 
+  "title": "Study of a Girl's Head for 'The Mill'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-girls-head-for-the-mill-n03145", 
+  "width": "210"
 }

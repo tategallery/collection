@@ -1,6 +1,5 @@
 {
   "acno": "D16659", 
-  "addlImageCount": 0, 
   "catTextResId": 1142558, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,71 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 98 x 128 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 10", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "128", 
   "id": 44015, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "The Crossing and Dome of the Duomo, Parma"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2943, 
+                "name": "cathedral", 
+                "workCount": 65
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16659_8.jpg", 
+  "title": "The Crossing and Dome of the Duomo, Parma", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-crossing-and-dome-of-the-duomo-parma-d16659", 
+  "width": "98"
 }

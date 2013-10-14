@@ -1,6 +1,5 @@
 {
   "acno": "D02243", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02243-D02341; D40772-D40774", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 150 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "XLIX 1", 
   "foreignTitle": null, 
   "groupTitle": "Salisbury Sketchbook [Finberg XLIX]", 
+  "height": "123", 
   "id": 29646, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 35, 
   "subjectCount": 2, 
-  "title": "Three Flights of Geese"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 907, 
+                "name": "flying", 
+                "workCount": 102
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 2765, 
+                "name": "goose", 
+                "workCount": 23
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02243_8.jpg", 
+  "title": "Three Flights of Geese", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-flights-of-geese-d02243", 
+  "width": "150"
 }

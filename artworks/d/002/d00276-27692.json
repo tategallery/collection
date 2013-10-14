@@ -1,6 +1,5 @@
 {
   "acno": "D00276", 
-  "addlImageCount": 0, 
   "catTextResId": 1140669, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,85 @@
     "text": "1794"
   }, 
   "dateText": "1794", 
+  "depth": "", 
   "dimensions": "support: 99 x 152 mm", 
-  "displayLocation": null, 
   "finberg": "XX 15", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "152", 
   "id": 27692, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 47, 
   "subjectCount": 3, 
-  "title": "Fairground Caravans and Placards"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3695, 
+                "name": "caravan", 
+                "workCount": 6
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5598, 
+                "name": "fair", 
+                "workCount": 41
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00276_8.jpg", 
+  "title": "Fairground Caravans and Placards", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fairground-caravans-and-placards-d00276", 
+  "width": "99"
 }

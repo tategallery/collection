@@ -1,6 +1,5 @@
 {
   "acno": "P02630", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02629-P02637", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,95 @@
     "text": "1977-8"
   }, 
   "dateText": "1977-8", 
+  "depth": "", 
   "dimensions": "image: 229 x 305 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Reclining Figure", 
+  "height": "305", 
   "id": 9999, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 40, 
   "subjectCount": 4, 
-  "title": "Reclining Figure 1"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02630_8.jpg", 
+  "title": "Reclining Figure 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-reclining-figure-1-p02630", 
+  "width": "229"
 }

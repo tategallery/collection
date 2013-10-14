@@ -1,6 +1,5 @@
 {
   "acno": "T00011", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1852"
   }, 
   "dateText": "1852", 
+  "depth": "", 
   "dimensions": "support: 521 x 705 mm\r\nframe: 736 x 910 x 88 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "705", 
   "id": 9356, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,263 @@
       "workCount": 125
     }
   ], 
-  "popularity": 611, 
   "subjectCount": 17, 
-  "title": "Kit's Writing Lesson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4754, 
+                "name": "Dickens, Charles 'The Old Curiosity Shop'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour", 
+                "workCount": 106
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 6849, 
+                "name": "cage", 
+                "workCount": 37
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 928, 
+                "name": "inkstand", 
+                "workCount": 18
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 13399, 
+                "name": "ornament", 
+                "workCount": 26
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 10115, 
+                "name": "thread", 
+                "workCount": 4
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12609, 
+                "name": "education", 
+                "workCount": 40
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2799, 
+                "name": "sewing", 
+                "workCount": 24
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic", 
+            "workCount": 438
+          }, 
+          {
+            "children": [
+              {
+                "id": 7268, 
+                "name": "student", 
+                "workCount": 88
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific", 
+            "workCount": 173
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1840, 
+                "name": "shop", 
+                "workCount": 24
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2798, 
+                "name": "writing", 
+                "workCount": 50
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00011_8.jpg", 
+  "title": "Kit's Writing Lesson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martineau-kits-writing-lesson-t00011", 
+  "width": "521"
 }

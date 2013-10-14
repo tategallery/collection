@@ -1,6 +1,5 @@
 {
   "acno": "D23227", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23151-D23245; D40689-D40690", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 170 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLVIII 39 a", 
   "foreignTitle": null, 
   "groupTitle": "Nantes, Angers and Saumur Sketchbook [Finberg CCXLVIII]", 
+  "height": "110", 
   "id": 50564, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 105, 
   "subjectCount": 4, 
-  "title": "Angers: Maison d'Adam"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8772, 
+                "name": "Angers - non specific", 
+                "workCount": 24
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23227_8.jpg", 
+  "title": "Angers: Maison d'Adam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-angers-maison-dadam-d23227", 
+  "width": "170"
 }

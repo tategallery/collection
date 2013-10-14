@@ -1,6 +1,5 @@
 {
   "acno": "T01695", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,58 +20,12 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "222", 
   "dimensions": "object: 349 x 324 x 222 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "324", 
   "id": 887, 
-  "images": [
-    {
-      "copyright": "\u00a9 Larry Bell", 
-      "filenameBase": "T01695_36288", 
-      "sizes": [
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T01/T01695_36288_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 99
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T01/T01695_36288_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 199
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T01/T01695_36288_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 399
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "T/T01/T01695_36288_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1199
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Glass and wood", 
   "movementCount": 1, 
@@ -88,7 +41,60 @@
       "workCount": 140
     }
   ], 
-  "popularity": 349, 
   "subjectCount": 3, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01695_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bell-untitled-t01695", 
+  "width": "349"
 }

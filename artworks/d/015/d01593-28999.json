@@ -1,6 +1,5 @@
 {
   "acno": "D01593", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01461-D01624; D01626-D01628; D40752; D41422-D41423; D41434-D41435; D41451-D41452", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 131 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "XL 77 a", 
   "foreignTitle": null, 
   "groupTitle": "Dynevor Castle Sketchbook [Finberg XL]", 
+  "height": "95", 
   "id": 28999, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 162, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Boats on the Bend of a River with Wooded Bank; ?A Castle Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01593_8.jpg", 
+  "title": "Boats on the Bend of a River with Wooded Bank; ?A Castle Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boats-on-the-bend-of-a-river-with-wooded-bank-a-castle-beyond-d01593", 
+  "width": "131"
 }

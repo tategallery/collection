@@ -1,6 +1,5 @@
 {
   "acno": "D26802", 
-  "addlImageCount": 0, 
   "catTextResId": 1135160, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
@@ -28,17 +27,66 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 186 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIII 32", 
   "foreignTitle": null, 
   "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "height": "116", 
   "id": 54139, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 65, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "?Castle Stalker"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26802_8.jpg", 
+  "title": "?Castle Stalker", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-stalker-d26802", 
+  "width": "186"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "AR00027", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "75", 
   "dimensions": "support: 2300 x 2048 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Abstraktes Bild (809-3)", 
   "groupTitle": null, 
+  "height": "2048", 
   "id": 98385, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 4152, 
   "subjectCount": 3, 
-  "title": "Abstract Painting (809-3)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur", 
+                "workCount": 94
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00027_8.jpg", 
+  "title": "Abstract Painting (809-3)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richter-abstract-painting-809-3-ar00027", 
+  "width": "2300"
 }

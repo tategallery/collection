@@ -1,6 +1,5 @@
 {
   "acno": "N06199", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "support: 1949 x 1302 mm\r\nframe: 1986 x 1331 x 50 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Peinture, 23 mai 1953", 
   "groupTitle": null, 
+  "height": "1302", 
   "id": 13652, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,36 @@
       "workCount": 39
     }
   ], 
-  "popularity": 622, 
   "subjectCount": 1, 
-  "title": "Painting, 23 May 1953"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06199_8.jpg", 
+  "title": "Painting, 23 May 1953", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/soulages-painting-23-may-1953-n06199", 
+  "width": "1949"
 }

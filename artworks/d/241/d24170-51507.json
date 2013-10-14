@@ -1,6 +1,5 @@
 {
   "acno": "D24170", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24168-D24499; D40603-D40604; D40622-D40623", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 175 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVII 2", 
   "foreignTitle": null, 
   "groupTitle": "Paris and Environs Sketchbook [Finberg CCLVII]", 
+  "height": "127", 
   "id": 51507, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Building, with Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture", 
+                "workCount": 386
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24170_8.jpg", 
+  "title": "Building, with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-building-with-figures-d24170", 
+  "width": "175"
 }

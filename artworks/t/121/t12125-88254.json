@@ -1,6 +1,5 @@
 {
   "acno": "T12125", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965-70"
   }, 
   "dateText": "1965-70", 
+  "depth": "130", 
   "dimensions": "object: 200 x 130 x 130 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "130", 
   "id": 88254, 
   "inscription": null, 
   "medium": "Reduced stoneware", 
@@ -41,7 +41,48 @@
       "workCount": 409
     }
   ], 
-  "popularity": 40, 
   "subjectCount": 2, 
-  "title": "Upright vase"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics", 
+                "workCount": 73
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12125_8.jpg", 
+  "title": "Upright vase", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-upright-vase-t12125", 
+  "width": "200"
 }

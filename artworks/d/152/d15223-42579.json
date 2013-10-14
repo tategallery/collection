@@ -1,6 +1,5 @@
 {
   "acno": "D15223", 
-  "addlImageCount": 0, 
   "catTextResId": 1139635, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,78 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 63", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42579, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 129, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Studies of Italian Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1977, 
+                "name": "mask", 
+                "workCount": 133
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15223_8.jpg", 
+  "title": "Studies of Italian Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-italian-figures-d15223", 
+  "width": "161"
 }

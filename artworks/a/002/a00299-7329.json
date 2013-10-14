@@ -1,6 +1,5 @@
 {
   "acno": "A00299", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": null, 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,67 @@
   "creditLine": "Presented by the artist's widow 1888", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": null, 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
   "id": 7329, 
   "inscription": null, 
   "medium": "Ink on paper", 
   "movementCount": 0, 
-  "popularity": 14, 
   "subjectCount": 4, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00299_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a00299", 
+  "width": ""
 }

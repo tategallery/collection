@@ -1,6 +1,5 @@
 {
   "acno": "P06761", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06632-P06633; P06722; P06761-P06769", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,93 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "image: 505 x 715 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Twelve Months of the Year", 
+  "height": "715", 
   "id": 1560, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 143, 
   "subjectCount": 5, 
-  "title": "APRIL Showers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn", 
+                "workCount": 52
+              }, 
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring", 
+                "workCount": 49
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06761_8.jpg", 
+  "title": "APRIL Showers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brook-april-showers-p06761", 
+  "width": "505"
 }

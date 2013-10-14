@@ -1,6 +1,5 @@
 {
   "acno": "D19589", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18471-D18476; D19552-D19775; D19778-D19946; D19948-D20083; D40727-D40728", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1824"
   }, 
   "dateText": "1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "CCXVI 19 a", 
   "foreignTitle": null, 
   "groupTitle": "Rivers Meuse and Moselle Sketchbook [Finberg CCXVI]", 
+  "height": "78", 
   "id": 46942, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 42, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Twin-Spired Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19589_8.jpg", 
+  "title": "Twin-Spired Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-twin-spired-church-d19589", 
+  "width": "118"
 }

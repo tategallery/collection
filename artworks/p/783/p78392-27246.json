@@ -1,6 +1,5 @@
 {
   "acno": "P78392", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78388-P78407", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "unconfirmed: 200 x 129 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cubitt Print Box", 
+  "height": "129", 
   "id": 27246, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Despair"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement", 
+                "workCount": 166
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 1817, 
+                "name": "despair", 
+                "workCount": 52
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78392_8.jpg", 
+  "title": "Despair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/higgs-despair-p78392", 
+  "width": "200"
 }

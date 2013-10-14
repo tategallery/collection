@@ -1,6 +1,5 @@
 {
   "acno": "D12929", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12884-D12992; D41392-D41396", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 202 x 265 mm", 
-  "displayLocation": null, 
   "finberg": "CLXI 26 b", 
   "foreignTitle": null, 
   "groupTitle": "Rhine Sketchbook [Finberg CLXI]", 
+  "height": "265", 
   "id": 40297, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 13, 
   "subjectCount": 5, 
-  "title": "Burg Katz and St Goarhausen from the Riverside Road by the Landing-Stage at St Goar, with a Fishing Boat in the Foreground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12929_8.jpg", 
+  "title": "Burg Katz and St Goarhausen from the Riverside Road by the Landing-Stage at St Goar, with a Fishing Boat in the Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-burg-katz-and-st-goarhausen-from-the-riverside-road-by-the-landing-stage-at-st-goar-with-a-fishing-boat-in-the-foreground-d12929", 
+  "width": "202"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T05818", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1939"
   }, 
   "dateText": "1939", 
+  "depth": "230", 
   "dimensions": "object: 420 x 340 x 230 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "340", 
   "id": 19279, 
   "inscription": null, 
   "medium": "Terracotta, horn, bone and shells", 
@@ -41,7 +41,67 @@
       "workCount": 75
     }
   ], 
-  "popularity": 542, 
   "subjectCount": 3, 
-  "title": "Marine Object"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar", 
+                "workCount": 92
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6004, 
+                "name": "shell", 
+                "workCount": 46
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }, 
+          {
+            "children": [
+              {
+                "id": 5252, 
+                "name": "starfish", 
+                "workCount": 8
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05818_8.jpg", 
+  "title": "Marine Object", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/agar-marine-object-t05818", 
+  "width": "420"
 }

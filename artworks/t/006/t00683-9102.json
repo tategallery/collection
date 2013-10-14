@@ -1,6 +1,5 @@
 {
   "acno": "T00683", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "220", 
   "dimensions": "support: 578 x 571 x 220 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "571", 
   "id": 9102, 
   "inscription": "date inscribed", 
   "medium": "Aluminium, glass, wood and motor", 
@@ -41,7 +41,65 @@
       "workCount": 26
     }
   ], 
-  "popularity": 346, 
   "subjectCount": 4, 
-  "title": "Light Dynamo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light", 
+                "workCount": 87
+              }, 
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 6741, 
+                "name": "visual illusion", 
+                "workCount": 99
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00683_8.jpg", 
+  "title": "Light Dynamo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mack-light-dynamo-t00683", 
+  "width": "578"
 }

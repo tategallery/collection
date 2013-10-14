@@ -1,6 +1,5 @@
 {
   "acno": "A01171", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1861"
   }, 
   "dateText": "1861", 
+  "depth": "", 
   "dimensions": "support: 254 x 133 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "133", 
   "id": 1756, 
   "inscription": "date inscribed", 
   "medium": "Graphite and watercolour on fabric", 
@@ -41,7 +41,105 @@
       "workCount": 405
     }
   ], 
-  "popularity": 63, 
   "subjectCount": 5, 
-  "title": "Thisbe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12706, 
+                "name": "Thisbe", 
+                "workCount": 1
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes", 
+            "workCount": 526
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 619, 
+                "name": "sword", 
+                "workCount": 215
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall", 
+                "workCount": 60
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01171_8.jpg", 
+  "title": "Thisbe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-thisbe-a01171", 
+  "width": "254"
 }

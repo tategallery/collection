@@ -1,6 +1,5 @@
 {
   "acno": "D25700", 
-  "addlImageCount": 0, 
   "catTextResId": 1134064, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,47 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 96 x 59 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXV 32 a", 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "59", 
   "id": 53037, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 66, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Two Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25700_8_R.jpg", 
+  "title": "Two Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-figures-d25700", 
+  "width": "96"
 }

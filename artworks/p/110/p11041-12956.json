@@ -1,6 +1,5 @@
 {
   "acno": "P11041", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11033-P11044", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1897"
   }, 
   "dateText": "1897", 
+  "depth": "", 
   "dimensions": "image: 136 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "English Portraits", 
+  "height": "152", 
   "id": 12956, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 3, 
-  "title": "Mrs Meynell [Part IX]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17148, 
+                "name": "Meynell, Mrs", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author", 
+                "workCount": 95
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11041_8.jpg", 
+  "title": "Mrs Meynell [Part IX]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenstein-mrs-meynell-part-ix-p11041", 
+  "width": "136"
 }

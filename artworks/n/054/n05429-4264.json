@@ -1,6 +1,5 @@
 {
   "acno": "N05429", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,83 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 838 x 1048 mm\r\nframe: 999 x 1227 x 85 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1048", 
   "id": 4264, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 3, 
-  "title": "The Bay Horse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1185, 
+                "name": "broom", 
+                "workCount": 46
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2621, 
+                "name": "stable", 
+                "workCount": 23
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05429_8.jpg", 
+  "title": "The Bay Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ferneley-the-bay-horse-n05429", 
+  "width": "838"
 }

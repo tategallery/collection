@@ -1,6 +1,5 @@
 {
   "acno": "D02794", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 115 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "LIV 107 a", 
   "foreignTitle": null, 
   "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "height": "162", 
   "id": 30197, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 218, 
-  "popularity": 19, 
   "subjectCount": 1, 
-  "title": "Study of a Cart without Wheels; or a Haysledge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02794_8.jpg", 
+  "title": "Study of a Cart without Wheels; or a Haysledge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-cart-without-wheels-or-a-haysledge-d02794", 
+  "width": "115"
 }

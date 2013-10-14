@@ -1,6 +1,5 @@
 {
   "acno": "D21151", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21133-D21270; D41068-D41069", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1828"
   }, 
   "dateText": "c.1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXI 10", 
   "foreignTitle": null, 
   "groupTitle": "Marseilles to Genoa Sketchbook [Finberg CCXXXI]", 
+  "height": "113", 
   "id": 48494, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "?Lake, with Mountains and Castle. ?St Prosper [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21151_8_R.jpg", 
+  "title": "?Lake, with Mountains and Castle. ?St Prosper [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-with-mountains-and-castle-st-prosper-turner-d21151", 
+  "width": "179"
 }

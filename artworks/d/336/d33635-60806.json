@@ -1,6 +1,5 @@
 {
   "acno": "D33635", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33633-D33652; D40430-D40431", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,94 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 231 x 331 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVIII 3", 
   "foreignTitle": null, 
   "groupTitle": "Como and Splugen Sketchbook [Finberg CCCXXXVIII]", 
+  "height": "331", 
   "id": 60806, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 95, 
   "subjectCount": 5, 
-  "title": "Lake Como"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 6594, 
+                "name": "Lake Como", 
+                "workCount": 46
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33635_8.jpg", 
+  "title": "Lake Como", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-como-d33635", 
+  "width": "231"
 }

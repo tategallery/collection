@@ -1,6 +1,5 @@
 {
   "acno": "T01091", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1951-2"
   }, 
   "dateText": "1951-2", 
+  "depth": "", 
   "dimensions": "support: 2429 x 2029 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2029", 
   "id": 10640, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,91 @@
       "workCount": 102
     }
   ], 
-  "popularity": 2064, 
   "subjectCount": 5, 
-  "title": "Adam"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1557, 
+                "name": "Adam", 
+                "workCount": 27
+              }
+            ], 
+            "id": 135, 
+            "name": "Bible: Old Testament", 
+            "workCount": 290
+          }, 
+          {
+            "children": [
+              {
+                "id": 4651, 
+                "name": "Judaism", 
+                "workCount": 15
+              }
+            ], 
+            "id": 137, 
+            "name": "world religions", 
+            "workCount": 72
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12083, 
+                "name": "light", 
+                "workCount": 87
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01091_8.jpg", 
+  "title": "Adam", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/newman-adam-t01091", 
+  "width": "2429"
 }

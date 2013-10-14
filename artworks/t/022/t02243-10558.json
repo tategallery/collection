@@ -1,6 +1,5 @@
 {
   "acno": "T02243", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1938"
   }, 
   "dateText": "1938", 
+  "depth": "", 
   "dimensions": "unconfirmed: 241 x 375 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "375", 
   "id": 10558, 
   "inscription": null, 
   "medium": "Plant stems and bark on wood", 
@@ -44,7 +41,79 @@
       "workCount": 75
     }
   ], 
-  "popularity": 244, 
   "subjectCount": 4, 
-  "title": "In the Marshes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17109, 
+                "name": "bark", 
+                "workCount": 4
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 815, 
+                "name": "marsh", 
+                "workCount": 20
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 2268, 
+                "name": "rush", 
+                "workCount": 20
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02243_8.jpg", 
+  "title": "In the Marshes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-in-the-marshes-t02243", 
+  "width": "241"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01437", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P01436-P01437", 
     "completeStatus": "INCOMPLETE", 
@@ -27,59 +26,50 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 663 x 917 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Colour Structure (trial proofs)", 
+  "height": "917", 
   "id": 8636, 
-  "images": [
-    {
-      "copyright": "\u00a9 David Leverett", 
-      "filenameBase": "P01437_120968", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P01/P01437_120968_7.jpg", 
-          "height": 92, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P01/P01437_120968_8.jpg", 
-          "height": 185, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P01/P01437_120968_9.jpg", 
-          "height": 370, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P01/P01437_120968_10.jpg", 
-          "height": 1112, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper. Verso: screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 38, 
   "subjectCount": 2, 
-  "title": "Colour Structure 2 (trial proof)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01437_8.jpg", 
+  "title": "Colour Structure 2 (trial proof)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-colour-structure-2-trial-proof-p01437", 
+  "width": "663"
 }

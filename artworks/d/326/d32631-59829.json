@@ -1,6 +1,5 @@
 {
   "acno": "D32631", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 170 x 105 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXII 47 a", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam and Rhine Sketchbook [Finberg CCCXXII]", 
+  "height": "105", 
   "id": 59829, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Views of Town from River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32631_8.jpg", 
+  "title": "Views of Town from River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-of-town-from-river-d32631", 
+  "width": "170"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D00730", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1796"
   }, 
   "dateText": "1796", 
+  "depth": "", 
   "dimensions": "support: 110 x 129 mm", 
-  "displayLocation": null, 
   "finberg": "XXX 1", 
   "foreignTitle": null, 
   "groupTitle": "Studies near Brighton Sketchbook [Finberg XXX]", 
+  "height": "129", 
   "id": 28145, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "?A Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00730_8.jpg", 
+  "title": "?A Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-head-d00730", 
+  "width": "110"
 }

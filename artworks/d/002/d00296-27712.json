@@ -1,6 +1,5 @@
 {
   "acno": "D00296", 
-  "addlImageCount": 0, 
   "catTextResId": 1140689, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,83 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 152 x 99 mm", 
-  "displayLocation": null, 
   "finberg": "XX 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "99", 
   "id": 27712, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 21, 
   "subjectCount": 4, 
-  "title": "A Town Seen from near a Bridge over a River; with a Study of a Chimney Stack and Pot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00296_8_R.jpg", 
+  "title": "A Town Seen from near a Bridge over a River; with a Study of a Chimney Stack and Pot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-town-seen-from-near-a-bridge-over-a-river-with-a-study-of-a-chimney-stack-and-pot-d00296", 
+  "width": "152"
 }

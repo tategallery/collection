@@ -1,6 +1,5 @@
 {
   "acno": "D00125", 
-  "addlImageCount": 0, 
   "catTextResId": 1140307, 
   "catalogueGroup": {
     "accessionRanges": "D00124; D00125; D40224", 
@@ -28,16 +27,87 @@
     "text": "?1789-90"
   }, 
   "dateText": "?1789-90", 
+  "depth": "", 
   "dimensions": "support: 306 x 243 mm", 
-  "displayLocation": null, 
   "finberg": "X B", 
   "foreignTitle": null, 
   "groupTitle": "Anatomical Studies", 
+  "height": "243", 
   "id": 27541, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 50, 
   "subjectCount": 5, 
-  "title": "Half-length \u00c9corch\u00e9 Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9011, 
+                "name": "anatomy", 
+                "workCount": 28
+              }, 
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00125_8.jpg", 
+  "title": "Half-length \u00c9corch\u00e9 Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-half-length-ecorche-figure-d00125", 
+  "width": "306"
 }

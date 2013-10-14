@@ -1,6 +1,5 @@
 {
   "acno": "D13571", 
-  "addlImageCount": 0, 
   "catTextResId": 1132116, 
   "catalogueGroup": {
     "accessionRanges": "D13449-D13586; D40934-D40937", 
@@ -28,17 +27,78 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 90 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVI 63", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh, 1818, Sketchbook [Finberg CLXVI]", 
+  "height": "112", 
   "id": 40939, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "popularity": 55, 
   "subjectCount": 3, 
-  "title": "The Gatehouse, Roslin Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13571_8.jpg", 
+  "title": "The Gatehouse, Roslin Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-gatehouse-roslin-castle-d13571", 
+  "width": "90"
 }

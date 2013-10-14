@@ -1,6 +1,5 @@
 {
   "acno": "A00103", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1861"
   }, 
   "dateText": "c.1861", 
+  "depth": "", 
   "dimensions": "support: 154 x 142 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "142", 
   "id": 1739, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,67 @@
       "workCount": 405
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 3, 
-  "title": "Study of the Head of a Female Attendant for 'The Adoration of the Kings'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1554, 
+                "name": "headscarf", 
+                "workCount": 37
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00103_8.jpg", 
+  "title": "Study of the Head of a Female Attendant for 'The Adoration of the Kings'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-the-head-of-a-female-attendant-for-the-adoration-of-the-kings-a00103", 
+  "width": "154"
 }

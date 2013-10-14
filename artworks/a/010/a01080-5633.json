@@ -1,6 +1,5 @@
 {
   "acno": "A01080", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A01080-A01081", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "support: 635 x 410 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Two Drawings for Large Bather I", 
+  "height": "410", 
   "id": 5633, 
   "inscription": "date inscribed", 
   "medium": "Ink on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01080_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/greco-title-not-known-a01080", 
+  "width": "635"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D18588", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXI 40 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "height": "189", 
   "id": 45941, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 82, 
-  "popularity": 5, 
   "subjectCount": 1, 
-  "title": "The Farnley Chest"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4945, 
+                "name": "dresser", 
+                "workCount": 14
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18588_8.jpg", 
+  "title": "The Farnley Chest", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-farnley-chest-d18588", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03506", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1930, cast 1960s"
   }, 
   "dateText": "1930, cast 1960s", 
+  "depth": "152", 
   "dimensions": "object: 177 x 152 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "152", 
   "id": 8910, 
   "inscription": null, 
   "medium": "Painted plaster", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 3, 
-  "title": "The Snuffer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour", 
+                "workCount": 241
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03506_8.jpg", 
+  "title": "The Snuffer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lipchitz-the-snuffer-t03506", 
+  "width": "177"
 }

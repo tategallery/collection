@@ -1,6 +1,5 @@
 {
   "acno": "P01828", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01825-P01830", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 257 x 153 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Ravel Suite", 
+  "height": "153", 
   "id": 11068, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
@@ -47,7 +47,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 25, 
   "subjectCount": 1, 
-  "title": "Jeux d'Eau"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01828_8.jpg", 
+  "title": "Jeux d'Eau", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-jeux-deau-p01828", 
+  "width": "257"
 }

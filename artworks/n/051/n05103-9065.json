@@ -1,6 +1,5 @@
 {
   "acno": "N05103", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,74 @@
     "text": "exhibited 1931"
   }, 
   "dateText": "exhibited 1931", 
+  "depth": "", 
   "dimensions": "support: 356 x 279 mm\r\nframe: 495 x 410 x 97 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "279", 
   "id": 9065, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 99, 
   "subjectCount": 4, 
-  "title": "Crock and Cottage Loaf No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread", 
+                "workCount": 33
+              }, 
+              {
+                "id": 774, 
+                "name": "fruit - non-specific", 
+                "workCount": 86
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 2079, 
+                "name": "candlestick", 
+                "workCount": 33
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05103_8.jpg", 
+  "title": "Crock and Cottage Loaf No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/maccoll-crock-and-cottage-loaf-no-2-n05103", 
+  "width": "356"
 }

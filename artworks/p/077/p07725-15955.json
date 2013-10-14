@@ -1,6 +1,5 @@
 {
   "acno": "P07725", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07725-P07734", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 900 x 1216 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Electric Chairs", 
+  "height": "1216", 
   "id": 15955, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,98 @@
       "workCount": 248
     }
   ], 
-  "popularity": 205, 
   "subjectCount": 5, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }, 
+          {
+            "children": [
+              {
+                "id": 6857, 
+                "name": "death penalty", 
+                "workCount": 13
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }, 
+          {
+            "children": [
+              {
+                "id": 5052, 
+                "name": "execution", 
+                "workCount": 50
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment", 
+            "workCount": 318
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15959, 
+                "name": "electric chair", 
+                "workCount": 12
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07725_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-no-title-p07725", 
+  "width": "900"
 }

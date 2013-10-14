@@ -1,6 +1,5 @@
 {
   "acno": "D06202", 
-  "addlImageCount": 0, 
   "catTextResId": 1130386, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,59 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 182 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "117", 
   "id": 33593, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "River Scene, with Church and Buildings to Right: ?Kingston"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06202_8.jpg", 
+  "title": "River Scene, with Church and Buildings to Right: ?Kingston", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scene-with-church-and-buildings-to-right-kingston-d06202", 
+  "width": "182"
 }

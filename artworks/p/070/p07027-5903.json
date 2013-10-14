@@ -1,6 +1,5 @@
 {
   "acno": "P07027", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1940"
   }, 
   "dateText": "1940", 
+  "depth": "", 
   "dimensions": "image: 251 x 200 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "200", 
   "id": 5903, 
   "inscription": "date inscribed", 
   "medium": "Engraving, aquatint and etching on copper", 
@@ -41,7 +41,72 @@
       "workCount": 75
     }
   ], 
-  "popularity": 225, 
   "subjectCount": 4, 
-  "title": "Myth of Creation"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5876, 
+                "name": "creation", 
+                "workCount": 20
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07027_8.jpg", 
+  "title": "Myth of Creation", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hayter-myth-of-creation-p07027", 
+  "width": "251"
 }

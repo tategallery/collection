@@ -1,6 +1,5 @@
 {
   "acno": "P01792", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01792", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964-5"
   }, 
   "dateText": "1964-5", 
+  "depth": "", 
   "dimensions": "image: 594 x 394 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Suite of Twenty-Seven Color Lithographs", 
+  "height": "394", 
   "id": 7885, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 214, 
   "subjectCount": 2, 
-  "title": "Yellow (II.2 Yellow; Jaune S\u00e9rie II No.2)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01792_8.jpg", 
+  "title": "Yellow (II.2 Yellow; Jaune S\u00e9rie II No.2)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-yellow-ii2-yellow-jaune-serie-ii-no2-p01792", 
+  "width": "594"
 }

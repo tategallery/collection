@@ -1,6 +1,5 @@
 {
   "acno": "T11968", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "40", 
   "dimensions": "support: 3015 x 2580 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2580", 
   "id": 83955, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 533, 
   "subjectCount": 3, 
-  "title": "Full Stop"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17451, 
+                "name": "full stop", 
+                "workCount": 1
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11968_8.jpg", 
+  "title": "Full Stop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/latham-full-stop-t11968", 
+  "width": "3015"
 }

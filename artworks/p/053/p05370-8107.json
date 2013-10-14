@@ -1,6 +1,5 @@
 {
   "acno": "P05370", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 702 x 483 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "483", 
   "id": 8107, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -51,7 +51,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "On Which Side are You, 'Masters of Culture'?"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12315, 
+                "name": "magazine, 'New Times'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05370_8.jpg", 
+  "title": "On Which Side are You, 'Masters of Culture'?", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-on-which-side-are-you-masters-of-culture-p05370", 
+  "width": "702"
 }

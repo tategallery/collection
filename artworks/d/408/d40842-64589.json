@@ -1,6 +1,5 @@
 {
   "acno": "D40842", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11442-D11479; D11481-D11517; D40839-D40843; D41497", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1816"
   }, 
   "dateText": "1816", 
+  "depth": "", 
   "dimensions": "support: 125 x 206 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 4 Sketchbook [Finberg CXLVII]", 
+  "height": "206", 
   "id": 64589, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 59, 
   "subjectCount": 6, 
-  "title": "Kendal Bridge and Church, with Two Details of the Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1262, 
+                "name": "Cumbria", 
+                "workCount": 316
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }, 
+              {
+                "id": 1260, 
+                "name": "Lake District", 
+                "workCount": 196
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 12513, 
+                "name": "Kendal, Kendal Castle", 
+                "workCount": 2
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40842_8.jpg", 
+  "title": "Kendal Bridge and Church, with Two Details of the Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-kendal-bridge-and-church-with-two-details-of-the-castle-d40842", 
+  "width": "125"
 }

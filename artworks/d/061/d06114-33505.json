@@ -1,6 +1,5 @@
 {
   "acno": "D06114", 
-  "addlImageCount": 0, 
   "catTextResId": 1130295, 
   "catalogueGroup": {
     "accessionRanges": "D06072-D06178; D40655-D40658", 
@@ -28,17 +27,57 @@
     "text": "c.1806-8"
   }, 
   "dateText": "c.1806-8", 
+  "depth": "", 
   "dimensions": "support: 107 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVII 42", 
   "foreignTitle": null, 
   "groupTitle": "Windsor and Eton Sketchbook [Finberg XCVII]", 
+  "height": "182", 
   "id": 33505, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Sails of a Barge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }, 
+              {
+                "id": 2182, 
+                "name": "sail", 
+                "workCount": 52
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06114_8.jpg", 
+  "title": "Sails of a Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sails-of-a-barge-d06114", 
+  "width": "107"
 }

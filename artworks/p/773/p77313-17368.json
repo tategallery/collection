@@ -1,6 +1,5 @@
 {
   "acno": "P77313", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77305-P77317", 
     "completeStatus": "COMPLETE", 
@@ -36,15 +35,83 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "image: 375 x 485 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Stones", 
+  "height": "485", 
   "id": 17368, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "8"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 681, 
+                "name": "morning", 
+                "workCount": 98
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13394, 
+                "name": "toaster", 
+                "workCount": 5
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77313_8.jpg", 
+  "title": "8", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivers-8-p77313", 
+  "width": "375"
 }

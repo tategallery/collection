@@ -1,6 +1,5 @@
 {
   "acno": "D30265", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30130-D30266; D30268-D30295; D41223-D41224", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 159 x 99 mm", 
-  "displayLocation": null, 
   "finberg": "CCC 69", 
   "foreignTitle": null, 
   "groupTitle": "Salzburg and Danube Sketchbook [Finberg CCC]", 
+  "height": "99", 
   "id": 57525, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 139, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "?A Gateway"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30265_8.jpg", 
+  "title": "?A Gateway", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-gateway-d30265", 
+  "width": "159"
 }

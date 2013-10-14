@@ -1,6 +1,5 @@
 {
   "acno": "P11474", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11471-P11480", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1996"
   }, 
   "dateText": "1996", 
+  "depth": "", 
   "dimensions": "image: 173 x 277 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Etchings", 
+  "height": "277", 
   "id": 22179, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 327, 
   "subjectCount": 3, 
-  "title": "From 'Pond Life'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11474_8.jpg", 
+  "title": "From 'Pond Life'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-from-pond-life-p11474", 
+  "width": "173"
 }

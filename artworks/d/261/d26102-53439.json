@@ -1,6 +1,5 @@
 {
   "acno": "D26102", 
-  "addlImageCount": 0, 
   "catTextResId": 1136030, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,78 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 4 a", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "181", 
   "id": 53439, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 25, 
   "subjectCount": 3, 
-  "title": "Peebles: The Parish Church and the Ruins of Cross Kirk"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26102_8_R.jpg", 
+  "title": "Peebles: The Parish Church and the Ruins of Cross Kirk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-peebles-the-parish-church-and-the-ruins-of-cross-kirk-d26102", 
+  "width": "111"
 }

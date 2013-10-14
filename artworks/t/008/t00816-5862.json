@@ -1,6 +1,5 @@
 {
   "acno": "T00816", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "", 
   "dimensions": "support: 1797 x 1410 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1410", 
   "id": 5862, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 48
     }
   ], 
-  "popularity": 495, 
   "subjectCount": 1, 
-  "title": "T1963-R6"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00816_8.jpg", 
+  "title": "T1963-R6", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hartung-t1963-r6-t00816", 
+  "width": "1797"
 }

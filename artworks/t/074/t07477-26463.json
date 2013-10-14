@@ -1,6 +1,5 @@
 {
   "acno": "T07477", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,98 @@
     "text": "c.1899"
   }, 
   "dateText": "c.1899", 
+  "depth": "", 
   "dimensions": "support: 1505 x 1170 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1170", 
   "id": 26463, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 196, 
   "subjectCount": 6, 
-  "title": "Portrait of Lady Tate"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15165, 
+                "name": "Hislop, Amy", 
+                "workCount": 1
+              }, 
+              {
+                "id": 14769, 
+                "name": "Tate, Lady", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak", 
+                "workCount": 177
+              }, 
+              {
+                "id": 3235, 
+                "name": "dress", 
+                "workCount": 212
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07477_8.jpg", 
+  "title": "Portrait of Lady Tate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/von-herkomer-portrait-of-lady-tate-t07477", 
+  "width": "1505"
 }

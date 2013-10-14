@@ -1,6 +1,5 @@
 {
   "acno": "AR00235", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1985-6"
   }, 
   "dateText": "c.1985-6", 
+  "depth": "32", 
   "dimensions": "support: 1830 x 2032 x 32 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2032", 
   "id": 97397, 
   "inscription": null, 
   "medium": "Acrylic paint and silkscreen on canvas", 
@@ -41,7 +41,122 @@
       "workCount": 248
     }
   ], 
-  "popularity": 64, 
   "subjectCount": 7, 
-  "title": "Map of Eastern U.S.S.R. Missile Bases"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2998, 
+                "name": "China", 
+                "workCount": 6
+              }, 
+              {
+                "id": 3201, 
+                "name": "Japan", 
+                "workCount": 24
+              }, 
+              {
+                "id": 3001, 
+                "name": "Russia", 
+                "workCount": 10
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9331, 
+                "name": "map", 
+                "workCount": 41
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3188, 
+                "name": "missile", 
+                "workCount": 10
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 233, 
+                "name": "politics: Cold War, post-1945", 
+                "workCount": 23
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3592, 
+                "name": "war", 
+                "workCount": 196
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00235_8.jpg", 
+  "title": "Map of Eastern U.S.S.R. Missile Bases", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-map-of-eastern-ussr-missile-bases-ar00235", 
+  "width": "1830"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P07339", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07338-P07342", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "unconfirmed: 800 x 623 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Furnished Landscape", 
+  "height": "623", 
   "id": 14194, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "High Force"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07339_8.jpg", 
+  "title": "High Force", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tillyer-high-force-p07339", 
+  "width": "800"
 }

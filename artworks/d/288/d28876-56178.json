@@ -1,6 +1,5 @@
 {
   "acno": "D28876", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D28874-D28886; D28888; D28890; D28892; D28894; D28896; D28898; D28900; D28902; D28904; D28906; D28908; D28910; D28912; D28914; D28916; D28918; D28920; D28922; D28924; D28926; D28928; D28930; D28932; D28934; D28936; D28938; D28940; D28942; D28944; D2894...", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 79 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCI c 3", 
   "foreignTitle": null, 
   "groupTitle": "Colour Studies (2) Sketchbook [Finberg CCXCI (c)]", 
+  "height": "101", 
   "id": 56178, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 56, 
   "subjectCount": 4, 
-  "title": "Figure Subject"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom", 
+                "workCount": 177
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28876_8.jpg", 
+  "title": "Figure Subject", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figure-subject-d28876", 
+  "width": "79"
 }

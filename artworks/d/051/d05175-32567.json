@@ -1,6 +1,5 @@
 {
   "acno": "D05175", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05166; D05168-D05244; D40640-D40649", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1800-7"
   }, 
   "dateText": "c.1800-7", 
+  "depth": "", 
   "dimensions": "support: 172 x 119 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIV 7 a", 
   "foreignTitle": null, 
   "groupTitle": "Academies Sketchbook [Finberg LXXXIV]", 
+  "height": "119", 
   "id": 32567, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "Stern and Hull of a Barge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05175_8.jpg", 
+  "title": "Stern and Hull of a Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-stern-and-hull-of-a-barge-d05175", 
+  "width": "172"
 }

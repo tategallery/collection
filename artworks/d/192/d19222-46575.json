@@ -1,6 +1,5 @@
 {
   "acno": "D19222", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1825"
   }, 
   "dateText": "1825", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIV 193", 
   "foreignTitle": null, 
   "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "height": "95", 
   "id": 46575, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 387, 
-  "popularity": 11, 
   "subjectCount": 3, 
-  "title": "Market Place"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13609, 
+                "name": "market", 
+                "workCount": 133
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19222_8.jpg", 
+  "title": "Market Place", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-market-place-d19222", 
+  "width": "155"
 }

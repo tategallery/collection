@@ -1,6 +1,5 @@
 {
   "acno": "N04637", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Bequeathed by H.F. Stephens 1932", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 225 x 165 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "165", 
   "id": 1810, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -38,7 +38,53 @@
       "workCount": 405
     }
   ], 
-  "popularity": 73, 
   "subjectCount": 3, 
-  "title": "Head and Hand"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04637_8.jpg", 
+  "title": "Head and Hand", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-and-hand-n04637", 
+  "width": "225"
 }

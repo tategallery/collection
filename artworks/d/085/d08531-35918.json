@@ -1,6 +1,5 @@
 {
   "acno": "D08531", 
-  "addlImageCount": 0, 
   "catTextResId": 1137008, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,64 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 75 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 86", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "117", 
   "id": 35918, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 179, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "The Teign Estuary from near Kingsteignton"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1236, 
+                "name": "estuary", 
+                "workCount": 299
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08531_8_R.jpg", 
+  "title": "The Teign Estuary from near Kingsteignton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-teign-estuary-from-near-kingsteignton-d08531", 
+  "width": "75"
 }

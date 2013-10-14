@@ -1,6 +1,5 @@
 {
   "acno": "P03034", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03001-P03006; P03011-P03022; P03031-P03036; P03039-P03044; P03059-P03064", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1917"
   }, 
   "dateText": "c.1917", 
+  "depth": "", 
   "dimensions": "image: 464 x 360 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Great War: Britain's Efforts and Ideals", 
+  "height": "360", 
   "id": 5854, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,141 @@
       "workCount": 141
     }
   ], 
-  "popularity": 73, 
   "subjectCount": 8, 
-  "title": "Women's Work: On Munitions - Skilled Work"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9367, 
+                "name": "ammunition", 
+                "workCount": 6
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }, 
+          {
+            "children": [
+              {
+                "id": 533, 
+                "name": "apron", 
+                "workCount": 63
+              }, 
+              {
+                "id": 1120, 
+                "name": "glove", 
+                "workCount": 72
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender", 
+                "workCount": 151
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7060, 
+                "name": "home front", 
+                "workCount": 23
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4309, 
+                "name": "industrial worker", 
+                "workCount": 30
+              }
+            ], 
+            "id": 124, 
+            "name": "industrial and crafts", 
+            "workCount": 360
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03034_8.jpg", 
+  "title": "Women's Work: On Munitions - Skilled Work", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hartrick-womens-work-on-munitions-skilled-work-p03034", 
+  "width": "464"
 }

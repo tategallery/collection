@@ -1,6 +1,5 @@
 {
   "acno": "D29083", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIII 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "190", 
   "id": 56355, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Mont Blanc from Chamonix"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29083_8.jpg", 
+  "title": "Mont Blanc from Chamonix", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mont-blanc-from-chamonix-d29083", 
+  "width": "113"
 }

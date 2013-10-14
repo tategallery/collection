@@ -1,6 +1,5 @@
 {
   "acno": "P08211", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1939"
   }, 
   "dateText": "1939", 
+  "depth": "", 
   "dimensions": "image: 139 x 117 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "117", 
   "id": 666, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,53 @@
       "workCount": 107
     }
   ], 
-  "popularity": 44, 
   "subjectCount": 3, 
-  "title": "Bearded Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08211_8.jpg", 
+  "title": "Bearded Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ayrton-bearded-head-p08211", 
+  "width": "139"
 }

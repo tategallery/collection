@@ -1,6 +1,5 @@
 {
   "acno": "T11376", 
-  "addlImageCount": 2, 
   "catalogueGroup": {
     "accessionRanges": "T10822; T11290-T11379", 
     "completeStatus": "IRRELEVANT", 
@@ -27,101 +26,186 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "image: 183 x 267 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Miscellaneous Etchings", 
+  "height": "267", 
   "id": 25870, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T11376_142033", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_142033_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 87
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_142033_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 174
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_142033_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 349
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_142033_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1048
-        }
-      ]
-    }, 
-    {
-      "copyright": null, 
-      "filenameBase": "T11376_144864", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_144864_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 86
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_144864_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 173
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_144864_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 347
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T11/T11376_144864_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1041
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper. Verso: lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 11, 
-  "title": "The Ramparts at Montreuil. Verso: [title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 6620, 
+                "name": "Montreuil", 
+                "workCount": 4
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 5266, 
+                "name": "marching", 
+                "workCount": 11
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11376_8.jpg", 
+  "title": "The Ramparts at Montreuil. Verso: [title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/long-the-ramparts-at-montreuil-verso-title-not-known-t11376", 
+  "width": "183"
 }

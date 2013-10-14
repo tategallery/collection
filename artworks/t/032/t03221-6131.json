@@ -1,6 +1,5 @@
 {
   "acno": "T03221", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1932"
   }, 
   "dateText": "1932", 
+  "depth": "206", 
   "dimensions": "object: 324 x 229 x 206 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "229", 
   "id": 6131, 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 97, 
   "subjectCount": 2, 
-  "title": "Baby"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby", 
+                "workCount": 425
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03221_8.jpg", 
+  "title": "Baby", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hermes-baby-t03221", 
+  "width": "324"
 }

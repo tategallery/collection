@@ -1,6 +1,5 @@
 {
   "acno": "D05872", 
-  "addlImageCount": 0, 
   "catTextResId": 1130095, 
   "catalogueGroup": {
     "accessionRanges": "D05845-D05904; D40637; D41506", 
@@ -28,17 +27,47 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 143 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "XCIV 20", 
   "foreignTitle": null, 
   "groupTitle": "Hesperides (2) Sketchbook [Finberg XCIV]", 
+  "height": "228", 
   "id": 33263, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 15, 
   "subjectCount": 1, 
-  "title": "The Ruins of Cliveden House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape", 
+                "workCount": 106
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05872_8.jpg", 
+  "title": "The Ruins of Cliveden House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-ruins-of-cliveden-house-d05872", 
+  "width": "143"
 }

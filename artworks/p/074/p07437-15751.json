@@ -1,6 +1,5 @@
 {
   "acno": "P07437", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07435-P07442", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 500 x 745 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Untitled", 
+  "height": "745", 
   "id": 15751, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 1, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07437_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/visser-title-not-known-p07437", 
+  "width": "500"
 }

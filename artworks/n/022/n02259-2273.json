@@ -1,6 +1,5 @@
 {
   "acno": "N02259", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1908"
   }, 
   "dateText": "1908", 
+  "depth": "", 
   "dimensions": "support: 838 x 660 mm\r\nframe: 1045 x 8066 x 103 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "660", 
   "id": 2273, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,148 @@
       "workCount": 11
     }
   ], 
-  "popularity": 553, 
   "subjectCount": 8, 
-  "title": "The Gleaners Returning"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying", 
+                "workCount": 482
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2837, 
+                "name": "harvesting", 
+                "workCount": 163
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2610, 
+                "name": "sheaf", 
+                "workCount": 51
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02259_8.jpg", 
+  "title": "The Gleaners Returning", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clausen-the-gleaners-returning-n02259", 
+  "width": "838"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D12199", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12124-D12239; D40851-D40853; D41537", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CLIV a 55 a", 
   "foreignTitle": null, 
   "groupTitle": "Liber Notes (2) Sketchbook [Finberg CLIV a]", 
+  "height": "110", 
   "id": 39568, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 114, 
-  "popularity": 25, 
   "subjectCount": 4, 
-  "title": "Trees and Houses on River Bank"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12199_8.jpg", 
+  "title": "Trees and Houses on River Bank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-and-houses-on-river-bank-d12199", 
+  "width": "89"
 }

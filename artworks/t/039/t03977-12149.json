@@ -1,6 +1,5 @@
 {
   "acno": "T03977", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1948"
   }, 
   "dateText": "1948", 
+  "depth": "", 
   "dimensions": "support: 848 x 5550 mm\r\nframe: 885 x 5590 x 73 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "5550", 
   "id": 12149, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, enamel paint and commercial paint on canvas", 
@@ -44,7 +41,84 @@
       "workCount": 102
     }
   ], 
-  "popularity": 8240, 
   "subjectCount": 5, 
-  "title": "Summertime: Number 9A"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6745, 
+                "name": "rhythm", 
+                "workCount": 39
+              }, 
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03977_8.jpg", 
+  "title": "Summertime: Number 9A", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pollock-summertime-number-9a-t03977", 
+  "width": "848"
 }

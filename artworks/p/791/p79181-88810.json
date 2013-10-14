@@ -1,6 +1,5 @@
 {
   "acno": "P79181", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 1005 x 1422 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1422", 
   "id": 88810, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,65 @@
       "workCount": 846
     }
   ], 
-  "popularity": 158, 
   "subjectCount": 4, 
-  "title": "Two Whiting"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4217, 
+                "name": "cutlery", 
+                "workCount": 43
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 17519, 
+                "name": "fish, whiting", 
+                "workCount": 1
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth", 
+                "workCount": 44
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79181_8.jpg", 
+  "title": "Two Whiting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-two-whiting-p79181", 
+  "width": "1005"
 }

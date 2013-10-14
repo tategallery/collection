@@ -1,6 +1,5 @@
 {
   "acno": "T12056", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "support (right): 3005 x 1518 x 30 mm\r\nsupport (left): 3003 x 1523 x 30 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": "Der Grosse Schritt", 
   "groupTitle": null, 
+  "height": "", 
   "id": 87252, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 2, 
-  "title": "The Big Step"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12056_8.jpg", 
+  "title": "The Big Step", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/lupertz-the-big-step-t12056", 
+  "width": ""
 }

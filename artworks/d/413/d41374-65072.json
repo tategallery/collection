@@ -1,6 +1,5 @@
 {
   "acno": "D41374", 
-  "addlImageCount": 0, 
   "catTextResId": 1137523, 
   "catalogueGroup": {
     "accessionRanges": "D41374-D41388", 
@@ -28,17 +27,71 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 222 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV b 1", 
   "foreignTitle": null, 
   "groupTitle": "Stonehenge Sketchbook [pseudo-Finberg CXXV b]", 
+  "height": "182", 
   "id": 65072, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 59, 
   "subjectCount": 3, 
-  "title": "Cheddar Gorge: The Lion Rock from the Village"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41374_8.jpg", 
+  "title": "Cheddar Gorge: The Lion Rock from the Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cheddar-gorge-the-lion-rock-from-the-village-d41374", 
+  "width": "222"
 }

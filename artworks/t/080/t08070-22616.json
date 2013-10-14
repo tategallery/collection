@@ -1,6 +1,5 @@
 {
   "acno": "T08070", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08000-T08082; T10676", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,84 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 220 x 311 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Mackworth Praed Book", 
+  "height": "311", 
   "id": 22616, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 6, 
-  "title": "Autumn. Wooded Hills, Schematic Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn", 
+                "workCount": 73
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08070_8.jpg", 
+  "title": "Autumn. Wooded Hills, Schematic Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-autumn-wooded-hills-schematic-sky-t08070", 
+  "width": "220"
 }

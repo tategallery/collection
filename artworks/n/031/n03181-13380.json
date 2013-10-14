@@ -1,6 +1,5 @@
 {
   "acno": "N03181", 
-  "addlImageCount": 0, 
   "catTextResId": 1136820, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1890-1"
   }, 
   "dateText": "1890-1", 
+  "depth": "", 
   "dimensions": "support: 603 x 502 mm\r\nframe: 792 x 691 x 62 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "502", 
   "id": 13380, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,89 @@
       "workCount": 35
     }
   ], 
-  "popularity": 350, 
   "subjectCount": 6, 
-  "title": "George Moore"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6645, 
+                "name": "Moore, George", 
+                "workCount": 2
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }, 
+              {
+                "id": 2465, 
+                "name": "moustache", 
+                "workCount": 33
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author", 
+                "workCount": 95
+              }, 
+              {
+                "id": 1374, 
+                "name": "critic", 
+                "workCount": 30
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03181_8.jpg", 
+  "title": "George Moore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-george-moore-n03181", 
+  "width": "603"
 }

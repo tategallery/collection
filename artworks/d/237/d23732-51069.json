@@ -1,6 +1,5 @@
 {
   "acno": "D23732", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23699-D23885; D41080-D41081", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "?1829"
   }, 
   "dateText": "?1829", 
+  "depth": "", 
   "dimensions": "support: 156 x 107 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIII 18", 
   "foreignTitle": null, 
   "groupTitle": "Tancarville and Lillebonne Sketchbook [Finberg CCLIII]", 
+  "height": "107", 
   "id": 51069, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Group of Houses, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23732_8.jpg", 
+  "title": "Group of Houses, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-houses-etc-d23732", 
+  "width": "156"
 }

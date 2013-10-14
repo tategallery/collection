@@ -1,6 +1,5 @@
 {
   "acno": "P11405", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11395-P11405", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 560 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Suite of Ten Lithographs", 
+  "height": "762", 
   "id": 21714, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,41 @@
       "workCount": 102
     }
   ], 
-  "popularity": 213, 
   "subjectCount": 2, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11405_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guston-untitled-p11405", 
+  "width": "560"
 }

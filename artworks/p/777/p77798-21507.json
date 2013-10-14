@@ -1,6 +1,5 @@
 {
   "acno": "P77798", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77769-P77770; P77773-P77781; P77788-P77799; P77839-P77850", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1989"
   }, 
   "dateText": "1989", 
+  "depth": "", 
   "dimensions": "image: 152 x 439 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Proposals", 
+  "height": "439", 
   "id": 21507, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,55 @@
       "workCount": 478
     }
   ], 
-  "popularity": 33, 
   "subjectCount": 2, 
-  "title": "A Proposal for a Private Garden in Germany"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77798_8.jpg", 
+  "title": "A Proposal for a Private Garden in Germany", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-a-proposal-for-a-private-garden-in-germany-p77798", 
+  "width": "152"
 }

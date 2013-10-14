@@ -1,6 +1,5 @@
 {
   "acno": "D10642", 
-  "addlImageCount": 0, 
   "catTextResId": 1131695, 
   "catalogueGroup": {
     "accessionRanges": "D10587-D10646; D40849-D40850; D40854", 
@@ -28,17 +27,59 @@
     "text": "c.1815-18"
   }, 
   "dateText": "c.1815-18", 
+  "depth": "", 
   "dimensions": "support: 88 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXLI 33 a", 
   "foreignTitle": null, 
   "groupTitle": "Hints River Sketchbook [Finberg CXLI]", 
+  "height": "114", 
   "id": 38017, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 68, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "A Cloudy Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10642_8.jpg", 
+  "title": "A Cloudy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-cloudy-sky-d10642", 
+  "width": "88"
 }

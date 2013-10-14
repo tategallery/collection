@@ -1,6 +1,5 @@
 {
   "acno": "T06491", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1983"
   }, 
   "dateText": "1983", 
+  "depth": "420", 
   "dimensions": "object: 2080 x 700 x 420 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "700", 
   "id": 20201, 
   "inscription": null, 
   "medium": "Copper, oak and lead", 
@@ -41,7 +41,36 @@
       "workCount": 44
     }
   ], 
-  "popularity": 161, 
   "subjectCount": 1, 
-  "title": "Locust"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06491_8.jpg", 
+  "title": "Locust", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilding-locust-t06491", 
+  "width": "2080"
 }

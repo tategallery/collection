@@ -1,6 +1,5 @@
 {
   "acno": "T08425", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08347-T08445; T08871; T08875; T10264", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,69 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 69 x 64 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings by Nathaniel Dance-Holland and George Dance", 
+  "height": "64", 
   "id": 24273, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "A Man's Face"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 793, 
+                "name": "grimacing", 
+                "workCount": 56
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08425_8.jpg", 
+  "title": "A Man's Face", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-holland-a-mans-face-t08425", 
+  "width": "69"
 }

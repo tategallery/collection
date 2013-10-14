@@ -1,6 +1,5 @@
 {
   "acno": "D10759", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10647-D10774; D40858", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 160 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXLII 90", 
   "foreignTitle": null, 
   "groupTitle": "Walmer Ferry Sketchbook [Finberg CXLII]", 
+  "height": "112", 
   "id": 38134, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 183, 
-  "popularity": 1, 
   "subjectCount": 1, 
-  "title": "River Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10759_8_R.jpg", 
+  "title": "River Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scene-d10759", 
+  "width": "160"
 }

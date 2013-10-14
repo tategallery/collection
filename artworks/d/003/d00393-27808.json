@@ -1,6 +1,5 @@
 {
   "acno": "D00393", 
-  "addlImageCount": 0, 
   "catTextResId": 1141154, 
   "catalogueGroup": {
     "accessionRanges": "D00130-D00145; D00152; D00181; D00367; D00368; D00388-D00394; D00396-D00400; D00710; D00712; D00713; D08190; D40034-D40039; D40052-D40054; D40242-D40245; D40334; D41455", 
@@ -28,16 +27,65 @@
     "text": "1792-3"
   }, 
   "dateText": "1792-3", 
+  "depth": "", 
   "dimensions": "support: 198 x 222 mm", 
-  "displayLocation": null, 
   "finberg": "XXIII S", 
   "foreignTitle": null, 
   "groupTitle": "Drawings and Watercolours Connected with the Welsh and Marches Tours", 
+  "height": "222", 
   "id": 27808, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 2, 
-  "title": "A Sailing Boat at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00393_8.jpg", 
+  "title": "A Sailing Boat at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sailing-boat-at-sea-d00393", 
+  "width": "198"
 }

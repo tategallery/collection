@@ -1,6 +1,5 @@
 {
   "acno": "D31108", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31020-D31137; D41023-D41024", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 162 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVII 45", 
   "foreignTitle": null, 
   "groupTitle": "Copenhagen to Dresden Sketchbook [Finberg CCCVII]", 
+  "height": "89", 
   "id": 58347, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "(1) (2) Buildings Seen from the Sea; (3) Distant Cliffs and Land; (4) Distant Cliffs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31108_8_R.jpg", 
+  "title": "(1) (2) Buildings Seen from the Sea; (3) Distant Cliffs and Land; (4) Distant Cliffs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-2-buildings-seen-from-the-sea-3-distant-cliffs-and-land-4-distant-cliffs-d31108", 
+  "width": "162"
 }

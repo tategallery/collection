@@ -1,6 +1,5 @@
 {
   "acno": "N03834", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1909"
   }, 
   "dateText": "c.1909", 
+  "depth": "", 
   "dimensions": "support: 318 x 394 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "394", 
   "id": 9415, 
   "inscription": null, 
   "medium": "Watercolour and chalk on paper", 
@@ -41,7 +41,67 @@
       "workCount": 35
     }
   ], 
-  "popularity": 61, 
   "subjectCount": 3, 
-  "title": "Church at Montreuil"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 6620, 
+                "name": "Montreuil", 
+                "workCount": 4
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03834_8.jpg", 
+  "title": "Church at Montreuil", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mayor-church-at-montreuil-n03834", 
+  "width": "318"
 }

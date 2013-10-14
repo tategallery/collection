@@ -1,6 +1,5 @@
 {
   "acno": "D35249", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35240-D35261; D40442", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,68 @@
     "text": "c.1844-5"
   }, 
   "dateText": "c.1844-5", 
+  "depth": "", 
   "dimensions": "support: 222 x 331 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLIII 10", 
   "foreignTitle": null, 
   "groupTitle": "The Whalers Sketchbook [Finberg CCCLIII]", 
+  "height": "331", 
   "id": 62377, 
   "inscription": null, 
   "medium": "Chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 4, 
-  "title": "The Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain", 
+                "workCount": 164
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35249_8.jpg", 
+  "title": "The Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-sea-d35249", 
+  "width": "222"
 }

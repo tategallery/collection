@@ -1,6 +1,5 @@
 {
   "acno": "A00702", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1829, exhibited 1831"
   }, 
   "dateText": "1829, exhibited 1831", 
+  "depth": "", 
   "dimensions": "support: 457 x 352 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "352", 
   "id": 8341, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on mahogany", 
@@ -41,7 +41,105 @@
       "workCount": 125
     }
   ], 
-  "popularity": 385, 
   "subjectCount": 5, 
-  "title": "Low Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1017, 
+                "name": "class", 
+                "workCount": 39
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug", 
+                "workCount": 106
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1091, 
+                "name": "pipe", 
+                "workCount": 63
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00702_8.jpg", 
+  "title": "Low Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-low-life-a00702", 
+  "width": "457"
 }

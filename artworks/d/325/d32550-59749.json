@@ -1,6 +1,5 @@
 {
   "acno": "D32550", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32541-D32593; D32595-D32663; D41140", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 170 x 105 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXII 6", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam and Rhine Sketchbook [Finberg CCCXXII]", 
+  "height": "105", 
   "id": 59749, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32550_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d32550", 
+  "width": "170"
 }

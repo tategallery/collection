@@ -1,6 +1,5 @@
 {
   "acno": "T00109", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1915"
   }, 
   "dateText": "1915", 
+  "depth": "", 
   "dimensions": "support: 419 x 343 mm\r\nframe: 690 x 530 x 15 mm", 
-  "displayLocation": {
-    "name": "Cooper Gallery (Barnsley, UK)", 
-    "url": "http://www.barnsley.gov.uk/tourism/coopergallery/index.asp"
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "343", 
   "id": 15782, 
   "inscription": "date inscribed", 
   "medium": "Gouache, ink and graphite on paper", 
@@ -44,7 +41,79 @@
       "workCount": 39
     }
   ], 
-  "popularity": 472, 
   "subjectCount": 4, 
-  "title": "Abstract Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 572, 
+                "name": "energy", 
+                "workCount": 61
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 959, 
+                "name": "machine age", 
+                "workCount": 41
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00109_8.jpg", 
+  "title": "Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wadsworth-abstract-composition-t00109", 
+  "width": "419"
 }

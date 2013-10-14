@@ -1,6 +1,5 @@
 {
   "acno": "N02413", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1878"
   }, 
   "dateText": "1878", 
+  "depth": "", 
   "dimensions": "support: 140 x 229 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "229", 
   "id": 1587, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,60 @@
       "workCount": 405
     }
   ], 
-  "popularity": 37, 
   "subjectCount": 3, 
-  "title": "Arkwright's Mill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9864, 
+                "name": "economics: Industrial Revolution, 18th c.", 
+                "workCount": 7
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }, 
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02413_8.jpg", 
+  "title": "Arkwright's Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-arkwrights-mill-n02413", 
+  "width": "140"
 }

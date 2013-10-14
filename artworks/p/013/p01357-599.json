@@ -1,6 +1,5 @@
 {
   "acno": "P01357", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 508 x 629 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "629", 
   "id": 599, 
   "inscription": "date inscribed", 
   "medium": "Linotype on paper", 
@@ -41,7 +41,98 @@
       "workCount": 478
     }
   ], 
-  "popularity": 438, 
   "subjectCount": 5, 
-  "title": "Map to Not Indicate"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16248, 
+                "name": "USA, Iowa", 
+                "workCount": 2
+              }, 
+              {
+                "id": 16247, 
+                "name": "USA, Kentucky", 
+                "workCount": 1
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1704, 
+                "name": "irony", 
+                "workCount": 184
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2898, 
+                "name": "map", 
+                "workCount": 65
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01357_8.jpg", 
+  "title": "Map to Not Indicate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/art-language-terry-atkinson-map-to-not-indicate-p01357", 
+  "width": "508"
 }

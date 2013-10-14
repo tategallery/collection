@@ -1,6 +1,5 @@
 {
   "acno": "D02428", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02393-D02461", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,57 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 143 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "LII 24", 
   "foreignTitle": null, 
   "groupTitle": "Guisborough Shore Sketchbook [Finberg LII]", 
+  "height": "103", 
   "id": 29831, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "Waves Breaking over Rocks near the Shore"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02428_8.jpg", 
+  "title": "Waves Breaking over Rocks near the Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-waves-breaking-over-rocks-near-the-shore-d02428", 
+  "width": "143"
 }

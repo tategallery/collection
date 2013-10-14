@@ -1,6 +1,5 @@
 {
   "acno": "P77906", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77902-P77913", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,86 @@
     "text": "1996"
   }, 
   "dateText": "1996", 
+  "depth": "", 
   "dimensions": "image: 357 x 297 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Pendle Witches", 
+  "height": "297", 
   "id": 21878, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 220, 
   "subjectCount": 5, 
-  "title": "Pendle Witches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8451, 
+                "name": "swimming costume", 
+                "workCount": 40
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77906_8.jpg", 
+  "title": "Pendle Witches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rego-pendle-witches-p77906", 
+  "width": "357"
 }

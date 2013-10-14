@@ -1,6 +1,5 @@
 {
   "acno": "D33617", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,82 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 220 x 271 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVII 15", 
   "foreignTitle": null, 
   "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "height": "271", 
   "id": 60788, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "Chapel on Rock among Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5850, 
+                "name": "chapel", 
+                "workCount": 164
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33617_8.jpg", 
+  "title": "Chapel on Rock among Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chapel-on-rock-among-mountains-d33617", 
+  "width": "220"
 }

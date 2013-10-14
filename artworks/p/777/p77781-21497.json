@@ -1,6 +1,5 @@
 {
   "acno": "P77781", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77769-P77770; P77773-P77781; P77788-P77799; P77839-P77850", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1986"
   }, 
   "dateText": "1986", 
+  "depth": "", 
   "dimensions": "image: 185 x 590 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Proposals", 
+  "height": "590", 
   "id": 21497, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,103 @@
       "workCount": 478
     }
   ], 
-  "popularity": 58, 
   "subjectCount": 6, 
-  "title": "Project for a Monument to Ludwig Feuerbach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2025, 
+                "name": "arrow", 
+                "workCount": 55
+              }, 
+              {
+                "id": 6412, 
+                "name": "gun, machine gun", 
+                "workCount": 17
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4116, 
+                "name": "name", 
+                "workCount": 76
+              }, 
+              {
+                "id": 3405, 
+                "name": "quotation", 
+                "workCount": 274
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10051, 
+                "name": "philosophy, Feuerbach", 
+                "workCount": 2
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77781_8.jpg", 
+  "title": "Project for a Monument to Ludwig Feuerbach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-project-for-a-monument-to-ludwig-feuerbach-p77781", 
+  "width": "185"
 }

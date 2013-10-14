@@ -1,6 +1,5 @@
 {
   "acno": "D35388", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35386-D35401; D40443", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,97 @@
     "text": "1845"
   }, 
   "dateText": "1845", 
+  "depth": "", 
   "dimensions": "support: 238 x 337 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLVII 3", 
   "foreignTitle": null, 
   "groupTitle": "Ambleteuse and Wimereux Sketchbook [Finberg CCCLVII]", 
+  "height": "337", 
   "id": 62515, 
   "inscription": "date inscribed", 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 43, 
   "subjectCount": 7, 
-  "title": "A Storm Clearing Up"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }, 
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35388_8.jpg", 
+  "title": "A Storm Clearing Up", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-storm-clearing-up-d35388", 
+  "width": "238"
 }

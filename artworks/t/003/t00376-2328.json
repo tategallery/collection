@@ -1,6 +1,5 @@
 {
   "acno": "T00376", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "24", 
   "dimensions": "support: 968 x 917 x 24 mm\r\nframe: 1185 x 1139 x 70 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "917", 
   "id": 2328, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 97, 
   "subjectCount": 2, 
-  "title": "Cooling Tower II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 651, 
+                "name": "cooling tower", 
+                "workCount": 7
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific", 
+                "workCount": 552
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00376_8.jpg", 
+  "title": "Cooling Tower II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clough-cooling-tower-ii-t00376", 
+  "width": "968"
 }

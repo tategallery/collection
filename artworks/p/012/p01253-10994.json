@@ -1,6 +1,5 @@
 {
   "acno": "P01253", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01253-P01257", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 356 x 235 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Girls", 
+  "height": "235", 
   "id": 10994, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
@@ -47,7 +47,96 @@
       "workCount": 36
     }
   ], 
-  "popularity": 2013, 
   "subjectCount": 6, 
-  "title": "Lorraine"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 4059, 
+                "name": "hair", 
+                "workCount": 111
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 2594, 
+                "name": "looking down", 
+                "workCount": 126
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "", 
+  "title": "Lorraine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ovenden-lorraine-p01253", 
+  "width": "356"
 }

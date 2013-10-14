@@ -1,6 +1,5 @@
 {
   "acno": "N05654", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "N05647-N05654", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,107 @@
     "text": "1916"
   }, 
   "dateText": "1916", 
+  "depth": "100", 
   "dimensions": "object: 255 x 103 x 100 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies for a Statue of Sir Joshua Reynolds", 
+  "height": "103", 
   "id": 16460, 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6029, 
+                "name": "Reynolds, Joshua, Sir", 
+                "workCount": 10
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 199, 
+                "name": "palette", 
+                "workCount": 55
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05654_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wood-title-not-known-n05654", 
+  "width": "255"
 }

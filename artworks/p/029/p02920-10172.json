@@ -1,6 +1,5 @@
 {
   "acno": "P02920", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02912-P02926", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 212 x 275 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Animals in the Zoo", 
+  "height": "275", 
   "id": 10172, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 103, 
   "subjectCount": 1, 
-  "title": "Zebra"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1659, 
+                "name": "zebra", 
+                "workCount": 7
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02920_8.jpg", 
+  "title": "Zebra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-zebra-p02920", 
+  "width": "212"
 }

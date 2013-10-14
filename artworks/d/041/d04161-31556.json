@@ -1,6 +1,5 @@
 {
   "acno": "D04161", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,94 @@
     "text": "c.1800-2"
   }, 
   "dateText": "c.1800-2", 
+  "depth": "", 
   "dimensions": "support: 556 x 768 mm", 
-  "displayLocation": null, 
   "finberg": "LXX J", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "768", 
   "id": 31556, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 5, 
-  "title": "Cattle in Stream, with Ruins on Bank"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04161_8.jpg", 
+  "title": "Cattle in Stream, with Ruins on Bank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cattle-in-stream-with-ruins-on-bank-d04161", 
+  "width": "556"
 }

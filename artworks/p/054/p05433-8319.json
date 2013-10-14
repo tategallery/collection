@@ -1,6 +1,5 @@
 {
   "acno": "P05433", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05433-P05436", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 236 x 302 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Eiland I", 
   "groupTitle": "Island Series", 
+  "height": "302", 
   "id": 8319, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "Island I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2414, 
+                "name": "island", 
+                "workCount": 310
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05433_8.jpg", 
+  "title": "Island I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landsaat-island-i-p05433", 
+  "width": "236"
 }

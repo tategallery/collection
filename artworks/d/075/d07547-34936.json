@@ -1,6 +1,5 @@
 {
   "acno": "D07547", 
-  "addlImageCount": 0, 
   "catTextResId": 1135662, 
   "catalogueGroup": {
     "accessionRanges": "D07537-D07592; D40744-D40745", 
@@ -28,17 +27,52 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CX 9", 
   "foreignTitle": null, 
   "groupTitle": "Cockermouth Sketchbook [Finberg CX]", 
+  "height": "185", 
   "id": 34936, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "Near Penrith: Cornfields and Distant Fells"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07547_8.jpg", 
+  "title": "Near Penrith: Cornfields and Distant Fells", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-near-penrith-cornfields-and-distant-fells-d07547", 
+  "width": "116"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T01643", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "c.1903-4"
   }, 
   "dateText": "c.1903-4", 
+  "depth": "", 
   "dimensions": "support: 397 x 311 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Portrait de jeune homme", 
   "groupTitle": null, 
+  "height": "311", 
   "id": 5405, 
   "inscription": null, 
   "medium": "Pastel on paper", 
   "movementCount": 0, 
-  "popularity": 97, 
   "subjectCount": 3, 
-  "title": "Portrait of a Young Man"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4059, 
+                "name": "hair", 
+                "workCount": 111
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01643_8.jpg", 
+  "title": "Portrait of a Young Man", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-portrait-of-a-young-man-t01643", 
+  "width": "397"
 }

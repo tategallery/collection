@@ -1,6 +1,5 @@
 {
   "acno": "P01693", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01688-P01697", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 305 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tetrad Pamphlets Vol. I Nos. I-X", 
+  "height": "508", 
   "id": 11895, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 17, 
   "subjectCount": 3, 
-  "title": "The Alphabet Twice"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3405, 
+                "name": "quotation", 
+                "workCount": 274
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01693_8.jpg", 
+  "title": "The Alphabet Twice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pinkney-the-alphabet-twice-p01693", 
+  "width": "305"
 }

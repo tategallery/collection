@@ -1,6 +1,5 @@
 {
   "acno": "D13702", 
-  "addlImageCount": 0, 
   "catTextResId": 1132249, 
   "catalogueGroup": {
     "accessionRanges": "D13587-D13654; D13656-D13747; D40913-D40916", 
@@ -28,17 +27,121 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 112 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVII 65", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Antiquities Sketchbook [Finberg CLXVII]", 
+  "height": "186", 
   "id": 41069, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 137, 
-  "popularity": 45, 
   "subjectCount": 6, 
-  "title": "High Street, Edinburgh"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7098, 
+                "name": "Edinburgh", 
+                "workCount": 313
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9149, 
+                "name": "Edinburgh, High Street", 
+                "workCount": 9
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13702_8.jpg", 
+  "title": "High Street, Edinburgh", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-high-street-edinburgh-d13702", 
+  "width": "112"
 }

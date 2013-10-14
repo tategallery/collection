@@ -1,6 +1,5 @@
 {
   "acno": "P07504", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07501-P07506", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1975-9"
   }, 
   "dateText": "1975-9", 
+  "depth": "", 
   "dimensions": "image: 545 x 314 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Blossoms and Flowers", 
+  "height": "314", 
   "id": 9069, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 56, 
   "subjectCount": 2, 
-  "title": "Roses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1283, 
+                "name": "rose", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07504_8.jpg", 
+  "title": "Roses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-roses-p07504", 
+  "width": "545"
 }

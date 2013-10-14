@@ -1,6 +1,5 @@
 {
   "acno": "D15495", 
-  "addlImageCount": 0, 
   "catTextResId": 1137771, 
   "catalogueGroup": {
     "accessionRanges": "D15467-D15554; D41397-D41398", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 253 x 200 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXIII 28", 
   "foreignTitle": null, 
   "groupTitle": "Tivoli Sketchbook [Finberg CLXXXIII]", 
+  "height": "200", 
   "id": 42851, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 57, 
-  "popularity": 17, 
   "subjectCount": 1, 
-  "title": "Study of a Waterfall, Tivoli"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15495_8.jpg", 
+  "title": "Study of a Waterfall, Tivoli", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-waterfall-tivoli-d15495", 
+  "width": "253"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05340", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "exhibited 1940"
   }, 
   "dateText": "exhibited 1940", 
+  "depth": "", 
   "dimensions": "support: 457 x 610 mm\r\nframe: 598 x 752 x 77 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "610", 
   "id": 1627, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 4, 
-  "title": "Nutwith Common, Masham"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2845, 
+                "name": "Masham, Nutwith Common", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North", 
+                "workCount": 679
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05340_8.jpg", 
+  "title": "Nutwith Common, Masham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brundrit-nutwith-common-masham-n05340", 
+  "width": "457"
 }

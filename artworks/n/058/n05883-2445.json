@@ -1,6 +1,5 @@
 {
   "acno": "N05883", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1937-8"
   }, 
   "dateText": "1937-8", 
+  "depth": "", 
   "dimensions": "support: 770 x 1018 mm\r\nframe: 945 x 1208 x 120 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1018", 
   "id": 2445, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,108 @@
       "workCount": 29
     }
   ], 
-  "popularity": 437, 
   "subjectCount": 7, 
-  "title": "Inez Spender"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3812, 
+                "name": "Pearn, Agnes Marie 'Inez'", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3813, 
+                "name": "Spender, Agnes Marie 'Inez'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 1215, 
+                "name": "arms folded", 
+                "workCount": 84
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 839, 
+                "name": "couch", 
+                "workCount": 157
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05883_8.jpg", 
+  "title": "Inez Spender", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/coldstream-inez-spender-n05883", 
+  "width": "770"
 }

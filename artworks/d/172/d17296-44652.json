@@ -1,6 +1,5 @@
 {
   "acno": "D17296", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17207-D17364; D40685-D40686", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1821"
   }, 
   "dateText": "c.1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CXCVIII 55", 
   "foreignTitle": null, 
   "groupTitle": "Folkestone Sketchbook [Finberg CXCVIII]", 
+  "height": "187", 
   "id": 44652, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 111, 
-  "popularity": 106, 
   "subjectCount": 5, 
-  "title": "Calshot Castle and Hurst [Turner] Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13388, 
+                "name": "Calshot, Calshot Castle", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 607, 
+                "name": "Hampshire", 
+                "workCount": 138
+              }, 
+              {
+                "id": 810, 
+                "name": "Kent", 
+                "workCount": 751
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17296_8_R.jpg", 
+  "title": "Calshot Castle and Hurst [Turner] Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-calshot-castle-and-hurst-turner-castle-d17296", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02525", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 164 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "LIII 38", 
   "foreignTitle": null, 
   "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "height": "117", 
   "id": 29928, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 77, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "A Broad River Valley with Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02525_8.jpg", 
+  "title": "A Broad River Valley with Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-broad-river-valley-with-distant-hills-d02525", 
+  "width": "164"
 }

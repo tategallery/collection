@@ -1,6 +1,5 @@
 {
   "acno": "D24030", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23886-D24076; D41070", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 174 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIV 75 a", 
   "foreignTitle": null, 
   "groupTitle": "Seine and Paris Sketchbook [Finberg CCLIV]", 
+  "height": "117", 
   "id": 51367, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 152, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "Banks of River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24030_8.jpg", 
+  "title": "Banks of River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-banks-of-river-d24030", 
+  "width": "174"
 }

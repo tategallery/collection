@@ -1,6 +1,5 @@
 {
   "acno": "D09797", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1812-15"
   }, 
   "dateText": "c.1812-15", 
+  "depth": "", 
   "dimensions": "support: 179 x 254 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIV 8", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook [Finberg CXXXIV]", 
+  "height": "254", 
   "id": 37176, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 131, 
-  "popularity": 10, 
   "subjectCount": 4, 
-  "title": "A Stream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09797_8.jpg", 
+  "title": "A Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stream-d09797", 
+  "width": "179"
 }

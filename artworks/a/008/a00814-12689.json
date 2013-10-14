@@ -1,6 +1,5 @@
 {
   "acno": "A00814", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1860"
   }, 
   "dateText": "c.1860", 
+  "depth": "", 
   "dimensions": "support: 200 x 106 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "106", 
   "id": 12689, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,77 @@
       "workCount": 405
     }
   ], 
-  "popularity": 102, 
   "subjectCount": 5, 
-  "title": "Study for 'The Black Brunswicker'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 273, 
+                "name": "comforting", 
+                "workCount": 62
+              }, 
+              {
+                "id": 544, 
+                "name": "embracing", 
+                "workCount": 349
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 867, 
+                "name": "soldier", 
+                "workCount": 686
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00814_8.jpg", 
+  "title": "Study for 'The Black Brunswicker'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/millais-study-for-the-black-brunswicker-a00814", 
+  "width": "200"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D30728", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30633-D30634; D30636-D30637; D30639-D30668; D30670-D30671; D30673-D30680; D30682-D30684; D30686; D30688-D30723; D30725-D30822; D41225", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 190 x 118 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIV 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook [Finberg CCCIV]", 
+  "height": "118", 
   "id": 57969, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 104, 
-  "popularity": 18, 
   "subjectCount": 1, 
-  "title": "Sketches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30728_8.jpg", 
+  "title": "Sketches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-d30728", 
+  "width": "190"
 }

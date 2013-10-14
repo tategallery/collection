@@ -1,6 +1,5 @@
 {
   "acno": "D06575", 
-  "addlImageCount": 0, 
   "catTextResId": 1139109, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
@@ -28,17 +27,90 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "support: 118 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "C 49", 
   "foreignTitle": null, 
   "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "height": "187", 
   "id": 33966, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 109, 
-  "popularity": 25, 
   "subjectCount": 4, 
-  "title": "?Near St Catherine's Lock, Guildford"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06575_8.jpg", 
+  "title": "?Near St Catherine's Lock, Guildford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-near-st-catherines-lock-guildford-d06575", 
+  "width": "118"
 }

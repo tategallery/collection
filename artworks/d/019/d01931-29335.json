@@ -1,6 +1,5 @@
 {
   "acno": "D01931", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01912-D01991; D41266-D41274", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 330 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "XLV 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Lancashire and North Wales Sketchbook [Finberg XLV]", 
+  "height": "228", 
   "id": 29335, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 19, 
   "subjectCount": 4, 
-  "title": "A Landscape with a Road over a Hill and a Windmill on the Skyline"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01931_8.jpg", 
+  "title": "A Landscape with a Road over a Hill and a Windmill on the Skyline", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-landscape-with-a-road-over-a-hill-and-a-windmill-on-the-skyline-d01931", 
+  "width": "330"
 }

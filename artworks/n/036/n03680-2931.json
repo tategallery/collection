@@ -1,6 +1,5 @@
 {
   "acno": "N03680", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1895"
   }, 
   "dateText": "c.1895", 
+  "depth": "", 
   "dimensions": "support: 241 x 305 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "305", 
   "id": 2931, 
   "inscription": null, 
   "medium": "Watercolour on silk", 
@@ -41,7 +41,108 @@
       "workCount": 8
     }
   ], 
-  "popularity": 155, 
   "subjectCount": 7, 
-  "title": "The Dove"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl", 
+                "workCount": 66
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 6849, 
+                "name": "cage", 
+                "workCount": 37
+              }, 
+              {
+                "id": 6553, 
+                "name": "perch", 
+                "workCount": 2
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 466, 
+                "name": "bush", 
+                "workCount": 140
+              }, 
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 265, 
+                "name": "dove", 
+                "workCount": 52
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03680_8.jpg", 
+  "title": "The Dove", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/crawhall-the-dove-n03680", 
+  "width": "241"
 }

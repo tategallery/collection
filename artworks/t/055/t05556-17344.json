@@ -1,6 +1,5 @@
 {
   "acno": "T05556", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "support: 1524 x 1985 mm\r\nframe: 1582 x 2044 x 51 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1985", 
   "id": 17344, 
   "inscription": null, 
   "medium": "Oil paint, household paint and metal leaf on hardboard", 
@@ -51,7 +51,60 @@
       "workCount": 39
     }
   ], 
-  "popularity": 307, 
   "subjectCount": 3, 
-  "title": "The Change"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1712, 
+                "name": "Buddhism", 
+                "workCount": 11
+              }
+            ], 
+            "id": 137, 
+            "name": "world religions", 
+            "workCount": 72
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05556_8.jpg", 
+  "title": "The Change", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rumney-the-change-t05556", 
+  "width": "1524"
 }

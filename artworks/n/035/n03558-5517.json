@@ -1,6 +1,5 @@
 {
   "acno": "N03558", 
-  "addlImageCount": 0, 
   "catTextResId": 1139020, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1913"
   }, 
   "dateText": "1913", 
+  "depth": "", 
   "dimensions": "support: 559 x 686 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "686", 
   "id": 5517, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,127 @@
       "workCount": 56
     }
   ], 
-  "popularity": 447, 
   "subjectCount": 8, 
-  "title": "From a Window in Cambrian Road, Richmond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 12283, 
+                "name": "Richmond upon Thames", 
+                "workCount": 91
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 12286, 
+                "name": "Richmond upon Thames, Cambrian Road", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence", 
+                "workCount": 262
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03558_8.jpg", 
+  "title": "From a Window in Cambrian Road, Richmond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gore-from-a-window-in-cambrian-road-richmond-n03558", 
+  "width": "559"
 }

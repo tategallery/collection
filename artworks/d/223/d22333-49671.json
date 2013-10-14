@@ -1,6 +1,5 @@
 {
   "acno": "D22333", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 78 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXL 7", 
   "foreignTitle": null, 
   "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "height": "108", 
   "id": 49671, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Sketch for 'Jessica'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13148, 
+                "name": "Jessica", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22333_8_R.jpg", 
+  "title": "Sketch for 'Jessica'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketch-for-jessica-d22333", 
+  "width": "78"
 }

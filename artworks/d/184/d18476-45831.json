@@ -1,6 +1,5 @@
 {
   "acno": "D18476", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18471-D18476; D19552-D19775; D19778-D19946; D19948-D20083; D40727-D40728", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 118 x 78 mm", 
-  "displayLocation": null, 
   "finberg": "CCX 92 a", 
   "foreignTitle": null, 
   "groupTitle": "Rivers Meuse and Moselle Sketchbook [Finberg CCXVI]", 
+  "height": "78", 
   "id": 45831, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 294, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "?Castle on Hill in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18476_8.jpg", 
+  "title": "?Castle on Hill in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-hill-in-distance-d18476", 
+  "width": "118"
 }

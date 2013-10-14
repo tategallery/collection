@@ -1,6 +1,5 @@
 {
   "acno": "D07580", 
-  "addlImageCount": 0, 
   "catTextResId": 1135696, 
   "catalogueGroup": {
     "accessionRanges": "D07537-D07592; D40744-D40745", 
@@ -28,17 +27,57 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CX 38", 
   "foreignTitle": null, 
   "groupTitle": "Cockermouth Sketchbook [Finberg CX]", 
+  "height": "185", 
   "id": 34969, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 77, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "St Bees Head, Looking North to Saltom Bay"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07580_8.jpg", 
+  "title": "St Bees Head, Looking North to Saltom Bay", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-bees-head-looking-north-to-saltom-bay-d07580", 
+  "width": "116"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D10949", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "c.1815-16"
   }, 
   "dateText": "c.1815-16", 
+  "depth": "", 
   "dimensions": "support: 154 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CXLIV 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
+  "height": "97", 
   "id": 38324, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 92, 
-  "popularity": 15, 
   "subjectCount": 5, 
-  "title": "Castle with Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10949_8_R.jpg", 
+  "title": "Castle with Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-with-bridge-d10949", 
+  "width": "154"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D08959", 
-  "addlImageCount": 0, 
   "catTextResId": 1137556, 
   "catalogueGroup": {
     "accessionRanges": "D08945-D08964; D40294-D40295; D41531", 
@@ -28,16 +27,46 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 200 x 324 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVI 13", 
   "foreignTitle": null, 
   "groupTitle": "Somerset and North Devon Sketchbook [Finberg CXXVI]", 
+  "height": "324", 
   "id": 36338, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 28, 
   "subjectCount": 1, 
-  "title": "Lynton from Barna Barrow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08959_8.jpg", 
+  "title": "Lynton from Barna Barrow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lynton-from-barna-barrow-d08959", 
+  "width": "200"
 }

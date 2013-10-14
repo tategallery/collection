@@ -1,6 +1,5 @@
 {
   "acno": "P06208", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967-8"
   }, 
   "dateText": "1967-8", 
+  "depth": "", 
   "dimensions": "image: 606 x 441 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "441", 
   "id": 4701, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,60 @@
       "workCount": 409
     }
   ], 
-  "popularity": 122, 
   "subjectCount": 3, 
-  "title": "Red and Black Linear"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry", 
+                "workCount": 184
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06208_8.jpg", 
+  "title": "Red and Black Linear", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-red-and-black-linear-p06208", 
+  "width": "606"
 }

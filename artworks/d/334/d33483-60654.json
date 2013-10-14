@@ -1,6 +1,5 @@
 {
   "acno": "D33483", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33470-D33505; D40160; D40323-D40324; D40419-D40420", 
     "completeStatus": "COMPLETE", 
@@ -27,19 +26,120 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 229 x 293 mm", 
-  "displayLocation": {
-    "name": "Muse\u00e9 Jenisch (Vevey, Switzerland)", 
-    "url": "http://www.museejenisch.ch/"
-  }, 
   "finberg": "CCCXXXII 13", 
   "foreignTitle": null, 
   "groupTitle": "Fribourg, Lausanne and Geneva Sketchbook [Finberg CCCXXXII]", 
+  "height": "293", 
   "id": 60654, 
   "inscription": null, 
   "medium": "Watercolour and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 6, 
-  "title": "Chillon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9037, 
+                "name": "Ch\u00e2teau de Chillon", 
+                "workCount": 11
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)", 
+            "workCount": 784
+          }, 
+          {
+            "children": [
+              {
+                "id": 7923, 
+                "name": "Lake Geneva", 
+                "workCount": 71
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33483_8.jpg", 
+  "title": "Chillon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chillon-d33483", 
+  "width": "229"
 }

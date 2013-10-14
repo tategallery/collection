@@ -1,6 +1,5 @@
 {
   "acno": "P03092", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1967-8"
   }, 
   "dateText": "1967-8", 
+  "depth": "", 
   "dimensions": "image: 2032 x 4572 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4572", 
   "id": 7204, 
-  "images": [
-    {
-      "copyright": "\u00a9 Allen Jones", 
-      "filenameBase": "P03092_285196", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P03/P03092_285196_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 88
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P03/P03092_285196_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 177
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P03/P03092_285196_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 353
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "P/P03/P03092_285196_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1059
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 1, 
@@ -85,7 +41,115 @@
       "workCount": 846
     }
   ], 
-  "popularity": 129, 
   "subjectCount": 7, 
-  "title": "Legs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5172, 
+                "name": "billboard", 
+                "workCount": 14
+              }, 
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1572, 
+                "name": "eye", 
+                "workCount": 71
+              }, 
+              {
+                "id": 1076, 
+                "name": "leg", 
+                "workCount": 78
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4896, 
+                "name": "poster", 
+                "workCount": 655
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03092_8.jpg", 
+  "title": "Legs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-legs-p03092", 
+  "width": "2032"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D00093", 
-  "addlImageCount": 0, 
   "catTextResId": 1140144, 
   "catalogueGroup": {
     "accessionRanges": "D00072-D00107; D40733-D40736", 
@@ -28,17 +27,52 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 185 x 263 mm", 
-  "displayLocation": null, 
   "finberg": "VI 16", 
   "foreignTitle": null, 
   "groupTitle": "Bristol and Malmesbury Sketchbook [Finberg VI]", 
+  "height": "263", 
   "id": 27509, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 24, 
   "subjectCount": 2, 
-  "title": "Studies of a Porch and Decorated Moulding"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00093_8.jpg", 
+  "title": "Studies of a Porch and Decorated Moulding", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-a-porch-and-decorated-moulding-d00093", 
+  "width": "185"
 }

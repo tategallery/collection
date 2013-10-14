@@ -1,6 +1,5 @@
 {
   "acno": "D23342", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 133 x 91 mm", 
-  "displayLocation": null, 
   "finberg": "CCL 4", 
   "foreignTitle": null, 
   "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "height": "91", 
   "id": 50679, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "House on Rocks. G [Turner] (Granville)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23342_8.jpg", 
+  "title": "House on Rocks. G [Turner] (Granville)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-house-on-rocks-g-turner-granville-d23342", 
+  "width": "133"
 }

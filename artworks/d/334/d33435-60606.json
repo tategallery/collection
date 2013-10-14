@@ -1,6 +1,5 @@
 {
   "acno": "D33435", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33406-D33469; D41103-D41104", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 173 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXI 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Lake of Zug and Goldau Sketchbook [Finberg CCCXXXI]", 
+  "height": "73", 
   "id": 60606, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Bridge, with View of Town; Also Castle, Etc., on Rock, with Lake in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33435_8.jpg", 
+  "title": "Bridge, with View of Town; Also Castle, Etc., on Rock, with Lake in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-with-view-of-town-also-castle-etc-on-rock-with-lake-in-distance-d33435", 
+  "width": "173"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D07862", 
-  "addlImageCount": 0, 
   "catTextResId": 1135817, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,76 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 114 x 83 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 6", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "83", 
   "id": 35251, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 44, 
   "subjectCount": 4, 
-  "title": "Head and Left Arm of a Female Nude"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 4593, 
+                "name": "head in hand/hands", 
+                "workCount": 234
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07862_8.jpg", 
+  "title": "Head and Left Arm of a Female Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-head-and-left-arm-of-a-female-nude-d07862", 
+  "width": "114"
 }

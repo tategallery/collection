@@ -1,6 +1,5 @@
 {
   "acno": "D32028", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31929-D31936; D31938-D32053; D32055-D32097; D32099-D32116; D41113-D41114", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 203 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIV 52 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice Sketchbook [Finberg CCCXIV]", 
+  "height": "109", 
   "id": 59247, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 106, 
-  "popularity": 12, 
   "subjectCount": 1, 
-  "title": "The Atrium of the Basilica di San Marco: the Main Entrance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32028_8.jpg", 
+  "title": "The Atrium of the Basilica di San Marco: the Main Entrance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-atrium-of-the-basilica-di-san-marco-the-main-entrance-d32028", 
+  "width": "203"
 }

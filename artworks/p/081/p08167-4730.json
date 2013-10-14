@@ -1,6 +1,5 @@
 {
   "acno": "P08167", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P08164-P08173", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1930"
   }, 
   "dateText": "1930", 
+  "depth": "", 
   "dimensions": "image: 380 x 280 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Architectural Lithographs", 
+  "height": "280", 
   "id": 4730, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,110 @@
       "workCount": 67
     }
   ], 
-  "popularity": 104, 
   "subjectCount": 6, 
-  "title": "Elne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8724, 
+                "name": "Elne", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }, 
+              {
+                "id": 3568, 
+                "name": "ceiling", 
+                "workCount": 128
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08167_8.jpg", 
+  "title": "Elne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fry-elne-p08167", 
+  "width": "380"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05657", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1921"
   }, 
   "dateText": "1921", 
+  "depth": "", 
   "dimensions": "support: 305 x 454 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Kom\u00f6die", 
   "groupTitle": null, 
+  "height": "454", 
   "id": 8139, 
   "inscription": "date inscribed", 
   "medium": "Watercolour and oil paint on paper", 
@@ -41,7 +41,86 @@
       "workCount": 15
     }
   ], 
-  "popularity": 2580, 
   "subjectCount": 4, 
-  "title": "Comedy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9405, 
+                "name": "comedy", 
+                "workCount": 4
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05657_8.jpg", 
+  "title": "Comedy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/klee-comedy-n05657", 
+  "width": "305"
 }

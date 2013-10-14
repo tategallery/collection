@@ -1,6 +1,5 @@
 {
   "acno": "P05297", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05297-P05302", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 744 x 600 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Lorry I", 
+  "height": "600", 
   "id": 16274, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 3, 
-  "title": "[title page]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5134, 
+                "name": "lorry", 
+                "workCount": 18
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05297_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-title-page-p05297", 
+  "width": "744"
 }

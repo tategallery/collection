@@ -1,6 +1,5 @@
 {
   "acno": "T07867", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "3000", 
   "dimensions": "unconfirmed: 1700 x 9500 x 3000 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "9500", 
   "id": 223, 
-  "images": [
-    {
-      "copyright": "\u00a9 Tate", 
-      "filenameBase": "T07867_150923", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07867_150923_7.jpg", 
-          "height": 60, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07867_150923_8.jpg", 
-          "height": 120, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07867_150923_9.jpg", 
-          "height": 241, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T07/T07867_150923_10.jpg", 
-          "height": 722, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood, stainless steel, aluminium and resin", 
   "movementCount": 1, 
@@ -85,7 +41,36 @@
       "workCount": 44
     }
   ], 
-  "popularity": 730, 
   "subjectCount": 1, 
-  "title": "After"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07867_8.jpg", 
+  "title": "After", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/deacon-after-t07867", 
+  "width": "1700"
 }

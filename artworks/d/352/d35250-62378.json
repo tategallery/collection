@@ -1,6 +1,5 @@
 {
   "acno": "D35250", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35240-D35261; D40442", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,96 @@
     "text": "c.1845"
   }, 
   "dateText": "c.1845", 
+  "depth": "", 
   "dimensions": "support: 222 x 330 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLIII 11", 
   "foreignTitle": null, 
   "groupTitle": "The Whalers Sketchbook [Finberg CCCLIII]", 
+  "height": "330", 
   "id": 62378, 
   "inscription": null, 
   "medium": "Chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 87, 
   "subjectCount": 4, 
-  "title": "Whalers at Sea at Sunset"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6220, 
+                "name": "whaler", 
+                "workCount": 12
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35250_8.jpg", 
+  "title": "Whalers at Sea at Sunset", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-whalers-at-sea-at-sunset-d35250", 
+  "width": "222"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03375", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "support: 1155 x 2810 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2810", 
   "id": 12604, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 535, 
   "subjectCount": 2, 
-  "title": "To a Summer's Day"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03375_8.jpg", 
+  "title": "To a Summer's Day", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-to-a-summers-day-t03375", 
+  "width": "1155"
 }

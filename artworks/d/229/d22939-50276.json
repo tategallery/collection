@@ -1,6 +1,5 @@
 {
   "acno": "D22939", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22905-D23010; D41063", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1828"
   }, 
   "dateText": "c.1828", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLVI 24", 
   "foreignTitle": null, 
   "groupTitle": "Brighton, Newhaven and Cowdray Sketchbook [Finberg CCXLVI]", 
+  "height": "190", 
   "id": 50276, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Road Leading to Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22939_8.jpg", 
+  "title": "Road Leading to Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-road-leading-to-town-d22939", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D23602", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23525-D23698; D41074-D41076", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,100 @@
     "text": "?1832"
   }, 
   "dateText": "?1832", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLII 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Guernsey Sketchbook [Finberg CCLII]", 
+  "height": "187", 
   "id": 50939, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 90, 
-  "popularity": 8, 
   "subjectCount": 6, 
-  "title": "Castle on Rock, with Light Ships, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23602_8_R.jpg", 
+  "title": "Castle on Rock, with Light Ships, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-with-light-ships-etc-d23602", 
+  "width": "114"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T06977", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1938-40"
   }, 
   "dateText": "1938-40", 
+  "depth": "220", 
   "dimensions": "object: 324 x 470 x 220 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "470", 
   "id": 21298, 
   "inscription": null, 
   "medium": "Perspex and celluloid", 
@@ -51,7 +51,67 @@
       "workCount": 409
     }
   ], 
-  "popularity": 428, 
   "subjectCount": 3, 
-  "title": "Construction in Space with Crystalline Centre"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4619, 
+                "name": "crystal", 
+                "workCount": 4
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06977_8.jpg", 
+  "title": "Construction in Space with Crystalline Centre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-construction-in-space-with-crystalline-centre-t06977", 
+  "width": "324"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D03037", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 182 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LVI 63 a", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "height": "114", 
   "id": 30433, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 132, 
-  "popularity": 29, 
   "subjectCount": 4, 
-  "title": "Kilchurn: Near View of the Castle from South West, with Distant Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute", 
+                "workCount": 237
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9297, 
+                "name": "Kilchurn Castle", 
+                "workCount": 15
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks", 
+            "workCount": 837
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03037_8.jpg", 
+  "title": "Kilchurn: Near View of the Castle from South West, with Distant Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-kilchurn-near-view-of-the-castle-from-south-west-with-distant-mountains-d03037", 
+  "width": "182"
 }

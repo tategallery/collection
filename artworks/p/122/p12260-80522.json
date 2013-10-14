@@ -1,6 +1,5 @@
 {
   "acno": "P12260", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1985"
   }, 
   "dateText": "1985", 
+  "depth": "", 
   "dimensions": "image: 579 x 572 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "572", 
   "id": 80522, 
   "inscription": null, 
   "medium": "Woodcut, aquatint and etching on paper", 
   "movementCount": 0, 
-  "popularity": 69, 
   "subjectCount": 2, 
-  "title": "Psyche: The Blue Martin"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6849, 
+                "name": "cage", 
+                "workCount": 37
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12260_8.jpg", 
+  "title": "Psyche: The Blue Martin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/solien-psyche-the-blue-martin-p12260", 
+  "width": "579"
 }

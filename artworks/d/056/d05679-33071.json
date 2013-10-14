@@ -1,6 +1,5 @@
 {
   "acno": "D05679", 
-  "addlImageCount": 0, 
   "catTextResId": 1130990, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
@@ -28,17 +27,66 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 128 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "XCI 62", 
   "foreignTitle": null, 
   "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "height": "201", 
   "id": 33071, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 125, 
-  "popularity": 33, 
   "subjectCount": 2, 
-  "title": "A Mill Wheel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5445, 
+                "name": "waterwheel", 
+                "workCount": 17
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05679_8.jpg", 
+  "title": "A Mill Wheel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mill-wheel-d05679", 
+  "width": "128"
 }

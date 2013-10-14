@@ -1,6 +1,5 @@
 {
   "acno": "D29804", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29772-D29813; D41133-D41135", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 170 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCVII 17 a", 
   "foreignTitle": null, 
   "groupTitle": "Spires and Heidelberg Sketchbook [Finberg CCXCVII]", 
+  "height": "109", 
   "id": 57066, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 36, 
   "subjectCount": 3, 
-  "title": "(1) Heidelberg: The Castle from the Hillside to the East; (2) Heidelberg Castle: The Gate Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 10471, 
+                "name": "Heidelberg, Heidelberg Castle", 
+                "workCount": 37
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29804_8.jpg", 
+  "title": "(1) Heidelberg: The Castle from the Hillside to the East; (2) Heidelberg Castle: The Gate Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-heidelberg-the-castle-from-the-hillside-to-the-east-2-heidelberg-castle-the-gate-tower-d29804", 
+  "width": "170"
 }

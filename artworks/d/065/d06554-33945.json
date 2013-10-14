@@ -1,6 +1,5 @@
 {
   "acno": "D06554", 
-  "addlImageCount": 0, 
   "catTextResId": 1139082, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
@@ -28,17 +27,78 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "support: 118 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "C 34", 
   "foreignTitle": null, 
   "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "height": "187", 
   "id": 33945, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 17, 
   "subjectCount": 3, 
-  "title": "Houses and Trees with a Church Tower in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06554_8.jpg", 
+  "title": "Houses and Trees with a Church Tower in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-and-trees-with-a-church-tower-in-the-distance-d06554", 
+  "width": "118"
 }

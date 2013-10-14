@@ -1,6 +1,5 @@
 {
   "acno": "D30595", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30460-D30488; D30490; D30492-D30538; D30540-D30596; D30598-D30632; D41128-D41130", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 170 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIII 70", 
   "foreignTitle": null, 
   "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook [Finberg CCCIII]", 
+  "height": "104", 
   "id": 57845, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 143, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "Landscape with Stormy Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30595_8.jpg", 
+  "title": "Landscape with Stormy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-stormy-sky-d30595", 
+  "width": "170"
 }

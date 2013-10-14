@@ -1,6 +1,5 @@
 {
   "acno": "D35862", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "after c.1830"
   }, 
   "dateText": "after c.1830", 
+  "depth": "", 
   "dimensions": "support: 244 x 302 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 25", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "302", 
   "id": 62950, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "Valley, with Mountains and Waterfall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35862_8.jpg", 
+  "title": "Valley, with Mountains and Waterfall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-valley-with-mountains-and-waterfall-d35862", 
+  "width": "244"
 }

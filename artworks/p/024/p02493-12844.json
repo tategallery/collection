@@ -1,6 +1,5 @@
 {
   "acno": "P02493", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02493-P02495", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "unconfirmed: 225 x 382 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Feminine Thought", 
+  "height": "382", 
   "id": 12844, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 2, 
-  "title": "[cover]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender", 
+                "workCount": 151
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02493_8.jpg", 
+  "title": "[cover]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-cover-p02493", 
+  "width": "225"
 }

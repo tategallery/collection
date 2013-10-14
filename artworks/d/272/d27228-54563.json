@@ -1,6 +1,5 @@
 {
   "acno": "D27228", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27226-D27280; D41084-D41085", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVIII 2", 
   "foreignTitle": null, 
   "groupTitle": "Mouth of the Thames Sketchbook [Finberg CCLXXVIII]", 
+  "height": "189", 
   "id": 54563, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 11, 
   "subjectCount": 5, 
-  "title": "Study for a Classical Subject. (?Hero and Leander)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27228_8.jpg", 
+  "title": "Study for a Classical Subject. (?Hero and Leander)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-for-a-classical-subject-hero-and-leander-d27228", 
+  "width": "113"
 }

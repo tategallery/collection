@@ -1,6 +1,5 @@
 {
   "acno": "T11285", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11221-T11289; T11380", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,50 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 153 x 220 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Various Birds and Beasts Drawn from the Life", 
+  "height": "220", 
   "id": 25606, 
   "inscription": null, 
   "medium": "Engraving on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }, 
+              {
+                "id": 7670, 
+                "name": "bird of prey", 
+                "workCount": 17
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11285_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-title-not-known-t11285", 
+  "width": "153"
 }

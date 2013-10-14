@@ -1,6 +1,5 @@
 {
   "acno": "P06466", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06466-P06469", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "image: 772 x 513 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Hammerklavier Theme", 
+  "height": "513", 
   "id": 12461, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 52, 
   "subjectCount": 3, 
-  "title": "Le Poisson d'Or"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4166, 
+                "name": "goldfish", 
+                "workCount": 4
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool", 
+                "workCount": 376
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06466_8.jpg", 
+  "title": "Le Poisson d'Or", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-le-poisson-dor-p06466", 
+  "width": "772"
 }

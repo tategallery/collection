@@ -1,6 +1,5 @@
 {
   "acno": "A00845", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1859"
   }, 
   "dateText": "1859", 
+  "depth": "", 
   "dimensions": "support: 140 x 146 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "146", 
   "id": 12766, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,60 @@
       "workCount": 405
     }
   ], 
-  "popularity": 168, 
   "subjectCount": 3, 
-  "title": "Fanny Cornforth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1372, 
+                "name": "Cornforth, Fanny", 
+                "workCount": 4
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00845_8.jpg", 
+  "title": "Fanny Cornforth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-fanny-cornforth-a00845", 
+  "width": "140"
 }

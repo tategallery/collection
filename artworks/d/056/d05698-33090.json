@@ -1,6 +1,5 @@
 {
   "acno": "D05698", 
-  "addlImageCount": 0, 
   "catTextResId": 1131009, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
@@ -28,17 +27,97 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 128 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "XCI 81", 
   "foreignTitle": null, 
   "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "height": "201", 
   "id": 33090, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 163, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "Interior of a Medieval Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 3568, 
+                "name": "ceiling", 
+                "workCount": 128
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5982, 
+                "name": "cellar", 
+                "workCount": 9
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05698_8_R.jpg", 
+  "title": "Interior of a Medieval Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-a-medieval-building-d05698", 
+  "width": "128"
 }

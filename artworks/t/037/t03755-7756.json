@@ -1,6 +1,5 @@
 {
   "acno": "T03755", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,57 @@
     "text": "c.1947-8"
   }, 
   "dateText": "c.1947-8", 
+  "depth": "140", 
   "dimensions": "object: 160 x 100 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "100", 
   "id": 7756, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T03755_151172", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03755_151172_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 86
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03755_151172_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 173
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03755_151172_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 346
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03755_151172_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1040
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Terracotta on wooden base", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Head of a Youth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03755_8.jpg", 
+  "title": "Head of a Youth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jonzen-head-of-a-youth-t03755", 
+  "width": "160"
 }

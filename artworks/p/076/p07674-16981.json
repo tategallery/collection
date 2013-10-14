@@ -1,6 +1,5 @@
 {
   "acno": "P07674", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07673-P07678", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 318 x 318 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Collection", 
+  "height": "318", 
   "id": 16981, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,60 @@
       "workCount": 24
     }
   ], 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Monitor"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1886, 
+                "name": "clock", 
+                "workCount": 58
+              }, 
+              {
+                "id": 4616, 
+                "name": "scientific instrument", 
+                "workCount": 18
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07674_8.jpg", 
+  "title": "Monitor", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolini-monitor-p07674", 
+  "width": "318"
 }

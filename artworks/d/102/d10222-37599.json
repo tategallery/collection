@@ -1,6 +1,5 @@
 {
   "acno": "D10222", 
-  "addlImageCount": 0, 
   "catTextResId": 1131263, 
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
@@ -28,17 +27,90 @@
     "text": "?1810"
   }, 
   "dateText": "?1810", 
+  "depth": "", 
   "dimensions": "support: 181 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVII 10 a", 
   "foreignTitle": null, 
   "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "height": "228", 
   "id": 37599, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 132, 
   "subjectCount": 4, 
-  "title": "Trees by the Moat of Bodiam Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8711, 
+                "name": "Bodiam, Bodiam Castle", 
+                "workCount": 16
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East", 
+                "workCount": 382
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10222_8.jpg", 
+  "title": "Trees by the Moat of Bodiam Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-by-the-moat-of-bodiam-castle-d10222", 
+  "width": "181"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T13341", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,69 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "22", 
   "dimensions": "confirmed: 835 x 1338 x 22 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1338", 
   "id": 112280, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 214, 
   "subjectCount": 3, 
-  "title": "Death and the Conquistador"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13341_8.jpg", 
+  "title": "Death and the Conquistador", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/williams-death-and-the-conquistador-t13341", 
+  "width": "835"
 }

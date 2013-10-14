@@ -1,6 +1,5 @@
 {
   "acno": "T08013", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08000-T08082; T10676", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,86 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 97 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Mackworth Praed Book", 
+  "height": "140", 
   "id": 22559, 
   "inscription": null, 
   "medium": "Graphite, watercolour and ink on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "A Hillside with Houses and Trees, beyond a River; Trees on the Right"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08013_8.jpg", 
+  "title": "A Hillside with Houses and Trees, beyond a River; Trees on the Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-hillside-with-houses-and-trees-beyond-a-river-trees-on-the-right-t08013", 
+  "width": "97"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D13333", 
-  "addlImageCount": 0, 
   "catTextResId": 1131875, 
   "catalogueGroup": {
     "accessionRanges": "D13322-D13448; D40682-D40684", 
@@ -28,17 +27,81 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 99 x 159 mm", 
-  "displayLocation": null, 
   "finberg": "CLXV 7", 
   "foreignTitle": null, 
   "groupTitle": "Bass Rock and Edinburgh Sketchbook [Finberg CLXV]", 
+  "height": "159", 
   "id": 40701, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 21, 
   "subjectCount": 5, 
-  "title": "The Bass Rock with Sailing Boat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13333_8.jpg", 
+  "title": "The Bass Rock with Sailing Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-bass-rock-with-sailing-boat-d13333", 
+  "width": "99"
 }

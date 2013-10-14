@@ -1,6 +1,5 @@
 {
   "acno": "T12240", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "25", 
   "dimensions": "support: 2037 x 2035 x 25 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2035", 
   "id": 89856, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,41 @@
       "workCount": 846
     }
   ], 
-  "popularity": 266, 
   "subjectCount": 2, 
-  "title": "Hoop-La"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12240_8.jpg", 
+  "title": "Hoop-La", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moon-hoop-la-t12240", 
+  "width": "2037"
 }

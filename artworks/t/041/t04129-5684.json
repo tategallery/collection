@@ -1,6 +1,5 @@
 {
   "acno": "T04129", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1710"
   }, 
   "dateText": "1710", 
+  "depth": "", 
   "dimensions": "support: 1146 x 1390 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1390", 
   "id": 5684, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,138 @@
       "workCount": 36
     }
   ], 
-  "popularity": 124, 
   "subjectCount": 13, 
-  "title": "A Turkey and other Fowl in a Park"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1011, 
+                "name": "balustrade", 
+                "workCount": 91
+              }, 
+              {
+                "id": 4989, 
+                "name": "terrace", 
+                "workCount": 115
+              }, 
+              {
+                "id": 535, 
+                "name": "urn", 
+                "workCount": 63
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2100, 
+                "name": "chicken", 
+                "workCount": 63
+              }, 
+              {
+                "id": 1115, 
+                "name": "duck", 
+                "workCount": 82
+              }, 
+              {
+                "id": 2765, 
+                "name": "goose", 
+                "workCount": 23
+              }, 
+              {
+                "id": 4988, 
+                "name": "kite", 
+                "workCount": 1
+              }, 
+              {
+                "id": 4991, 
+                "name": "parakeet", 
+                "workCount": 1
+              }, 
+              {
+                "id": 2921, 
+                "name": "turkey", 
+                "workCount": 18
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 907, 
+                "name": "flying", 
+                "workCount": 102
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool", 
+                "workCount": 376
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04129_8.jpg", 
+  "title": "A Turkey and other Fowl in a Park", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/griffier-a-turkey-and-other-fowl-in-a-park-t04129", 
+  "width": "1146"
 }

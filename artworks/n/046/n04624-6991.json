@@ -1,6 +1,5 @@
 {
   "acno": "N04624", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1847"
   }, 
   "dateText": "1847", 
+  "depth": "", 
   "dimensions": "support: 203 x 175 mm\r\nframe: 360 x 330 x 60 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "175", 
   "id": 6991, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on mahogany", 
@@ -41,7 +41,98 @@
       "workCount": 405
     }
   ], 
-  "popularity": 283, 
   "subjectCount": 5, 
-  "title": "F.G. Stephens"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3852, 
+                "name": "Stephens, Frederic George", 
+                "workCount": 4
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }, 
+          {
+            "children": [
+              {
+                "id": 1374, 
+                "name": "critic", 
+                "workCount": 30
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8220, 
+                "name": "monogram", 
+                "workCount": 7
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04624_8.jpg", 
+  "title": "F.G. Stephens", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hunt-fg-stephens-n04624", 
+  "width": "203"
 }

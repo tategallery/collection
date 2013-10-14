@@ -1,6 +1,5 @@
 {
   "acno": "T03736", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1913"
   }, 
   "dateText": "c.1913", 
+  "depth": "38", 
   "dimensions": "object: 455 x 175 x 38 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "175", 
   "id": 5322, 
   "inscription": null, 
   "medium": "Stone", 
@@ -41,7 +41,91 @@
       "workCount": 37
     }
   ], 
-  "popularity": 216, 
   "subjectCount": 5, 
-  "title": "Crucifix"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 252, 
+                "name": "Christ", 
+                "workCount": 193
+              }, 
+              {
+                "id": 634, 
+                "name": "Crucifixion", 
+                "workCount": 61
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament", 
+            "workCount": 394
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03736_8.jpg", 
+  "title": "Crucifix", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gill-crucifix-t03736", 
+  "width": "455"
 }

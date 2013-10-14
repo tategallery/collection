@@ -1,6 +1,5 @@
 {
   "acno": "T02144", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1926"
   }, 
   "dateText": "c.1926", 
+  "depth": "279", 
   "dimensions": "object: 660 x 514 x 279 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "514", 
   "id": 4813, 
   "inscription": null, 
   "medium": "Plastic, cork, metal and wood", 
@@ -41,7 +41,60 @@
       "workCount": 148
     }
   ], 
-  "popularity": 274, 
   "subjectCount": 3, 
-  "title": "Red Cavern"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1702, 
+                "name": "niche", 
+                "workCount": 35
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02144_8.jpg", 
+  "title": "Red Cavern", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-red-cavern-t02144", 
+  "width": "660"
 }

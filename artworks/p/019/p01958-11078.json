@@ -1,6 +1,5 @@
 {
   "acno": "P01958", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 760 x 510 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "510", 
   "id": 11078, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 74, 
   "subjectCount": 3, 
-  "title": "Multi-Channel Prototype"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1695, 
+                "name": "electrical component", 
+                "workCount": 13
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01958_8.jpg", 
+  "title": "Multi-Channel Prototype", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-multi-channel-prototype-p01958", 
+  "width": "760"
 }

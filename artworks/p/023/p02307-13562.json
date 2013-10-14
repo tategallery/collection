@@ -1,6 +1,5 @@
 {
   "acno": "P02307", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02307-P02310", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 391 x 376 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sixteen Pieces of Paper", 
+  "height": "376", 
   "id": 13562, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 3, 
-  "title": "Drop"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02307_8.jpg", 
+  "title": "Drop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-drop-p02307", 
+  "width": "391"
 }

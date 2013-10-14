@@ -1,6 +1,5 @@
 {
   "acno": "D24014", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23886-D24076; D41070", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 174 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIV 67 a", 
   "foreignTitle": null, 
   "groupTitle": "Seine and Paris Sketchbook [Finberg CCLIV]", 
+  "height": "117", 
   "id": 51351, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 136, 
-  "popularity": 38, 
   "subjectCount": 4, 
-  "title": "Duclair, St Georges [Turner], Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8834, 
+                "name": "Duclair", 
+                "workCount": 7
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24014_8.jpg", 
+  "title": "Duclair, St Georges [Turner], Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-duclair-st-georges-turner-etc-d24014", 
+  "width": "174"
 }

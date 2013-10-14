@@ -1,6 +1,5 @@
 {
   "acno": "T08001", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08000-T08082; T10676", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,67 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 102 x 167 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Mackworth Praed Book", 
+  "height": "167", 
   "id": 22547, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 4, 
-  "title": "Wooded Landscape, Waterfall to Right"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }, 
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08001_8.jpg", 
+  "title": "Wooded Landscape, Waterfall to Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-wooded-landscape-waterfall-to-right-t08001", 
+  "width": "102"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "224", 
   "dimensions": "object: 186 x 264 x 224 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Femme", 
   "groupTitle": null, 
+  "height": "264", 
   "id": 9586, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -44,7 +41,67 @@
       "workCount": 98
     }
   ], 
-  "popularity": 514, 
   "subjectCount": 3, 
-  "title": "Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03401_8.jpg", 
+  "title": "Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/miro-woman-t03401", 
+  "width": "186"
 }

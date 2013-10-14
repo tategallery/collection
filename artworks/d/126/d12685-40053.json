@@ -1,6 +1,5 @@
 {
   "acno": "D12685", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12528-D12701; D40910-D40912; D41502", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 56 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CLIX 94 a", 
   "foreignTitle": null, 
   "groupTitle": "Itinerary Rhine Tour Sketchbook [Finberg CLIX]", 
+  "height": "106", 
   "id": 40053, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 190, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Harbour and Lighthouse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2043, 
+                "name": "lighthouse", 
+                "workCount": 278
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12685_8.jpg", 
+  "title": "Harbour and Lighthouse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harbour-and-lighthouse-d12685", 
+  "width": "56"
 }

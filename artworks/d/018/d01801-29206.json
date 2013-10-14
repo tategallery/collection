@@ -1,6 +1,5 @@
 {
   "acno": "D01801", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 174 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "XLII 126", 
   "foreignTitle": null, 
   "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "height": "125", 
   "id": 29206, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 128, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Cliffs and Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01801_8.jpg", 
+  "title": "Cliffs and Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-and-trees-d01801", 
+  "width": "174"
 }

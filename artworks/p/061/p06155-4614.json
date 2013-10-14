@@ -1,6 +1,5 @@
 {
   "acno": "P06155", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06151-P06159", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 778 x 594 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Images 67", 
+  "height": "594", 
   "id": 4614, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 96, 
   "subjectCount": 2, 
-  "title": "Horse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06155_8.jpg", 
+  "title": "Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-horse-p06155", 
+  "width": "778"
 }

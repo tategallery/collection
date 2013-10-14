@@ -1,6 +1,5 @@
 {
   "acno": "T13206", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T13204-T13206", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "26", 
   "dimensions": "frame: 425 x 600 x 26 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Margate Suite", 
+  "height": "600", 
   "id": 109881, 
   "inscription": null, 
   "medium": "Ink on paper", 
@@ -57,7 +57,89 @@
       "workCount": 232
     }
   ], 
-  "popularity": 396, 
   "subjectCount": 6, 
-  "title": "Everybodies been there"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1817, 
+                "name": "despair", 
+                "workCount": 52
+              }, 
+              {
+                "id": 1560, 
+                "name": "shame", 
+                "workCount": 17
+              }, 
+              {
+                "id": 12977, 
+                "name": "suffering", 
+                "workCount": 105
+              }, 
+              {
+                "id": 3545, 
+                "name": "vulnerability", 
+                "workCount": 118
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13206_8.jpg", 
+  "title": "Everybodies been there", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/emin-everybodies-been-there-t13206", 
+  "width": "425"
 }

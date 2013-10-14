@@ -1,6 +1,5 @@
 {
   "acno": "T11235", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11221-T11289; T11380", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,101 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 208 x 296 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Various Birds and Beasts Drawn from the Life", 
+  "height": "296", 
   "id": 25555, 
   "inscription": null, 
   "medium": "Engraving and etching on paper", 
   "movementCount": 0, 
-  "popularity": 52, 
   "subjectCount": 8, 
-  "title": "Falcon; Heron; Monkey; Vultur; Sea Gull; Eagle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle", 
+                "workCount": 36
+              }, 
+              {
+                "id": 7699, 
+                "name": "falcon", 
+                "workCount": 4
+              }, 
+              {
+                "id": 4767, 
+                "name": "heron", 
+                "workCount": 31
+              }, 
+              {
+                "id": 1208, 
+                "name": "seagull", 
+                "workCount": 92
+              }, 
+              {
+                "id": 4636, 
+                "name": "vulture", 
+                "workCount": 14
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 907, 
+                "name": "flying", 
+                "workCount": 102
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 1003, 
+                "name": "monkey", 
+                "workCount": 31
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11235_8.jpg", 
+  "title": "Falcon; Heron; Monkey; Vultur; Sea Gull; Eagle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-falcon-heron-monkey-vultur-sea-gull-eagle-t11235", 
+  "width": "208"
 }

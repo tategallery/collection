@@ -1,6 +1,5 @@
 {
   "acno": "D06625", 
-  "addlImageCount": 0, 
   "catTextResId": 1130719, 
   "catalogueGroup": {
     "accessionRanges": "D06618-D06715; D40801-D40803", 
@@ -28,17 +27,81 @@
     "text": "c.1806-14"
   }, 
   "dateText": "c.1806-14", 
+  "depth": "", 
   "dimensions": "support: 107 x 180 mm", 
-  "displayLocation": null, 
   "finberg": "CI 6", 
   "foreignTitle": null, 
   "groupTitle": "Boats, Ice Sketchbook [Finberg CI]", 
+  "height": "180", 
   "id": 34016, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 13, 
   "subjectCount": 5, 
-  "title": "A Sunset Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 6644, 
+                "name": "sunbeam", 
+                "workCount": 230
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06625_8.jpg", 
+  "title": "A Sunset Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sunset-sky-d06625", 
+  "width": "107"
 }

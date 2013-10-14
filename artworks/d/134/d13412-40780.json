@@ -1,6 +1,5 @@
 {
   "acno": "D13412", 
-  "addlImageCount": 0, 
   "catTextResId": 1131958, 
   "catalogueGroup": {
     "accessionRanges": "D13322-D13448; D40682-D40684", 
@@ -28,17 +27,90 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 99 x 159 mm", 
-  "displayLocation": null, 
   "finberg": "CLXV 50 a", 
   "foreignTitle": null, 
   "groupTitle": "Bass Rock and Edinburgh Sketchbook [Finberg CLXV]", 
+  "height": "159", 
   "id": 40780, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 106, 
-  "popularity": 56, 
   "subjectCount": 4, 
-  "title": "High Street, Edinburgh"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7098, 
+                "name": "Edinburgh", 
+                "workCount": 313
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9149, 
+                "name": "Edinburgh, High Street", 
+                "workCount": 9
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13412_8.jpg", 
+  "title": "High Street, Edinburgh", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-high-street-edinburgh-d13412", 
+  "width": "99"
 }

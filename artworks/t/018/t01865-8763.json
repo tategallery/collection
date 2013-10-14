@@ -1,6 +1,5 @@
 {
   "acno": "T01865", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "2330", 
   "dimensions": "object: 1600 x 3054 x 2330 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3054", 
   "id": 8763, 
   "inscription": null, 
   "medium": "Enamel on aluminium", 
@@ -51,7 +51,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 789, 
   "subjectCount": 1, 
-  "title": "Two Open Modular Cubes/Half-Off"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01865_8.jpg", 
+  "title": "Two Open Modular Cubes/Half-Off", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-two-open-modular-cubeshalf-off-t01865", 
+  "width": "1600"
 }

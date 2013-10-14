@@ -1,6 +1,5 @@
 {
   "acno": "D29770", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29595-D29771; D41099; D41200-D41201", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 113 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCVI 91", 
   "foreignTitle": null, 
   "groupTitle": "Brussels up to Mannheim - Rhine Sketchbook [Finberg CCXCVI]", 
+  "height": "185", 
   "id": 57032, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 185, 
-  "popularity": 82, 
   "subjectCount": 4, 
-  "title": "(1) Sailing Boat; (2) River Scenery; (3) Reclining Female Nude"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29770_8_R.jpg", 
+  "title": "(1) Sailing Boat; (2) River Scenery; (3) Reclining Female Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-sailing-boat-2-river-scenery-3-reclining-female-nude-d29770", 
+  "width": "113"
 }

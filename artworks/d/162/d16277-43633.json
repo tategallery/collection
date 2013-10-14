@@ -1,6 +1,5 @@
 {
   "acno": "D16277", 
-  "addlImageCount": 0, 
   "catTextResId": 1139789, 
   "catalogueGroup": {
     "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
@@ -28,17 +27,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 189 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVIII 66 a", 
   "foreignTitle": null, 
   "groupTitle": "St Peter's Sketchbook [Finberg CLXXXVIII]", 
+  "height": "114", 
   "id": 43633, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 136, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Study of the Sky over Rome"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16277_8.jpg", 
+  "title": "Study of the Sky over Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-the-sky-over-rome-d16277", 
+  "width": "189"
 }

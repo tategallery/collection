@@ -1,6 +1,5 @@
 {
   "acno": "P11840", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "?1939"
   }, 
   "dateText": "?1939", 
+  "depth": "", 
   "dimensions": "image: 97 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "75", 
   "id": 66582, 
   "inscription": null, 
   "medium": "Etching on printed paper", 
   "movementCount": 0, 
-  "popularity": 35, 
   "subjectCount": 3, 
-  "title": "Untitled [Head]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1841, 
+                "name": "male", 
+                "workCount": 151
+              }
+            ], 
+            "id": 1789, 
+            "name": "portraits: unidentified", 
+            "workCount": 277
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11840_8.jpg", 
+  "title": "Untitled [Head]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/collins-untitled-head-p11840", 
+  "width": "97"
 }

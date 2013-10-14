@@ -1,6 +1,5 @@
 {
   "acno": "D04958", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04902-D05072", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1799-1805"
   }, 
   "dateText": "c.1799-1805", 
+  "depth": "", 
   "dimensions": "support: 433 x 272 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXI 56", 
   "foreignTitle": null, 
   "groupTitle": "Calais Pier Sketchbook [Finberg LXXXI]", 
+  "height": "272", 
   "id": 32350, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
   "pageNumber": 60, 
-  "popularity": 26, 
   "subjectCount": 3, 
-  "title": "Composition Study for the 'Sun Rising through Vapour'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise", 
+                "workCount": 138
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04958_8_R.jpg", 
+  "title": "Composition Study for the 'Sun Rising through Vapour'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-composition-study-for-the-sun-rising-through-vapour-d04958", 
+  "width": "433"
 }

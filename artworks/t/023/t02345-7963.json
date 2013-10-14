@@ -1,6 +1,5 @@
 {
   "acno": "T02345", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1978-9"
   }, 
   "dateText": "1978-9", 
+  "depth": "2590", 
   "dimensions": "object: 2210 x 3200 x 2590 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3200", 
   "id": 7963, 
   "inscription": null, 
   "medium": "Elm, slate and metal", 
   "movementCount": 0, 
-  "popularity": 125, 
   "subjectCount": 2, 
-  "title": "Within"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02345_8.jpg", 
+  "title": "Within", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/king-within-t02345", 
+  "width": "2210"
 }

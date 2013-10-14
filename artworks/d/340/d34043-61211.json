@@ -1,6 +1,5 @@
 {
   "acno": "D34043", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,65 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 155 x 234 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLI 324", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "234", 
   "id": 61211, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Hill, with Ruins"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34043_8.jpg", 
+  "title": "Hill, with Ruins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hill-with-ruins-d34043", 
+  "width": "155"
 }

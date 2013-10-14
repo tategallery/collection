@@ -1,6 +1,5 @@
 {
   "acno": "D23468", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23457-D23524", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 123 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCLI 6 a", 
   "foreignTitle": null, 
   "groupTitle": "Rouen, Le Havre, Caen, Bayeux and Isigny Sketchbook [Finberg CCLI]", 
+  "height": "98", 
   "id": 50805, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 16, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Horse and Wagon, Buildings, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23468_8.jpg", 
+  "title": "Horse and Wagon, Buildings, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-horse-and-wagon-buildings-etc-d23468", 
+  "width": "123"
 }

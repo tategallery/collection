@@ -1,6 +1,5 @@
 {
   "acno": "D07579", 
-  "addlImageCount": 0, 
   "catTextResId": 1135695, 
   "catalogueGroup": {
     "accessionRanges": "D07537-D07592; D40744-D40745", 
@@ -28,17 +27,62 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CX 37", 
   "foreignTitle": null, 
   "groupTitle": "Cockermouth Sketchbook [Finberg CX]", 
+  "height": "185", 
   "id": 34968, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 75, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "St Bees Head and Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07579_8.jpg", 
+  "title": "St Bees Head and Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-bees-head-and-coast-d07579", 
+  "width": "116"
 }

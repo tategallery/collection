@@ -1,6 +1,5 @@
 {
   "acno": "N03721", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "exhibited 1922"
   }, 
   "dateText": "exhibited 1922", 
+  "depth": "", 
   "dimensions": "support: 432 x 330 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "330", 
   "id": 1690, 
   "inscription": null, 
   "medium": "Ink, pastel, gouache and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 77, 
   "subjectCount": 2, 
-  "title": "Study of a Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03721_8.jpg", 
+  "title": "Study of a Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burn-study-of-a-girl-n03721", 
+  "width": "432"
 }

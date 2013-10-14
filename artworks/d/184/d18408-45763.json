@@ -1,6 +1,5 @@
 {
   "acno": "D18408", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18311-D18425; D18428-D18470; D18477-D18478; D41237", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CCX 58", 
   "foreignTitle": null, 
   "groupTitle": "Brighton and Arundel Sketchbook [Finberg CCX]", 
+  "height": "75", 
   "id": 45763, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 131, 
-  "popularity": 7, 
   "subjectCount": 1, 
-  "title": "Vessel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18408_8_R.jpg", 
+  "title": "Vessel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessel-d18408", 
+  "width": "118"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T12566", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,18 +20,50 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "mm", 
   "dimensions": "1899 x 82 x 82 mm confirmed  \r\n2399 X 500 x 500mm including plinth", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": "Bez tytulu", 
   "groupTitle": null, 
+  "height": "82", 
   "id": 91778, 
   "inscription": null, 
   "medium": "Wood, cardboard and wire", 
   "movementCount": 0, 
-  "popularity": 198, 
   "subjectCount": 2, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12566_8.jpg", 
+  "title": "Untitled", 
+  "units": "confirmed", 
+  "url": "http://www.tate.org.uk/art/artworks/krasinski-untitled-t12566", 
+  "width": "82"
 }

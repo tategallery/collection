@@ -1,6 +1,5 @@
 {
   "acno": "D29146", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIII 59", 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "190", 
   "id": 56417, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 119, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Two Sketches: Street Scene with a Church Spire and a Walled Town, ?Langres"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29146_8_R.jpg", 
+  "title": "Two Sketches: Street Scene with a Church Spire and a Walled Town, ?Langres", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-street-scene-with-a-church-spire-and-a-walled-town-langres-d29146", 
+  "width": "113"
 }

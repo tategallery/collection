@@ -1,6 +1,5 @@
 {
   "acno": "T09118", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "1860"
   }, 
   "dateText": "1860", 
+  "depth": "", 
   "dimensions": "support: 227 x 183 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "183", 
   "id": 23285, 
   "inscription": "date inscribed", 
   "medium": "Ink and gouache on paper", 
   "movementCount": 0, 
-  "popularity": 48, 
   "subjectCount": 3, 
-  "title": "Head of an Old Man"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09118_8.jpg", 
+  "title": "Head of an Old Man", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mulready-head-of-an-old-man-t09118", 
+  "width": "227"
 }

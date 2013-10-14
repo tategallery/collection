@@ -1,6 +1,5 @@
 {
   "acno": "N06033", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "375", 
   "dimensions": "object: 597 x 419 x 375 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "419", 
   "id": 5124, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -41,7 +41,115 @@
       "workCount": 67
     }
   ], 
-  "popularity": 163, 
   "subjectCount": 7, 
-  "title": "Acrobats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3012, 
+                "name": "acrobat", 
+                "workCount": 14
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3010, 
+                "name": "circus", 
+                "workCount": 19
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }, 
+              {
+                "id": 4511, 
+                "name": "suspended", 
+                "workCount": 16
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 875, 
+                "name": "supporting", 
+                "workCount": 75
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06033_8.jpg", 
+  "title": "Acrobats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gertler-acrobats-n06033", 
+  "width": "597"
 }

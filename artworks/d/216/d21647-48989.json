@@ -1,6 +1,5 @@
 {
   "acno": "D21647", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21588-D21663", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 148 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIV 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Florence to Orvieto Sketchbook [Finberg CCXXXIV]", 
+  "height": "104", 
   "id": 48989, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "S. Lorenzo [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21647_8_R.jpg", 
+  "title": "S. Lorenzo [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-s-lorenzo-turner-d21647", 
+  "width": "148"
 }

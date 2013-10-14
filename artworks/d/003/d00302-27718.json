@@ -1,6 +1,5 @@
 {
   "acno": "D00302", 
-  "addlImageCount": 0, 
   "catTextResId": 1140695, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,78 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 99 x 152 mm", 
-  "displayLocation": null, 
   "finberg": "XX 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "152", 
   "id": 27718, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 62, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Studies of the Branch of a Tree, and of a Figure Lying on the Ground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch", 
+                "workCount": 118
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00302_8_R.jpg", 
+  "title": "Studies of the Branch of a Tree, and of a Figure Lying on the Ground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-the-branch-of-a-tree-and-of-a-figure-lying-on-the-ground-d00302", 
+  "width": "99"
 }

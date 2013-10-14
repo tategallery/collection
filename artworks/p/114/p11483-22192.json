@@ -1,6 +1,5 @@
 {
   "acno": "P11483", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11482-P11487", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 685 x 890 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Bull Profile Series", 
+  "height": "890", 
   "id": 22192, 
   "inscription": "date inscribed", 
   "medium": "Lithograph and line-cut on paper", 
   "movementCount": 0, 
-  "popularity": 754, 
   "subjectCount": 1, 
-  "title": "Bull II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1130, 
+                "name": "bull", 
+                "workCount": 63
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11483_8.jpg", 
+  "title": "Bull II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lichtenstein-bull-ii-p11483", 
+  "width": "685"
 }

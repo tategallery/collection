@@ -1,6 +1,5 @@
 {
   "acno": "N01632", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1894"
   }, 
   "dateText": "1894", 
+  "depth": "", 
   "dimensions": "support: 1397 x 584 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "584", 
   "id": 16000, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,79 @@
       "workCount": 48
     }
   ], 
-  "popularity": 188, 
   "subjectCount": 4, 
-  "title": "'For he had great possessions'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6757, 
+                "name": "avarice", 
+                "workCount": 7
+              }, 
+              {
+                "id": 1817, 
+                "name": "despair", 
+                "workCount": 52
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2514, 
+                "name": "parable", 
+                "workCount": 29
+              }
+            ], 
+            "id": 134, 
+            "name": "Bible: New Testament", 
+            "workCount": 394
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01632_8.jpg", 
+  "title": "'For he had great possessions'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/watts-for-he-had-great-possessions-n01632", 
+  "width": "1397"
 }

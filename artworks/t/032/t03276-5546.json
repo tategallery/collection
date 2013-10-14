@@ -1,6 +1,5 @@
 {
   "acno": "T03276", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "", 
   "dimensions": "support: 1829 x 1219 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 5546, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,79 @@
       "workCount": 102
     }
   ], 
-  "popularity": 55, 
   "subjectCount": 4, 
-  "title": "Wedge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality", 
+                "workCount": 62
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism", 
+            "workCount": 213
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6780, 
+                "name": "subconscious", 
+                "workCount": 34
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "", 
+  "title": "Wedge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gottlieb-wedge-t03276", 
+  "width": "1829"
 }

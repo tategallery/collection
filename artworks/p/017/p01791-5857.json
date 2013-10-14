@@ -1,6 +1,5 @@
 {
   "acno": "P01791", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "", 
   "dimensions": "image: 514 x 349 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "349", 
   "id": 5857, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -51,7 +51,55 @@
       "workCount": 39
     }
   ], 
-  "popularity": 241, 
   "subjectCount": 2, 
-  "title": "No. 77"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement", 
+                "workCount": 166
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01791_8.jpg", 
+  "title": "No. 77", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hartung-no-77-p01791", 
+  "width": "514"
 }

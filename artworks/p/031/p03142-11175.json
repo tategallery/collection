@@ -1,6 +1,5 @@
 {
   "acno": "P03142", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03142-P03147", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "unconfirmed: 404 x 404 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "For Charles Rennie Mackintosh", 
+  "height": "404", 
   "id": 11175, 
   "inscription": "date inscribed", 
   "medium": "Woodcut on paper", 
@@ -47,7 +47,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 73, 
   "subjectCount": 3, 
-  "title": "And King Las"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03142_8.jpg", 
+  "title": "And King Las", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-and-king-las-p03142", 
+  "width": "404"
 }

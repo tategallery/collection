@@ -1,6 +1,5 @@
 {
   "acno": "D03441", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03440-D03444; D03446-D03631", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 154 x 90 mm", 
-  "displayLocation": null, 
   "finberg": "LIX 2", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Figures Sketchbook [Finberg LIX]", 
+  "height": "90", 
   "id": 30837, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "A Man in Black Coat and Hat; A Woman in White Cap and Chemise with Green Skirt and Bare Feet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03441_8.jpg", 
+  "title": "A Man in Black Coat and Hat; A Woman in White Cap and Chemise with Green Skirt and Bare Feet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-man-in-black-coat-and-hat-a-woman-in-white-cap-and-chemise-with-green-skirt-and-bare-feet-d03441", 
+  "width": "154"
 }

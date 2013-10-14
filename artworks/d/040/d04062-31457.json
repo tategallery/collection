@@ -1,6 +1,5 @@
 {
   "acno": "D04062", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03994-D04096; D04098-D04151; D40585-D40590", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1799-1802"
   }, 
   "dateText": "c.1799-1802", 
+  "depth": "", 
   "dimensions": "support: 215 x 138 mm", 
-  "displayLocation": null, 
   "finberg": "LXIX 55 a", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures Sketchbook [Finberg LXIX]", 
+  "height": "138", 
   "id": 31457, 
   "inscription": null, 
   "medium": "Ink and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 112, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Sailing Ships"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04062_8_R.jpg", 
+  "title": "Sailing Ships", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sailing-ships-d04062", 
+  "width": "215"
 }

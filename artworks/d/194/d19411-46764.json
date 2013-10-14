@@ -1,6 +1,5 @@
 {
   "acno": "D19411", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXV 6", 
   "foreignTitle": null, 
   "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "height": "189", 
   "id": 46764, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 29, 
   "subjectCount": 3, 
-  "title": "Coast from Channel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1603, 
+                "name": "English Channel", 
+                "workCount": 13
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19411_8.jpg", 
+  "title": "Coast from Channel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-coast-from-channel-d19411", 
+  "width": "113"
 }

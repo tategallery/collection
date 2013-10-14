@@ -1,6 +1,5 @@
 {
   "acno": "P04613", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04613-P04614", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970-76"
   }, 
   "dateText": "1970-76", 
+  "depth": "", 
   "dimensions": "image: 918 x 610 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "London Series I", 
+  "height": "610", 
   "id": 10344, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 102
     }
   ], 
-  "popularity": 130, 
   "subjectCount": 2, 
-  "title": "No. 13"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04613_8.jpg", 
+  "title": "No. 13", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-no-13-p04613", 
+  "width": "918"
 }

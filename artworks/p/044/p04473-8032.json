@@ -1,6 +1,5 @@
 {
   "acno": "P04473", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 407 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "508", 
   "id": 8032, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,36 @@
       "workCount": 377
     }
   ], 
-  "popularity": 199, 
   "subjectCount": 1, 
-  "title": "(19) Edward Hopper"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12363, 
+                "name": "book, Penguin Modern Painters, 'Edward Hopper'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04473_8.jpg", 
+  "title": "(19) Edward Hopper", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-19-edward-hopper-p04473", 
+  "width": "407"
 }

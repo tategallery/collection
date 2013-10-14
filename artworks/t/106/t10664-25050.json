@@ -1,6 +1,5 @@
 {
   "acno": "T10664", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,67 @@
     "text": "1789"
   }, 
   "dateText": "1789", 
+  "depth": "", 
   "dimensions": "image: 243 x 319 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "319", 
   "id": 25050, 
   "inscription": null, 
   "medium": "Etching, chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "Study of Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10664_8.jpg", 
+  "title": "Study of Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-study-of-trees-t10664", 
+  "width": "243"
 }

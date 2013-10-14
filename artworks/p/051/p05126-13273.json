@@ -1,6 +1,5 @@
 {
   "acno": "P05126", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "image: 508 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 13273, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 224, 
   "subjectCount": 2, 
-  "title": "Blue and Violet Study"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05126_8.jpg", 
+  "title": "Blue and Violet Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sedgley-blue-and-violet-study-p05126", 
+  "width": "508"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D30180", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30130-D30266; D30268-D30295; D41223-D41224", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 159 x 99 mm", 
-  "displayLocation": null, 
   "finberg": "CCC 26", 
   "foreignTitle": null, 
   "groupTitle": "Salzburg and Danube Sketchbook [Finberg CCC]", 
+  "height": "99", 
   "id": 57440, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 61, 
   "subjectCount": 5, 
-  "title": "Salzburg: The Kapuzinerberg, City and Fortress from the North"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria", 
+                "workCount": 329
+              }, 
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 14193, 
+                "name": "Salzburg - non-specific", 
+                "workCount": 54
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30180_8.jpg", 
+  "title": "Salzburg: The Kapuzinerberg, City and Fortress from the North", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-salzburg-the-kapuzinerberg-city-and-fortress-from-the-north-d30180", 
+  "width": "159"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T09903", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,88 @@
     "text": "1803-5"
   }, 
   "dateText": "1803-5", 
+  "depth": "", 
   "dimensions": "support: 196 x 158 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "158", 
   "id": 24644, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T09903_136086", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09903_136086_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 103
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09903_136086_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 206
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09903_136086_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 412
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09903_136086_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1236
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 36, 
   "subjectCount": 4, 
-  "title": "[title not known] Verso: Sketch"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10089, 
+                "name": "architectural fragments", 
+                "workCount": 37
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09903_8.jpg", 
+  "title": "[title not known] Verso: Sketch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cristall-title-not-known-verso-sketch-t09903", 
+  "width": "196"
 }

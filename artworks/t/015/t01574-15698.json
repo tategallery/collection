@@ -1,6 +1,5 @@
 {
   "acno": "T01574", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1936"
   }, 
   "dateText": "1936", 
+  "depth": "", 
   "dimensions": "support: 575 x 568 mm\r\nframe: 814 x 959 x 65 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "No. 98 2478 rouge/135 vert", 
   "groupTitle": null, 
+  "height": "568", 
   "id": 15698, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on plywood", 
@@ -64,7 +61,65 @@
       "workCount": 6
     }
   ], 
-  "popularity": 497, 
   "subjectCount": 4, 
-  "title": "No. 98 2478 Red/135 Green"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01574_8.jpg", 
+  "title": "No. 98 2478 Red/135 Green", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vantongerloo-no-98-2478-red135-green-t01574", 
+  "width": "575"
 }

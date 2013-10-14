@@ -1,6 +1,5 @@
 {
   "acno": "D21951", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21852-D21972; D41238-D41239", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 71 x 88 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVII 56", 
   "foreignTitle": null, 
   "groupTitle": "Roman and French Notebook [Finberg CCXXXVII]", 
+  "height": "88", 
   "id": 49292, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 115, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Seated Female Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21951_8.jpg", 
+  "title": "Seated Female Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-seated-female-figure-d21951", 
+  "width": "71"
 }

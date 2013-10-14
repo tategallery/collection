@@ -1,6 +1,5 @@
 {
   "acno": "T07560", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "24", 
   "dimensions": "support: 803 x 633 x 24 mm\r\nframe: 1188 x 1015 x 91 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "633", 
   "id": 26773, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,65 @@
       "workCount": 6
     }
   ], 
-  "popularity": 4947, 
   "subjectCount": 4, 
-  "title": "Composition B (No.II) with Red"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }, 
+              {
+                "id": 6742, 
+                "name": "purity", 
+                "workCount": 35
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07560_8.jpg", 
+  "title": "Composition B (No.II) with Red", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mondrian-composition-b-noii-with-red-t07560", 
+  "width": "803"
 }

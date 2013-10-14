@@ -1,6 +1,5 @@
 {
   "acno": "P02129", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02102-P02129; P02520", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 253 x 200 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Elephant Skull Album", 
+  "height": "200", 
   "id": 9740, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 162, 
   "subjectCount": 2, 
-  "title": "Elephant Skull Plate XXVIII"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 671, 
+                "name": "elephant", 
+                "workCount": 72
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 1851, 
+                "name": "skull", 
+                "workCount": 66
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02129_8.jpg", 
+  "title": "Elephant Skull Plate XXVIII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-elephant-skull-plate-xxviii-p02129", 
+  "width": "253"
 }

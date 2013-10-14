@@ -1,6 +1,5 @@
 {
   "acno": "T01187", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968-9"
   }, 
   "dateText": "1968-9", 
+  "depth": "102", 
   "dimensions": "object: 318 x 1581 x 102 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1581", 
   "id": 6421, 
   "inscription": null, 
   "medium": "Plastic and metal", 
@@ -41,7 +41,36 @@
       "workCount": 70
     }
   ], 
-  "popularity": 86, 
   "subjectCount": 1, 
-  "title": "S2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01187_8.jpg", 
+  "title": "S2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-s2-t01187", 
+  "width": "318"
 }

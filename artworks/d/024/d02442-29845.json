@@ -1,6 +1,5 @@
 {
   "acno": "D02442", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02393-D02461", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 143 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "LII 33 a", 
   "foreignTitle": null, 
   "groupTitle": "Guisborough Shore Sketchbook [Finberg LII]", 
+  "height": "103", 
   "id": 29845, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 68, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Beached Boats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02442_8.jpg", 
+  "title": "Beached Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-beached-boats-d02442", 
+  "width": "143"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01987", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 698 x 489 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "489", 
   "id": 11108, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,46 @@
       "workCount": 846
     }
   ], 
-  "popularity": 54, 
   "subjectCount": 3, 
-  "title": "[no title: proof for Mr Peanuts]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01987_8.jpg", 
+  "title": "[no title: proof for Mr Peanuts]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-proof-for-mr-peanuts-p01987", 
+  "width": "698"
 }

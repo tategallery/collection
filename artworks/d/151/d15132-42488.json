@@ -1,6 +1,5 @@
 {
   "acno": "D15132", 
-  "addlImageCount": 0, 
   "catTextResId": 1139544, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 14 a", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42488, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 40, 
   "subjectCount": 1, 
-  "title": "A Female Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15132_8_R.jpg", 
+  "title": "A Female Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-female-figure-d15132", 
+  "width": "161"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D05224", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05166; D05168-D05244; D40640-D40649", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "c.1800-7"
   }, 
   "dateText": "c.1800-7", 
+  "depth": "", 
   "dimensions": "support: 119 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIV 51", 
   "foreignTitle": null, 
   "groupTitle": "Academies Sketchbook [Finberg LXXXIV]", 
+  "height": "73", 
   "id": 32616, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 105, 
-  "popularity": 63, 
   "subjectCount": 6, 
-  "title": "A Nude Woman Dancing, Seen from Behind"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 9725, 
+                "name": "leg/legs raised", 
+                "workCount": 57
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance", 
+                "workCount": 214
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05224_8.jpg", 
+  "title": "A Nude Woman Dancing, Seen from Behind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-nude-woman-dancing-seen-from-behind-d05224", 
+  "width": "119"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04076", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04016; P04038; P04053; P04076; P04115; P04125; P04166; P04248; P04256; P04315-P04316; P04334; P04378-P04380; P04419; P04635; P04752; P04938; P05138; P05155; P05248", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 508 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Institute of Contemporary Arts Portfolio", 
+  "height": "762", 
   "id": 2025, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,110 @@
       "workCount": 846
     }
   ], 
-  "popularity": 235, 
   "subjectCount": 6, 
-  "title": "Ruins"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10089, 
+                "name": "architectural fragments", 
+                "workCount": 37
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 936, 
+                "name": "foliage", 
+                "workCount": 157
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04076_8.jpg", 
+  "title": "Ruins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-ruins-p04076", 
+  "width": "508"
 }

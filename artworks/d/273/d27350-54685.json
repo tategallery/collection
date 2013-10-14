@@ -1,6 +1,5 @@
 {
   "acno": "D27350", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27281-D27365; D41144-D41145", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 206 x 86 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Gravesend and Margate Sketchbook [Finberg CCLXXIX]", 
+  "height": "86", 
   "id": 54685, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 90, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "River, from Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27350_8_R.jpg", 
+  "title": "River, from Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-from-hill-d27350", 
+  "width": "206"
 }

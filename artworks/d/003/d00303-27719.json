@@ -1,6 +1,5 @@
 {
   "acno": "D00303", 
-  "addlImageCount": 0, 
   "catTextResId": 1140696, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,83 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 99 x 152 mm", 
-  "displayLocation": null, 
   "finberg": "XX 31", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "152", 
   "id": 27719, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 63, 
-  "popularity": 17, 
   "subjectCount": 4, 
-  "title": "Studies of Figures ?Sleeping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00303_8.jpg", 
+  "title": "Studies of Figures ?Sleeping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-figures-sleeping-d00303", 
+  "width": "99"
 }

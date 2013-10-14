@@ -1,6 +1,5 @@
 {
   "acno": "T00404", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "", 
   "dimensions": "support: 1159 x 889 mm\r\nframe: 1236 x 965 x 70 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Composition abstraite", 
   "groupTitle": null, 
+  "height": "889", 
   "id": 12137, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,41 @@
       "workCount": 48
     }
   ], 
-  "popularity": 513, 
   "subjectCount": 2, 
-  "title": "Abstract Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00404_8.jpg", 
+  "title": "Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/poliakoff-abstract-composition-t00404", 
+  "width": "1159"
 }

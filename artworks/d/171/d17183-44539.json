@@ -1,6 +1,5 @@
 {
   "acno": "D17183", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,73 @@
     "text": "c.1820"
   }, 
   "dateText": "c.1820", 
+  "depth": "", 
   "dimensions": "support: 306 x 487 mm", 
-  "displayLocation": null, 
   "finberg": "CXCVI S", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "487", 
   "id": 44539, 
   "inscription": null, 
   "medium": "Wax and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 60, 
   "subjectCount": 5, 
-  "title": "A Rocky Island: Storm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 2414, 
+                "name": "island", 
+                "workCount": 310
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17183_8.jpg", 
+  "title": "A Rocky Island: Storm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-rocky-island-storm-d17183", 
+  "width": "306"
 }

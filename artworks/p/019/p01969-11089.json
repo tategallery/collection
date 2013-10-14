@@ -1,6 +1,5 @@
 {
   "acno": "P01969", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01961-P01984; P11003", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 148 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Conditional Probability Machine", 
+  "height": "190", 
   "id": 11089, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,103 @@
       "workCount": 846
     }
   ], 
-  "popularity": 51, 
   "subjectCount": 6, 
-  "title": "Manikins for Destruction: Untitled (U 14322)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4228, 
+                "name": "car part", 
+                "workCount": 17
+              }, 
+              {
+                "id": 6360, 
+                "name": "crash", 
+                "workCount": 20
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }, 
+          {
+            "children": [
+              {
+                "id": 7942, 
+                "name": "science", 
+                "workCount": 62
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction", 
+                "workCount": 295
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10027, 
+                "name": "test dummy", 
+                "workCount": 9
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01969_8.jpg", 
+  "title": "Manikins for Destruction: Untitled (U 14322)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-manikins-for-destruction-untitled-u-14322-p01969", 
+  "width": "148"
 }

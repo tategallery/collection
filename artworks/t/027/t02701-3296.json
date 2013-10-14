@@ -1,6 +1,5 @@
 {
   "acno": "T02701", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T02415-T03024; T03239-T03240", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,117 @@
     "text": null
   }, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "object: 229 x 305 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Voyage Round Great Britain", 
+  "height": "305", 
   "id": 3296, 
   "inscription": null, 
   "medium": "Copper plate", 
   "movementCount": 0, 
-  "popularity": 73, 
   "subjectCount": 7, 
-  "title": "View from Mount Edgecumbe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall", 
+                "workCount": 400
+              }, 
+              {
+                "id": 1558, 
+                "name": "Devon", 
+                "workCount": 434
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 18158, 
+                "name": "Mount Edgcumbe", 
+                "workCount": 14
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "", 
+  "title": "View from Mount Edgecumbe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-view-from-mount-edgecumbe-t02701", 
+  "width": "229"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D18284", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18159-D18310; D41437-D41439", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 115 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCIX 70", 
   "foreignTitle": null, 
   "groupTitle": "Norfolk, Suffolk and Essex Sketchbook [Finberg CCIX]", 
+  "height": "188", 
   "id": 45639, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 141, 
-  "popularity": 12, 
   "subjectCount": 2, 
-  "title": "Ruined ?Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18284_8.jpg", 
+  "title": "Ruined ?Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-abbey-d18284", 
+  "width": "115"
 }

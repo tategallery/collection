@@ -1,6 +1,5 @@
 {
   "acno": "P04618", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04615-P04624", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 807 x 597 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Africa Suite", 
+  "height": "597", 
   "id": 10349, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,46 @@
       "workCount": 102
     }
   ], 
-  "popularity": 152, 
   "subjectCount": 3, 
-  "title": "Africa 7"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04618_8.jpg", 
+  "title": "Africa 7", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-africa-7-p04618", 
+  "width": "807"
 }

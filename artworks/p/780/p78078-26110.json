@@ -1,6 +1,5 @@
 {
   "acno": "P78078", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78078-P78088", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 731 x 889 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Screen", 
+  "height": "889", 
   "id": 26110, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,55 @@
       "workCount": 232
     }
   ], 
-  "popularity": 82, 
   "subjectCount": 2, 
-  "title": "Multiple Working"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78078_8.jpg", 
+  "title": "Multiple Working", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/almond-multiple-working-p78078", 
+  "width": "731"
 }

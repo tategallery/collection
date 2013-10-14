@@ -1,6 +1,5 @@
 {
   "acno": "T12051", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,18 +20,83 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "47", 
   "dimensions": "object: 360 x 260 x 47 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "La Danseuse \u00e9toile", 
   "groupTitle": null, 
+  "height": "260", 
   "id": 86956, 
   "inscription": null, 
   "medium": "Starfish and plastic shoe on card", 
   "movementCount": 0, 
-  "popularity": 738, 
   "subjectCount": 3, 
-  "title": "Star Dancer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10063, 
+                "name": "dance", 
+                "workCount": 214
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5252, 
+                "name": "starfish", 
+                "workCount": 8
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12051_8.jpg", 
+  "title": "Star Dancer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marien-star-dancer-t12051", 
+  "width": "360"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03461", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1937"
   }, 
   "dateText": "1937", 
+  "depth": "", 
   "dimensions": "support: 341 x 505 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "505", 
   "id": 1362, 
   "inscription": null, 
   "medium": "Ink on paper. Verso: ink on paper", 
@@ -41,7 +41,67 @@
       "workCount": 27
     }
   ], 
-  "popularity": 196, 
   "subjectCount": 3, 
-  "title": "Le Sphinx, 4 a.m. Verso: Three figure drawings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 4688, 
+                "name": "Paris, Montparnasse, Le Sphinx", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 682, 
+                "name": "brothel", 
+                "workCount": 8
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03461_8.jpg", 
+  "title": "Le Sphinx, 4 a.m. Verso: Three figure drawings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/boswell-le-sphinx-4-am-verso-three-figure-drawings-t03461", 
+  "width": "341"
 }

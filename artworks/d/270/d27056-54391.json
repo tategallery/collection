@@ -1,6 +1,5 @@
 {
   "acno": "D27056", 
-  "addlImageCount": 0, 
   "catTextResId": 1135422, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 104 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 7", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "163", 
   "id": 54391, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Sketches of Shorelines: ?The Beauly Firth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27056_8_R.jpg", 
+  "title": "Sketches of Shorelines: ?The Beauly Firth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-of-shorelines-the-beauly-firth-d27056", 
+  "width": "104"
 }

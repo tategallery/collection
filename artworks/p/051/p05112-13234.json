@@ -1,6 +1,5 @@
 {
   "acno": "P05112", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05108-P05124", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 582 x 787 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Poem for Alexander", 
+  "height": "787", 
   "id": 13234, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Brown Field Defined"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05112_8.jpg", 
+  "title": "Brown Field Defined", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-brown-field-defined-p05112", 
+  "width": "582"
 }

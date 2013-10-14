@@ -1,6 +1,5 @@
 {
   "acno": "P01146", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 606 x 511 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "511", 
   "id": 4686, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 69, 
   "subjectCount": 2, 
-  "title": "Red with Black on the Side"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01146_8.jpg", 
+  "title": "Red with Black on the Side", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-red-with-black-on-the-side-p01146", 
+  "width": "606"
 }

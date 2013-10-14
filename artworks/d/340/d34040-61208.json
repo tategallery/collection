@@ -1,6 +1,5 @@
 {
   "acno": "D34040", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,77 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 153 x 229 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLI 321", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "229", 
   "id": 61208, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Buildings on Hillside"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34040_8.jpg", 
+  "title": "Buildings on Hillside", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-on-hillside-d34040", 
+  "width": "153"
 }

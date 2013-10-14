@@ -1,6 +1,5 @@
 {
   "acno": "N01605", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1896"
   }, 
   "dateText": "exhibited 1896", 
+  "depth": "", 
   "dimensions": "support: 1676 x 1664 mm\r\nframe: 1990 x 1975 x 165 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1664", 
   "id": 8402, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -61,7 +61,189 @@
       "workCount": 125
     }
   ], 
-  "popularity": 617, 
   "subjectCount": 12, 
-  "title": "The Man with the Scythe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }, 
+              {
+                "id": 737, 
+                "name": "pillow", 
+                "workCount": 24
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }, 
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child", 
+                "workCount": 217
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2447, 
+                "name": "death - reaper", 
+                "workCount": 6
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death", 
+            "workCount": 96
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2837, 
+                "name": "harvesting", 
+                "workCount": 163
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01605_8.jpg", 
+  "title": "The Man with the Scythe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/la-thangue-the-man-with-the-scythe-n01605", 
+  "width": "1676"
 }

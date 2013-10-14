@@ -1,6 +1,5 @@
 {
   "acno": "P11562", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 210 x 297 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "297", 
   "id": 26404, 
   "inscription": null, 
   "medium": "Monoprint on paper", 
@@ -51,7 +51,60 @@
       "workCount": 232
     }
   ], 
-  "popularity": 1197, 
   "subjectCount": 3, 
-  "title": "Going to Crack"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 893, 
+                "name": "aggression", 
+                "workCount": 60
+              }, 
+              {
+                "id": 2657, 
+                "name": "anger", 
+                "workCount": 39
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11562_8.jpg", 
+  "title": "Going to Crack", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/emin-going-to-crack-p11562", 
+  "width": "210"
 }

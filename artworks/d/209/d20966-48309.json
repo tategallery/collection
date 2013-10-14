@@ -1,6 +1,5 @@
 {
   "acno": "D20966", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20905-D20989; D40999-D41000", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXIX 33", 
   "foreignTitle": null, 
   "groupTitle": "Orleans to Marseilles Sketchbook [Finberg CCXXIX]", 
+  "height": "117", 
   "id": 48309, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 67, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Castle on Rock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20966_8.jpg", 
+  "title": "Castle on Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-d20966", 
+  "width": "179"
 }

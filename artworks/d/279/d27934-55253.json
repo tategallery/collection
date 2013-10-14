@@ -1,6 +1,5 @@
 {
   "acno": "D27934", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27901-D27914; D27916-D27939; D41090", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 145 x 235 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXV 26", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg CCLXXXV]", 
+  "height": "235", 
   "id": 55253, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 99, 
   "subjectCount": 5, 
-  "title": "St John's and Trinity Colleges, Oxford"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 14580, 
+                "name": "Oxford, St John's College", 
+                "workCount": 2
+              }, 
+              {
+                "id": 10616, 
+                "name": "Oxford, Trinity College", 
+                "workCount": 4
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire", 
+                "workCount": 265
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1718, 
+                "name": "college", 
+                "workCount": 100
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27934_8_R.jpg", 
+  "title": "St John's and Trinity Colleges, Oxford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-johns-and-trinity-colleges-oxford-d27934", 
+  "width": "145"
 }

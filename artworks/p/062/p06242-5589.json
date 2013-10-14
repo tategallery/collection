@@ -1,6 +1,5 @@
 {
   "acno": "P06242", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1973-4"
   }, 
   "dateText": "1973-4", 
+  "depth": "", 
   "dimensions": "image: 746 x 432 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "432", 
   "id": 5589, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,108 @@
       "workCount": 67
     }
   ], 
-  "popularity": 62, 
   "subjectCount": 7, 
-  "title": "Standing Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6070, 
+                "name": "laundering", 
+                "workCount": 109
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic", 
+            "workCount": 438
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1937, 
+                "name": "laundry", 
+                "workCount": 72
+              }, 
+              {
+                "id": 1936, 
+                "name": "washing line", 
+                "workCount": 29
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06242_8.jpg", 
+  "title": "Standing Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grant-standing-woman-p06242", 
+  "width": "746"
 }

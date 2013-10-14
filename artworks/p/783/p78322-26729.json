@@ -1,6 +1,5 @@
 {
   "acno": "P78322", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78321-P78323", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,55 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "", 
   "dimensions": "image: 359 x 325 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "III-IV-V", 
+  "height": "325", 
   "id": 26729, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 48, 
   "subjectCount": 3, 
-  "title": "IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78322_8.jpg", 
+  "title": "IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lim-iv-p78322", 
+  "width": "359"
 }

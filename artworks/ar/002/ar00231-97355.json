@@ -1,6 +1,5 @@
 {
   "acno": "AR00231", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "support, each: 1782 x 2286 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 97355, 
   "inscription": null, 
   "medium": "Acrylic paint and silkscreen on 2 canvases", 
@@ -41,7 +41,60 @@
       "workCount": 248
     }
   ], 
-  "popularity": 721, 
   "subjectCount": 3, 
-  "title": "Gun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2814, 
+                "name": "gun, handgun", 
+                "workCount": 44
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00231_8.jpg", 
+  "title": "Gun", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-gun-ar00231", 
+  "width": ""
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P09045", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09026-P09055", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "unconfirmed: 502 x 702 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ways and Means", 
+  "height": "702", 
   "id": 67757, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,67 @@
       "workCount": 846
     }
   ], 
-  "popularity": 47, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09045_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-no-title-p09045", 
+  "width": "502"
 }

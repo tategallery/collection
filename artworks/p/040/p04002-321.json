@@ -1,6 +1,5 @@
 {
   "acno": "P04002", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04001-P04005", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 295 x 526 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Suite", 
+  "height": "526", 
   "id": 321, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 85, 
   "subjectCount": 5, 
-  "title": "Garden Suite II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 447, 
+                "name": "hedge", 
+                "workCount": 66
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 807, 
+                "name": "lawn", 
+                "workCount": 56
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04002_8.jpg", 
+  "title": "Garden Suite II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-garden-suite-ii-p04002", 
+  "width": "295"
 }

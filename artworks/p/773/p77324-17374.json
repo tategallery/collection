@@ -1,6 +1,5 @@
 {
   "acno": "P77324", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 438 x 560 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "560", 
   "id": 17374, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 248
     }
   ], 
-  "popularity": 540, 
   "subjectCount": 2, 
-  "title": "Pizza Pie"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9517, 
+                "name": "pie", 
+                "workCount": 3
+              }, 
+              {
+                "id": 10128, 
+                "name": "pizza", 
+                "workCount": 1
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77324_8.jpg", 
+  "title": "Pizza Pie", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oldenburg-pizza-pie-p77324", 
+  "width": "438"
 }

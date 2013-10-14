@@ -1,6 +1,5 @@
 {
   "acno": "A00846", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1849"
   }, 
   "dateText": "c.1849", 
+  "depth": "", 
   "dimensions": "support: 190 x 92 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "92", 
   "id": 12767, 
   "inscription": null, 
   "medium": "Ink and watercolour on paper", 
@@ -41,7 +41,96 @@
       "workCount": 405
     }
   ], 
-  "popularity": 59, 
   "subjectCount": 6, 
-  "title": "Study of a Man Smoking a Long Pipe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }, 
+              {
+                "id": 1091, 
+                "name": "pipe", 
+                "workCount": 63
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2800, 
+                "name": "smoking", 
+                "workCount": 142
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00846_8.jpg", 
+  "title": "Study of a Man Smoking a Long Pipe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-study-of-a-man-smoking-a-long-pipe-a00846", 
+  "width": "190"
 }

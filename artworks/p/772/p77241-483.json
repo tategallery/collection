@@ -1,6 +1,5 @@
 {
   "acno": "P77241", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "image: 247 x 349 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Quelque chose d'un monde", 
   "groupTitle": null, 
+  "height": "349", 
   "id": 483, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
@@ -41,7 +41,60 @@
       "workCount": 48
     }
   ], 
-  "popularity": 123, 
   "subjectCount": 3, 
-  "title": "Something of a World"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text", 
+                "workCount": 36
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77241_8.jpg", 
+  "title": "Something of a World", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/alechinsky-something-of-a-world-p77241", 
+  "width": "247"
 }

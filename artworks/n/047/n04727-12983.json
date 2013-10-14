@@ -1,6 +1,5 @@
 {
   "acno": "N04727", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1909-10"
   }, 
   "dateText": "c.1909-10", 
+  "depth": "", 
   "dimensions": "support: 610 x 495 mm\r\nframe: 847 x 730 x 95 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Bouquet de fleurs", 
   "groupTitle": null, 
+  "height": "495", 
   "id": 12983, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,65 @@
       "workCount": 16
     }
   ], 
-  "popularity": 506, 
   "subjectCount": 4, 
-  "title": "Bouquet of Flowers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2422, 
+                "name": "daisy", 
+                "workCount": 17
+              }, 
+              {
+                "id": 6860, 
+                "name": "mimosa", 
+                "workCount": 1
+              }, 
+              {
+                "id": 1964, 
+                "name": "pansy", 
+                "workCount": 7
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04727_8.jpg", 
+  "title": "Bouquet of Flowers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rousseau-bouquet-of-flowers-n04727", 
+  "width": "610"
 }

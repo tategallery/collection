@@ -1,6 +1,5 @@
 {
   "acno": "T06484", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "c.1803"
   }, 
   "dateText": "c.1803", 
+  "depth": "", 
   "dimensions": "support: 296 x 447 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "447", 
   "id": 20210, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 63, 
   "subjectCount": 3, 
-  "title": "Mountainous Landscape with a Blasted Tree"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 6874, 
+                "name": "trunk, blasted", 
+                "workCount": 33
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06484_8.jpg", 
+  "title": "Mountainous Landscape with a Blasted Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-mountainous-landscape-with-a-blasted-tree-t06484", 
+  "width": "296"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D04551", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,118 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 220 x 283 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIV 58", 
   "foreignTitle": null, 
   "groupTitle": "Grenoble Sketchbook [Finberg LXXIV]", 
+  "height": "283", 
   "id": 31944, 
   "inscription": null, 
   "medium": "Graphite and wash on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 7, 
-  "title": "Village with Cloud"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }, 
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04551_8.jpg", 
+  "title": "Village with Cloud", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-village-with-cloud-d04551", 
+  "width": "220"
 }

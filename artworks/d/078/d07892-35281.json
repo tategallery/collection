@@ -1,6 +1,5 @@
 {
   "acno": "D07892", 
-  "addlImageCount": 0, 
   "catTextResId": 1135848, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,76 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 83 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 25", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "114", 
   "id": 35281, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 43, 
   "subjectCount": 4, 
-  "title": "Architectural Details of Lowther Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 8899, 
+                "name": "finial", 
+                "workCount": 24
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07892_8.jpg", 
+  "title": "Architectural Details of Lowther Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-architectural-details-of-lowther-castle-d07892", 
+  "width": "83"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00317", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1916"
   }, 
   "dateText": "1916", 
+  "depth": "", 
   "dimensions": "support: 600 x 400 mm\r\nframe: 755 x 555 x 73 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Nature morte", 
   "groupTitle": null, 
+  "height": "400", 
   "id": 12614, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,91 @@
       "workCount": 44
     }
   ], 
-  "popularity": 67, 
   "subjectCount": 5, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1951, 
+                "name": "flask", 
+                "workCount": 27
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 10924, 
+                "name": "product packaging", 
+                "workCount": 71
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 4500, 
+                "name": "soda syphon", 
+                "workCount": 4
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00317_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivera-still-life-t00317", 
+  "width": "600"
 }

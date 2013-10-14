@@ -1,6 +1,5 @@
 {
   "acno": "T06584", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T06557-T06568; T06571-T06584", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1804-5"
   }, 
   "dateText": "c.1804-5", 
+  "depth": "", 
   "dimensions": "image: 304 x 360 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Series of Etchings by James Barry, Esq. from his Original and Justly Celebrated Paintings, in the Great Room of the Society of Arts", 
+  "height": "360", 
   "id": 20448, 
   "inscription": null, 
   "medium": "Etching, line engraving and mezzotint on paper", 
@@ -47,7 +47,108 @@
       "workCount": 310
     }
   ], 
-  "popularity": 200, 
   "subjectCount": 7, 
-  "title": "Jupiter and Juno on Mount Ida"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7673, 
+                "name": "Hera / Juno", 
+                "workCount": 5
+              }, 
+              {
+                "id": 1973, 
+                "name": "Zeus / Jupiter", 
+                "workCount": 20
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes", 
+            "workCount": 526
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 544, 
+                "name": "embracing", 
+                "workCount": 349
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3050, 
+                "name": "sex", 
+                "workCount": 121
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships", 
+            "workCount": 742
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06584_8.jpg", 
+  "title": "Jupiter and Juno on Mount Ida", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barry-jupiter-and-juno-on-mount-ida-t06584", 
+  "width": "304"
 }

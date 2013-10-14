@@ -1,6 +1,5 @@
 {
   "acno": "D00279", 
-  "addlImageCount": 0, 
   "catTextResId": 1140672, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,85 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 99 x 152 mm", 
-  "displayLocation": null, 
   "finberg": "XX 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "152", 
   "id": 27695, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 29, 
   "subjectCount": 3, 
-  "title": "A Horse and Water-Cart"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5009, 
+                "name": "barrel", 
+                "workCount": 158
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00279_8.jpg", 
+  "title": "A Horse and Water-Cart", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-horse-and-water-cart-d00279", 
+  "width": "99"
 }

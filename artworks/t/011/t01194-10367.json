@@ -1,6 +1,5 @@
 {
   "acno": "T01194", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 2438 x 4420 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4420", 
   "id": 10367, 
   "inscription": null, 
   "medium": "Acrylic paint and charcoal on canvas", 
@@ -41,7 +41,65 @@
       "workCount": 102
     }
   ], 
-  "popularity": 254, 
   "subjectCount": 4, 
-  "title": "Open No. 121 (Bolton Landing Elegy)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }, 
+              {
+                "id": 1755, 
+                "name": "memorial", 
+                "workCount": 44
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01194_8.jpg", 
+  "title": "Open No. 121 (Bolton Landing Elegy)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-open-no-121-bolton-landing-elegy-t01194", 
+  "width": "2438"
 }

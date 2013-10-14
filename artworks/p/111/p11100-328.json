@@ -1,6 +1,5 @@
 {
   "acno": "P11100", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11099-P11100", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 766 x 565 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Garden Emblems", 
+  "height": "565", 
   "id": 328, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 52, 
   "subjectCount": 3, 
-  "title": "Garden Emblems II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 807, 
+                "name": "lawn", 
+                "workCount": 56
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11100_8.jpg", 
+  "title": "Garden Emblems II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-garden-emblems-ii-p11100", 
+  "width": "766"
 }

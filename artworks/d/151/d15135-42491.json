@@ -1,6 +1,5 @@
 {
   "acno": "D15135", 
-  "addlImageCount": 0, 
   "catTextResId": 1139547, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 16", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42491, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Well, an Ionic Capital and a Composite Capital"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2051, 
+                "name": "capital", 
+                "workCount": 99
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 3606, 
+                "name": "well", 
+                "workCount": 54
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15135_8.jpg", 
+  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Well, an Ionic Capital and a Composite Capital", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-sculptural-fragments-from-the-vatican-museums-including-a-well-an-ionic-capital-and-a-composite-capital-d15135", 
+  "width": "161"
 }

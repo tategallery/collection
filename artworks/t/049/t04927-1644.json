@@ -1,6 +1,5 @@
 {
   "acno": "T04927", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 1257 x 900 mm\r\nframe: 1395 x 1040 x 45 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Ohne Titel", 
   "groupTitle": null, 
+  "height": "900", 
   "id": 1644, 
   "inscription": "date inscribed", 
   "medium": "Poster paint on paper", 
@@ -41,7 +41,60 @@
       "workCount": 22
     }
   ], 
-  "popularity": 192, 
   "subjectCount": 3, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04927_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brus-untitled-t04927", 
+  "width": "1257"
 }

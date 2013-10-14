@@ -1,6 +1,5 @@
 {
   "acno": "T03140", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1959-60"
   }, 
   "dateText": "1959-60", 
+  "depth": "673", 
   "dimensions": "object: 2603 x 1257 x 673 mm", 
-  "displayLocation": {
-    "name": "Barbara Hepworth Museum and Sculpture Garden", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1257", 
   "id": 6068, 
   "inscription": "date inscribed", 
   "medium": "Bronze", 
@@ -44,7 +41,60 @@
       "workCount": 409
     }
   ], 
-  "popularity": 420, 
   "subjectCount": 3, 
-  "title": "Figure for Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 865, 
+                "name": "standing stone", 
+                "workCount": 73
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03140_8.jpg", 
+  "title": "Figure for Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-figure-for-landscape-t03140", 
+  "width": "2603"
 }

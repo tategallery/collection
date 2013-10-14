@@ -1,6 +1,5 @@
 {
   "acno": "P06623", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06621-P06626", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 515 x 419 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Soho Suite", 
+  "height": "419", 
   "id": 16385, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 187, 
   "subjectCount": 4, 
-  "title": "Mitchell's Yard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 16215, 
+                "name": "Soho, Mitchell's Yard", 
+                "workCount": 1
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1152, 
+                "name": "courtyard", 
+                "workCount": 66
+              }, 
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06623_8.jpg", 
+  "title": "Mitchell's Yard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wiseman-mitchells-yard-p06623", 
+  "width": "515"
 }

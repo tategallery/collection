@@ -1,6 +1,5 @@
 {
   "acno": "P20149", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20148-P20153", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1993"
   }, 
   "dateText": "1993", 
+  "depth": "", 
   "dimensions": "image: 320 x 277 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Museum Studies", 
+  "height": "277", 
   "id": 21246, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,91 @@
       "workCount": 846
     }
   ], 
-  "popularity": 27, 
   "subjectCount": 5, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11243, 
+                "name": "relief, Assyrian", 
+                "workCount": 1
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P20/P20149_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-title-not-known-p20149", 
+  "width": "320"
 }

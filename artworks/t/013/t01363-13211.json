@@ -1,6 +1,5 @@
 {
   "acno": "T01363", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "1130", 
   "dimensions": "object: 1886 x 1130 x 1130 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1130", 
   "id": 13211, 
   "inscription": null, 
   "medium": "Plastic and glass", 
@@ -41,7 +41,36 @@
       "workCount": 52
     }
   ], 
-  "popularity": 80, 
   "subjectCount": 1, 
-  "title": "Agrippa"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01363_8.jpg", 
+  "title": "Agrippa", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-agrippa-t01363", 
+  "width": "1886"
 }

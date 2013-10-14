@@ -1,6 +1,5 @@
 {
   "acno": "P04588", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971-2"
   }, 
   "dateText": "1971-2", 
+  "depth": "", 
   "dimensions": "image: 686 x 686 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "686", 
   "id": 9323, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,65 @@
       "workCount": 70
     }
   ], 
-  "popularity": 103, 
   "subjectCount": 4, 
-  "title": "Chance and Order IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance", 
+                "workCount": 103
+              }, 
+              {
+                "id": 11717, 
+                "name": "order", 
+                "workCount": 32
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04588_8.jpg", 
+  "title": "Chance and Order IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-chance-and-order-iv-p04588", 
+  "width": "686"
 }

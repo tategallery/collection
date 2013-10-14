@@ -1,6 +1,5 @@
 {
   "acno": "N04957", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,100 @@
     "text": "exhibited 1938"
   }, 
   "dateText": "exhibited 1938", 
+  "depth": "", 
   "dimensions": "support: 610 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 8157, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 135, 
   "subjectCount": 5, 
-  "title": "A Student"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific", 
+                "workCount": 334
+              }, 
+              {
+                "id": 4302, 
+                "name": "pencil", 
+                "workCount": 12
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7268, 
+                "name": "student", 
+                "workCount": 88
+              }
+            ], 
+            "id": 121, 
+            "name": "educational and scientific", 
+            "workCount": 173
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04957_8.jpg", 
+  "title": "A Student", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knight-a-student-n04957", 
+  "width": "610"
 }

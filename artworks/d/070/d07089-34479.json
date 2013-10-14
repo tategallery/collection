@@ -1,6 +1,5 @@
 {
   "acno": "D07089", 
-  "addlImageCount": 0, 
   "catTextResId": 1134624, 
   "catalogueGroup": {
     "accessionRanges": "D06984-D07126; D07128-D07131; D40628-D40630; D40638", 
@@ -28,17 +27,109 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CV 69 a", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.3 Sketchbook [Finberg CV]", 
+  "height": "185", 
   "id": 34479, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 160, 
-  "popularity": 167, 
   "subjectCount": 5, 
-  "title": "London Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1205, 
+                "name": "London - non-specific", 
+                "workCount": 105
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }, 
+          {
+            "children": [
+              {
+                "id": 1204, 
+                "name": "River Thames", 
+                "workCount": 649
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07089_8.jpg", 
+  "title": "London Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-london-bridge-d07089", 
+  "width": "108"
 }

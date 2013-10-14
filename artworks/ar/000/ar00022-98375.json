@@ -1,6 +1,5 @@
 {
   "acno": "AR00022", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,107 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "45", 
   "dimensions": "support: 2800 x 1648 x 45 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Spiegel, Grau (735-2)", 
   "groupTitle": null, 
+  "height": "1648", 
   "id": 98375, 
   "inscription": null, 
   "medium": "Pigment on glass", 
   "movementCount": 0, 
-  "popularity": 1096, 
   "subjectCount": 5, 
-  "title": "Mirror Painting (Grey, 735-2)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1635, 
+                "name": "bench", 
+                "workCount": 102
+              }, 
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8634, 
+                "name": "museum", 
+                "workCount": 15
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00022_8.jpg", 
+  "title": "Mirror Painting (Grey, 735-2)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richter-mirror-painting-grey-735-2-ar00022", 
+  "width": "2800"
 }

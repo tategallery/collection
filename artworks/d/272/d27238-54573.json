@@ -1,6 +1,5 @@
 {
   "acno": "D27238", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27226-D27280; D41084-D41085", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVIII 7", 
   "foreignTitle": null, 
   "groupTitle": "Mouth of the Thames Sketchbook [Finberg CCLXXVIII]", 
+  "height": "189", 
   "id": 54573, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 211, 
   "subjectCount": 5, 
-  "title": "Interior of Westminster Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 3570, 
+                "name": "Westminster, Westminster Abbey", 
+                "workCount": 35
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27238_8.jpg", 
+  "title": "Interior of Westminster Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-westminster-abbey-d27238", 
+  "width": "113"
 }

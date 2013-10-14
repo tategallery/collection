@@ -1,6 +1,5 @@
 {
   "acno": "P01127", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01127-P01135", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 536 x 464 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Birds of Prey", 
+  "height": "464", 
   "id": 4592, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 35, 
   "subjectCount": 2, 
-  "title": "Golden Eagle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle", 
+                "workCount": 36
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01127_8.jpg", 
+  "title": "Golden Eagle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-golden-eagle-p01127", 
+  "width": "536"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D05380", 
-  "addlImageCount": 0, 
   "catTextResId": 1139158, 
   "catalogueGroup": {
     "accessionRanges": "D05376-D05427; D40694-D40696", 
@@ -28,17 +27,66 @@
     "text": "c.1805"
   }, 
   "dateText": "c.1805", 
+  "depth": "", 
   "dimensions": "support: 118 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVII 5", 
   "foreignTitle": null, 
   "groupTitle": "Shipwreck (1) Sketchbook [Finberg LXXXVII]", 
+  "height": "185", 
   "id": 32772, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 36, 
   "subjectCount": 2, 
-  "title": "A Ship in Distress: Arithmetic (Inscription by Turner)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction", 
+                "workCount": 295
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5656, 
+                "name": "shipwreck", 
+                "workCount": 238
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05380_8.jpg", 
+  "title": "A Ship in Distress: Arithmetic (Inscription by Turner)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ship-in-distress-arithmetic-inscription-by-turner-d05380", 
+  "width": "118"
 }

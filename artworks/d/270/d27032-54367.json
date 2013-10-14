@@ -1,6 +1,5 @@
 {
   "acno": "D27032", 
-  "addlImageCount": 0, 
   "catTextResId": 1135397, 
   "catalogueGroup": {
     "accessionRanges": "D26966-D27045", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 150 x 180 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVI 39 a", 
   "foreignTitle": null, 
   "groupTitle": "Fort Augustus Sketchbook [Finberg CCLXXVI]", 
+  "height": "180", 
   "id": 54367, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 78, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "The River Foyers near the Falls"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27032_8_R.jpg", 
+  "title": "The River Foyers near the Falls", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-river-foyers-near-the-falls-d27032", 
+  "width": "150"
 }

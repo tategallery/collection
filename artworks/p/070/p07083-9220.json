@@ -1,6 +1,5 @@
 {
   "acno": "P07083", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07083-P07089", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 403 x 400 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seven Aquatints", 
+  "height": "400", 
   "id": 9220, 
   "inscription": "date inscribed", 
   "medium": "Aquatint and etching on paper", 
@@ -47,7 +47,41 @@
       "workCount": 140
     }
   ], 
-  "popularity": 57, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07083_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mangold-title-not-known-p07083", 
+  "width": "403"
 }

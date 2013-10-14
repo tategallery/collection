@@ -1,6 +1,5 @@
 {
   "acno": "P77811", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77805-P77814", 
     "completeStatus": "COMPLETE", 
@@ -27,13 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 485 x 584 mm", 
-  "displayLocation": {
-    "name": "Mus\u00e9e National d'Art Moderne (Paris, France)", 
-    "url": "http://www.centrepompidou.fr"
-  }, 
   "foreignTitle": null, 
   "groupTitle": "Ten Works by Ten Painters", 
+  "height": "584", 
   "id": 21525, 
   "inscription": null, 
   "medium": "Screenprint on acetate", 
@@ -50,7 +47,84 @@
       "workCount": 248
     }
   ], 
-  "popularity": 2054, 
   "subjectCount": 5, 
-  "title": "Sandwich and Soda"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6928, 
+                "name": "advertising", 
+                "workCount": 237
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }, 
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 5887, 
+                "name": "sandwich", 
+                "workCount": 2
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 5889, 
+                "name": "straw", 
+                "workCount": 2
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77811_8.jpg", 
+  "title": "Sandwich and Soda", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lichtenstein-sandwich-and-soda-p77811", 
+  "width": "485"
 }

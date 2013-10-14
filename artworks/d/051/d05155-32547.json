@@ -1,6 +1,5 @@
 {
   "acno": "D05155", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05073-D05158; D40795-D40797", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 255 x 164 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXII 75 a", 
   "foreignTitle": null, 
   "groupTitle": "Chester Sketchbook [Finberg LXXXII]", 
+  "height": "164", 
   "id": 32547, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 152, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "Study of Fishermen Launching a Boat, for 'Fishermen upon a Lee-Shore'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2094, 
+                "name": "fisherman / fisherwoman", 
+                "workCount": 281
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05155_8_R.jpg", 
+  "title": "Study of Fishermen Launching a Boat, for 'Fishermen upon a Lee-Shore'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-fishermen-launching-a-boat-for-fishermen-upon-a-lee-shore-d05155", 
+  "width": "255"
 }

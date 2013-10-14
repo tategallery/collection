@@ -1,6 +1,5 @@
 {
   "acno": "D08642", 
-  "addlImageCount": 0, 
   "catTextResId": 1137119, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,47 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 117 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 145", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "75", 
   "id": 36029, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 297, 
-  "popularity": 28, 
   "subjectCount": 1, 
-  "title": "The Water Mill at Berry Pomeroy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08642_8.jpg", 
+  "title": "The Water Mill at Berry Pomeroy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-water-mill-at-berry-pomeroy-d08642", 
+  "width": "117"
 }

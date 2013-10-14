@@ -1,6 +1,5 @@
 {
   "acno": "P77814", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77805-P77814", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 305 x 305 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Works by Ten Painters", 
+  "height": "305", 
   "id": 21529, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 231, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77814_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reinhardt-no-title-p77814", 
+  "width": "305"
 }

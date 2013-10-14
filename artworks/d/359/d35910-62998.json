@@ -1,6 +1,5 @@
 {
   "acno": "D35910", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "c.1840"
   }, 
   "dateText": "c.1840", 
+  "depth": "", 
   "dimensions": "support: 224 x 281 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 67", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "281", 
   "id": 62998, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 63, 
   "subjectCount": 3, 
-  "title": "Stormy Black Sky over Yellow Sands"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35910_8.jpg", 
+  "title": "Stormy Black Sky over Yellow Sands", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-stormy-black-sky-over-yellow-sands-d35910", 
+  "width": "224"
 }

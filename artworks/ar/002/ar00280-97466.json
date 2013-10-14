@@ -1,6 +1,5 @@
 {
   "acno": "AR00280", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "image: 472 x 400 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "400", 
   "id": 97466, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
@@ -41,7 +41,60 @@
       "workCount": 248
     }
   ], 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "Hats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6930, 
+                "name": "fashion", 
+                "workCount": 62
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }, 
+              {
+                "id": 201, 
+                "name": "hat, cap", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00280_8.jpg", 
+  "title": "Hats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-hats-ar00280", 
+  "width": "472"
 }

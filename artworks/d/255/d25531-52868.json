@@ -1,6 +1,5 @@
 {
   "acno": "D25531", 
-  "addlImageCount": 0, 
   "catTextResId": 1133890, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 74 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIV 4 a", 
   "foreignTitle": null, 
   "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "height": "94", 
   "id": 52868, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Bowes Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25531_8.jpg", 
+  "title": "Bowes Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bowes-castle-d25531", 
+  "width": "74"
 }

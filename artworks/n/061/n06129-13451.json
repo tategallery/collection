@@ -1,6 +1,5 @@
 {
   "acno": "N06129", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "exhibited 1934"
   }, 
   "dateText": "exhibited 1934", 
+  "depth": "673", 
   "dimensions": "object: 1816 x 3886 x 673 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3886", 
   "id": 13451, 
   "inscription": null, 
   "medium": "Mahogany and pynkado", 
   "movementCount": 0, 
-  "popularity": 158, 
   "subjectCount": 1, 
-  "title": "Horse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06129_8.jpg", 
+  "title": "Horse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/skeaping-horse-n06129", 
+  "width": "1816"
 }

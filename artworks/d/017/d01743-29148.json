@@ -1,6 +1,5 @@
 {
   "acno": "D01743", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,81 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 174 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "XLII 68", 
   "foreignTitle": null, 
   "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "height": "125", 
   "id": 29148, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 22, 
   "subjectCount": 5, 
-  "title": "A Ruined Gothic Church with a Polygonal Turret"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }, 
+              {
+                "id": 9016, 
+                "name": "turret", 
+                "workCount": 56
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01743_8_R.jpg", 
+  "title": "A Ruined Gothic Church with a Polygonal Turret", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ruined-gothic-church-with-a-polygonal-turret-d01743", 
+  "width": "174"
 }

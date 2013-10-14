@@ -1,6 +1,5 @@
 {
   "acno": "T02024", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "70", 
   "dimensions": "support: 1524 x 1829 x 70 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1829", 
   "id": 1674, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood, canvas and board", 
   "movementCount": 0, 
-  "popularity": 82, 
   "subjectCount": 3, 
-  "title": "Triptych"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02024_8.jpg", 
+  "title": "Triptych", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/buckley-triptych-t02024", 
+  "width": "1524"
 }

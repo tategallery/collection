@@ -1,6 +1,5 @@
 {
   "acno": "A00083", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1863"
   }, 
   "dateText": "c.1863", 
+  "depth": "", 
   "dimensions": "support: 252 x 153 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "153", 
   "id": 1721, 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
@@ -41,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 48, 
   "subjectCount": 2, 
-  "title": "Composition Study for 'The Merciful Knight'. Verso: Study for a Nativity"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 275, 
+                "name": "kissing", 
+                "workCount": 55
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00083_8.jpg", 
+  "title": "Composition Study for 'The Merciful Knight'. Verso: Study for a Nativity", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-composition-study-for-the-merciful-knight-verso-study-for-a-nativity-a00083", 
+  "width": "252"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "A01574", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": null, 
     "completeStatus": "IRRELEVANT", 
@@ -24,59 +23,64 @@
   "creditLine": "Presented by the artist's widow 1888", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": null, 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
   "id": 69704, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "A01574_142856", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01574_142856_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 127
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01574_142856_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 255
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01574_142856_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 509
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01574_142856_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1527
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11206, 
+                "name": "interior - non-specific", 
+                "workCount": 36
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01574_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01574", 
+  "width": ""
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00874", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963-4"
   }, 
   "dateText": "1963-4", 
+  "depth": "368", 
   "dimensions": "object: 1880 x 470 x 368 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "470", 
   "id": 8192, 
   "inscription": null, 
   "medium": "Steel on stone base", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Cretan Queen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00874_8.jpg", 
+  "title": "Cretan Queen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/konzal-cretan-queen-t00874", 
+  "width": "1880"
 }

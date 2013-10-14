@@ -1,6 +1,5 @@
 {
   "acno": "T12821", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "2005"
   }, 
   "dateText": "2005", 
+  "depth": "805", 
   "dimensions": "object: 1800 x 805 x 805 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "805", 
   "id": 98706, 
   "inscription": null, 
   "medium": "Mirror and glass", 
   "movementCount": 0, 
-  "popularity": 6729, 
   "subjectCount": 2, 
-  "title": "The Passing Winter"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12821_8.jpg", 
+  "title": "The Passing Winter", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kusama-the-passing-winter-t12821", 
+  "width": "1800"
 }

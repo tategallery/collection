@@ -1,6 +1,5 @@
 {
   "acno": "D41343", 
-  "addlImageCount": 0, 
   "catTextResId": 1137491, 
   "catalogueGroup": {
     "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
@@ -28,17 +27,52 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 141 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV a 61 a", 
   "foreignTitle": null, 
   "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
   "id": 65041, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 126, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "The Coast towards Bull Point and Lundy from the Torrs, near Ilfracombe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41343_8.jpg", 
+  "title": "The Coast towards Bull Point and Lundy from the Torrs, near Ilfracombe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-coast-towards-bull-point-and-lundy-from-the-torrs-near-ilfracombe-d41343", 
+  "width": "141"
 }

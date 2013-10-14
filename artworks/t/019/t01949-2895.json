@@ -1,6 +1,5 @@
 {
   "acno": "T01949", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,72 @@
     "text": "c.1770"
   }, 
   "dateText": "c.1770", 
+  "depth": "", 
   "dimensions": "support: 241 x 314 mm\r\nframe: 459 x 522 x 21 mm\r\nimage: 241 x 314 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "314", 
   "id": 2895, 
   "inscription": null, 
   "medium": "Oil paint on paper", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 5, 
-  "title": "Before Storm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01949_8.jpg", 
+  "title": "Before Storm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-before-storm-t01949", 
+  "width": "241"
 }

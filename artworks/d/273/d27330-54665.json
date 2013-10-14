@@ -1,6 +1,5 @@
 {
   "acno": "D27330", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27281-D27365; D41144-D41145", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 206 x 86 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX 34 a", 
   "foreignTitle": null, 
   "groupTitle": "Gravesend and Margate Sketchbook [Finberg CCLXXIX]", 
+  "height": "86", 
   "id": 54665, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 6, 
   "subjectCount": 4, 
-  "title": "Houses on Beach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27330_8_R.jpg", 
+  "title": "Houses on Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-on-beach-d27330", 
+  "width": "206"
 }

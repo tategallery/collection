@@ -1,6 +1,5 @@
 {
   "acno": "D00713", 
-  "addlImageCount": 0, 
   "catTextResId": 1141161, 
   "catalogueGroup": {
     "accessionRanges": "D00130-D00145; D00152; D00181; D00367; D00368; D00388-D00394; D00396-D00400; D00710; D00712; D00713; D08190; D40034-D40039; D40052-D40054; D40242-D40245; D40334; D41455", 
@@ -28,16 +27,89 @@
     "text": "1793-4"
   }, 
   "dateText": "1793-4", 
+  "depth": "", 
   "dimensions": "support: 202 x 312 mm", 
-  "displayLocation": null, 
   "finberg": "XXIX H", 
   "foreignTitle": null, 
   "groupTitle": "Drawings and Watercolours Connected with the Welsh and Marches Tours", 
+  "height": "312", 
   "id": 28128, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "Three Children Seated on the Ground; Dock Leaves"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 819, 
+                "name": "dock", 
+                "workCount": 30
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00713_8.jpg", 
+  "title": "Three Children Seated on the Ground; Dock Leaves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-children-seated-on-the-ground-dock-leaves-d00713", 
+  "width": "202"
 }

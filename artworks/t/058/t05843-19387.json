@@ -1,6 +1,5 @@
 {
   "acno": "T05843", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01759-P01773; T05842-T05844", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "c.1971"
   }, 
   "dateText": "c.1971", 
+  "depth": "", 
   "dimensions": "support: 597 x 498 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Eurominiprotopack", 
+  "height": "498", 
   "id": 19387, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05843_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kunst-no-title-t05843", 
+  "width": "597"
 }

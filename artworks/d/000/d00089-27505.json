@@ -1,6 +1,5 @@
 {
   "acno": "D00089", 
-  "addlImageCount": 0, 
   "catTextResId": 1140140, 
   "catalogueGroup": {
     "accessionRanges": "D00072-D00107; D40733-D40736", 
@@ -28,17 +27,90 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 263 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "VI 14", 
   "foreignTitle": null, 
   "groupTitle": "Bristol and Malmesbury Sketchbook [Finberg VI]", 
+  "height": "185", 
   "id": 27505, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 29, 
-  "popularity": 124, 
   "subjectCount": 4, 
-  "title": "Bath Abbey and Surrounding Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8223, 
+                "name": "Bath and Northeast Somerset", 
+                "workCount": 25
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7586, 
+                "name": "Bath, Bath Abbey", 
+                "workCount": 5
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00089_8.jpg", 
+  "title": "Bath Abbey and Surrounding Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bath-abbey-and-surrounding-buildings-d00089", 
+  "width": "263"
 }

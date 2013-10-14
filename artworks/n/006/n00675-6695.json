@@ -1,6 +1,5 @@
 {
   "acno": "N00675", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "?1760"
   }, 
   "dateText": "?1760", 
+  "depth": "", 
   "dimensions": "support: 289 x 219 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "219", 
   "id": 6695, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 74, 
   "subjectCount": 3, 
-  "title": "Mary Hone, the Artist's Wife"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13029, 
+                "name": "Hone, Mary", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00675_8.jpg", 
+  "title": "Mary Hone, the Artist's Wife", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hone-mary-hone-the-artists-wife-n00675", 
+  "width": "289"
 }

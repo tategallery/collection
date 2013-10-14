@@ -1,6 +1,5 @@
 {
   "acno": "P09061", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09056-P09098; P09215-P09216", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "unconfirmed: 298 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Metafisikal Translations", 
+  "height": "210", 
   "id": 67812, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,86 @@
       "workCount": 178
     }
   ], 
-  "popularity": 82, 
   "subjectCount": 4, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10953, 
+                "name": "book, Paolozzi, Eduardo, 'Metafisikal Translations'", 
+                "workCount": 44
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5349, 
+                "name": "philosophy", 
+                "workCount": 50
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09061_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-p09061", 
+  "width": "298"
 }

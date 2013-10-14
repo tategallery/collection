@@ -1,6 +1,5 @@
 {
   "acno": "T03341", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "support: 914 x 1019 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1019", 
   "id": 10491, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 388, 
   "subjectCount": 2, 
-  "title": "The Blue Veil"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation", 
+                "workCount": 128
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03341_8.jpg", 
+  "title": "The Blue Veil", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/murphy-the-blue-veil-t03341", 
+  "width": "914"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D01681", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1798-9"
   }, 
   "dateText": "1798-9", 
+  "depth": "", 
   "dimensions": "support: 174 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "XLII 6", 
   "foreignTitle": null, 
   "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "height": "125", 
   "id": 29086, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 8, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "A Group of Trees beside Water"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01681_8.jpg", 
+  "title": "A Group of Trees beside Water", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-group-of-trees-beside-water-d01681", 
+  "width": "174"
 }

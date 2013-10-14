@@ -1,6 +1,5 @@
 {
   "acno": "D18533", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXI 6", 
   "foreignTitle": null, 
   "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "height": "189", 
   "id": 45886, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Oak Chest, or Panelling, at Farnley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1459, 
+                "name": "chest", 
+                "workCount": 7
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5456, 
+                "name": "panelling", 
+                "workCount": 28
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18533_8.jpg", 
+  "title": "Oak Chest, or Panelling, at Farnley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-oak-chest-or-panelling-at-farnley-d18533", 
+  "width": "113"
 }

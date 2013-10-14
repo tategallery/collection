@@ -1,6 +1,5 @@
 {
   "acno": "AR00179", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1999"
   }, 
   "dateText": "1999", 
+  "depth": "40", 
   "dimensions": "support: 1525 x 1525 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1525", 
   "id": 98992, 
   "inscription": null, 
   "medium": "Acrylic paint and graphite on canvas", 
@@ -41,7 +41,58 @@
       "workCount": 140
     }
   ], 
-  "popularity": 644, 
   "subjectCount": 4, 
-  "title": "Happy Holiday"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 940, 
+                "name": "happiness", 
+                "workCount": 62
+              }, 
+              {
+                "id": 6852, 
+                "name": "memory", 
+                "workCount": 106
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }, 
+          {
+            "children": [
+              {
+                "id": 6742, 
+                "name": "purity", 
+                "workCount": 35
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00179_8.jpg", 
+  "title": "Happy Holiday", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-happy-holiday-ar00179", 
+  "width": "1525"
 }

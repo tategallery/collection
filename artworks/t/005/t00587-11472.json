@@ -1,6 +1,5 @@
 {
   "acno": "T00587", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "13", 
   "dimensions": "object: 1221 x 1158 x 13 mm\r\nframe: 1540 x 1536 x 68 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1158", 
   "id": 11472, 
   "inscription": null, 
   "medium": "Oil paint on board", 
@@ -44,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 358, 
   "subjectCount": 2, 
-  "title": "Black Abstract"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00587_8.jpg", 
+  "title": "Black Abstract", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-black-abstract-t00587", 
+  "width": "1221"
 }

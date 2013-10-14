@@ -1,6 +1,5 @@
 {
   "acno": "P03076", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03075-P03081", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 343 x 460 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Work on the Land", 
+  "height": "460", 
   "id": 12942, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,124 @@
       "workCount": 141
     }
   ], 
-  "popularity": 40, 
   "subjectCount": 6, 
-  "title": "Ploughing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7060, 
+                "name": "home front", 
+                "workCount": 23
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1496, 
+                "name": "plough", 
+                "workCount": 67
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1497, 
+                "name": "ploughing", 
+                "workCount": 65
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1140, 
+                "name": "tractor", 
+                "workCount": 10
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03076_8.jpg", 
+  "title": "Ploughing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenstein-ploughing-p03076", 
+  "width": "343"
 }

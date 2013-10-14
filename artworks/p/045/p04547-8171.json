@@ -1,6 +1,5 @@
 {
   "acno": "P04547", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04544-P04547", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 686 x 1015 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Series of Four Prints", 
+  "height": "1015", 
   "id": 8171, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 26, 
   "subjectCount": 2, 
-  "title": "D. Yellow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04547_8.jpg", 
+  "title": "D. Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knowles-d-yellow-p04547", 
+  "width": "686"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D31198", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31138-D31143; D31145-D31150; D31152-D31156; D31158-D31222; D41125-D41126", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 171 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVIII 34 a", 
   "foreignTitle": null, 
   "groupTitle": "Arco and Vigne Sketchbook [Finberg CCCVIII]", 
+  "height": "111", 
   "id": 58434, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 4, 
   "subjectCount": 5, 
-  "title": "Castle on Rock, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall", 
+                "workCount": 146
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31198_8.jpg", 
+  "title": "Castle on Rock, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-etc-d31198", 
+  "width": "171"
 }

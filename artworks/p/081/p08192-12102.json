@@ -1,6 +1,5 @@
 {
   "acno": "P08192", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "c.1903"
   }, 
   "dateText": "c.1903", 
+  "depth": "", 
   "dimensions": "image: 38 x 54 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "54", 
   "id": 12102, 
   "inscription": null, 
   "medium": "Wood engraving on paper", 
   "movementCount": 0, 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "Geese"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence", 
+                "workCount": 262
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 2765, 
+                "name": "goose", 
+                "workCount": 23
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08192_8.jpg", 
+  "title": "Geese", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pissarro-geese-p08192", 
+  "width": "38"
 }

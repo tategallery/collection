@@ -1,6 +1,5 @@
 {
   "acno": "P77792", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77769-P77770; P77773-P77781; P77788-P77799; P77839-P77850", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1988"
   }, 
   "dateText": "1988", 
+  "depth": "", 
   "dimensions": "image: 282 x 220 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Proposals", 
+  "height": "220", 
   "id": 21503, 
   "inscription": null, 
   "medium": "Lithograph on paper; with Gary Hincks", 
@@ -47,7 +47,74 @@
       "workCount": 478
     }
   ], 
-  "popularity": 47, 
   "subjectCount": 3, 
-  "title": "Projet pour un parc r\u00e9publicain"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3355, 
+                "name": "axe", 
+                "workCount": 29
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park", 
+                "workCount": 175
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 843, 
+                "name": "satire", 
+                "workCount": 165
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77792_8.jpg", 
+  "title": "Projet pour un parc r\u00e9publicain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-projet-pour-un-parc-republicain-p77792", 
+  "width": "282"
 }

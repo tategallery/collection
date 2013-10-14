@@ -1,6 +1,5 @@
 {
   "acno": "D22551", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22463-D22556; D41105-D41106", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1829-30"
   }, 
   "dateText": "c.1829-30", 
+  "depth": "", 
   "dimensions": "support: 113 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLI 77 a", 
   "foreignTitle": null, 
   "groupTitle": "Marine Dabblers Sketchbook [Finberg CCXLI]", 
+  "height": "89", 
   "id": 49889, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 156, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "A Bay"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay", 
+                "workCount": 404
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22551_8.jpg", 
+  "title": "A Bay", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-bay-d22551", 
+  "width": "113"
 }

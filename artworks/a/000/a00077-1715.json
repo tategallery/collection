@@ -1,6 +1,5 @@
 {
   "acno": "A00077", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00074-A00077", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1875"
   }, 
   "dateText": "1875", 
+  "depth": "", 
   "dimensions": "support: 731 x 400 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cartoons for a Window at the Church of St Mary the Virgin, Speldhurst, Kent", 
+  "height": "400", 
   "id": 1715, 
   "inscription": null, 
   "medium": "Charcoal and graphite on paper", 
@@ -47,7 +47,127 @@
       "workCount": 405
     }
   ], 
-  "popularity": 60, 
   "subjectCount": 8, 
-  "title": "St Boniface"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3372, 
+                "name": "Bible", 
+                "workCount": 5
+              }, 
+              {
+                "id": 9006, 
+                "name": "crosier", 
+                "workCount": 8
+              }, 
+              {
+                "id": 13015, 
+                "name": "mitre", 
+                "workCount": 12
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }, 
+          {
+            "children": [
+              {
+                "id": 2216, 
+                "name": "dagger / knife", 
+                "workCount": 34
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16398, 
+                "name": "St Boniface", 
+                "workCount": 1
+              }
+            ], 
+            "id": 136, 
+            "name": "Saints", 
+            "workCount": 156
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2057, 
+                "name": "vestments", 
+                "workCount": 30
+              }
+            ], 
+            "id": 151, 
+            "name": "fashion, dress: ceremonial/royal", 
+            "workCount": 89
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00077_8.jpg", 
+  "title": "St Boniface", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-st-boniface-a00077", 
+  "width": "731"
 }

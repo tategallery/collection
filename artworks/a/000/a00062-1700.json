@@ -1,6 +1,5 @@
 {
   "acno": "A00062", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1877"
   }, 
   "dateText": "c.1877", 
+  "depth": "", 
   "dimensions": "support: 261 x 225 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "225", 
   "id": 1700, 
   "inscription": "date inscribed", 
   "medium": "Graphite and watercolour on paper", 
@@ -41,7 +41,67 @@
       "workCount": 405
     }
   ], 
-  "popularity": 95, 
   "subjectCount": 3, 
-  "title": "Study of a Seated Woman for 'The Passing of Venus'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress", 
+                "workCount": 212
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00062_8.jpg", 
+  "title": "Study of a Seated Woman for 'The Passing of Venus'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-seated-woman-for-the-passing-of-venus-a00062", 
+  "width": "261"
 }

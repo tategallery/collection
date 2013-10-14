@@ -1,6 +1,5 @@
 {
   "acno": "D09406", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "c.1812-13"
   }, 
   "dateText": "c.1812-13", 
+  "depth": "", 
   "dimensions": "support: 158 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXI 151 a", 
   "foreignTitle": null, 
   "groupTitle": "Plymouth, Hamoaze Sketchbook [Finberg CXXXI]", 
+  "height": "93", 
   "id": 36785, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 482, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "House with Water Wheel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5445, 
+                "name": "waterwheel", 
+                "workCount": 17
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09406_8.jpg", 
+  "title": "House with Water Wheel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-house-with-water-wheel-d09406", 
+  "width": "158"
 }

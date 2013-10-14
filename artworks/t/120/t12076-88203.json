@@ -1,6 +1,5 @@
 {
   "acno": "T12076", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "160", 
   "dimensions": "object: 180 x 160 x 160 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "160", 
   "id": 88203, 
   "inscription": null, 
   "medium": "Reduced stoneware", 
@@ -41,7 +41,48 @@
       "workCount": 409
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 2, 
-  "title": "Squared-off Jar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics", 
+                "workCount": 73
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar", 
+                "workCount": 92
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12076_8.jpg", 
+  "title": "Squared-off Jar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-squared-off-jar-t12076", 
+  "width": "180"
 }

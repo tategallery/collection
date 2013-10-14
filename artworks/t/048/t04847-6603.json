@@ -1,6 +1,5 @@
 {
   "acno": "T04847", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "support: 2136 x 1318 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1318", 
   "id": 6603, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 102
     }
   ], 
-  "popularity": 756, 
   "subjectCount": 1, 
-  "title": "Nulli Secundus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04847_8.jpg", 
+  "title": "Nulli Secundus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hofmann-nulli-secundus-t04847", 
+  "width": "2136"
 }

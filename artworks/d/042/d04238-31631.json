@@ -1,6 +1,5 @@
 {
   "acno": "D04238", 
-  "addlImageCount": 0, 
   "catTextResId": 1133799, 
   "catalogueGroup": {
     "accessionRanges": "D04190-D04274; D41511-D41512", 
@@ -28,17 +27,71 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 112 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "LXXI 39 a", 
   "foreignTitle": null, 
   "groupTitle": "Small Calais Pier Sketchbook [Finberg LXXI]", 
+  "height": "187", 
   "id": 31631, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 98, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Coast, with Distant Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04238_8.jpg", 
+  "title": "Coast, with Distant Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-coast-with-distant-buildings-d04238", 
+  "width": "112"
 }

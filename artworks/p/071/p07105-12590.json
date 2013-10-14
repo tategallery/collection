@@ -1,6 +1,5 @@
 {
   "acno": "P07105", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07104-P07110", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "image: 694 x 676 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fragments", 
+  "height": "676", 
   "id": 12590, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on Perspex", 
@@ -47,7 +47,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 799, 
   "subjectCount": 2, 
-  "title": "Fragment 2/10"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07105_8.jpg", 
+  "title": "Fragment 2/10", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-fragment-210-p07105", 
+  "width": "694"
 }

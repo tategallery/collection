@@ -1,6 +1,5 @@
 {
   "acno": "D26240", 
-  "addlImageCount": 0, 
   "catTextResId": 1136168, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,52 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 76 a", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "181", 
   "id": 53577, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 156, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Coastal Cliffs from the Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26240_8.jpg", 
+  "title": "Coastal Cliffs from the Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-coastal-cliffs-from-the-sea-d26240", 
+  "width": "111"
 }

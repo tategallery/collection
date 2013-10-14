@@ -1,6 +1,5 @@
 {
   "acno": "P77175", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 350 x 480 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "480", 
   "id": 14334, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -51,7 +51,60 @@
       "workCount": 12
     }
   ], 
-  "popularity": 532, 
   "subjectCount": 3, 
-  "title": "Chaos I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13683, 
+                "name": "chaos", 
+                "workCount": 9
+              }, 
+              {
+                "id": 1715, 
+                "name": "destruction", 
+                "workCount": 295
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77175_8.jpg", 
+  "title": "Chaos I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tinguely-chaos-i-p77175", 
+  "width": "350"
 }

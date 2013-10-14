@@ -1,6 +1,5 @@
 {
   "acno": "D33084", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33037-D33088; D41115-D41117; D41446-D41449", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 159 x 102 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVII 24 a", 
   "foreignTitle": null, 
   "groupTitle": "Ostend, Rhine and Berne Sketchbook [Finberg CCCXXVII]", 
+  "height": "102", 
   "id": 60266, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 50, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "River Banks"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33084_8.jpg", 
+  "title": "River Banks", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-banks-d33084", 
+  "width": "159"
 }

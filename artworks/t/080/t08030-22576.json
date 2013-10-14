@@ -1,6 +1,5 @@
 {
   "acno": "T08030", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08000-T08082; T10676", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,69 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 131 x 177 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Mackworth Praed Book", 
+  "height": "177", 
   "id": 22576, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "A River Bank with Wild Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08030_8.jpg", 
+  "title": "A River Bank with Wild Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-a-river-bank-with-wild-trees-t08030", 
+  "width": "131"
 }

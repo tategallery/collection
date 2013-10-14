@@ -1,6 +1,5 @@
 {
   "acno": "P06029", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06025; P06028-P06029; P06315-P06316; P06518; P06588-P06589", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,107 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 664 x 435 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Follies", 
+  "height": "435", 
   "id": 848, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 77, 
   "subjectCount": 5, 
-  "title": "Rushton Triangular Lodge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7631, 
+                "name": "Northamptonshire", 
+                "workCount": 18
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 13296, 
+                "name": "Rushton, Triangular Lodge", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4277, 
+                "name": "estate", 
+                "workCount": 344
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12895, 
+                "name": "folly", 
+                "workCount": 14
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06029_8.jpg", 
+  "title": "Rushton Triangular Lodge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beer-rushton-triangular-lodge-p06029", 
+  "width": "664"
 }

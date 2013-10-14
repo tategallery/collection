@@ -1,6 +1,5 @@
 {
   "acno": "D41283", 
-  "addlImageCount": 0, 
   "catTextResId": 1137431, 
   "catalogueGroup": {
     "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
@@ -28,17 +27,74 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 141 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV a 8", 
   "foreignTitle": null, 
   "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
   "id": 64981, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 10, 
   "subjectCount": 5, 
-  "title": "Mount's Bay and St Michael's Mount from near Gulval"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay", 
+                "workCount": 404
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41283_8_R.jpg", 
+  "title": "Mount's Bay and St Michael's Mount from near Gulval", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mounts-bay-and-st-michaels-mount-from-near-gulval-d41283", 
+  "width": "141"
 }

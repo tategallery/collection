@@ -1,6 +1,5 @@
 {
   "acno": "P03227", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03217-P03229", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1967-8"
   }, 
   "dateText": "1967-8", 
+  "depth": "", 
   "dimensions": "image: 381 x 511 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Centennial Suite", 
+  "height": "511", 
   "id": 13502, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Special Green"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03227_8.jpg", 
+  "title": "Special Green", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-special-green-p03227", 
+  "width": "381"
 }

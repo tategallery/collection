@@ -1,6 +1,5 @@
 {
   "acno": "D31861", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31791-D31928; D41118-D41120", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 173 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIII 36 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice and Botzen Sketchbook [Finberg CCCXIII]", 
+  "height": "123", 
   "id": 59081, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "Church and Campanile"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 2768, 
+                "name": "Venice - non-specific", 
+                "workCount": 318
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower", 
+                "workCount": 177
+              }, 
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31861_8.jpg", 
+  "title": "Church and Campanile", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-and-campanile-d31861", 
+  "width": "173"
 }

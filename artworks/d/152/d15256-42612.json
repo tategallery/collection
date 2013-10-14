@@ -1,6 +1,5 @@
 {
   "acno": "D15256", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "D15251-D15295; D40722", 
     "completeStatus": "COMPLETE", 
@@ -27,60 +26,106 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 223 x 285 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXI 6", 
   "foreignTitle": null, 
   "groupTitle": "Como and Venice Sketchbook [Finberg CLXXXI]", 
+  "height": "285", 
   "id": 42612, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "D15256_87815", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D15/D15256_87815_7.jpg", 
-          "height": 100, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D15/D15256_87815_8.jpg", 
-          "height": 200, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D15/D15256_87815_9.jpg", 
-          "height": 400, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D15/D15256_87815_10.jpg", 
-          "height": 1201, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 149, 
   "subjectCount": 6, 
-  "title": "Venice: The Punta della Dogana, with the Zitelle in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 3225, 
+                "name": "Venice, Grand Canal", 
+                "workCount": 138
+              }, 
+              {
+                "id": 5647, 
+                "name": "Venice, Santa Maria della Salute", 
+                "workCount": 72
+              }, 
+              {
+                "id": 6176, 
+                "name": "Venice, Zitelle", 
+                "workCount": 5
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 240, 
+                "name": "canal", 
+                "workCount": 545
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15256_8.jpg", 
+  "title": "Venice: The Punta della Dogana, with the Zitelle in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-venice-the-punta-della-dogana-with-the-zitelle-in-the-distance-d15256", 
+  "width": "223"
 }

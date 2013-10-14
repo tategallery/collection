@@ -1,6 +1,5 @@
 {
   "acno": "P01743", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01739-P01743", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 705 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Plates", 
+  "height": "508", 
   "id": 9259, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
@@ -47,7 +47,41 @@
       "workCount": 140
     }
   ], 
-  "popularity": 107, 
   "subjectCount": 2, 
-  "title": "Untitled (a)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01743_8.jpg", 
+  "title": "Untitled (a)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marden-untitled-a-p01743", 
+  "width": "705"
 }

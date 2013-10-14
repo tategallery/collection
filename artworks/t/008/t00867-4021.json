@@ -1,6 +1,5 @@
 {
   "acno": "T00867", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "support: 1302 x 1956 mm\r\nframe: 1318 x 1975 x 59 mm", 
-  "displayLocation": null, 
   "foreignTitle": "La Vie affair\u00e9e", 
   "groupTitle": null, 
+  "height": "1956", 
   "id": 4021, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,98 @@
       "workCount": 48
     }
   ], 
-  "popularity": 738, 
   "subjectCount": 5, 
-  "title": "The Busy Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6767, 
+                "name": "creativity", 
+                "workCount": 59
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }, 
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00867_8.jpg", 
+  "title": "The Busy Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dubuffet-the-busy-life-t00867", 
+  "width": "1302"
 }

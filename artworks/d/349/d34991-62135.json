@@ -1,6 +1,5 @@
 {
   "acno": "D34991", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D34962-D34971; D34973; D34975; D34977; D34979; D34981; D34983; D34985; D34987; D34989; D34991; D34993; D34995; D34997; D34999", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 228 x 325 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLV 20", 
   "foreignTitle": null, 
   "groupTitle": "Lucerne Sketchbook [Finberg CCCXLV]", 
+  "height": "325", 
   "id": 62135, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 42, 
-  "popularity": 12, 
   "subjectCount": 4, 
-  "title": "Still Raining"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1400, 
+                "name": "rain", 
+                "workCount": 164
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34991_8.jpg", 
+  "title": "Still Raining", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-still-raining-d34991", 
+  "width": "228"
 }

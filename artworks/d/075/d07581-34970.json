@@ -1,6 +1,5 @@
 {
   "acno": "D07581", 
-  "addlImageCount": 0, 
   "catTextResId": 1135697, 
   "catalogueGroup": {
     "accessionRanges": "D07537-D07592; D40744-D40745", 
@@ -28,17 +27,78 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CX 39", 
   "foreignTitle": null, 
   "groupTitle": "Cockermouth Sketchbook [Finberg CX]", 
+  "height": "185", 
   "id": 34970, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 79, 
-  "popularity": 44, 
   "subjectCount": 3, 
-  "title": "Whitehaven Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement", 
+                "workCount": 133
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house", 
+                "workCount": 643
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07581_8.jpg", 
+  "title": "Whitehaven Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-whitehaven-castle-d07581", 
+  "width": "116"
 }

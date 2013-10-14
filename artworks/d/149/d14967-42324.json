@@ -1,6 +1,5 @@
 {
   "acno": "D14967", 
-  "addlImageCount": 0, 
   "catTextResId": 1137599, 
   "catalogueGroup": {
     "accessionRanges": "D14933-D15067; D15069-D15104; D40924-D40927; D41436", 
@@ -28,17 +27,109 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 112 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIX 22", 
   "foreignTitle": null, 
   "groupTitle": "Tivoli to Rome Sketchbook [Finberg CLXXIX]", 
+  "height": "186", 
   "id": 42324, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 60, 
   "subjectCount": 5, 
-  "title": "Castel Sant'Angelo, Rome, from the Ponte Sant'Angelo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 7887, 
+                "name": "Rome, Castel Sant' Angelo", 
+                "workCount": 18
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14967_8.jpg", 
+  "title": "Castel Sant'Angelo, Rome, from the Ponte Sant'Angelo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castel-santangelo-rome-from-the-ponte-santangelo-d14967", 
+  "width": "112"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "AR00045", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "2006"
   }, 
   "dateText": "2006", 
+  "depth": "", 
   "dimensions": "support, each: 2135 x 2135 x 33 mm\r\ndisplayed: 2322 x 4645 x 120 mm\r\nframe: 2322 x 2322 x 120 mm\r\nframe: 2323 x 2325 x 120 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 94302, 
   "inscription": null, 
   "medium": "Butterflies and household gloss paint on 2 canvases", 
@@ -41,7 +41,79 @@
       "workCount": 232
     }
   ], 
-  "popularity": 584, 
   "subjectCount": 4, 
-  "title": "Monument to the Living and the Dead"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2568, 
+                "name": "butterfly", 
+                "workCount": 54
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }, 
+              {
+                "id": 1755, 
+                "name": "memorial", 
+                "workCount": 44
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17639, 
+                "name": "life and death - butterfly", 
+                "workCount": 1
+              }
+            ], 
+            "id": 164, 
+            "name": "birth to death", 
+            "workCount": 96
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00045_8.jpg", 
+  "title": "Monument to the Living and the Dead", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/hirst-monument-to-the-living-and-the-dead-ar00045", 
+  "width": ""
 }

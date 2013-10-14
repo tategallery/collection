@@ -1,6 +1,5 @@
 {
   "acno": "AR00668", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "support: 254 x 256 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "256", 
   "id": 98636, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 61, 
   "subjectCount": 4, 
-  "title": "INTELLIGENTIA"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1993, 
+                "name": "bee", 
+                "workCount": 11
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }, 
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }, 
+              {
+                "id": 2415, 
+                "name": "swan", 
+                "workCount": 67
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00668_8.jpg", 
+  "title": "INTELLIGENTIA", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-intelligentia-ar00668", 
+  "width": "254"
 }

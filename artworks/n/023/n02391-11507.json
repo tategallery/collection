@@ -1,6 +1,5 @@
 {
   "acno": "N02391", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1842"
   }, 
   "dateText": "1842", 
+  "depth": "", 
   "dimensions": "support: 254 x 327 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "327", 
   "id": 11507, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Ruins at Torre Wood"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 2455, 
+                "name": "residential", 
+                "workCount": 121
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02391_8.jpg", 
+  "title": "Ruins at Torre Wood", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penley-ruins-at-torre-wood-n02391", 
+  "width": "254"
 }

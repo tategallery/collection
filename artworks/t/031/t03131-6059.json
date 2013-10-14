@@ -1,6 +1,5 @@
 {
   "acno": "T03131", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "217", 
   "dimensions": "object: 265 x 473 x 217 mm", 
-  "displayLocation": {
-    "name": "Barbara Hepworth Museum and Sculpture Garden", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "473", 
   "id": 6059, 
   "inscription": null, 
   "medium": "Alabaster on marble base", 
@@ -74,7 +71,55 @@
       "workCount": 33
     }
   ], 
-  "popularity": 402, 
   "subjectCount": 2, 
-  "title": "Three Forms (Carving in Grey Alabaster)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03131_8.jpg", 
+  "title": "Three Forms (Carving in Grey Alabaster)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-three-forms-carving-in-grey-alabaster-t03131", 
+  "width": "265"
 }

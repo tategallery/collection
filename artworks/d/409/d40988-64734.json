@@ -1,6 +1,5 @@
 {
   "acno": "D40988", 
-  "addlImageCount": 0, 
   "catTextResId": 1138536, 
   "catalogueGroup": {
     "accessionRanges": "D16762-D16889; D40988-D40990", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 115 x 94 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Remarks (Italy) Sketchbook [Finberg CXCIII]", 
+  "height": "94", 
   "id": 64734, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 2, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Inscriptions by Turner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40988_8.jpg", 
+  "title": "Inscriptions by Turner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-inscriptions-by-turner-d40988", 
+  "width": "115"
 }

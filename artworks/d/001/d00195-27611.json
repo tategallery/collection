@@ -1,6 +1,5 @@
 {
   "acno": "D00195", 
-  "addlImageCount": 0, 
   "catTextResId": 1140108, 
   "catalogueGroup": {
     "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
@@ -28,16 +27,46 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 56 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "XVII T", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Other Subjects", 
+  "height": "89", 
   "id": 27611, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 1, 
-  "title": "Two Rows of Buildings Seen in Perspective"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00195_8.jpg", 
+  "title": "Two Rows of Buildings Seen in Perspective", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-rows-of-buildings-seen-in-perspective-d00195", 
+  "width": "56"
 }

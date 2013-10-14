@@ -1,6 +1,5 @@
 {
   "acno": "T13030", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "20", 
   "dimensions": "object: 240 x 330 x 20 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Senza titolo", 
   "groupTitle": null, 
+  "height": "330", 
   "id": 103265, 
   "inscription": null, 
   "medium": "Steel and nylon", 
@@ -41,7 +41,41 @@
       "workCount": 24
     }
   ], 
-  "popularity": 366, 
   "subjectCount": 2, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13030_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/merz-untitled-t13030", 
+  "width": "240"
 }

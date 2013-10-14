@@ -1,6 +1,5 @@
 {
   "acno": "D27947", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27940-D28041; D41107; D41127", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 90 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXVI 4 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Bruges Sketchbook [Finberg CCLXXXVI]", 
+  "height": "116", 
   "id": 55266, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Group of Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27947_8.jpg", 
+  "title": "Group of Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-buildings-d27947", 
+  "width": "90"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05249", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1790"
   }, 
   "dateText": "exhibited 1790", 
+  "depth": "", 
   "dimensions": "support: 914 x 705 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "705", 
   "id": 13035, 
   "inscription": null, 
   "medium": "Pastel on paper", 
@@ -41,7 +41,77 @@
       "workCount": 16
     }
   ], 
-  "popularity": 68, 
   "subjectCount": 5, 
-  "title": "The Fortune-Teller"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5558, 
+                "name": "fortune telling", 
+                "workCount": 8
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism", 
+            "workCount": 194
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1134, 
+                "name": "man, old", 
+                "workCount": 236
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }, 
+              {
+                "id": 712, 
+                "name": "talking", 
+                "workCount": 391
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05249_8.jpg", 
+  "title": "The Fortune-Teller", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/russell-the-fortune-teller-n05249", 
+  "width": "914"
 }

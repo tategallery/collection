@@ -1,6 +1,5 @@
 {
   "acno": "N05314", 
-  "addlImageCount": 0, 
   "catTextResId": 1138998, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1895-6"
   }, 
   "dateText": "1895-6", 
+  "depth": "", 
   "dimensions": "support: 698 x 492 mm\r\nframe: 887 x 678 x 70 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "492", 
   "id": 13407, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,105 @@
       "workCount": 25
     }
   ], 
-  "popularity": 324, 
   "subjectCount": 5, 
-  "title": "Interior of St Mark's, Venice"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 6868, 
+                "name": "Venice, San Marco", 
+                "workCount": 71
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 999, 
+                "name": "church", 
+                "workCount": 180
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1320, 
+                "name": "cross", 
+                "workCount": 98
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7067, 
+                "name": "screen", 
+                "workCount": 23
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05314_8.jpg", 
+  "title": "Interior of St Mark's, Venice", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-interior-of-st-marks-venice-n05314", 
+  "width": "698"
 }

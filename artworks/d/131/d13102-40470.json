@@ -1,6 +1,5 @@
 {
   "acno": "D13102", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12996-D13170; D40680-D40681", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 156 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CLXII 56 a", 
   "foreignTitle": null, 
   "groupTitle": "Dort Sketchbook [Finberg CLXII]", 
+  "height": "93", 
   "id": 40470, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 114, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Vessels at the Mouth of a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1236, 
+                "name": "estuary", 
+                "workCount": 299
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13102_8.jpg", 
+  "title": "Vessels at the Mouth of a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessels-at-the-mouth-of-a-river-d13102", 
+  "width": "156"
 }

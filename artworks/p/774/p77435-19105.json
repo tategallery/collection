@@ -1,6 +1,5 @@
 {
   "acno": "P77435", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "image: 1030 x 1030 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1030", 
   "id": 19105, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 298, 
   "subjectCount": 2, 
-  "title": "Nine Squares"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77435_8.jpg", 
+  "title": "Nine Squares", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-nine-squares-p77435", 
+  "width": "1030"
 }

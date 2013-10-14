@@ -1,6 +1,5 @@
 {
   "acno": "N01593", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,112 @@
     "text": "1884"
   }, 
   "dateText": "1884", 
+  "depth": "", 
   "dimensions": "support: 508 x 400 mm\r\nframe: 740 x 635 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "400", 
   "id": 2228, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 159, 
   "subjectCount": 6, 
-  "title": "Mother's Darling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }, 
+              {
+                "id": 1106, 
+                "name": "watching", 
+                "workCount": 306
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child", 
+                "workCount": 217
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01593_8.jpg", 
+  "title": "Mother's Darling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clark-mothers-darling-n01593", 
+  "width": "508"
 }

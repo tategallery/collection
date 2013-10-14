@@ -1,6 +1,5 @@
 {
   "acno": "D27489", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27481-D27517; D41102", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,81 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 184 x 72 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX b 9", 
   "foreignTitle": null, 
   "groupTitle": "Life Class (2) Sketchbook [Finberg CCLXXIX (b)]", 
+  "height": "72", 
   "id": 54816, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 11, 
   "subjectCount": 5, 
-  "title": "A Kneeling Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 9725, 
+                "name": "leg/legs raised", 
+                "workCount": 57
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure", 
+                "workCount": 162
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27489_8.jpg", 
+  "title": "A Kneeling Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-kneeling-figure-d27489", 
+  "width": "184"
 }

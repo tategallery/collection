@@ -1,6 +1,5 @@
 {
   "acno": "P09054", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09026-P09055", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "unconfirmed: 502 x 702 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ways and Means", 
+  "height": "702", 
   "id": 67766, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,79 @@
       "workCount": 846
     }
   ], 
-  "popularity": 275, 
   "subjectCount": 4, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 1629, 
+                "name": "sexual organs", 
+                "workCount": 107
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09054_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-no-title-p09054", 
+  "width": "502"
 }

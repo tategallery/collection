@@ -1,6 +1,5 @@
 {
   "acno": "P06259", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 533 x 708 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "708", 
   "id": 6013, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 40, 
   "subjectCount": 1, 
-  "title": "Squares and Circles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06259_8.jpg", 
+  "title": "Squares and Circles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-squares-and-circles-p06259", 
+  "width": "533"
 }

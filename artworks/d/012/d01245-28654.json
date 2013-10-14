@@ -1,6 +1,5 @@
 {
   "acno": "D01245", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1796-7"
   }, 
   "dateText": "1796-7", 
+  "depth": "", 
   "dimensions": "support: 113 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVII 128", 
   "foreignTitle": null, 
   "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "height": "93", 
   "id": 28654, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 122, 
-  "popularity": 39, 
   "subjectCount": 1, 
-  "title": "Study of a Cow Lying Down"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01245_8.jpg", 
+  "title": "Study of a Cow Lying Down", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-cow-lying-down-d01245", 
+  "width": "113"
 }

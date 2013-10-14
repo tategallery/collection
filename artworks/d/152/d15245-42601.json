@@ -1,6 +1,5 @@
 {
   "acno": "D15245", 
-  "addlImageCount": 0, 
   "catTextResId": 1139657, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 79", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42601, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 161, 
-  "popularity": 32, 
   "subjectCount": 2, 
-  "title": "The Vicolo Sterrata, Rome, with the Statue of Apollo in the gardens of the Palazzo Barberini; also a Man on a Donkey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 674, 
+                "name": "donkey", 
+                "workCount": 213
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15245_8_R.jpg", 
+  "title": "The Vicolo Sterrata, Rome, with the Statue of Apollo in the gardens of the Palazzo Barberini; also a Man on a Donkey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-vicolo-sterrata-rome-with-the-statue-of-apollo-in-the-gardens-of-the-palazzo-barberini-also-a-man-on-a-donkey-d15245", 
+  "width": "161"
 }

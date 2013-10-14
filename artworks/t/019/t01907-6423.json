@@ -1,6 +1,5 @@
 {
   "acno": "T01907", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1955-6"
   }, 
   "dateText": "1955-6", 
+  "depth": "", 
   "dimensions": "support: 1270 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 6423, 
   "inscription": null, 
   "medium": "Oil paint and enamel paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 70
     }
   ], 
-  "popularity": 104, 
   "subjectCount": 1, 
-  "title": "Painting 55-56"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01907_8.jpg", 
+  "title": "Painting 55-56", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hill-painting-55-56-t01907", 
+  "width": "1270"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D12675", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12528-D12701; D40910-D40912; D41502", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 56 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CLIX 89 a", 
   "foreignTitle": null, 
   "groupTitle": "Itinerary Rhine Tour Sketchbook [Finberg CLIX]", 
+  "height": "106", 
   "id": 40043, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 180, 
-  "popularity": 36, 
   "subjectCount": 2, 
-  "title": "Peasant Women; Casks, Jugs, Urn, Churn, Glass, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12675_8.jpg", 
+  "title": "Peasant Women; Casks, Jugs, Urn, Churn, Glass, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-peasant-women-casks-jugs-urn-churn-glass-etc-d12675", 
+  "width": "56"
 }

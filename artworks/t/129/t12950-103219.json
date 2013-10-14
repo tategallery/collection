@@ -1,6 +1,5 @@
 {
   "acno": "T12950", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "Overall displayed dimensions variable", 
-  "displayLocation": {
-    "name": "Serpentine Gallery (London, UK)", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 103219, 
   "inscription": null, 
   "medium": "Aluminium", 
@@ -44,7 +41,55 @@
       "workCount": 24
     }
   ], 
-  "popularity": 1249, 
   "subjectCount": 2, 
-  "title": "Untitled (Living Sculpture)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18164, 
+                "name": "suspension", 
+                "workCount": 16
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12950_8.jpg", 
+  "title": "Untitled (Living Sculpture)", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/merz-untitled-living-sculpture-t12950", 
+  "width": "displayed"
 }

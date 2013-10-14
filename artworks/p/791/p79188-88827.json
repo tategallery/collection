@@ -1,6 +1,5 @@
 {
   "acno": "P79188", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "image: 1040 x 760 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "760", 
   "id": 88827, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 108, 
   "subjectCount": 2, 
-  "title": "Wall Plate: Screen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79188_8.jpg", 
+  "title": "Wall Plate: Screen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-wall-plate-screen-p79188", 
+  "width": "1040"
 }

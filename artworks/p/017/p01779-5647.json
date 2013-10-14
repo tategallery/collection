@@ -1,6 +1,5 @@
 {
   "acno": "P01779", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01777-P01785", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 332 x 547 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Four to One", 
+  "height": "547", 
   "id": 5647, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 2, 
-  "title": "Cream over Crimson"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01779_8.jpg", 
+  "title": "Cream over Crimson", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/green-cream-over-crimson-p01779", 
+  "width": "332"
 }

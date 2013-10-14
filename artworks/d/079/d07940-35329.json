@@ -1,6 +1,5 @@
 {
   "acno": "D07940", 
-  "addlImageCount": 0, 
   "catTextResId": 1135896, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,47 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 83 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 55 a", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "114", 
   "id": 35329, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 114, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "A Wooden Cradle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3430, 
+                "name": "cradle", 
+                "workCount": 11
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07940_8.jpg", 
+  "title": "A Wooden Cradle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-wooden-cradle-d07940", 
+  "width": "83"
 }

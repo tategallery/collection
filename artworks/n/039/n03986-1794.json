@@ -1,6 +1,5 @@
 {
   "acno": "N03986", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1879"
   }, 
   "dateText": "c.1879", 
+  "depth": "", 
   "dimensions": "support: 253 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "140", 
   "id": 1794, 
   "inscription": null, 
   "medium": "Graphite, gouache and watercolour on paper. Verso: graphite on paper", 
@@ -41,7 +41,72 @@
       "workCount": 405
     }
   ], 
-  "popularity": 114, 
   "subjectCount": 4, 
-  "title": "Study of a Draped Male Figure. Verso: Man with Sword"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 701, 
+                "name": "drapery", 
+                "workCount": 109
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03986_8.jpg", 
+  "title": "Study of a Draped Male Figure. Verso: Man with Sword", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-draped-male-figure-verso-man-with-sword-n03986", 
+  "width": "253"
 }

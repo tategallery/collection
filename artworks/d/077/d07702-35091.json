@@ -1,6 +1,5 @@
 {
   "acno": "D07702", 
-  "addlImageCount": 0, 
   "catTextResId": 1131189, 
   "catalogueGroup": {
     "accessionRanges": "D07593-D07754; D40662", 
@@ -28,17 +27,59 @@
     "text": "circa 1809-11"
   }, 
   "dateText": "circa 1809-11", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CXI 69", 
   "foreignTitle": null, 
   "groupTitle": "Hastings Sketchbook [Finberg CXI]", 
+  "height": "110", 
   "id": 35091, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 139, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Group of Distant Houses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07702_8.jpg", 
+  "title": "Group of Distant Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-distant-houses-d07702", 
+  "width": "88"
 }

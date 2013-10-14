@@ -1,6 +1,5 @@
 {
   "acno": "P01544", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01538-P01549", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,119 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 230 x 153 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ein Deutsches Requiem: After Brahms", 
+  "height": "153", 
   "id": 11622, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 6, 
-  "title": "7"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8535, 
+                "name": "German text", 
+                "workCount": 112
+              }, 
+              {
+                "id": 3405, 
+                "name": "quotation", 
+                "workCount": 274
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony", 
+                "workCount": 63
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01544_8.jpg", 
+  "title": "7", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-7-p01544", 
+  "width": "230"
 }

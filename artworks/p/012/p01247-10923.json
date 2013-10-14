@@ -1,6 +1,5 @@
 {
   "acno": "P01247", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01243-P01247", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 893 x 663 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Prints Part I", 
+  "height": "663", 
   "id": 10923, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 49
     }
   ], 
-  "popularity": 93, 
   "subjectCount": 1, 
-  "title": "Yellow-Green I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01247_8.jpg", 
+  "title": "Yellow-Green I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/olitski-yellow-green-i-p01247", 
+  "width": "893"
 }

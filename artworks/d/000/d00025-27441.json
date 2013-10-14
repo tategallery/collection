@@ -1,6 +1,5 @@
 {
   "acno": "D00025", 
-  "addlImageCount": 0, 
   "catTextResId": 1140179, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,78 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 160 x 249 mm", 
-  "displayLocation": null, 
   "finberg": "II 12 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "249", 
   "id": 27441, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "popularity": 28, 
   "subjectCount": 3, 
-  "title": "?A Kneeling Figure with a Sword"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 272, 
+                "name": "kneeling", 
+                "workCount": 438
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 619, 
+                "name": "sword", 
+                "workCount": 215
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00025_8_R.jpg", 
+  "title": "?A Kneeling Figure with a Sword", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-kneeling-figure-with-a-sword-d00025", 
+  "width": "160"
 }

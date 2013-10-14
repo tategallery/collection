@@ -1,6 +1,5 @@
 {
   "acno": "P01718", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,18 +26,62 @@
     "text": "1948"
   }, 
   "dateText": "1948", 
+  "depth": "", 
   "dimensions": "image: 495 x 762 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": "School Prints", 
+  "height": "762", 
   "id": 11862, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 405, 
   "subjectCount": 3, 
-  "title": "Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01718_8.jpg", 
+  "title": "Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picasso-composition-p01718", 
+  "width": "495"
 }

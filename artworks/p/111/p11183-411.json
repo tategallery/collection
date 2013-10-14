@@ -1,6 +1,5 @@
 {
   "acno": "P11183", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11176-P11190", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 365 x 350 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "15 Lithographs by Ivor Abrahams to Edmund Burke", 
+  "height": "350", 
   "id": 411, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 48, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8548, 
+                "name": "Burke, Edmund, 'A Philosophical Enquiry ...'", 
+                "workCount": 15
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8576, 
+                "name": "tortoise", 
+                "workCount": 6
+              }, 
+              {
+                "id": 8575, 
+                "name": "turtle", 
+                "workCount": 1
+              }
+            ], 
+            "id": 68, 
+            "name": "animals: reptiles", 
+            "workCount": 95
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11183_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-no-title-p11183", 
+  "width": "365"
 }

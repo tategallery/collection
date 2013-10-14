@@ -1,6 +1,5 @@
 {
   "acno": "T07244", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "support: 2946 x 6457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "6457", 
   "id": 22047, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 49
     }
   ], 
-  "popularity": 621, 
   "subjectCount": 1, 
-  "title": "Instant Loveland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07244_8.jpg", 
+  "title": "Instant Loveland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/olitski-instant-loveland-t07244", 
+  "width": "2946"
 }

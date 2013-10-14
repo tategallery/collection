@@ -1,6 +1,5 @@
 {
   "acno": "D09827", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1812-15"
   }, 
   "dateText": "c.1812-15", 
+  "depth": "", 
   "dimensions": "support: 179 x 254 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIV 34 a", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook [Finberg CXXXIV]", 
+  "height": "254", 
   "id": 37206, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 158, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Part of a Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09827_8.jpg", 
+  "title": "Part of a Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-a-drawing-d09827", 
+  "width": "179"
 }

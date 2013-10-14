@@ -1,6 +1,5 @@
 {
   "acno": "D08123", 
-  "addlImageCount": 0, 
   "catTextResId": 1131725, 
   "catalogueGroup": {
     "accessionRanges": "D08100; D08102-D08106; D08110-D08123; D08125-D08142; D08144-D08175; D08177-D08178; D08182; D25451; N02941; N03631", 
@@ -28,11 +27,12 @@
     "text": "circa 1806-7"
   }, 
   "dateText": "circa 1806-7", 
+  "depth": "", 
   "dimensions": "support: 184 x 260 mm", 
-  "displayLocation": null, 
   "finberg": "CXVI V", 
   "foreignTitle": null, 
   "groupTitle": "Liber Studiorum 1807-1819 Watercolours", 
+  "height": "260", 
   "id": 35512, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
@@ -49,7 +49,125 @@
       "workCount": 39
     }
   ], 
-  "popularity": 219, 
   "subjectCount": 9, 
-  "title": "Little Devil's Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass", 
+                "workCount": 41
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 8417, 
+                "name": "Little Devil's Bridge", 
+                "workCount": 7
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)", 
+            "workCount": 784
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1830, 
+                "name": "stump", 
+                "workCount": 24
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08123_8.jpg", 
+  "title": "Little Devil's Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-little-devils-bridge-d08123", 
+  "width": "184"
 }

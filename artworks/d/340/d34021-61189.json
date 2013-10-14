@@ -1,6 +1,5 @@
 {
   "acno": "D34021", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,77 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 151 x 227 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLI 302", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "227", 
   "id": 61189, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Landscape, with Ruins"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific", 
+                "workCount": 552
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34021_8.jpg", 
+  "title": "Landscape, with Ruins", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-ruins-d34021", 
+  "width": "151"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D33655", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33653-D33665; D40432-D40435", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,82 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 231 x 326 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXIX 3", 
   "foreignTitle": null, 
   "groupTitle": "Mountain Fortress Sketchbook [Finberg CCCXXXIX]", 
+  "height": "326", 
   "id": 60826, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 5, 
   "subjectCount": 4, 
-  "title": "Tower on Rock, with Lake and Mountains Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33655_8.jpg", 
+  "title": "Tower on Rock, with Lake and Mountains Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tower-on-rock-with-lake-and-mountains-beyond-d33655", 
+  "width": "231"
 }

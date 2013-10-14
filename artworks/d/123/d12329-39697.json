@@ -1,6 +1,5 @@
 {
   "acno": "D12329", 
-  "addlImageCount": 0, 
   "catTextResId": 1139328, 
   "catalogueGroup": {
     "accessionRanges": "D12318-D12448; D40917-D40923", 
@@ -28,17 +27,66 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLVII 9 v", 
   "foreignTitle": null, 
   "groupTitle": "Durham, North Shore, Sketchbook [Finberg CLVII]", 
+  "height": "185", 
   "id": 39697, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 34, 
   "subjectCount": 2, 
-  "title": "Prebends' Bridge and the Watergate, Durham"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12329_8.jpg", 
+  "title": "Prebends' Bridge and the Watergate, Durham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-prebends-bridge-and-the-watergate-durham-d12329", 
+  "width": "116"
 }

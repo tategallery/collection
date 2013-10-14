@@ -1,6 +1,5 @@
 {
   "acno": "P09156", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09155-P09181", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,74 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "unconfirmed: 502 x 698 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Alchera: Notes for Country Works 1970-1974", 
+  "height": "698", 
   "id": 67903, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 4, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 481, 
+                "name": "Greek text", 
+                "workCount": 31
+              }, 
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09156_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-no-title-p09156", 
+  "width": "502"
 }

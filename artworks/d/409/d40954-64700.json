@@ -1,6 +1,5 @@
 {
   "acno": "D40954", 
-  "addlImageCount": 0, 
   "catTextResId": 1139839, 
   "catalogueGroup": {
     "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
@@ -28,17 +27,85 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 187 x 120 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "St Peter's Sketchbook [Finberg CLXXXVIII]", 
+  "height": "120", 
   "id": 64700, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 187, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "Diagram of a Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan", 
+                "workCount": 90
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40954_8.jpg", 
+  "title": "Diagram of a Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-diagram-of-a-building-d40954", 
+  "width": "187"
 }

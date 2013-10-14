@@ -1,6 +1,5 @@
 {
   "acno": "D29978", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29814-D29987; D29989-D29998; D30000-D30001; D41209-D41210", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 165 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCVIII 83 a", 
   "foreignTitle": null, 
   "groupTitle": "Heidelberg up to Salzburg Sketchbook [Finberg CCXCVIII]", 
+  "height": "110", 
   "id": 57240, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 168, 
-  "popularity": 3, 
   "subjectCount": 1, 
-  "title": "Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29978_8.jpg", 
+  "title": "Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-hills-d29978", 
+  "width": "165"
 }

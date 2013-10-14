@@ -1,6 +1,5 @@
 {
   "acno": "P02450", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02449-P02450; P03123; P03125", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 486 x 156 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Reeded Glass I-IV", 
+  "height": "156", 
   "id": 15620, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Reeded Glass II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02450_8.jpg", 
+  "title": "Reeded Glass II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyson-reeded-glass-ii-p02450", 
+  "width": "486"
 }

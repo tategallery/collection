@@ -1,6 +1,5 @@
 {
   "acno": "P03247", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03241-P03255", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1975-6"
   }, 
   "dateText": "1975-6", 
+  "depth": "", 
   "dimensions": "image: 492 x 733 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "For Jorn", 
+  "height": "733", 
   "id": 3986, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 356, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text", 
+                "workCount": 36
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03247_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dotremont-no-title-p03247", 
+  "width": "492"
 }

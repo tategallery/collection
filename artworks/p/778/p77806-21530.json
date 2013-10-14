@@ -1,6 +1,5 @@
 {
   "acno": "P77806", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77805-P77814", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 457 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Works by Ten Painters", 
+  "height": "457", 
   "id": 21530, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 140
     }
   ], 
-  "popularity": 186, 
   "subjectCount": 2, 
-  "title": "Untitled (Rabat)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77806_8.jpg", 
+  "title": "Untitled (Rabat)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stella-untitled-rabat-p77806", 
+  "width": "457"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T01837", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 527 x 432 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "432", 
   "id": 3810, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, paper and graphite on paper", 
@@ -41,7 +41,36 @@
       "workCount": 11
     }
   ], 
-  "popularity": 70, 
   "subjectCount": 1, 
-  "title": "Figure I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01837_8.jpg", 
+  "title": "Figure I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-figure-i-t01837", 
+  "width": "527"
 }

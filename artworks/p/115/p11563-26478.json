@@ -1,6 +1,5 @@
 {
   "acno": "P11563", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 872 x 763 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "763", 
   "id": 26478, 
   "inscription": null, 
   "medium": "Silkscreen print on paper", 
@@ -41,7 +41,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 199, 
   "subjectCount": 2, 
-  "title": "Ra 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11563_8.jpg", 
+  "title": "Ra 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-ra-2-p11563", 
+  "width": "872"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D06135", 
-  "addlImageCount": 0, 
   "catTextResId": 1130316, 
   "catalogueGroup": {
     "accessionRanges": "D06072-D06178; D40655-D40658", 
@@ -28,17 +27,78 @@
     "text": "c.1806-8"
   }, 
   "dateText": "c.1806-8", 
+  "depth": "", 
   "dimensions": "support: 107 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVII 60", 
   "foreignTitle": null, 
   "groupTitle": "Windsor and Eton Sketchbook [Finberg XCVII]", 
+  "height": "182", 
   "id": 33526, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 121, 
-  "popularity": 18, 
   "subjectCount": 3, 
-  "title": "Houses, with Trees: ?Hammersmith"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06135_8.jpg", 
+  "title": "Houses, with Trees: ?Hammersmith", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-with-trees-hammersmith-d06135", 
+  "width": "107"
 }

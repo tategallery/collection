@@ -1,6 +1,5 @@
 {
   "acno": "P02131", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02130-P02135", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 309 x 242 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "5 Incisioni di Moore", 
+  "height": "242", 
   "id": 9742, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print and lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 2, 
-  "title": "Six Sculptural Motives"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture", 
+                "workCount": 386
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02131_8.jpg", 
+  "title": "Six Sculptural Motives", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-six-sculptural-motives-p02131", 
+  "width": "309"
 }

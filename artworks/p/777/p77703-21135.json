@@ -1,6 +1,5 @@
 {
   "acno": "P77703", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77703-P77725; P77742", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 382 x 361 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Periodic Table", 
+  "height": "361", 
   "id": 21135, 
   "inscription": null, 
   "medium": "Linocut on paper", 
   "movementCount": 0, 
-  "popularity": 48, 
   "subjectCount": 3, 
-  "title": "[title page]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16368, 
+                "name": "Levi, Primo, 'The Periodic Table'", 
+                "workCount": 17
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77703_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/woodrow-title-page-p77703", 
+  "width": "382"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D26529", 
-  "addlImageCount": 0, 
   "catTextResId": 1134963, 
   "catalogueGroup": {
     "accessionRanges": "D26436-D26618; D41082-D41083", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 125 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXX 47 a", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and the West Sketchbook [Finberg CCLXX]", 
+  "height": "201", 
   "id": 53866, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 96, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "Aros Castle, Sound of Mull"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26529_8.jpg", 
+  "title": "Aros Castle, Sound of Mull", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-aros-castle-sound-of-mull-d26529", 
+  "width": "125"
 }

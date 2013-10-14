@@ -1,6 +1,5 @@
 {
   "acno": "N03835", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -18,15 +17,69 @@
   "creditLine": "Presented by W.H. Wood 1924", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 457 x 635 mm\r\nframe: 756 x 949 x 100 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "635", 
   "id": 4336, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 31, 
   "subjectCount": 3, 
-  "title": "Cows in the Orchard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2270, 
+                "name": "blossom", 
+                "workCount": 34
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 12082, 
+                "name": "orchard", 
+                "workCount": 14
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03835_8.jpg", 
+  "title": "Cows in the Orchard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fisher-cows-in-the-orchard-n03835", 
+  "width": "457"
 }

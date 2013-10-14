@@ -1,6 +1,5 @@
 {
   "acno": "D05123", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05073-D05158; D40795-D40797", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 255 x 164 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXII 46", 
   "foreignTitle": null, 
   "groupTitle": "Chester Sketchbook [Finberg LXXXII]", 
+  "height": "164", 
   "id": 32515, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 93, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "A Harbour, with Warehouses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3379, 
+                "name": "townscape", 
+                "workCount": 106
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05123_8_R.jpg", 
+  "title": "A Harbour, with Warehouses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-harbour-with-warehouses-d05123", 
+  "width": "255"
 }

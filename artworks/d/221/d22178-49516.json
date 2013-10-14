@@ -1,6 +1,5 @@
 {
   "acno": "D22178", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 114 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIX 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Worcester and Shrewsbury Sketchbook [Finberg CCXXXIX]", 
+  "height": "191", 
   "id": 49516, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Cloisters. (?Ruins)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22178_8.jpg", 
+  "title": "Cloisters. (?Ruins)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cloisters-ruins-d22178", 
+  "width": "114"
 }

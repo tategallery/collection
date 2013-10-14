@@ -1,6 +1,5 @@
 {
   "acno": "N05106", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "exhibited 1932"
   }, 
   "dateText": "exhibited 1932", 
+  "depth": "", 
   "dimensions": "support: 457 x 610 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "610", 
   "id": 12075, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 93, 
   "subjectCount": 1, 
-  "title": "Mother Duck"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck", 
+                "workCount": 82
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05106_8.jpg", 
+  "title": "Mother Duck", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pirie-mother-duck-n05106", 
+  "width": "457"
 }

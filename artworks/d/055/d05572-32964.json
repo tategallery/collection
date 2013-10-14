@@ -1,6 +1,5 @@
 {
   "acno": "D05572", 
-  "addlImageCount": 0, 
   "catTextResId": 1129886, 
   "catalogueGroup": {
     "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
@@ -28,17 +27,78 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 150 x 258 mm", 
-  "displayLocation": null, 
   "finberg": "XC 52", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures: Isleworth Sketchbook [Finberg XC]", 
+  "height": "258", 
   "id": 32964, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 107, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "A River Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05572_8.jpg", 
+  "title": "A River Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-scene-d05572", 
+  "width": "150"
 }

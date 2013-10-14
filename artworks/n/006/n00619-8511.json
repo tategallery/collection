@@ -1,6 +1,5 @@
 {
   "acno": "N00619", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 2, 
@@ -30,15 +29,86 @@
     "text": "exhibited 1854"
   }, 
   "dateText": "exhibited 1854", 
+  "depth": "", 
   "dimensions": "support: 952 x 1308 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1308", 
   "id": 8511, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 223, 
   "subjectCount": 5, 
-  "title": "Evening in the Meadows (cattle by Thomas Sidney Cooper)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening", 
+                "workCount": 210
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00619_8.jpg", 
+  "title": "Evening in the Meadows (cattle by Thomas Sidney Cooper)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-evening-in-the-meadows-cattle-by-thomas-sidney-cooper-n00619", 
+  "width": "952"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P03209", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,115 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 340 x 479 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "479", 
   "id": 14474, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 115, 
   "subjectCount": 8, 
-  "title": "My Garden"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 214, 
+                "name": "chimney", 
+                "workCount": 40
+              }, 
+              {
+                "id": 3123, 
+                "name": "roof", 
+                "workCount": 66
+              }, 
+              {
+                "id": 5659, 
+                "name": "skylight", 
+                "workCount": 9
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }, 
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }, 
+              {
+                "id": 1251, 
+                "name": "shed", 
+                "workCount": 16
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03209_8.jpg", 
+  "title": "My Garden", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-my-garden-p03209", 
+  "width": "340"
 }

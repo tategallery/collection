@@ -1,6 +1,5 @@
 {
   "acno": "A01083", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A01082-A01088", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,62 @@
     "text": "c.1933-8"
   }, 
   "dateText": "c.1933-8", 
+  "depth": "", 
   "dimensions": "support: 352 x 457 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seven Drawings of the Female Model", 
+  "height": "457", 
   "id": 7074, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
-  "popularity": 62, 
   "subjectCount": 3, 
-  "title": "An Arm and a Hand"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }, 
+              {
+                "id": 1079, 
+                "name": "hand", 
+                "workCount": 242
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01083_8.jpg", 
+  "title": "An Arm and a Hand", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jacovleff-an-arm-and-a-hand-a01083", 
+  "width": "352"
 }

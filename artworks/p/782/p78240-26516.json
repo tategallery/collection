@@ -1,6 +1,5 @@
 {
   "acno": "P78240", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78236-P78244", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1970-1"
   }, 
   "dateText": "1970-1", 
+  "depth": "", 
   "dimensions": "image: 688 x 541 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Prelude to 1000 Temporary Objects of our Time", 
+  "height": "541", 
   "id": 26516, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 222, 
   "subjectCount": 2, 
-  "title": "Willow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 2314, 
+                "name": "willow", 
+                "workCount": 23
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78240_8.jpg", 
+  "title": "Willow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/self-willow-p78240", 
+  "width": "688"
 }

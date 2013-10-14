@@ -1,6 +1,5 @@
 {
   "acno": "P07161", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07152-P07173", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 410 x 359 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Some Poems of Jules Laforgue", 
+  "height": "359", 
   "id": 16966, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 2, 
-  "title": "10. 'Oh! If one of them, some fine evening, would try'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13209, 
+                "name": "Laforgue, Jules", 
+                "workCount": 22
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13341, 
+                "name": "coat hook", 
+                "workCount": 3
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07161_8.jpg", 
+  "title": "10. 'Oh! If one of them, some fine evening, would try'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-10-oh-if-one-of-them-some-fine-evening-would-try-p07161", 
+  "width": "410"
 }

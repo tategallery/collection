@@ -1,6 +1,5 @@
 {
   "acno": "P04483", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 212 x 443 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "443", 
   "id": 8042, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "(30) Albyn"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12327, 
+                "name": "book, Grieve, C.M., 'Albyn or Scotland and the Future'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04483_8.jpg", 
+  "title": "(30) Albyn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-30-albyn-p04483", 
+  "width": "212"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P11843", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1944"
   }, 
   "dateText": "1944", 
+  "depth": "", 
   "dimensions": "image: 223 x 157 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "157", 
   "id": 66585, 
   "inscription": null, 
   "medium": "Roneo print on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 2, 
-  "title": "Head of a Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11843_8.jpg", 
+  "title": "Head of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/collins-head-of-a-woman-p11843", 
+  "width": "223"
 }

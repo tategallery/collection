@@ -1,6 +1,5 @@
 {
   "acno": "P04637", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04636-P04639", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 472 x 715 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Machine", 
+  "height": "715", 
   "id": 10589, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Machine II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04637_8.jpg", 
+  "title": "Machine II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nellens-machine-ii-p04637", 
+  "width": "472"
 }

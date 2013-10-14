@@ -1,6 +1,5 @@
 {
   "acno": "N04203", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1883"
   }, 
   "dateText": "1883", 
+  "depth": "", 
   "dimensions": "support: 162 x 248 mm\r\nframe: 288 x 370 x 41 mm", 
-  "displayLocation": null, 
   "foreignTitle": "V\u00eatements sur l'herbe", 
   "groupTitle": null, 
+  "height": "248", 
   "id": 13321, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,168 @@
       "workCount": 22
     }
   ], 
-  "popularity": 393, 
   "subjectCount": 12, 
-  "title": "Clothes on the Grass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5578, 
+                "name": "Asni\u00e8res", 
+                "workCount": 1
+              }, 
+              {
+                "id": 5579, 
+                "name": "Courbevoie", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 9534, 
+                "name": "Ile de la Grande Jatte", 
+                "workCount": 1
+              }, 
+              {
+                "id": 2397, 
+                "name": "River Seine", 
+                "workCount": 359
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1165, 
+                "name": "chimney", 
+                "workCount": 79
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2475, 
+                "name": "clothing", 
+                "workCount": 45
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04203_8.jpg", 
+  "title": "Clothes on the Grass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/seurat-clothes-on-the-grass-n04203", 
+  "width": "162"
 }

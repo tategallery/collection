@@ -1,6 +1,5 @@
 {
   "acno": "D12216", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12124-D12239; D40851-D40853; D41537", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CLIV a 65 a", 
   "foreignTitle": null, 
   "groupTitle": "Liber Notes (2) Sketchbook [Finberg CLIV a]", 
+  "height": "110", 
   "id": 39585, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 136, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Clouds"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12216_8_R.jpg", 
+  "title": "Clouds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-clouds-d12216", 
+  "width": "89"
 }

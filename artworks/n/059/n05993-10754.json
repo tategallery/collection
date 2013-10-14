@@ -1,6 +1,5 @@
 {
   "acno": "N05993", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "support: 1219 x 1524 mm\r\nframe: 1370 x 1676 x 58 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1524", 
   "id": 10754, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on hardboard", 
@@ -44,7 +41,70 @@
       "workCount": 7
     }
   ], 
-  "popularity": 981, 
   "subjectCount": 5, 
-  "title": "Inland Australia"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4953, 
+                "name": "Australia", 
+                "workCount": 56
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 885, 
+                "name": "aerial view", 
+                "workCount": 34
+              }, 
+              {
+                "id": 12448, 
+                "name": "crater", 
+                "workCount": 13
+              }, 
+              {
+                "id": 3924, 
+                "name": "desert", 
+                "workCount": 91
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05993_8.jpg", 
+  "title": "Inland Australia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nolan-inland-australia-n05993", 
+  "width": "1219"
 }

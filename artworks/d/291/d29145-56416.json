@@ -1,6 +1,5 @@
 {
   "acno": "D29145", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIII 58 a", 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "190", 
   "id": 56416, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Dijon, Place Bossuet and the Church of St Jean"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29145_8.jpg", 
+  "title": "Dijon, Place Bossuet and the Church of St Jean", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dijon-place-bossuet-and-the-church-of-st-jean-d29145", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D41070", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23886-D24076; D41070", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1832"
   }, 
   "dateText": "1832", 
+  "depth": "", 
   "dimensions": "support: 174 x 117 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Seine and Paris Sketchbook [Finberg CCLIV]", 
+  "height": "117", 
   "id": 64816, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 199, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Three Sketches, One of a Boat with Lug Sail, and Two of Bridges with Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41070_8_R.jpg", 
+  "title": "Three Sketches, One of a Boat with Lug Sail, and Two of Bridges with Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-sketches-one-of-a-boat-with-lug-sail-and-two-of-bridges-with-buildings-d41070", 
+  "width": "174"
 }

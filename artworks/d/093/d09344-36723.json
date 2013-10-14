@@ -1,6 +1,5 @@
 {
   "acno": "D09344", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09218-D09481; D40579-D40581; D40583; D41231", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1812-13"
   }, 
   "dateText": "c.1812-13", 
+  "depth": "", 
   "dimensions": "support: 158 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXI 117 a", 
   "foreignTitle": null, 
   "groupTitle": "Plymouth, Hamoaze Sketchbook [Finberg CXXXI]", 
+  "height": "93", 
   "id": 36723, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 236, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Group of Houses with Two Fir Trees in Foreground"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09344_8.jpg", 
+  "title": "Group of Houses with Two Fir Trees in Foreground", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-houses-with-two-fir-trees-in-foreground-d09344", 
+  "width": "158"
 }

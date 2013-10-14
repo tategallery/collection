@@ -1,6 +1,5 @@
 {
   "acno": "D14666", 
-  "addlImageCount": 0, 
   "catTextResId": 1138828, 
   "catalogueGroup": {
     "accessionRanges": "D14653-D14832; D40928-D40931", 
@@ -28,17 +27,59 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 110 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVII 7 a", 
   "foreignTitle": null, 
   "groupTitle": "Ancona to Rome Sketchbook [Finberg CLXXVII]", 
+  "height": "186", 
   "id": 42028, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 16, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "?Osimo, with the Campanile of San Marco"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14666_8.jpg", 
+  "title": "?Osimo, with the Campanile of San Marco", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-osimo-with-the-campanile-of-san-marco-d14666", 
+  "width": "110"
 }

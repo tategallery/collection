@@ -1,6 +1,5 @@
 {
   "acno": "P08008", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P08006-P08015", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1973-4"
   }, 
   "dateText": "1973-4", 
+  "depth": "", 
   "dimensions": "image: 441 x 559 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Jam Press Phase One", 
+  "height": "559", 
   "id": 3999, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 1, 
-  "title": "1. 4"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08008_8.jpg", 
+  "title": "1. 4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/downsbrough-1-4-p08008", 
+  "width": "441"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03138", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1958"
   }, 
   "dateText": "1958", 
+  "depth": "360", 
   "dimensions": "object: 883 x 500 x 360 mm", 
-  "displayLocation": {
-    "name": "Barbara Hepworth Museum and Sculpture Garden", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "500", 
   "id": 6066, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -44,7 +41,67 @@
       "workCount": 409
     }
   ], 
-  "popularity": 164, 
   "subjectCount": 3, 
-  "title": "Torso II (Torcello)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1025, 
+                "name": "torso", 
+                "workCount": 77
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03138_8.jpg", 
+  "title": "Torso II (Torcello)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-torso-ii-torcello-t03138", 
+  "width": "883"
 }

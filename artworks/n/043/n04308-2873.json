@@ -1,6 +1,5 @@
 {
   "acno": "N04308", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -18,15 +17,64 @@
   "creditLine": "Bequeathed by J.R. Holliday 1927", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 225 x 159 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "159", 
   "id": 2873, 
   "inscription": null, 
   "medium": "Watercolour on board", 
   "movementCount": 0, 
-  "popularity": 79, 
   "subjectCount": 2, 
-  "title": "Windmill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04308_8.jpg", 
+  "title": "Windmill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cox-windmill-n04308", 
+  "width": "225"
 }

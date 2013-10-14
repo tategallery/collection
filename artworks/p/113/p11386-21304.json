@@ -1,6 +1,5 @@
 {
   "acno": "P11386", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "image: 242 x 205 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "205", 
   "id": 21304, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 60, 
   "subjectCount": 2, 
-  "title": "Opus 5"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11386_8.jpg", 
+  "title": "Opus 5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-opus-5-p11386", 
+  "width": "242"
 }

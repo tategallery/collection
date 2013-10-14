@@ -1,6 +1,5 @@
 {
   "acno": "D06910", 
-  "addlImageCount": 0, 
   "catTextResId": 1133666, 
   "catalogueGroup": {
     "accessionRanges": "D06858-D06983; D40805", 
@@ -28,17 +27,69 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 98 x 162 mm", 
-  "displayLocation": null, 
   "finberg": "CIV 41", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.2 Sketchbook [Finberg CIV]", 
+  "height": "162", 
   "id": 34300, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 11, 
   "subjectCount": 4, 
-  "title": "A River between Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06910_8.jpg", 
+  "title": "A River between Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-between-mountains-d06910", 
+  "width": "98"
 }

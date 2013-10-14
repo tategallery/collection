@@ -1,6 +1,5 @@
 {
   "acno": "T12078", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950-9"
   }, 
   "dateText": "1950-9", 
+  "depth": "110", 
   "dimensions": "object: 165 x 110 x 110 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "110", 
   "id": 88205, 
   "inscription": null, 
   "medium": "Reduced stoneware", 
@@ -41,7 +41,48 @@
       "workCount": 409
     }
   ], 
-  "popularity": 98, 
   "subjectCount": 2, 
-  "title": "Coffee Pot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics", 
+                "workCount": 73
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 1649, 
+                "name": "coffee pot", 
+                "workCount": 17
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12078_8.jpg", 
+  "title": "Coffee Pot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-coffee-pot-t12078", 
+  "width": "165"
 }

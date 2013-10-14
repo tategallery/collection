@@ -1,6 +1,5 @@
 {
   "acno": "P02993", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02991-P02999; P20000-P20040", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1990"
   }, 
   "dateText": "1990", 
+  "depth": "", 
   "dimensions": "image: 177 x 128 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fifty Etchings", 
+  "height": "128", 
   "id": 19505, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02993_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/le-brun-no-title-p02993", 
+  "width": "177"
 }

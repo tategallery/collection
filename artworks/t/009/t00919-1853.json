@@ -1,6 +1,5 @@
 {
   "acno": "T00919", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "200", 
   "dimensions": "object: 800 x 400 x 200 mm", 
-  "displayLocation": null, 
   "foreignTitle": "16 Boules, 16 cubes sur 8 rang\u00e9es", 
   "groupTitle": null, 
+  "height": "400", 
   "id": 1853, 
   "inscription": "date inscribed", 
   "medium": "Wood, nylon and motor", 
@@ -41,7 +41,60 @@
       "workCount": 26
     }
   ], 
-  "popularity": 298, 
   "subjectCount": 3, 
-  "title": "16 Balls, 16 Cubes in 8 Rows"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00919_8.jpg", 
+  "title": "16 Balls, 16 Cubes in 8 Rows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bury-16-balls-16-cubes-in-8-rows-t00919", 
+  "width": "800"
 }

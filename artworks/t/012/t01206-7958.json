@@ -1,6 +1,5 @@
 {
   "acno": "T01206", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "762", 
   "dimensions": "object: 2743 x 762 x 762 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 7958, 
   "inscription": null, 
   "medium": "Plastic", 
@@ -44,7 +41,46 @@
       "workCount": 52
     }
   ], 
-  "popularity": 358, 
   "subjectCount": 3, 
-  "title": "Tra-La-La"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01206_8.jpg", 
+  "title": "Tra-La-La", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/king-tra-la-la-t01206", 
+  "width": "2743"
 }

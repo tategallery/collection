@@ -1,6 +1,5 @@
 {
   "acno": "T12188", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,83 @@
     "text": "1976,1997"
   }, 
   "dateText": "1976,1997", 
+  "depth": "990", 
   "dimensions": "object: 610 x 1900 x 990 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Zerbini", 
   "groupTitle": null, 
+  "height": "1900", 
   "id": 88062, 
-  "images": [
-    {
-      "copyright": "\u00a9 Michaelangelo Pistoletto", 
-      "filenameBase": "T12188_283923", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12188_283923_7.jpg", 
-          "height": 104, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12188_283923_8.jpg", 
-          "height": 208, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12188_283923_9.jpg", 
-          "height": 416, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12188_283923_10.jpg", 
-          "height": 1249, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Coconut fibre and rubber", 
   "movementCount": 0, 
-  "popularity": 200, 
   "subjectCount": 3, 
-  "title": "Doormats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17501, 
+                "name": "door mat", 
+                "workCount": 2
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12188_8.jpg", 
+  "title": "Doormats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pistoletto-doormats-t12188", 
+  "width": "610"
 }

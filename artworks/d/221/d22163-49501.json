@@ -1,6 +1,5 @@
 {
   "acno": "D22163", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18591-D18592; D22151-D22322; D41053-D41055", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 114 x 191 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIX 8", 
   "foreignTitle": null, 
   "groupTitle": "Worcester and Shrewsbury Sketchbook [Finberg CCXXXIX]", 
+  "height": "191", 
   "id": 49501, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "Houses with Castle. (?Shrewsbury)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22163_8.jpg", 
+  "title": "Houses with Castle. (?Shrewsbury)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-with-castle-shrewsbury-d22163", 
+  "width": "114"
 }

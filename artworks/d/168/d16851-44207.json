@@ -1,6 +1,5 @@
 {
   "acno": "D16851", 
-  "addlImageCount": 0, 
   "catTextResId": 1138626, 
   "catalogueGroup": {
     "accessionRanges": "D16762-D16889; D40988-D40990", 
@@ -28,17 +27,47 @@
     "text": "c.1819"
   }, 
   "dateText": "c.1819", 
+  "depth": "", 
   "dimensions": "support: 115 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIII 82", 
   "foreignTitle": null, 
   "groupTitle": "Remarks (Italy) Sketchbook [Finberg CXCIII]", 
+  "height": "94", 
   "id": 44207, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 167, 
-  "popularity": 1, 
   "subjectCount": 1, 
-  "title": "Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16851_8.jpg", 
+  "title": "Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-hills-d16851", 
+  "width": "115"
 }

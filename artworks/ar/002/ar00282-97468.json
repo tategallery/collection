@@ -1,6 +1,5 @@
 {
   "acno": "AR00282", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1958-61"
   }, 
   "dateText": "1958-61", 
+  "depth": "", 
   "dimensions": "support: 735 x 580 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "580", 
   "id": 97468, 
   "inscription": null, 
   "medium": "Graphite and gouache on paper", 
@@ -41,7 +41,72 @@
       "workCount": 248
     }
   ], 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "Head of a Girl and Children"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11714, 
+                "name": "defacement", 
+                "workCount": 166
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00282_8.jpg", 
+  "title": "Head of a Girl and Children", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-head-of-a-girl-and-children-ar00282", 
+  "width": "735"
 }

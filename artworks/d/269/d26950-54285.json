@@ -1,6 +1,5 @@
 {
   "acno": "D26950", 
-  "addlImageCount": 0, 
   "catTextResId": 1135324, 
   "catalogueGroup": {
     "accessionRanges": "D26936-D26948; D26950-D26954; D41019-D41020; D41538", 
@@ -28,17 +27,71 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 91 x 153 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIV 8", 
   "foreignTitle": null, 
   "groupTitle": "Sound of Mull (?) No. 1 Sketchbook [Finberg CCLXXIV]", 
+  "height": "153", 
   "id": 54285, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 14, 
   "subjectCount": 3, 
-  "title": "?Dunollie or Tioram Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26950_8_R.jpg", 
+  "title": "?Dunollie or Tioram Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunollie-or-tioram-castle-d26950", 
+  "width": "91"
 }

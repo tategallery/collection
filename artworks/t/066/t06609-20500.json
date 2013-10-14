@@ -1,6 +1,5 @@
 {
   "acno": "T06609", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "", 
   "dimensions": "support: 1905 x 1905 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1905", 
   "id": 20500, 
   "inscription": null, 
   "medium": "Oil paint and acrylic paint on canvas", 
@@ -41,7 +41,105 @@
       "workCount": 409
     }
   ], 
-  "popularity": 380, 
   "subjectCount": 5, 
-  "title": "R. B. and W. Spiral for A."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3486, 
+                "name": "Arizona Desert", 
+                "workCount": 1
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1910, 
+                "name": "USA, Arizona", 
+                "workCount": 5
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3465, 
+                "name": "exhilaration", 
+                "workCount": 27
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06609_8.jpg", 
+  "title": "R. B. and W. Spiral for A.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-r-b-and-w-spiral-for-a-t06609", 
+  "width": "1905"
 }

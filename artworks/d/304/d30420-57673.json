@@ -1,6 +1,5 @@
 {
   "acno": "D30420", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30377-D30395; D30397-D30400; D30403-D30458; D41213-D41215; D41510", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 155 x 100 mm", 
-  "displayLocation": null, 
   "finberg": "CCCII 25 a", 
   "foreignTitle": null, 
   "groupTitle": "On the Neckar Sketchbook [Finberg CCCII]", 
+  "height": "100", 
   "id": 57673, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 53, 
   "subjectCount": 3, 
-  "title": "(1) Buildings; (2) Schloss Zwingenberg"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 15371, 
+                "name": "Zwingenberg, Schloss Zwingenberg", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30420_8.jpg", 
+  "title": "(1) Buildings; (2) Schloss Zwingenberg", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-buildings-2-schloss-zwingenberg-d30420", 
+  "width": "155"
 }

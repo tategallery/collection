@@ -1,6 +1,5 @@
 {
   "acno": "D26204", 
-  "addlImageCount": 0, 
   "catTextResId": 1136132, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,52 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 56", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "181", 
   "id": 53541, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 113, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Rhymer's Glen, Abbotsford"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26204_8.jpg", 
+  "title": "Rhymer's Glen, Abbotsford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-rhymers-glen-abbotsford-d26204", 
+  "width": "111"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D24078", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24077-D24106", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 115 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "CCLV 1 a", 
   "foreignTitle": null, 
   "groupTitle": "Rouen Sketchbook [Finberg CCLV]", 
+  "height": "182", 
   "id": 51415, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 4, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "Harbour, with Castle Surrounded by Walls on Height Above"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24078_8.jpg", 
+  "title": "Harbour, with Castle Surrounded by Walls on Height Above", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harbour-with-castle-surrounded-by-walls-on-height-above-d24078", 
+  "width": "115"
 }

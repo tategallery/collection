@@ -1,6 +1,5 @@
 {
   "acno": "D41310", 
-  "addlImageCount": 0, 
   "catTextResId": 1137458, 
   "catalogueGroup": {
     "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
@@ -28,17 +27,76 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 140 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV a 34", 
   "foreignTitle": null, 
   "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
   "id": 65008, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 16, 
   "subjectCount": 4, 
-  "title": "Tintagel: The Haven, with Stone-Lifting Gear"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9035, 
+                "name": "winch", 
+                "workCount": 42
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41310_8.jpg", 
+  "title": "Tintagel: The Haven, with Stone-Lifting Gear", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tintagel-the-haven-with-stone-lifting-gear-d41310", 
+  "width": "140"
 }

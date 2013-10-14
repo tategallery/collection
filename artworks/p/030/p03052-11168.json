@@ -1,6 +1,5 @@
 {
   "acno": "P03052", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03051-P03058", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 269 x 527 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cloud Atomic Laboratory", 
+  "height": "527", 
   "id": 11168, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
@@ -47,7 +47,98 @@
       "workCount": 846
     }
   ], 
-  "popularity": 150, 
   "subjectCount": 5, 
-  "title": "B. Left: Skull of Test Dummy. Right: Proton-Synchron Electrophysical Laboratory: Vacuum Pumps to the Electromagnet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2911, 
+                "name": "laboratory equipment", 
+                "workCount": 17
+              }, 
+              {
+                "id": 10027, 
+                "name": "test dummy", 
+                "workCount": 9
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7942, 
+                "name": "science", 
+                "workCount": 62
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2448, 
+                "name": "skull", 
+                "workCount": 71
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03052_8.jpg", 
+  "title": "B. Left: Skull of Test Dummy. Right: Proton-Synchron Electrophysical Laboratory: Vacuum Pumps to the Electromagnet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-b-left-skull-of-test-dummy-right-proton-synchron-electrophysical-laboratory-vacuum-pumps-to-the-electromagnet-p03052", 
+  "width": "269"
 }

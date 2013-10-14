@@ -1,6 +1,5 @@
 {
   "acno": "P12097", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P12095-P12103", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 165 x 485 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "This Is Not A Book", 
+  "height": "485", 
   "id": 80964, 
   "inscription": null, 
   "medium": "Etching, aquatint and mezzotint on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature", 
+                "workCount": 129
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 3465, 
+                "name": "exhilaration", 
+                "workCount": 27
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12097_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frankenthaler-no-title-p12097", 
+  "width": "165"
 }

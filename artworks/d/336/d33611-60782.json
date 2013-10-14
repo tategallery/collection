@@ -1,6 +1,5 @@
 {
   "acno": "D33611", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,77 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 220 x 271 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVII 10 a", 
   "foreignTitle": null, 
   "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "height": "271", 
   "id": 60782, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "A Shop"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1473, 
+                "name": "shop", 
+                "workCount": 87
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33611_8.jpg", 
+  "title": "A Shop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-shop-d33611", 
+  "width": "220"
 }

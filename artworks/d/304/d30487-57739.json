@@ -1,6 +1,5 @@
 {
   "acno": "D30487", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30460-D30488; D30490; D30492-D30538; D30540-D30596; D30598-D30632; D41128-D41130", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 170 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIII 15", 
   "foreignTitle": null, 
   "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook [Finberg CCCIII]", 
+  "height": "104", 
   "id": 57739, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 104, 
   "subjectCount": 4, 
-  "title": "Ostend: Buildings, with Tower, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3381, 
+                "name": "Belgium", 
+                "workCount": 495
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 9794, 
+                "name": "Ostend", 
+                "workCount": 41
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30487_8.jpg", 
+  "title": "Ostend: Buildings, with Tower, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ostend-buildings-with-tower-etc-d30487", 
+  "width": "170"
 }

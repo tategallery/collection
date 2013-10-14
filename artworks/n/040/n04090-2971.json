@@ -1,6 +1,5 @@
 {
   "acno": "N04090", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "1913"
   }, 
   "dateText": "1913", 
+  "depth": "", 
   "dimensions": "support: 454 x 349 mm\r\nframe: 684 x 585 x 52 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "349", 
   "id": 2971, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 203, 
   "subjectCount": 5, 
-  "title": "Head of a Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12475, 
+                "name": "Mary", 
+                "workCount": 2
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1380, 
+                "name": "earring", 
+                "workCount": 31
+              }, 
+              {
+                "id": 2217, 
+                "name": "necklace", 
+                "workCount": 72
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04090_8.jpg", 
+  "title": "Head of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/currie-head-of-a-woman-n04090", 
+  "width": "454"
 }

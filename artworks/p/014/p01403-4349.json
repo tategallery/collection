@@ -1,6 +1,5 @@
 {
   "acno": "P01403", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01401-P01404", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,74 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 205 x 173 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Portfolio of Etchings", 
+  "height": "173", 
   "id": 4349, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 37, 
   "subjectCount": 4, 
-  "title": "60's Dish"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 839, 
+                "name": "couch", 
+                "workCount": 157
+              }, 
+              {
+                "id": 1579, 
+                "name": "cushion", 
+                "workCount": 30
+              }, 
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01403_8.jpg", 
+  "title": "60's Dish", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flanagan-60s-dish-p01403", 
+  "width": "205"
 }

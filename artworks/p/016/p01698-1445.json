@@ -1,6 +1,5 @@
 {
   "acno": "P01698", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,18 +26,81 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "", 
   "dimensions": "image: 498 x 762 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": "L'Oiseau", 
   "groupTitle": "School Prints", 
+  "height": "762", 
   "id": 1445, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 457, 
   "subjectCount": 4, 
-  "title": "The Bird"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish", 
+                "workCount": 140
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 1707, 
+                "name": "star", 
+                "workCount": 134
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01698_8.jpg", 
+  "title": "The Bird", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/braque-the-bird-p01698", 
+  "width": "498"
 }

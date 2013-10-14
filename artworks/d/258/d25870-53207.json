@@ -1,6 +1,5 @@
 {
   "acno": "D25870", 
-  "addlImageCount": 0, 
   "catTextResId": 1134237, 
   "catalogueGroup": {
     "accessionRanges": "D25762-D25928; D41077-D41078", 
@@ -28,17 +27,100 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 187 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVI 55 a", 
   "foreignTitle": null, 
   "groupTitle": "Minstrelsy of the Scottish Border Sketchbook [Finberg CCLXVI]", 
+  "height": "114", 
   "id": 53207, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 112, 
-  "popularity": 22, 
   "subjectCount": 6, 
-  "title": "Dumfries and Lincluden Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25870_8.jpg", 
+  "title": "Dumfries and Lincluden Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dumfries-and-lincluden-abbey-d25870", 
+  "width": "187"
 }

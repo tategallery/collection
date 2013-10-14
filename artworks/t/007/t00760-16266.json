@@ -1,6 +1,5 @@
 {
   "acno": "T00760", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "650", 
   "dimensions": "object: 470 x 600 x 650 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "600", 
   "id": 16266, 
   "inscription": null, 
   "medium": "Painted concrete and steel", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Homage to L\u00e9ger"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00760_8.jpg", 
+  "title": "Homage to L\u00e9ger", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wines-homage-to-leger-t00760", 
+  "width": "470"
 }

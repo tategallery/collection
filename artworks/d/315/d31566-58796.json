@@ -1,6 +1,5 @@
 {
   "acno": "D31566", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31416-D31426; D31428-D31466; D31468-D31559; D31561-D31567; D31569-D31570; D31572-D31575; D31577-D31581; D31583-D31586; D31588-D31592; D31594-D31597; D41262-D41263; D41500", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 184 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXI 76 a", 
   "foreignTitle": null, 
   "groupTitle": "Vienna up to Venice Sketchbook [Finberg CCCXI]", 
+  "height": "113", 
   "id": 58796, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 154, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Female Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31566_8.jpg", 
+  "title": "Female Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-female-figure-d31566", 
+  "width": "184"
 }

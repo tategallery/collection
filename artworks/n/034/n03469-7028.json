@@ -1,6 +1,5 @@
 {
   "acno": "N03469", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1911"
   }, 
   "dateText": "1911", 
+  "depth": "", 
   "dimensions": "support: 356 x 254 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 7028, 
   "inscription": "date inscribed", 
   "medium": "Watercolour on paper", 
@@ -41,7 +41,48 @@
       "workCount": 56
     }
   ], 
-  "popularity": 138, 
   "subjectCount": 2, 
-  "title": "Waterfall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03469_8.jpg", 
+  "title": "Waterfall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/innes-waterfall-n03469", 
+  "width": "356"
 }

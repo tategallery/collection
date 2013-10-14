@@ -1,6 +1,5 @@
 {
   "acno": "P04883", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04881-P04884", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 789 x 559 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Kottbusserdam Pictures and Turkish Music", 
+  "height": "559", 
   "id": 11317, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,84 @@
       "workCount": 846
     }
   ], 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "Day and Night"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }, 
+              {
+                "id": 4408, 
+                "name": "letter of alphabet", 
+                "workCount": 82
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04883_8.jpg", 
+  "title": "Day and Night", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-day-and-night-p04883", 
+  "width": "789"
 }

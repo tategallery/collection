@@ -1,6 +1,5 @@
 {
   "acno": "D03837", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03833-D03973; D40780", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1799-1800"
   }, 
   "dateText": "c.1799-1800", 
+  "depth": "", 
   "dimensions": "support: 166 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "LXVI 5", 
   "foreignTitle": null, 
   "groupTitle": "Egyptian Details Sketchbook [Finberg LXVI]", 
+  "height": "82", 
   "id": 31232, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "Study of Plants, and a Dog Asleep"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant", 
+                "workCount": 198
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping", 
+                "workCount": 16
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03837_8.jpg", 
+  "title": "Study of Plants, and a Dog Asleep", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-plants-and-a-dog-asleep-d03837", 
+  "width": "166"
 }

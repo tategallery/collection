@@ -1,6 +1,5 @@
 {
   "acno": "D03804", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03802-D03831", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1801"
   }, 
   "dateText": "c.1801", 
+  "depth": "", 
   "dimensions": "support: 118 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "LXV 3", 
   "foreignTitle": null, 
   "groupTitle": "Composition Studies Sketchbook [Finberg LXV]", 
+  "height": "184", 
   "id": 31200, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 3, 
   "subjectCount": 4, 
-  "title": "Castle in Middle Distance, with Trees and Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number", 
+                "workCount": 155
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03804_8.jpg", 
+  "title": "Castle in Middle Distance, with Trees and Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-in-middle-distance-with-trees-and-sky-d03804", 
+  "width": "118"
 }

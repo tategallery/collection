@@ -1,6 +1,5 @@
 {
   "acno": "D11405", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11372-D11441; D40835-D40838", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1816"
   }, 
   "dateText": "c.1816", 
+  "depth": "", 
   "dimensions": "support: 125 x 200 mm", 
-  "displayLocation": null, 
   "finberg": "CXLVI 23 a", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 3 Sketchbook [Finberg CXLVI]", 
+  "height": "200", 
   "id": 38780, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 48, 
-  "popularity": 7, 
   "subjectCount": 1, 
-  "title": "Ruins, with Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11405_8.jpg", 
+  "title": "Ruins, with Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-with-distant-hills-d11405", 
+  "width": "125"
 }

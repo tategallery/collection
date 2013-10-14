@@ -1,6 +1,5 @@
 {
   "acno": "D35130", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35125-D35153; D40168-D40169; D40437; D41480", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,82 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 229 x 326 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLIX 6", 
   "foreignTitle": null, 
   "groupTitle": "Rheinfelden Sketchbook [Finberg CCCXLIX]", 
+  "height": "326", 
   "id": 62259, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 4, 
-  "title": "Waves, with ?Church Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35130_8.jpg", 
+  "title": "Waves, with ?Church Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-waves-with-church-tower-d35130", 
+  "width": "229"
 }

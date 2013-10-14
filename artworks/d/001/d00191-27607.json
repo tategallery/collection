@@ -1,6 +1,5 @@
 {
   "acno": "D00191", 
-  "addlImageCount": 0, 
   "catTextResId": 1140111, 
   "catalogueGroup": {
     "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
@@ -28,16 +27,82 @@
     "text": "c.1791"
   }, 
   "dateText": "c.1791", 
+  "depth": "", 
   "dimensions": "support: 114 x 92 mm", 
-  "displayLocation": null, 
   "finberg": "XVII P", 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Other Subjects", 
+  "height": "92", 
   "id": 27607, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 4, 
-  "title": "Back View of a Man Running, Holding ?a Quiver"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 564, 
+                "name": "running", 
+                "workCount": 92
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00191_8.jpg", 
+  "title": "Back View of a Man Running, Holding ?a Quiver", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-back-view-of-a-man-running-holding-a-quiver-d00191", 
+  "width": "114"
 }

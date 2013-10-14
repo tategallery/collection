@@ -1,6 +1,5 @@
 {
   "acno": "T11280", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11221-T11289; T11380", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,67 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 125 x 186 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Various Birds and Beasts Drawn from the Life", 
+  "height": "186", 
   "id": 25601, 
   "inscription": null, 
   "medium": "Engraving and etching on paper", 
   "movementCount": 0, 
-  "popularity": 44, 
   "subjectCount": 4, 
-  "title": "Eagles, Hawkes, and Owles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle", 
+                "workCount": 36
+              }, 
+              {
+                "id": 6421, 
+                "name": "hawk", 
+                "workCount": 10
+              }, 
+              {
+                "id": 1623, 
+                "name": "owl", 
+                "workCount": 41
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 2331, 
+                "name": "trunk", 
+                "workCount": 123
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11280_8.jpg", 
+  "title": "Eagles, Hawkes, and Owles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-eagles-hawkes-and-owles-t11280", 
+  "width": "125"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D15137", 
-  "addlImageCount": 0, 
   "catTextResId": 1139549, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 17", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42493, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Votive Stele to Jupiter Heliopolitanus and the Round Ash Urn of Prastina Fronto"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture", 
+                "workCount": 386
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15137_8.jpg", 
+  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Votive Stele to Jupiter Heliopolitanus and the Round Ash Urn of Prastina Fronto", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-sculptural-fragments-from-the-vatican-museums-including-a-votive-stele-to-jupiter-heliopolitanus-and-the-round-ash-urn-of-prastina-fronto-d15137", 
+  "width": "161"
 }

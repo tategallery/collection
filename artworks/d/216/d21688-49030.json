@@ -1,6 +1,5 @@
 {
   "acno": "D21688", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21664-D21764; D41050-D41052", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 144 x 90 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXV 13", 
   "foreignTitle": null, 
   "groupTitle": "Rome, Turin and Milan Sketchbook [Finberg CCXXXV]", 
+  "height": "90", 
   "id": 49030, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 86, 
   "subjectCount": 4, 
-  "title": "?Palace at Milan"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 11527, 
+                "name": "Milan - non-specific", 
+                "workCount": 6
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 482, 
+                "name": "Latin text", 
+                "workCount": 121
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21688_8.jpg", 
+  "title": "?Palace at Milan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-palace-at-milan-d21688", 
+  "width": "144"
 }

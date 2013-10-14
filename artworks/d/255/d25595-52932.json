@@ -1,6 +1,5 @@
 {
   "acno": "D25595", 
-  "addlImageCount": 0, 
   "catTextResId": 1133955, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
@@ -28,17 +27,83 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 74 x 94 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIV 37", 
   "foreignTitle": null, 
   "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "height": "94", 
   "id": 52932, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 75, 
-  "popularity": 27, 
   "subjectCount": 4, 
-  "title": "Brough Castle, Cumbria"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25595_8.jpg", 
+  "title": "Brough Castle, Cumbria", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-brough-castle-cumbria-d25595", 
+  "width": "74"
 }

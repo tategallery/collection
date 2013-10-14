@@ -1,6 +1,5 @@
 {
   "acno": "P04507", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 956 x 587 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "587", 
   "id": 8066, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -51,7 +51,55 @@
       "workCount": 377
     }
   ], 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "Notebook"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific", 
+                "workCount": 334
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04507_8.jpg", 
+  "title": "Notebook", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-notebook-p04507", 
+  "width": "956"
 }

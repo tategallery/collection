@@ -1,6 +1,5 @@
 {
   "acno": "P11079", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "image: 604 x 959 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "959", 
   "id": 5736, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 160, 
   "subjectCount": 3, 
-  "title": "Coat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }, 
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11079_8.jpg", 
+  "title": "Coat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/guston-coat-p11079", 
+  "width": "604"
 }

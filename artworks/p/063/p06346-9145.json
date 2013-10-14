@@ -1,6 +1,5 @@
 {
   "acno": "P06346", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01416; P06005; P06108; P06130; P06241; P06324; P06346; P06359; P06399; P06457; P06519; P06700", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 460 x 581 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Penwith Portfolio", 
+  "height": "581", 
   "id": 9145, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 62, 
   "subjectCount": 5, 
-  "title": "Women of Belfast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4436, 
+                "name": "Irish", 
+                "workCount": 9
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality", 
+            "workCount": 351
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 9725, 
+                "name": "leg/legs raised", 
+                "workCount": 57
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06346_8.jpg", 
+  "title": "Women of Belfast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mcwilliam-women-of-belfast-p06346", 
+  "width": "460"
 }

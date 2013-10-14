@@ -1,6 +1,5 @@
 {
   "acno": "D16629", 
-  "addlImageCount": 0, 
   "catTextResId": 1138522, 
   "catalogueGroup": {
     "accessionRanges": "D16486-D16640; D40955-D40957", 
@@ -28,17 +27,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CXCI 85 a", 
   "foreignTitle": null, 
   "groupTitle": "Rome and Florence Sketchbook [Finberg CXCI]", 
+  "height": "189", 
   "id": 43985, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 172, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "River, with Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16629_8.jpg", 
+  "title": "River, with Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-distant-hills-d16629", 
+  "width": "113"
 }

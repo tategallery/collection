@@ -1,6 +1,5 @@
 {
   "acno": "D17367", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17365-D17507; D40691-D40693", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 112 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIX 2", 
   "foreignTitle": null, 
   "groupTitle": "Medway Sketchbook [Finberg CXCIX]", 
+  "height": "190", 
   "id": 44723, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 5, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Ships"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17367_8.jpg", 
+  "title": "Ships", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ships-d17367", 
+  "width": "112"
 }

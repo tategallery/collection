@@ -1,6 +1,5 @@
 {
   "acno": "D31239", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31223-D31256; D31258-D31276", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1843"
   }, 
   "dateText": "1843", 
+  "depth": "", 
   "dimensions": "support: 174 x 76 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIX 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Dover, Rhine and Innsbruck Sketchbook [Finberg CCCIX]", 
+  "height": "76", 
   "id": 58475, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Castle on Rock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31239_8.jpg", 
+  "title": "Castle on Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-rock-d31239", 
+  "width": "174"
 }

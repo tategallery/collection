@@ -1,6 +1,5 @@
 {
   "acno": "T00586", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1951"
   }, 
   "dateText": "1951", 
+  "depth": "95", 
   "dimensions": "object: 457 x 457 x 95 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 9348, 
   "inscription": "date inscribed", 
   "medium": "Painted chipboard", 
@@ -44,7 +41,55 @@
       "workCount": 70
     }
   ], 
-  "popularity": 452, 
   "subjectCount": 2, 
-  "title": "Spiral Movement"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00586_8.jpg", 
+  "title": "Spiral Movement", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-spiral-movement-t00586", 
+  "width": "457"
 }

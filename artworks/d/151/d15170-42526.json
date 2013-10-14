@@ -1,6 +1,5 @@
 {
   "acno": "D15170", 
-  "addlImageCount": 0, 
   "catTextResId": 1139582, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 101 x 161 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 34", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "161", 
   "id": 42526, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 12, 
   "subjectCount": 1, 
-  "title": "Town on the Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15170_8_R.jpg", 
+  "title": "Town on the Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-on-the-coast-d15170", 
+  "width": "101"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D29797", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29772-D29813; D41133-D41135", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 170 x 109 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCVII 13 a", 
   "foreignTitle": null, 
   "groupTitle": "Spires and Heidelberg Sketchbook [Finberg CCXCVII]", 
+  "height": "109", 
   "id": 57059, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 28, 
-  "popularity": 28, 
   "subjectCount": 5, 
-  "title": "Lucerne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5623, 
+                "name": "Lucerne - non-specific", 
+                "workCount": 45
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29797_8.jpg", 
+  "title": "Lucerne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lucerne-d29797", 
+  "width": "170"
 }

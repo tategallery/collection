@@ -1,6 +1,5 @@
 {
   "acno": "P11837", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P11822-P11837", 
     "completeStatus": "COMPLETE", 
@@ -27,59 +26,119 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "unconfirmed: 968 x 629 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Illustrations for 'Anna Karenina' I-XIV", 
+  "height": "629", 
   "id": 67379, 
-  "images": [
-    {
-      "copyright": "\u00a9 The estate of Barnett Freedman", 
-      "filenameBase": "P11837_142110", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11837_142110_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 87
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11837_142110_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 175
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11837_142110_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 498
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11837_142110_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1047
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper. Verso: lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 6, 
-  "title": "Untitled. Verso: Beside the Baggage in Silence"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15897, 
+                "name": "Tolstoy, Leo, 'Anna Karenina'", 
+                "workCount": 15
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby", 
+                "workCount": 425
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6924, 
+                "name": "mother and child", 
+                "workCount": 217
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11837_8.jpg", 
+  "title": "Untitled. Verso: Beside the Baggage in Silence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freedman-untitled-verso-beside-the-baggage-in-silence-p11837", 
+  "width": "968"
 }

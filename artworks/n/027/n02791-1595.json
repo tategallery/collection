@@ -1,6 +1,5 @@
 {
   "acno": "N02791", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1881"
   }, 
   "dateText": "1881", 
+  "depth": "", 
   "dimensions": "support: 133 x 216 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "216", 
   "id": 1595, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,96 @@
       "workCount": 405
     }
   ], 
-  "popularity": 29, 
   "subjectCount": 6, 
-  "title": "Arkwright's Mill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 823, 
+                "name": "factory", 
+                "workCount": 47
+              }, 
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9864, 
+                "name": "economics: Industrial Revolution, 18th c.", 
+                "workCount": 7
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02791_8.jpg", 
+  "title": "Arkwright's Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-arkwrights-mill-n02791", 
+  "width": "133"
 }

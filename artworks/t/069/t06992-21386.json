@@ -1,6 +1,5 @@
 {
   "acno": "T06992", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964-5"
   }, 
   "dateText": "1964-5", 
+  "depth": "", 
   "dimensions": "object: 210 x 410 x 460 mm, 70 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 21386, 
   "inscription": null, 
   "medium": "Stone", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 128, 
   "subjectCount": 2, 
-  "title": "Red Stone"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06992_8.jpg", 
+  "title": "Red Stone", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-red-stone-t06992", 
+  "width": ""
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D00031", 
-  "addlImageCount": 0, 
   "catTextResId": 1140186, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,114 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 160 x 249 mm", 
-  "displayLocation": null, 
   "finberg": "II 17", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "249", 
   "id": 27447, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "popularity": 51, 
   "subjectCount": 6, 
-  "title": "A Stableman in a Striped Coat with Dog and Saddled Horse in Front of Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 570, 
+                "name": "dog - non-specific", 
+                "workCount": 799
+              }, 
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 603, 
+                "name": "groom", 
+                "workCount": 23
+              }
+            ], 
+            "id": 123, 
+            "name": "equestrian and sporting", 
+            "workCount": 107
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00031_8.jpg", 
+  "title": "A Stableman in a Striped Coat with Dog and Saddled Horse in Front of Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stableman-in-a-striped-coat-with-dog-and-saddled-horse-in-front-of-trees-d00031", 
+  "width": "160"
 }

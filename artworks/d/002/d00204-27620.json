@@ -1,6 +1,5 @@
 {
   "acno": "D00204", 
-  "addlImageCount": 0, 
   "catTextResId": 1140222, 
   "catalogueGroup": {
     "accessionRanges": "D00063; D00197-D00206; D40216; D40234", 
@@ -28,19 +27,99 @@
     "text": "c.1796-7"
   }, 
   "dateText": "c.1796-7", 
+  "depth": "", 
   "dimensions": "support: 489 x 299 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "finberg": "XVIII I", 
   "foreignTitle": null, 
   "groupTitle": "Drawings from the Nude Model", 
+  "height": "299", 
   "id": 27620, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
-  "popularity": 83, 
   "subjectCount": 6, 
-  "title": "A Standing Male Figure with Arms Supported in a Loop above his Head; a Landscape Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }, 
+              {
+                "id": 4511, 
+                "name": "suspended", 
+                "workCount": 16
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00204_8.jpg", 
+  "title": "A Standing Male Figure with Arms Supported in a Loop above his Head; a Landscape Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-standing-male-figure-with-arms-supported-in-a-loop-above-his-head-a-landscape-beyond-d00204", 
+  "width": "489"
 }

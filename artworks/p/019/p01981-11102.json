@@ -1,6 +1,5 @@
 {
   "acno": "P01981", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01961-P01984; P11003", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 227 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Conditional Probability Machine", 
+  "height": "190", 
   "id": 11102, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,79 @@
       "workCount": 846
     }
   ], 
-  "popularity": 68, 
   "subjectCount": 4, 
-  "title": "From Genot to Unimate: Untitled (Walking Machine)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3986, 
+                "name": "robot", 
+                "workCount": 37
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01981_8.jpg", 
+  "title": "From Genot to Unimate: Untitled (Walking Machine)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-from-genot-to-unimate-untitled-walking-machine-p01981", 
+  "width": "227"
 }

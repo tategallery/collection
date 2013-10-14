@@ -1,6 +1,5 @@
 {
   "acno": "D27059", 
-  "addlImageCount": 0, 
   "catTextResId": 1135425, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,78 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 104 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 8 a", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "163", 
   "id": 54394, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 18, 
-  "popularity": 8, 
   "subjectCount": 3, 
-  "title": "Boat at a Jetty"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27059_8_R.jpg", 
+  "title": "Boat at a Jetty", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boat-at-a-jetty-d27059", 
+  "width": "104"
 }

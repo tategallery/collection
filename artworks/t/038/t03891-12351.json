@@ -1,6 +1,5 @@
 {
   "acno": "T03891", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1939"
   }, 
   "dateText": "1939", 
+  "depth": "", 
   "dimensions": "support: 334 x 532 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "532", 
   "id": 12351, 
   "inscription": "date inscribed", 
   "medium": "Papers and gouache on paper on board", 
@@ -41,7 +41,60 @@
       "workCount": 75
     }
   ], 
-  "popularity": 111, 
   "subjectCount": 3, 
-  "title": "Diagram"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03891_8.jpg", 
+  "title": "Diagram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reinganum-diagram-t03891", 
+  "width": "334"
 }

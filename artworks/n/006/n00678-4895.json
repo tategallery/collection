@@ -1,6 +1,5 @@
 {
   "acno": "N00678", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "c.1764"
   }, 
   "dateText": "c.1764", 
+  "depth": "", 
   "dimensions": "support: 578 x 457 mm\r\nframe: 839 x 719 x 83 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 4895, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 102, 
   "subjectCount": 4, 
-  "title": "Abel Moysey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3494, 
+                "name": "Moysey, Abel", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands", 
+                "workCount": 234
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7391, 
+                "name": "politician, Member of Parliament", 
+                "workCount": 15
+              }
+            ], 
+            "id": 130, 
+            "name": "public service", 
+            "workCount": 171
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00678_8.jpg", 
+  "title": "Abel Moysey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-abel-moysey-n00678", 
+  "width": "578"
 }

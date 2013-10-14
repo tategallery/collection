@@ -1,6 +1,5 @@
 {
   "acno": "AR00589", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,103 @@
     "text": "1951-2"
   }, 
   "dateText": "1951-2", 
+  "depth": "", 
   "dimensions": "image: 625 x 480 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "480", 
   "id": 97406, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 7, 
-  "title": "A Field of Blue Children"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby", 
+                "workCount": 425
+              }, 
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying", 
+                "workCount": 482
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking", 
+                "workCount": 376
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00589_8.jpg", 
+  "title": "A Field of Blue Children", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-a-field-of-blue-children-ar00589", 
+  "width": "625"
 }

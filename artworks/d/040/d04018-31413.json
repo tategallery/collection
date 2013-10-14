@@ -1,6 +1,5 @@
 {
   "acno": "D04018", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03994-D04096; D04098-D04151; D40585-D40590", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1799-1802"
   }, 
   "dateText": "c.1799-1802", 
+  "depth": "", 
   "dimensions": "support: 215 x 138 mm", 
-  "displayLocation": null, 
   "finberg": "LXIX 24", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures Sketchbook [Finberg LXIX]", 
+  "height": "138", 
   "id": 31413, 
   "inscription": null, 
   "medium": "Ink and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 288, 
   "subjectCount": 3, 
-  "title": "A Prone Female Nude"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down", 
+                "workCount": 221
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04018_8.jpg", 
+  "title": "A Prone Female Nude", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-prone-female-nude-d04018", 
+  "width": "215"
 }

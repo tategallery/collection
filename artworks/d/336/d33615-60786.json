@@ -1,6 +1,5 @@
 {
   "acno": "D33615", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,77 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 218 x 270 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVII 13", 
   "foreignTitle": null, 
   "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "height": "270", 
   "id": 60786, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 3, 
-  "title": "Street Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33615_8.jpg", 
+  "title": "Street Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-d33615", 
+  "width": "218"
 }

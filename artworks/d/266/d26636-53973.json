@@ -1,6 +1,5 @@
 {
   "acno": "D26636", 
-  "addlImageCount": 0, 
   "catTextResId": 1135073, 
   "catalogueGroup": {
     "accessionRanges": "D26619-D26666; D41131-D41132", 
@@ -28,17 +27,83 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 158 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXI 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Loch Long Sketchbook [Finberg CCLXXI]", 
+  "height": "101", 
   "id": 53973, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 10, 
   "subjectCount": 4, 
-  "title": "Ruined Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26636_8.jpg", 
+  "title": "Ruined Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruined-castle-d26636", 
+  "width": "158"
 }

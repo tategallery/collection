@@ -1,6 +1,5 @@
 {
   "acno": "D03074", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 182 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LVI 82", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "height": "114", 
   "id": 30470, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 169, 
-  "popularity": 34, 
   "subjectCount": 3, 
-  "title": "A Valley with Trees in the Left Foreground and Distant Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03074_8.jpg", 
+  "title": "A Valley with Trees in the Left Foreground and Distant Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-valley-with-trees-in-the-left-foreground-and-distant-mountains-d03074", 
+  "width": "182"
 }

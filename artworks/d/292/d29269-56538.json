@@ -1,6 +1,5 @@
 {
   "acno": "D29269", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29213-D29237; D29239-D29264; D29266-D29273; D29275-D29377; D41206-D41208", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 104 x 148 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIV 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Fort Bard Sketchbook [Finberg CCXCIV]", 
+  "height": "148", 
   "id": 56538, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Chatillon Bridge and Church, Val d'Aosta"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29269_8.jpg", 
+  "title": "Chatillon Bridge and Church, Val d'Aosta", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-chatillon-bridge-and-church-val-daosta-d29269", 
+  "width": "104"
 }

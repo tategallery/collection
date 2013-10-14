@@ -1,6 +1,5 @@
 {
   "acno": "P77247", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77245-P77248", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,105 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "image: 326 x 247 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Saracen Heads", 
+  "height": "247", 
   "id": 6898, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 124, 
   "subjectCount": 6, 
-  "title": "Bob"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12306, 
+                "name": "Bob", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 4486, 
+                "name": "ear", 
+                "workCount": 5
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7278, 
+                "name": "jumper", 
+                "workCount": 18
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77247_8.jpg", 
+  "title": "Bob", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/howson-bob-p77247", 
+  "width": "326"
 }

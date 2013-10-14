@@ -1,6 +1,5 @@
 {
   "acno": "T00882", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1954-65"
   }, 
   "dateText": "1954-65", 
+  "depth": "149", 
   "dimensions": "object: 1048 x 914 x 149 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "914", 
   "id": 976, 
   "inscription": null, 
   "medium": "Oil on aluminium", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 100, 
   "subjectCount": 2, 
-  "title": "Structurist Relief, Red Wing No. 20"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00882_8.jpg", 
+  "title": "Structurist Relief, Red Wing No. 20", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/biederman-structurist-relief-red-wing-no-20-t00882", 
+  "width": "1048"
 }

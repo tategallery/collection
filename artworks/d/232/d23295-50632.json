@@ -1,6 +1,5 @@
 {
   "acno": "D23295", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23246-D23335; D41040-D41042", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 153 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLIX 25 a", 
   "foreignTitle": null, 
   "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook [Finberg CCXLIX]", 
+  "height": "103", 
   "id": 50632, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 37, 
   "subjectCount": 6, 
-  "title": "Sketches of Buildings/Walls, Perhaps at Beaugency or Meung-sur-Loire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8237, 
+                "name": "Beaugency", 
+                "workCount": 12
+              }, 
+              {
+                "id": 14220, 
+                "name": "Meung-sur-Loire", 
+                "workCount": 2
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23295_8.jpg", 
+  "title": "Sketches of Buildings/Walls, Perhaps at Beaugency or Meung-sur-Loire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-of-buildingswalls-perhaps-at-beaugency-or-meung-sur-loire-d23295", 
+  "width": "153"
 }

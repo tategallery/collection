@@ -1,6 +1,5 @@
 {
   "acno": "T12401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "73", 
   "dimensions": "object: 149 x 85 x 73 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "85", 
   "id": 220, 
   "inscription": null, 
   "medium": "Perspex", 
@@ -41,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 143, 
   "subjectCount": 2, 
-  "title": "Perspex Group"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12401_8.jpg", 
+  "title": "Perspex Group", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-perspex-group-t12401", 
+  "width": "149"
 }

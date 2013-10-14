@@ -1,6 +1,5 @@
 {
   "acno": "D35708", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35685-D35696; D35698-D35700; D35702; D35704; D35706-D35709; D35711-D35719; D35721-D35727; D35729; D35731; D35733; D35735; D35737; D35739; D35741-D35745; D35747-D35749; D35751-D35756; D41236", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1845"
   }, 
   "dateText": "c.1845", 
+  "depth": "", 
   "dimensions": "support: 74 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXII 13", 
   "foreignTitle": null, 
   "groupTitle": "Folkestone (?) Sketchbook [Finberg CCCLXII]", 
+  "height": "116", 
   "id": 62811, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Fort on Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35708_8_R.jpg", 
+  "title": "Fort on Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fort-on-coast-d35708", 
+  "width": "74"
 }

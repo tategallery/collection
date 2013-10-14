@@ -1,6 +1,5 @@
 {
   "acno": "T00577", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "", 
   "dimensions": "support: 746 x 1099 mm\r\nframe: 780 x 1130 x 39 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1099", 
   "id": 9467, 
   "inscription": "date inscribed", 
   "medium": "Ink on paper", 
@@ -44,7 +41,55 @@
       "workCount": 48
     }
   ], 
-  "popularity": 969, 
   "subjectCount": 2, 
-  "title": "Untitled Chinese Ink Drawing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00577_8.jpg", 
+  "title": "Untitled Chinese Ink Drawing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/michaux-untitled-chinese-ink-drawing-t00577", 
+  "width": "746"
 }

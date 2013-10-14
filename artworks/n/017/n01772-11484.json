@@ -1,6 +1,5 @@
 {
   "acno": "N01772", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,112 @@
     "text": "1900"
   }, 
   "dateText": "1900", 
+  "depth": "114", 
   "dimensions": "frame: 1675 x 1275 x 114 mm\r\nsupport: 1300 x 900 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1275", 
   "id": 11484, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 154, 
   "subjectCount": 6, 
-  "title": "The Sisters"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16010, 
+                "name": "Brignall, Edith", 
+                "workCount": 1
+              }, 
+              {
+                "id": 14251, 
+                "name": "Brignall, Ethel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading", 
+                "workCount": 274
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6912, 
+                "name": "sister", 
+                "workCount": 37
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01772_8.jpg", 
+  "title": "The Sisters", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/peacock-the-sisters-n01772", 
+  "width": "1675"
 }

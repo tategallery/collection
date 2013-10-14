@@ -1,6 +1,5 @@
 {
   "acno": "P78083", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78078-P78088", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 569 x 882 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Screen", 
+  "height": "882", 
   "id": 26119, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,91 @@
       "workCount": 232
     }
   ], 
-  "popularity": 20, 
   "subjectCount": 5, 
-  "title": "Dinomouse Sequel Mutant X"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1800, 
+                "name": "animal/human", 
+                "workCount": 160
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }, 
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking", 
+                "workCount": 83
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 4446, 
+                "name": "dinosaur", 
+                "workCount": 5
+              }
+            ], 
+            "id": 68, 
+            "name": "animals: reptiles", 
+            "workCount": 95
+          }, 
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78083_8.jpg", 
+  "title": "Dinomouse Sequel Mutant X", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lane-dinomouse-sequel-mutant-x-p78083", 
+  "width": "569"
 }

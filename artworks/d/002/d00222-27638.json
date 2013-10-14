@@ -1,6 +1,5 @@
 {
   "acno": "D00222", 
-  "addlImageCount": 0, 
   "catTextResId": 1140740, 
   "catalogueGroup": {
     "accessionRanges": "D00207-D00234; D00237-D00259; D40749-D40751; D41421; D41432", 
@@ -28,17 +27,47 @@
     "text": "1794"
   }, 
   "dateText": "1794", 
+  "depth": "", 
   "dimensions": "support: 111 x 181 mm", 
-  "displayLocation": null, 
   "finberg": "XIX 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Matlock Sketchbook [Finberg XIX]", 
+  "height": "181", 
   "id": 27638, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 29, 
   "subjectCount": 1, 
-  "title": "Study of a Tree on a Bank"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00222_8.jpg", 
+  "title": "Study of a Tree on a Bank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-tree-on-a-bank-d00222", 
+  "width": "111"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03607", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1810"
   }, 
   "dateText": "1810", 
+  "depth": "", 
   "dimensions": "support: 316 x 175 mm\r\nframe: 360 x 210 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "175", 
   "id": 2628, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 134, 
   "subjectCount": 3, 
-  "title": "Study of a Girl in a Cloak and Bonnet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 699, 
+                "name": "cloak", 
+                "workCount": 177
+              }, 
+              {
+                "id": 2303, 
+                "name": "hat, bonnet", 
+                "workCount": 200
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03607_8.jpg", 
+  "title": "Study of a Girl in a Cloak and Bonnet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/constable-study-of-a-girl-in-a-cloak-and-bonnet-t03607", 
+  "width": "316"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00600", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "support: 1722 x 2541 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2541", 
   "id": 12872, 
   "inscription": null, 
   "medium": "Acrylic paint, enamel and oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Transylvania"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00600_8.jpg", 
+  "title": "Transylvania", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-transylvania-t00600", 
+  "width": "1722"
 }

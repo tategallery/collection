@@ -1,6 +1,5 @@
 {
   "acno": "P07011", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07008-P07013", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1914-19"
   }, 
   "dateText": "c.1914-19", 
+  "depth": "", 
   "dimensions": "image: 76 x 159 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Russian Ballet", 
+  "height": "159", 
   "id": 16949, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,60 @@
       "workCount": 39
     }
   ], 
-  "popularity": 104, 
   "subjectCount": 3, 
-  "title": "iv"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6681, 
+                "name": "ballet", 
+                "workCount": 18
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07011_8.jpg", 
+  "title": "iv", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-iv-p07011", 
+  "width": "76"
 }

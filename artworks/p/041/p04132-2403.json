@@ -1,6 +1,5 @@
 {
   "acno": "P04132", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04126-P04132", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": null, 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "First Folio", 
+  "height": "", 
   "id": 2403, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 2, 
-  "title": "First Folio G"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04132_8.jpg", 
+  "title": "First Folio G", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-first-folio-g-p04132", 
+  "width": ""
 }

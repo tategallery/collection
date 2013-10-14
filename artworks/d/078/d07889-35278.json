@@ -1,6 +1,5 @@
 {
   "acno": "D07889", 
-  "addlImageCount": 0, 
   "catTextResId": 1135845, 
   "catalogueGroup": {
     "accessionRanges": "D07853-D07957; D40811", 
@@ -28,17 +27,59 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 114 x 83 mm", 
-  "displayLocation": null, 
   "finberg": "CXIII 23 a", 
   "foreignTitle": null, 
   "groupTitle": "Lowther Sketchbook [Finberg CXIII]", 
+  "height": "83", 
   "id": 35278, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 50, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "?Figures and a Barge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07889_8_R.jpg", 
+  "title": "?Figures and a Barge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-and-a-barge-d07889", 
+  "width": "114"
 }

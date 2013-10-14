@@ -1,6 +1,5 @@
 {
   "acno": "D14340", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14326-D14417; D14419-D14488; D40890-D40892", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 112 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXV 9", 
   "foreignTitle": null, 
   "groupTitle": "Milan to Venice Sketchbook [Finberg CLXXV]", 
+  "height": "185", 
   "id": 41703, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 11, 
   "subjectCount": 3, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14340_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d14340", 
+  "width": "112"
 }

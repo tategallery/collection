@@ -1,6 +1,5 @@
 {
   "acno": "T00133", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1892"
   }, 
   "dateText": "1892", 
+  "depth": "", 
   "dimensions": "support: 552 x 464 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "464", 
   "id": 10907, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 212, 
   "subjectCount": 2, 
-  "title": "Still Life with Bottles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 1297, 
+                "name": "wood", 
+                "workCount": 49
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00133_8.jpg", 
+  "title": "Still Life with Bottles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oconor-still-life-with-bottles-t00133", 
+  "width": "552"
 }

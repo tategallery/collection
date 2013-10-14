@@ -1,6 +1,5 @@
 {
   "acno": "P01797", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "", 
   "dimensions": "image: 549 x 410 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "410", 
   "id": 10343, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 102
     }
   ], 
-  "popularity": 393, 
   "subjectCount": 2, 
-  "title": "Poet (1)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01797_8.jpg", 
+  "title": "Poet (1)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/motherwell-poet-1-p01797", 
+  "width": "549"
 }

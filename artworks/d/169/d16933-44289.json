@@ -1,6 +1,5 @@
 {
   "acno": "D16933", 
-  "addlImageCount": 0, 
   "catTextResId": 1132808, 
   "catalogueGroup": {
     "accessionRanges": "D16890-D16969; D40958-D40960", 
@@ -28,17 +27,57 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 121 x 195 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIV 23 a", 
   "foreignTitle": null, 
   "groupTitle": "Passage of the Simplon Sketchbook [Finberg CXCIV]", 
+  "height": "195", 
   "id": 44289, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 48, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Two Views of the Gallery of Gondo"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16933_8.jpg", 
+  "title": "Two Views of the Gallery of Gondo", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-views-of-the-gallery-of-gondo-d16933", 
+  "width": "121"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D10330", 
-  "addlImageCount": 0, 
   "catTextResId": 1131374, 
   "catalogueGroup": {
     "accessionRanges": "D10320-D10324; D10326-D10342; D40296-D40298", 
@@ -28,16 +27,77 @@
     "text": "1810"
   }, 
   "dateText": "1810", 
+  "depth": "", 
   "dimensions": "support: 200 x 325 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVIII 10 a", 
   "foreignTitle": null, 
   "groupTitle": "Views in Sussex Sketchbook [Finberg CXXXVIII]", 
+  "height": "325", 
   "id": 37707, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "The Tower of the Church of St Thomas \u00e0 Becket, Brightling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10330_8.jpg", 
+  "title": "The Tower of the Church of St Thomas \u00e0 Becket, Brightling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-tower-of-the-church-of-st-thomas-a-becket-brightling-d10330", 
+  "width": "200"
 }

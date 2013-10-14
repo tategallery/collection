@@ -1,6 +1,5 @@
 {
   "acno": "A01578", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": null, 
     "completeStatus": "IRRELEVANT", 
@@ -24,59 +23,95 @@
   "creditLine": "Presented by the artist's widow 1888", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": null, 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sketches of Figures, Costumes, etc.", 
+  "height": "", 
   "id": 69708, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "A01578_144965", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01578_144965_7.jpg", 
-          "height": 83, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01578_144965_8.jpg", 
-          "height": 167, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01578_144965_9.jpg", 
-          "height": 334, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "A/A01/A01578_144965_10.jpg", 
-          "height": 1001, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper. Verso: graphite on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 4, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2680, 
+                "name": "instrument, pipe", 
+                "workCount": 30
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music", 
+                "workCount": 317
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01578_8.jpg", 
+  "title": "[title not known]", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-title-not-known-a01578", 
+  "width": ""
 }

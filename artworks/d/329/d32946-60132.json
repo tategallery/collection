@@ -1,6 +1,5 @@
 {
   "acno": "D32946", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32881; D32883-D32885; D32887-D32946; D32948-D32974; D32976-D33018; D33020-D33030; D33032-D33036; D41136", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVI 34", 
   "foreignTitle": null, 
   "groupTitle": "Berne, Heidelberg and Rhine Sketchbook [Finberg CCCXXVI]", 
+  "height": "111", 
   "id": 60132, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "Ruins. Linberg [Turner]. (?The Ruin of Limburg, near Sponeck)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32946_8.jpg", 
+  "title": "Ruins. Linberg [Turner]. (?The Ruin of Limburg, near Sponeck)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-linberg-turner-the-ruin-of-limburg-near-sponeck-d32946", 
+  "width": "181"
 }

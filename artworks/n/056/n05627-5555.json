@@ -1,6 +1,5 @@
 {
   "acno": "N05627", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "1944"
   }, 
   "dateText": "1944", 
+  "depth": "", 
   "dimensions": "support: 406 x 508 mm\r\nframe: 560 x 660 x 95 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 5555, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 122, 
   "subjectCount": 4, 
-  "title": "Mrs Roberts"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3635, 
+                "name": "Roberts, Ellen", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7643, 
+                "name": "cleaning", 
+                "workCount": 16
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic", 
+            "workCount": 438
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05627_8.jpg", 
+  "title": "Mrs Roberts", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gowing-mrs-roberts-n05627", 
+  "width": "406"
 }

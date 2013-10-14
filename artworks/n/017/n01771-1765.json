@@ -1,6 +1,5 @@
 {
   "acno": "N01771", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1884"
   }, 
   "dateText": "1884", 
+  "depth": "", 
   "dimensions": "support: 2934 x 1359 mm\r\nframe: 3885 x 2200 x 220", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1359", 
   "id": 1765, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,338 @@
       "workCount": 405
     }
   ], 
-  "popularity": 2342, 
   "subjectCount": 25, 
-  "title": "King Cophetua and the Beggar Maid"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3400, 
+                "name": "Graham, Frances", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3401, 
+                "name": "Horner, Frances", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1696, 
+                "name": "looking up", 
+                "workCount": 104
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 1106, 
+                "name": "watching", 
+                "workCount": 306
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3395, 
+                "name": "Tennyson, Alfred, Lord, 'The Beggar Maid'", 
+                "workCount": 4
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 854, 
+                "name": "armour", 
+                "workCount": 106
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }, 
+          {
+            "children": [
+              {
+                "id": 2158, 
+                "name": "crown", 
+                "workCount": 79
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }, 
+          {
+            "children": [
+              {
+                "id": 3398, 
+                "name": "lance", 
+                "workCount": 16
+              }, 
+              {
+                "id": 1257, 
+                "name": "shield", 
+                "workCount": 88
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony", 
+                "workCount": 63
+              }, 
+              {
+                "id": 1011, 
+                "name": "balustrade", 
+                "workCount": 91
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2545, 
+                "name": "beauty", 
+                "workCount": 76
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 3008, 
+                "name": "love", 
+                "workCount": 127
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3397, 
+                "name": "beggar", 
+                "workCount": 20
+              }
+            ], 
+            "id": 156, 
+            "name": "health and welfare", 
+            "workCount": 133
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3074, 
+                "name": "courtier", 
+                "workCount": 64
+              }, 
+              {
+                "id": 870, 
+                "name": "king", 
+                "workCount": 89
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank", 
+            "workCount": 341
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening", 
+                "workCount": 210
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3851, 
+                "name": "hall", 
+                "workCount": 35
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading", 
+                "workCount": 274
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01771_8.jpg", 
+  "title": "King Cophetua and the Beggar Maid", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-king-cophetua-and-the-beggar-maid-n01771", 
+  "width": "2934"
 }

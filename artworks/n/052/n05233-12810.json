@@ -1,6 +1,5 @@
 {
   "acno": "N05233", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1863"
   }, 
   "dateText": "1863", 
+  "depth": "", 
   "dimensions": "support: 406 x 305 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "305", 
   "id": 12810, 
   "inscription": "date inscribed", 
   "medium": "Watercolour on paper", 
@@ -44,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 1604, 
   "subjectCount": 2, 
-  "title": "Woman in Yellow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4329, 
+                "name": "Miller, Annie", 
+                "workCount": 3
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05233_8.jpg", 
+  "title": "Woman in Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rossetti-woman-in-yellow-n05233", 
+  "width": "406"
 }

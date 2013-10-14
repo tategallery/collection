@@ -1,6 +1,5 @@
 {
   "acno": "P05420", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 533 x 711 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "711", 
   "id": 11661, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 195, 
   "subjectCount": 1, 
-  "title": "Three Sausages"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3783, 
+                "name": "sausage", 
+                "workCount": 9
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05420_8.jpg", 
+  "title": "Three Sausages", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-three-sausages-p05420", 
+  "width": "533"
 }

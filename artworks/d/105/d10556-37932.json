@@ -1,6 +1,5 @@
 {
   "acno": "D10556", 
-  "addlImageCount": 0, 
   "catTextResId": 1131550, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,59 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 74", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37932, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 167, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "View from Richmond Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10556_8.jpg", 
+  "title": "View from Richmond Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-from-richmond-hill-d10556", 
+  "width": "155"
 }

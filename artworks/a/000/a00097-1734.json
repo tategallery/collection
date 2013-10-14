@@ -1,6 +1,5 @@
 {
   "acno": "A00097", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1861"
   }, 
   "dateText": "c.1861", 
+  "depth": "", 
   "dimensions": "support: 186 x 140 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "140", 
   "id": 1734, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 49, 
   "subjectCount": 2, 
-  "title": "Head of a Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00097_8.jpg", 
+  "title": "Head of a Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-head-of-a-girl-a00097", 
+  "width": "186"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D09004", 
-  "addlImageCount": 0, 
   "catTextResId": 1134715, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
@@ -28,16 +27,70 @@
     "text": "c.1809-10"
   }, 
   "dateText": "c.1809-10", 
+  "depth": "", 
   "dimensions": "support: 202 x 125 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVII 27", 
   "foreignTitle": null, 
   "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "height": "125", 
   "id": 36383, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "A Wooded Ravine"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09004_8.jpg", 
+  "title": "A Wooded Ravine", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-wooded-ravine-d09004", 
+  "width": "202"
 }

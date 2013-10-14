@@ -1,6 +1,5 @@
 {
   "acno": "T01346", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "686", 
   "dimensions": "object: 2089 x 2292 x 686 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2292", 
   "id": 528, 
   "inscription": null, 
   "medium": "Painted aluminium", 
@@ -41,7 +41,41 @@
       "workCount": 52
     }
   ], 
-  "popularity": 71, 
   "subjectCount": 2, 
-  "title": "Narrow Blue Circle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01346_8.jpg", 
+  "title": "Narrow Blue Circle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/annesley-narrow-blue-circle-t01346", 
+  "width": "2089"
 }

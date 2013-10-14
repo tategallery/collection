@@ -1,6 +1,5 @@
 {
   "acno": "D21234", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21133-D21270; D41068-D41069", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1828"
   }, 
   "dateText": "c.1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXI 52 a", 
   "foreignTitle": null, 
   "groupTitle": "Marseilles to Genoa Sketchbook [Finberg CCXXXI]", 
+  "height": "113", 
   "id": 48577, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 106, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "Gateway of Town; Also Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21234_8_R.jpg", 
+  "title": "Gateway of Town; Also Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gateway-of-town-also-tower-d21234", 
+  "width": "179"
 }

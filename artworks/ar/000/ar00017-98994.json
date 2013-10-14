@@ -1,6 +1,5 @@
 {
   "acno": "AR00017", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,86 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "3", 
   "dimensions": "support: 405 x 302 x 3 mm\r\nframe: 428 x 322 x 30 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "302", 
   "id": 98994, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on hardboard", 
   "movementCount": 0, 
-  "popularity": 188, 
   "subjectCount": 5, 
-  "title": "Pink Sweater"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1806, 
+                "name": "female", 
+                "workCount": 119
+              }
+            ], 
+            "id": 1789, 
+            "name": "portraits: unidentified", 
+            "workCount": 277
+          }, 
+          {
+            "children": [
+              {
+                "id": 4059, 
+                "name": "hair", 
+                "workCount": 111
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00017_8.jpg", 
+  "title": "Pink Sweater", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-pink-sweater-ar00017", 
+  "width": "405"
 }

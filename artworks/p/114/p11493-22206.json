@@ -1,6 +1,5 @@
 {
   "acno": "P11493", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11488-P11493", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 500 x 700 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "6 Piccadillies", 
+  "height": "700", 
   "id": 22206, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 69, 
   "subjectCount": 1, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1726, 
+                "name": "bus", 
+                "workCount": 44
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11493_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/roth-title-not-known-p11493", 
+  "width": "500"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05485", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "c.1825-30"
   }, 
   "dateText": "c.1825-30", 
+  "depth": "", 
   "dimensions": "support: 502 x 660 mm\r\nframe: 568 x 722 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "660", 
   "id": 14945, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 54, 
   "subjectCount": 2, 
-  "title": "Seascape with a Yacht (?)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3071, 
+                "name": "boat, yacht", 
+                "workCount": 103
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05485_8.jpg", 
+  "title": "Seascape with a Yacht (?)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-seascape-with-a-yacht-n05485", 
+  "width": "502"
 }

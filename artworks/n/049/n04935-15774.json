@@ -1,6 +1,5 @@
 {
   "acno": "N04935", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1937"
   }, 
   "dateText": "1937", 
+  "depth": "", 
   "dimensions": "support: 711 x 1016 mm\r\nframe: 910 x 1215 x 85 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1016", 
   "id": 15774, 
   "inscription": "date inscribed", 
   "medium": "Tempera on canvas on wood", 
@@ -51,7 +51,115 @@
       "workCount": 33
     }
   ], 
-  "popularity": 988, 
   "subjectCount": 7, 
-  "title": "The Beached Margin"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 5252, 
+                "name": "starfish", 
+                "workCount": 8
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6095, 
+                "name": "float", 
+                "workCount": 3
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }, 
+          {
+            "children": [
+              {
+                "id": 4616, 
+                "name": "scientific instrument", 
+                "workCount": 18
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }, 
+          {
+            "children": [
+              {
+                "id": 6093, 
+                "name": "spade", 
+                "workCount": 4
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models", 
+            "workCount": 246
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04935_8.jpg", 
+  "title": "The Beached Margin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wadsworth-the-beached-margin-n04935", 
+  "width": "711"
 }

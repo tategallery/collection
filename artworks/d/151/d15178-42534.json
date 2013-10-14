@@ -1,6 +1,5 @@
 {
   "acno": "D15178", 
-  "addlImageCount": 0, 
   "catTextResId": 1139590, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,119 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 161 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 38", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "101", 
   "id": 42534, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 79, 
-  "popularity": 13, 
   "subjectCount": 7, 
-  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Seated Figure with a Musical Instrument and a Corner of a Frieze with a Battle Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9910, 
+                "name": "battle", 
+                "workCount": 97
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 242, 
+                "name": "crowd", 
+                "workCount": 566
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 754, 
+                "name": "instrument, stringed", 
+                "workCount": 38
+              }, 
+              {
+                "id": 2761, 
+                "name": "relief", 
+                "workCount": 106
+              }, 
+              {
+                "id": 649, 
+                "name": "sculpture, classical", 
+                "workCount": 109
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15178_8.jpg", 
+  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Seated Figure with a Musical Instrument and a Corner of a Frieze with a Battle Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-sculptural-fragments-from-the-vatican-museums-including-a-seated-figure-with-a-musical-instrument-and-a-corner-of-a-frieze-with-a-battle-scene-d15178", 
+  "width": "161"
 }

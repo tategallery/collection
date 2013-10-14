@@ -1,6 +1,5 @@
 {
   "acno": "D35414", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35402-D35417; D35419-D35421; D35423-D35425; D35427; D35429-D35431; D35433; D35435", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1845"
   }, 
   "dateText": "1845", 
+  "depth": "", 
   "dimensions": "support: 230 x 326 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLVIII 12", 
   "foreignTitle": null, 
   "groupTitle": "Boulogne Sketchbook [Finberg CCCLVIII]", 
+  "height": "326", 
   "id": 62541, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 23, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Sunrise on the Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise", 
+                "workCount": 138
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35414_8.jpg", 
+  "title": "Sunrise on the Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sunrise-on-the-coast-d35414", 
+  "width": "230"
 }

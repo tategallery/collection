@@ -1,6 +1,5 @@
 {
   "acno": "N05100", 
-  "addlImageCount": 0, 
   "catTextResId": 1139238, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "c.1914"
   }, 
   "dateText": "c.1914", 
+  "depth": "73", 
   "dimensions": "frame: 692 x 946 x 73 mm\r\nsupport: 508 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "946", 
   "id": 5521, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,98 @@
       "workCount": 56
     }
   ], 
-  "popularity": 443, 
   "subjectCount": 5, 
-  "title": "Richmond Park"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 12283, 
+                "name": "Richmond upon Thames", 
+                "workCount": 91
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 12287, 
+                "name": "Richmond upon Thames, Richmond Park", 
+                "workCount": 2
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 749, 
+                "name": "park", 
+                "workCount": 175
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05100_8.jpg", 
+  "title": "Richmond Park", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gore-richmond-park-n05100", 
+  "width": "692"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P02436", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02436; P05190-P05214", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 750 x 502 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A-Z Box", 
+  "height": "502", 
   "id": 14221, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 32, 
   "subjectCount": 2, 
-  "title": "H - Ho Chi Minh"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9339, 
+                "name": "Chinese / Japanese text", 
+                "workCount": 9
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02436_8.jpg", 
+  "title": "H - Ho Chi Minh", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tilson-h-ho-chi-minh-p02436", 
+  "width": "750"
 }

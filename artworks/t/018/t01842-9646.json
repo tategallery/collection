@@ -1,6 +1,5 @@
 {
   "acno": "T01842", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "23", 
   "dimensions": "support: 1530 x 711 x 23 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "711", 
   "id": 9646, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 50, 
   "subjectCount": 2, 
-  "title": "No. 5/73"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01842_8.jpg", 
+  "title": "No. 5/73", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moon-no-573-t01842", 
+  "width": "1530"
 }

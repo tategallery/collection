@@ -1,6 +1,5 @@
 {
   "acno": "D04485", 
-  "addlImageCount": 0, 
   "catTextResId": 1133114, 
   "catalogueGroup": {
     "accessionRanges": "D04391-D04492; D40785-D40789", 
@@ -28,17 +27,93 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 138 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIII 75", 
   "foreignTitle": null, 
   "groupTitle": "France, Savoy, Piedmont Sketchbook [Finberg LXXIII]", 
+  "height": "215", 
   "id": 31878, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 151, 
-  "popularity": 114, 
   "subjectCount": 6, 
-  "title": "Mont Blanc from near St Martin"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 10594, 
+                "name": "Arve valley", 
+                "workCount": 13
+              }, 
+              {
+                "id": 5977, 
+                "name": "Mont Blanc", 
+                "workCount": 50
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04485_8.jpg", 
+  "title": "Mont Blanc from near St Martin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mont-blanc-from-near-st-martin-d04485", 
+  "width": "138"
 }

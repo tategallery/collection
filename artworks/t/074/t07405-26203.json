@@ -1,6 +1,5 @@
 {
   "acno": "T07405", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "support: 543 x 485 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "485", 
   "id": 26203, 
   "inscription": null, 
   "medium": "Oil paint on plywood", 
@@ -44,7 +41,91 @@
       "workCount": 178
     }
   ], 
-  "popularity": 246, 
   "subjectCount": 5, 
-  "title": "Chromatic spiral"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9365, 
+                "name": "Thompson, D'Arcy Wentworth, 'On Growth and Form'", 
+                "workCount": 5
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10522, 
+                "name": "growth", 
+                "workCount": 15
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07405_8.jpg", 
+  "title": "Chromatic spiral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-chromatic-spiral-t07405", 
+  "width": "543"
 }

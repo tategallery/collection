@@ -1,6 +1,5 @@
 {
   "acno": "D02376", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,65 @@
     "text": "1795-6"
   }, 
   "dateText": "1795-6", 
+  "depth": "", 
   "dimensions": "support: 234 x 343 mm", 
-  "displayLocation": null, 
   "finberg": "LI I", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "343", 
   "id": 29779, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "A Two-Horse Phaeton"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage", 
+                "workCount": 271
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02376_8.jpg", 
+  "title": "A Two-Horse Phaeton", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-two-horse-phaeton-d02376", 
+  "width": "234"
 }

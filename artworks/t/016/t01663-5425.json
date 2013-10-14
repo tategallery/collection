@@ -1,6 +1,5 @@
 {
   "acno": "T01663", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,81 @@
     "text": "c.1905"
   }, 
   "dateText": "c.1905", 
+  "depth": "", 
   "dimensions": "support: 483 x 168 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Jeune femme gant\u00e9e de noir", 
   "groupTitle": null, 
+  "height": "168", 
   "id": 5425, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T01663_84285", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T01/T01663_84285_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 49
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T01/T01663_84285_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 98
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T01/T01663_84285_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 197
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T01/T01663_84285_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 592
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Pastel on paper. Verso: pastel on paper", 
   "movementCount": 0, 
-  "popularity": 77, 
   "subjectCount": 4, 
-  "title": "Girl with Black Gloves"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1120, 
+                "name": "glove", 
+                "workCount": 72
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01663_8.jpg", 
+  "title": "Girl with Black Gloves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-girl-with-black-gloves-t01663", 
+  "width": "483"
 }

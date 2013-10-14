@@ -1,6 +1,5 @@
 {
   "acno": "T02404", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1977-9"
   }, 
   "dateText": "1977-9", 
+  "depth": "", 
   "dimensions": "support: 1975 x 2794 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2794", 
   "id": 5963, 
   "inscription": null, 
   "medium": "Oil paint and sand on canvas", 
   "movementCount": 0, 
-  "popularity": 819, 
   "subjectCount": 4, 
-  "title": "Albany Flats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 15850, 
+                "name": "Southwark, Albany Estate", 
+                "workCount": 1
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1162, 
+                "name": "flat", 
+                "workCount": 40
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6931, 
+                "name": "urban environment", 
+                "workCount": 135
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02404_8.jpg", 
+  "title": "Albany Flats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepher-albany-flats-t02404", 
+  "width": "1975"
 }

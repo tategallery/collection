@@ -1,6 +1,5 @@
 {
   "acno": "D21685", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21664-D21764; D41050-D41052", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 144 x 90 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXV 11 a", 
   "foreignTitle": null, 
   "groupTitle": "Rome, Turin and Milan Sketchbook [Finberg CCXXXV]", 
+  "height": "90", 
   "id": 49027, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "River, with Buildings. Buffarlo [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21685_8.jpg", 
+  "title": "River, with Buildings. Buffarlo [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-buildings-buffarlo-turner-d21685", 
+  "width": "144"
 }

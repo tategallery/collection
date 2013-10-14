@@ -1,6 +1,5 @@
 {
   "acno": "D16265", 
-  "addlImageCount": 0, 
   "catTextResId": 1139777, 
   "catalogueGroup": {
     "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
@@ -28,17 +27,102 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVIII 60", 
   "foreignTitle": null, 
   "groupTitle": "St Peter's Sketchbook [Finberg CLXXXVIII]", 
+  "height": "189", 
   "id": 43621, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 123, 
-  "popularity": 100, 
   "subjectCount": 5, 
-  "title": "Basilica of Constantine, Roman Forum"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 5936, 
+                "name": "Rome, Basilica of Constantine", 
+                "workCount": 6
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16265_8.jpg", 
+  "title": "Basilica of Constantine, Roman Forum", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-basilica-of-constantine-roman-forum-d16265", 
+  "width": "114"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D06194", 
-  "addlImageCount": 0, 
   "catTextResId": 1130378, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,78 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 117 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 10", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "182", 
   "id": 33585, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "?Near Isleworth: Trees by a River with a Distant Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06194_8.jpg", 
+  "title": "?Near Isleworth: Trees by a River with a Distant Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-near-isleworth-trees-by-a-river-with-a-distant-building-d06194", 
+  "width": "117"
 }

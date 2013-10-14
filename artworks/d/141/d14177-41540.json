@@ -1,6 +1,5 @@
 {
   "acno": "D14177", 
-  "addlImageCount": 0, 
   "catTextResId": 1142700, 
   "catalogueGroup": {
     "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 111 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIV 16 a", 
   "foreignTitle": null, 
   "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook [Finberg CLXXIV]", 
+  "height": "186", 
   "id": 41540, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Part of a View of Moncalieri and the River Po, from the West"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14177_8.jpg", 
+  "title": "Part of a View of Moncalieri and the River Po, from the West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-part-of-a-view-of-moncalieri-and-the-river-po-from-the-west-d14177", 
+  "width": "111"
 }

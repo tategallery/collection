@@ -1,6 +1,5 @@
 {
   "acno": "D05122", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05073-D05158; D40795-D40797", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 255 x 164 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXII 45", 
   "foreignTitle": null, 
   "groupTitle": "Chester Sketchbook [Finberg LXXXII]", 
+  "height": "164", 
   "id": 32514, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 91, 
-  "popularity": 15, 
   "subjectCount": 4, 
-  "title": "A Group of Trees, with a Castle on a Hill in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05122_8.jpg", 
+  "title": "A Group of Trees, with a Castle on a Hill in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-group-of-trees-with-a-castle-on-a-hill-in-the-distance-d05122", 
+  "width": "255"
 }

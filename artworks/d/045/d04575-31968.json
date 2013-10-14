@@ -1,6 +1,5 @@
 {
   "acno": "D04575", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04493-D04503; D04505-D04509; D04512-D04517; D04519-D04521; D04523-D04532; D04534-D04589; D40023; D40064; D40197-D40209", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,58 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 213 x 212 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIV 82", 
   "foreignTitle": null, 
   "groupTitle": "Grenoble Sketchbook [Finberg LXXIV]", 
+  "height": "212", 
   "id": 31968, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "A Mountain Range"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04575_8.jpg", 
+  "title": "A Mountain Range", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-mountain-range-d04575", 
+  "width": "213"
 }

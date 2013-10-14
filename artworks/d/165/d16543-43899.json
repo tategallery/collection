@@ -1,6 +1,5 @@
 {
   "acno": "D16543", 
-  "addlImageCount": 0, 
   "catTextResId": 1138436, 
   "catalogueGroup": {
     "accessionRanges": "D16486-D16640; D40955-D40957", 
@@ -28,17 +27,124 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 189 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CXCI 31", 
   "foreignTitle": null, 
   "groupTitle": "Rome and Florence Sketchbook [Finberg CXCI]", 
+  "height": "113", 
   "id": 43899, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 63, 
-  "popularity": 79, 
   "subjectCount": 8, 
-  "title": "Florence and the Valley of the Arno, from Fiesole"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2840, 
+                "name": "Arno valley", 
+                "workCount": 7
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 8214, 
+                "name": "Fiesole", 
+                "workCount": 13
+              }, 
+              {
+                "id": 1929, 
+                "name": "Florence - non-specific", 
+                "workCount": 71
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16543_8.jpg", 
+  "title": "Florence and the Valley of the Arno, from Fiesole", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-florence-and-the-valley-of-the-arno-from-fiesole-d16543", 
+  "width": "189"
 }

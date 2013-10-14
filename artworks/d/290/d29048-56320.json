@@ -1,6 +1,5 @@
 {
   "acno": "D29048", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIII 9", 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "190", 
   "id": 56320, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "A Distant View of Laon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29048_8_R.jpg", 
+  "title": "A Distant View of Laon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-distant-view-of-laon-d29048", 
+  "width": "113"
 }

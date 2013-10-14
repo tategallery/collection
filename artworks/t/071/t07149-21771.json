@@ -1,6 +1,5 @@
 {
   "acno": "T07149", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "15550", 
   "dimensions": "displayed: 5 x 1200 x 15550 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1200", 
   "id": 21771, 
   "inscription": null, 
   "medium": "Steel and copper", 
@@ -41,7 +41,94 @@
       "workCount": 140
     }
   ], 
-  "popularity": 551, 
   "subjectCount": 7, 
-  "title": "Venus Forge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 896, 
+                "name": "Aphrodite / Venus - copper", 
+                "workCount": 1
+              }, 
+              {
+                "id": 897, 
+                "name": "Hephaestus - steel", 
+                "workCount": 1
+              }, 
+              {
+                "id": 898, 
+                "name": "Mars - steel", 
+                "workCount": 1
+              }
+            ], 
+            "id": 670, 
+            "name": "mythological", 
+            "workCount": 18
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11717, 
+                "name": "order", 
+                "workCount": 32
+              }, 
+              {
+                "id": 6742, 
+                "name": "purity", 
+                "workCount": 35
+              }, 
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07149_8.jpg", 
+  "title": "Venus Forge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/andre-venus-forge-t07149", 
+  "width": "5"
 }

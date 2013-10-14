@@ -1,6 +1,5 @@
 {
   "acno": "N06174", 
-  "addlImageCount": 0, 
   "catTextResId": 1136015, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "c.1914-15"
   }, 
   "dateText": "c.1914-15", 
+  "depth": "", 
   "dimensions": "support: 914 x 356 mm\r\nframe: 1105 x 545 x 62 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "356", 
   "id": 13412, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,141 @@
       "workCount": 56
     }
   ], 
-  "popularity": 588, 
   "subjectCount": 8, 
-  "title": "The New Bedford"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3670, 
+                "name": "Camden Town, New Bedford Music Hall", 
+                "workCount": 2
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1227, 
+                "name": "audience", 
+                "workCount": 68
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony", 
+                "workCount": 63
+              }, 
+              {
+                "id": 5010, 
+                "name": "caryatid", 
+                "workCount": 11
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1802, 
+                "name": "theatre", 
+                "workCount": 49
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3180, 
+                "name": "theatre", 
+                "workCount": 57
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06174_8.jpg", 
+  "title": "The New Bedford", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-the-new-bedford-n06174", 
+  "width": "914"
 }

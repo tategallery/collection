@@ -1,6 +1,5 @@
 {
   "acno": "D40225", 
-  "addlImageCount": 0, 
   "catTextResId": 1141325, 
   "catalogueGroup": {
     "accessionRanges": "D00116; D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182; D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
@@ -28,16 +27,46 @@
     "text": "?1793"
   }, 
   "dateText": "?1793", 
+  "depth": "", 
   "dimensions": "support: 215 x 274 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "274", 
   "id": 63989, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 1, 
-  "title": "Gabled Houses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8755, 
+                "name": "gable", 
+                "workCount": 22
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40225_8.jpg", 
+  "title": "Gabled Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gabled-houses-d40225", 
+  "width": "215"
 }

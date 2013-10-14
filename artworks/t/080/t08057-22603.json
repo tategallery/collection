@@ -1,6 +1,5 @@
 {
   "acno": "T08057", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08000-T08082; T10676", 
     "completeStatus": "IRRELEVANT", 
@@ -27,15 +26,74 @@
     "text": "c.1770"
   }, 
   "dateText": "c.1770", 
+  "depth": "", 
   "dimensions": "support: 233 x 313 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Mackworth Praed Book", 
+  "height": "313", 
   "id": 22603, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 112, 
   "subjectCount": 4, 
-  "title": "The Cloud"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08057_8.jpg", 
+  "title": "The Cloud", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cozens-the-cloud-t08057", 
+  "width": "233"
 }

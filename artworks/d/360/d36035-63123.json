@@ -1,6 +1,5 @@
 {
   "acno": "D36035", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,60 +20,77 @@
     "text": "after c.1830"
   }, 
   "dateText": "after c.1830", 
+  "depth": "", 
   "dimensions": "support: 246 x 374 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 190v", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "374", 
   "id": 63123, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "D36035_134980", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D36/D36035_134980_7.jpg", 
-          "height": 77, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D36/D36035_134980_8.jpg", 
-          "height": 155, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D36/D36035_134980_9.jpg", 
-          "height": 310, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D36/D36035_134980_10.jpg", 
-          "height": 931, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Lake with Mountain"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36035_8.jpg", 
+  "title": "Lake with Mountain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-with-mountain-d36035", 
+  "width": "246"
 }

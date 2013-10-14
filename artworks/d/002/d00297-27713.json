@@ -1,6 +1,5 @@
 {
   "acno": "D00297", 
-  "addlImageCount": 0, 
   "catTextResId": 1140690, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
@@ -28,17 +27,66 @@
     "text": "c.1794"
   }, 
   "dateText": "c.1794", 
+  "depth": "", 
   "dimensions": "support: 152 x 99 mm", 
-  "displayLocation": null, 
   "finberg": "XX 27", 
   "foreignTitle": null, 
   "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "height": "99", 
   "id": 27713, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "A Town Seen from near a Bridge over a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00297_8.jpg", 
+  "title": "A Town Seen from near a Bridge over a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-town-seen-from-near-a-bridge-over-a-river-d00297", 
+  "width": "152"
 }

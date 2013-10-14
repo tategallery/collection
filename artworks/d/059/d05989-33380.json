@@ -1,6 +1,5 @@
 {
   "acno": "D05989", 
-  "addlImageCount": 0, 
   "catTextResId": 1130164, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
@@ -28,17 +27,47 @@
     "text": "c.1807"
   }, 
   "dateText": "c.1807", 
+  "depth": "", 
   "dimensions": "support: 92 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "XCVI 26 v", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "height": "163", 
   "id": 33380, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 16, 
   "subjectCount": 1, 
-  "title": "Penton Hook, near Laleham"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 466, 
+                "name": "bush", 
+                "workCount": 140
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05989_8.jpg", 
+  "title": "Penton Hook, near Laleham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-penton-hook-near-laleham-d05989", 
+  "width": "92"
 }

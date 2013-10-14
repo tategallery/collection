@@ -1,6 +1,5 @@
 {
   "acno": "D00139", 
-  "addlImageCount": 0, 
   "catTextResId": 1141125, 
   "catalogueGroup": {
     "accessionRanges": "D00130-D00145; D00152; D00181; D00367; D00368; D00388-D00394; D00396-D00400; D00710; D00712; D00713; D08190; D40034-D40039; D40052-D40054; D40242-D40245; D40334; D41455", 
@@ -28,16 +27,94 @@
     "text": "1792"
   }, 
   "dateText": "1792", 
+  "depth": "", 
   "dimensions": "support: 210 x 274 mm", 
-  "displayLocation": null, 
   "finberg": "XII J", 
   "foreignTitle": null, 
   "groupTitle": "Drawings and Watercolours Connected with the Welsh and Marches Tours", 
+  "height": "274", 
   "id": 27555, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 66, 
   "subjectCount": 5, 
-  "title": "View from the Top of Craig y Foel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8283, 
+                "name": "Craig y Foel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 5069, 
+                "name": "Powys", 
+                "workCount": 41
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00139_8.jpg", 
+  "title": "View from the Top of Craig y Foel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-from-the-top-of-craig-y-foel-d00139", 
+  "width": "210"
 }

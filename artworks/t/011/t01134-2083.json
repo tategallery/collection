@@ -1,6 +1,5 @@
 {
   "acno": "T01134", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 2134 x 1524 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1524", 
   "id": 2083, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,58 @@
       "workCount": 846
     }
   ], 
-  "popularity": 2541, 
   "subjectCount": 4, 
-  "title": "Pottery"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl", 
+                "workCount": 66
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 1296, 
+                "name": "plate", 
+                "workCount": 78
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01134_8.jpg", 
+  "title": "Pottery", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-pottery-t01134", 
+  "width": "2134"
 }

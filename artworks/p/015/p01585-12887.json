@@ -1,6 +1,5 @@
 {
   "acno": "P01585", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01581-P01589", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 748 x 505 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Violence", 
+  "height": "505", 
   "id": 12887, 
   "inscription": null, 
   "medium": "Woodcut and photo-screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 85, 
   "subjectCount": 5, 
-  "title": "Jags"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 765, 
+                "name": "car", 
+                "workCount": 168
+              }, 
+              {
+                "id": 5134, 
+                "name": "lorry", 
+                "workCount": 18
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }, 
+          {
+            "children": [
+              {
+                "id": 828, 
+                "name": "pollution", 
+                "workCount": 45
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment", 
+            "workCount": 1563
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1596, 
+                "name": "environment / nature", 
+                "workCount": 129
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1104, 
+                "name": "fence", 
+                "workCount": 262
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01585_8.jpg", 
+  "title": "Jags", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenstein-jags-p01585", 
+  "width": "748"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T01816", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "1810", 
   "dimensions": "object: 1968 x 2000 x 1810 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2000", 
   "id": 14526, 
   "inscription": null, 
   "medium": "Wood, creosote and hinges", 
@@ -41,7 +41,36 @@
       "workCount": 52
     }
   ], 
-  "popularity": 86, 
   "subjectCount": 1, 
-  "title": "Shuttler B"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01816_8.jpg", 
+  "title": "Shuttler B", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tucker-shuttler-b-t01816", 
+  "width": "1968"
 }

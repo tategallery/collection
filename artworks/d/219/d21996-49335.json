@@ -1,6 +1,5 @@
 {
   "acno": "D21996", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21975-D22012; D22014-D22150; D41045-D41046; D41540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 120 x 203 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVIII 13", 
   "foreignTitle": null, 
   "groupTitle": "Kenilworth Sketchbook [Finberg CCXXXVIII]", 
+  "height": "203", 
   "id": 49335, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Houses and Distant Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21996_8.jpg", 
+  "title": "Houses and Distant Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-and-distant-church-d21996", 
+  "width": "120"
 }

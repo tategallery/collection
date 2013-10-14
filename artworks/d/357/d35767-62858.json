@@ -1,6 +1,5 @@
 {
   "acno": "D35767", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35758-D35796; D35798-D35804; D35806-D35821; D35823-D35836; D41226-D41229", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1845-6"
   }, 
   "dateText": "c.1845-6", 
+  "depth": "", 
   "dimensions": "support: 76 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIII 6", 
   "foreignTitle": null, 
   "groupTitle": "Kent Sketchbook [Finberg CCCLXIII]", 
+  "height": "98", 
   "id": 62858, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Houses with Church, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35767_8.jpg", 
+  "title": "Houses with Church, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-with-church-etc-d35767", 
+  "width": "76"
 }

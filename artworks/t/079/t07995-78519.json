@@ -1,6 +1,5 @@
 {
   "acno": "T07995", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 150 x 225 mm\r\nsupport: 570 x 625 mm", 
-  "displayLocation": {
-    "name": "Amgueddfa Cymru - National Museum Wales (Cardiff, UK)", 
-    "url": "http://www.museumwales.ac.uk/en/home/"
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "225", 
   "id": 78519, 
   "inscription": null, 
   "medium": "Photograph, black and white, on paper with dry transfer print mounted onto board", 
@@ -44,7 +41,115 @@
       "workCount": 58
     }
   ], 
-  "popularity": 451, 
   "subjectCount": 7, 
-  "title": "The Pilgrim's Way"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 607, 
+                "name": "Hampshire", 
+                "workCount": 138
+              }, 
+              {
+                "id": 810, 
+                "name": "Kent", 
+                "workCount": 751
+              }, 
+              {
+                "id": 471, 
+                "name": "Surrey", 
+                "workCount": 175
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 16756, 
+                "name": "North Downs", 
+                "workCount": 1
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07995_8.jpg", 
+  "title": "The Pilgrim's Way", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fulton-the-pilgrims-way-t07995", 
+  "width": "150"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P02696", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02692-P02697", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 168 x 206 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Trees", 
+  "height": "206", 
   "id": 10063, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 162, 
   "subjectCount": 3, 
-  "title": "Trees V Spreading Branches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch", 
+                "workCount": 118
+              }, 
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette", 
+                "workCount": 215
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02696_8.jpg", 
+  "title": "Trees V Spreading Branches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-trees-v-spreading-branches-p02696", 
+  "width": "168"
 }

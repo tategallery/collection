@@ -1,6 +1,5 @@
 {
   "acno": "N01226", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1838"
   }, 
   "dateText": "exhibited 1838", 
+  "depth": "", 
   "dimensions": "support: 1118 x 1435 mm\r\nframe: 1483 x 1790 x 120 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1435", 
   "id": 8353, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,79 @@
       "workCount": 125
     }
   ], 
-  "popularity": 537, 
   "subjectCount": 4, 
-  "title": "A Distinguished Member of the Humane Society"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15809, 
+                "name": "dog, Newfoundland", 
+                "workCount": 1
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 1208, 
+                "name": "seagull", 
+                "workCount": 92
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01226_8.jpg", 
+  "title": "A Distinguished Member of the Humane Society", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-a-distinguished-member-of-the-humane-society-n01226", 
+  "width": "1118"
 }

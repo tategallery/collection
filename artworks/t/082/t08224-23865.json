@@ -1,6 +1,5 @@
 {
   "acno": "T08224", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,62 @@
     "text": "1839"
   }, 
   "dateText": "1839", 
+  "depth": "", 
   "dimensions": "support: 128 x 178 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "178", 
   "id": 23865, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T08224_135985", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08224_135985_7.jpg", 
-          "height": 93, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08224_135985_8.jpg", 
-          "height": 186, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08224_135985_9.jpg", 
-          "height": 372, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T08/T08224_135985_10.jpg", 
-          "height": 1105, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1520
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Pastel on paper. Verso: pastel on paper", 
   "movementCount": 0, 
-  "popularity": 71, 
   "subjectCount": 3, 
-  "title": "The Smoke of the Volcano. Verso: Outline of a Wooded Hillside with Rock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke", 
+                "workCount": 295
+              }, 
+              {
+                "id": 7350, 
+                "name": "volcanic eruption", 
+                "workCount": 14
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 6199, 
+                "name": "volcano", 
+                "workCount": 70
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08224_8.jpg", 
+  "title": "The Smoke of the Volcano. Verso: Outline of a Wooded Hillside with Rock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stanfield-the-smoke-of-the-volcano-verso-outline-of-a-wooded-hillside-with-rock-t08224", 
+  "width": "128"
 }

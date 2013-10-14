@@ -1,6 +1,5 @@
 {
   "acno": "D10668", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10647-D10774; D40858", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 160 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXLII 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Walmer Ferry Sketchbook [Finberg CXLII]", 
+  "height": "112", 
   "id": 38043, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Barges on River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10668_8.jpg", 
+  "title": "Barges on River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-barges-on-river-d10668", 
+  "width": "160"
 }

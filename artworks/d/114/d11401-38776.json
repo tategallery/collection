@@ -1,6 +1,5 @@
 {
   "acno": "D11401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11372-D11441; D40835-D40838", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,93 @@
     "text": "c.1816"
   }, 
   "dateText": "c.1816", 
+  "depth": "", 
   "dimensions": "support: 125 x 200 mm", 
-  "displayLocation": null, 
   "finberg": "CXLVI 21", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 3 Sketchbook [Finberg CXLVI]", 
+  "height": "200", 
   "id": 38776, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "popularity": 28, 
   "subjectCount": 6, 
-  "title": "Ruins, with Distant Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }, 
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11401_8.jpg", 
+  "title": "Ruins, with Distant Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-with-distant-mountains-d11401", 
+  "width": "125"
 }

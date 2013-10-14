@@ -1,6 +1,5 @@
 {
   "acno": "T08151", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08149-T08163", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,69 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 118 x 100 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings by George Dance and Others", 
+  "height": "100", 
   "id": 22687, 
   "inscription": null, 
   "medium": "Ink on paper", 
   "movementCount": 0, 
-  "popularity": 65, 
   "subjectCount": 3, 
-  "title": "3. Portrait of James Boswell"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9938, 
+                "name": "Boswell, James", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08151_8.jpg", 
+  "title": "3. Portrait of James Boswell", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lawrence-3-portrait-of-james-boswell-t08151", 
+  "width": "118"
 }

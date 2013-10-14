@@ -1,6 +1,5 @@
 {
   "acno": "D25890", 
-  "addlImageCount": 0, 
   "catTextResId": 1134257, 
   "catalogueGroup": {
     "accessionRanges": "D25762-D25928; D41077-D41078", 
@@ -28,17 +27,102 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVI 65 a", 
   "foreignTitle": null, 
   "groupTitle": "Minstrelsy of the Scottish Border Sketchbook [Finberg CCLXVI]", 
+  "height": "187", 
   "id": 53227, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 132, 
-  "popularity": 58, 
   "subjectCount": 5, 
-  "title": "Hermitage Castle, Lidderdale"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14144, 
+                "name": "Hermitage Castle", 
+                "workCount": 8
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks", 
+            "workCount": 837
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 8123, 
+                "name": "Scottish Borders", 
+                "workCount": 159
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25890_8.jpg", 
+  "title": "Hermitage Castle, Lidderdale", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hermitage-castle-lidderdale-d25890", 
+  "width": "114"
 }

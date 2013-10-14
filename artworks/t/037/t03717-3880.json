@@ -1,6 +1,5 @@
 {
   "acno": "T03717", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "136", 
   "dimensions": "object: 910 x 360 x 136 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "360", 
   "id": 3880, 
   "inscription": null, 
   "medium": "Perspex", 
@@ -41,7 +41,36 @@
       "workCount": 57
     }
   ], 
-  "popularity": 42, 
   "subjectCount": 1, 
-  "title": "Op Structure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03717_8.jpg", 
+  "title": "Op Structure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dillon-op-structure-t03717", 
+  "width": "910"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D31041", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31020-D31137; D41023-D41024", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 162 x 89 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVII 11 a", 
   "foreignTitle": null, 
   "groupTitle": "Copenhagen to Dresden Sketchbook [Finberg CCCVII]", 
+  "height": "89", 
   "id": 58280, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 22, 
-  "popularity": 63, 
   "subjectCount": 5, 
-  "title": "(1) Buildings; (2) Dresden: The Frauenkirche from the Junction of Rampischegasse with Salzgasse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15175, 
+                "name": "Dresden, Frauenkirche", 
+                "workCount": 8
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31041_8.jpg", 
+  "title": "(1) Buildings; (2) Dresden: The Frauenkirche from the Junction of Rampischegasse with Salzgasse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-buildings-2-dresden-the-frauenkirche-from-the-junction-of-rampischegasse-with-salzgasse-d31041", 
+  "width": "162"
 }

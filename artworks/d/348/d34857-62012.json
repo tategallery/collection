@@ -1,6 +1,5 @@
 {
   "acno": "D34857", 
-  "addlImageCount": 0, 
   "catTextResId": 1135612, 
   "catalogueGroup": {
     "accessionRanges": "D12109; D34001; D34002; D34791-D34794; D34796; D34797; D34836; D34842-D34849; D34857; D34858; D40300; D40396", 
@@ -28,16 +27,63 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 165 x 400 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLIV 369", 
   "foreignTitle": null, 
   "groupTitle": "Sheets Associated with the 1831 Tour of Scotland", 
+  "height": "400", 
   "id": 62012, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 3, 
-  "title": "River and Hills, ?Glen Glass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34857_8.jpg", 
+  "title": "River and Hills, ?Glen Glass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-and-hills-glen-glass-d34857", 
+  "width": "165"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T07921", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1934"
   }, 
   "dateText": "1934", 
+  "depth": "15", 
   "dimensions": "support: 271 x 350 x 15 mm\r\nframe: 450 x 525 x 60 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Composition abstraite", 
   "groupTitle": null, 
+  "height": "350", 
   "id": 74195, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,41 @@
       "workCount": 26
     }
   ], 
-  "popularity": 744, 
   "subjectCount": 2, 
-  "title": "Abstract Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07921_8.jpg", 
+  "title": "Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/helion-abstract-composition-t07921", 
+  "width": "271"
 }

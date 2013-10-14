@@ -1,6 +1,5 @@
 {
   "acno": "D18546", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1821"
   }, 
   "dateText": "1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CCXI 14 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "height": "189", 
   "id": 45899, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 30, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Distant Buildings and Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18546_8.jpg", 
+  "title": "Distant Buildings and Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-buildings-and-hills-d18546", 
+  "width": "113"
 }

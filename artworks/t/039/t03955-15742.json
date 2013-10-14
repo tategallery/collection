@@ -1,6 +1,5 @@
 {
   "acno": "T03955", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1935"
   }, 
   "dateText": "1935", 
+  "depth": "", 
   "dimensions": "support: 1299 x 971 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "971", 
   "id": 15742, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -54,7 +51,82 @@
       "workCount": 148
     }
   ], 
-  "popularity": 507, 
   "subjectCount": 6, 
-  "title": "Forms on Grey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }, 
+              {
+                "id": 11717, 
+                "name": "order", 
+                "workCount": 32
+              }, 
+              {
+                "id": 6745, 
+                "name": "rhythm", 
+                "workCount": 39
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03955_8.jpg", 
+  "title": "Forms on Grey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vezelay-forms-on-grey-t03955", 
+  "width": "1299"
 }

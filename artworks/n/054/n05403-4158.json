@@ -1,6 +1,5 @@
 {
   "acno": "N05403", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "c.1913"
   }, 
   "dateText": "c.1913", 
+  "depth": "", 
   "dimensions": "support: 749 x 629 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "629", 
   "id": 4158, 
   "inscription": null, 
   "medium": "Gouache on board", 
   "movementCount": 0, 
-  "popularity": 111, 
   "subjectCount": 2, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3051, 
+                "name": "bag", 
+                "workCount": 53
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05403_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/etchells-still-life-n05403", 
+  "width": "749"
 }

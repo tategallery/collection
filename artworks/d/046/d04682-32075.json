@@ -1,6 +1,5 @@
 {
   "acno": "D04682", 
-  "addlImageCount": 0, 
   "catTextResId": 1133157, 
   "catalogueGroup": {
     "accessionRanges": "D04649-D04735; D40783-D40784", 
@@ -28,17 +27,59 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 156 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVI 26", 
   "foreignTitle": null, 
   "groupTitle": "Lake Thun Sketchbook [Finberg LXXVI]", 
+  "height": "201", 
   "id": 32075, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 14, 
   "subjectCount": 2, 
-  "title": "Sun Rising over Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 2261, 
+                "name": "sunrise", 
+                "workCount": 138
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04682_8.jpg", 
+  "title": "Sun Rising over Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sun-rising-over-mountains-d04682", 
+  "width": "156"
 }

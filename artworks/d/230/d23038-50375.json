@@ -1,6 +1,5 @@
 {
   "acno": "D23038", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23011-D23150; D40496-D40497; D40500", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "support: 168 x 108 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLVII 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Morlaise to Nantes Sketchbook [Finberg CCXLVII]", 
+  "height": "108", 
   "id": 50375, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 5, 
   "subjectCount": 1, 
-  "title": "A Two-Masted Boat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23038_8.jpg", 
+  "title": "A Two-Masted Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-two-masted-boat-d23038", 
+  "width": "168"
 }

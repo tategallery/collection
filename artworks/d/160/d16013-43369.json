@@ -1,6 +1,5 @@
 {
   "acno": "D16013", 
-  "addlImageCount": 0, 
   "catTextResId": 1137937, 
   "catalogueGroup": {
     "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
@@ -28,17 +27,52 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 113 x 189 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVI 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Naples, Paestum and Rome Sketchbook [Finberg CLXXXVI]", 
+  "height": "189", 
   "id": 43369, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 108, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Vesuvius and Castel Sant'Elmo by Moonlight"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16013_8_R.jpg", 
+  "title": "Vesuvius and Castel Sant'Elmo by Moonlight", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vesuvius-and-castel-santelmo-by-moonlight-d16013", 
+  "width": "113"
 }

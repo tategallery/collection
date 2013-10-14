@@ -1,6 +1,5 @@
 {
   "acno": "D27331", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27281-D27365; D41144-D41145", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 206 x 86 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX 35", 
   "foreignTitle": null, 
   "groupTitle": "Gravesend and Margate Sketchbook [Finberg CCLXXIX]", 
+  "height": "86", 
   "id": 54666, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Houses on Beach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1567, 
+                "name": "seafront", 
+                "workCount": 327
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27331_8.jpg", 
+  "title": "Houses on Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-houses-on-beach-d27331", 
+  "width": "206"
 }

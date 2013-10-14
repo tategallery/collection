@@ -1,6 +1,5 @@
 {
   "acno": "D05667", 
-  "addlImageCount": 0, 
   "catTextResId": 1130978, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
@@ -28,17 +27,59 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 201 x 128 mm", 
-  "displayLocation": null, 
   "finberg": "XCI 50", 
   "foreignTitle": null, 
   "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "height": "128", 
   "id": 33059, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 101, 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "Battle Abbey; Part of the Gatehouse from Inside the Abbey Walls"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05667_8.jpg", 
+  "title": "Battle Abbey; Part of the Gatehouse from Inside the Abbey Walls", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-battle-abbey-part-of-the-gatehouse-from-inside-the-abbey-walls-d05667", 
+  "width": "201"
 }

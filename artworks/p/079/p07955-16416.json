@@ -1,6 +1,5 @@
 {
   "acno": "P07955", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07948-P07980", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "c.1937-50"
   }, 
   "dateText": "c.1937-50", 
+  "depth": "", 
   "dimensions": "image: 203 x 120 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Complete set of Wols etchings", 
+  "height": "120", 
   "id": 16416, 
   "inscription": null, 
   "medium": "Etching and drypoint on paper", 
   "movementCount": 0, 
-  "popularity": 68, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07955_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wols-no-title-p07955", 
+  "width": "203"
 }

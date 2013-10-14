@@ -1,6 +1,5 @@
 {
   "acno": "D05939", 
-  "addlImageCount": 0, 
   "catTextResId": 1129971, 
   "catalogueGroup": {
     "accessionRanges": "D05905-D05946; D05949-D05953; D40344-D40345; D40382", 
@@ -28,16 +27,46 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 259 x 368 mm", 
-  "displayLocation": null, 
   "finberg": "XCV 35", 
   "foreignTitle": null, 
   "groupTitle": "Thames, from Reading to Walton Sketchbook [Finberg XCV]", 
+  "height": "368", 
   "id": 33330, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 1, 
-  "title": "Group of Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05939_8.jpg", 
+  "title": "Group of Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-trees-d05939", 
+  "width": "259"
 }

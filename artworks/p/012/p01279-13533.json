@@ -1,6 +1,5 @@
 {
   "acno": "P01279", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01275-P01281", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 585 x 587 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Proscenium Suite", 
+  "height": "587", 
   "id": 13533, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 14, 
   "subjectCount": 1, 
-  "title": "V"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01279_8.jpg", 
+  "title": "V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-v-p01279", 
+  "width": "585"
 }

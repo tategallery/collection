@@ -1,6 +1,5 @@
 {
   "acno": "D05719", 
-  "addlImageCount": 0, 
   "catTextResId": 1131032, 
   "catalogueGroup": {
     "accessionRanges": "D05717-D05765; D40631; D40633; D40660", 
@@ -28,17 +27,71 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 216 x 153 mm", 
-  "displayLocation": null, 
   "finberg": "XCII 2", 
   "foreignTitle": null, 
   "groupTitle": "Sussex Sketchbook [Finberg XCII]", 
+  "height": "153", 
   "id": 33111, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 36, 
   "subjectCount": 3, 
-  "title": "Winchelsea Beach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05719_8_R.jpg", 
+  "title": "Winchelsea Beach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-winchelsea-beach-d05719", 
+  "width": "216"
 }

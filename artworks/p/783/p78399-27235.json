@@ -1,6 +1,5 @@
 {
   "acno": "P78399", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78388-P78407", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "unconfirmed: 260 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cubitt Print Box", 
+  "height": "210", 
   "id": 27235, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,36 @@
       "workCount": 232
     }
   ], 
-  "popularity": 95, 
   "subjectCount": 1, 
-  "title": "Playframe"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14994, 
+                "name": "climbing frame", 
+                "workCount": 1
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models", 
+            "workCount": 246
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78399_8.jpg", 
+  "title": "Playframe", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/noble-playframe-p78399", 
+  "width": "260"
 }

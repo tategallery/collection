@@ -1,6 +1,5 @@
 {
   "acno": "D33209", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33132-D33235; D41137", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 138 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXIX 39 a", 
   "foreignTitle": null, 
   "groupTitle": "Between Lucerne and Thun Sketchbook [Finberg CCCXXIX]", 
+  "height": "82", 
   "id": 60388, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 57, 
   "subjectCount": 5, 
-  "title": "Mountains: Valley of the Aare"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13816, 
+                "name": "Aare valley", 
+                "workCount": 9
+              }, 
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33209_8.jpg", 
+  "title": "Mountains: Valley of the Aare", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-valley-of-the-aare-d33209", 
+  "width": "138"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01401-P01404", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 166 x 200 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Portfolio of Etchings", 
+  "height": "200", 
   "id": 4347, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 1, 
-  "title": "Grate"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8514, 
+                "name": "grate", 
+                "workCount": 2
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01401_8.jpg", 
+  "title": "Grate", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flanagan-grate-p01401", 
+  "width": "166"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01440", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01440-P01443", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 694 x 689 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Four Seasons (trial proofs)", 
+  "height": "689", 
   "id": 8639, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Summer (trial proof)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01440_8.jpg", 
+  "title": "Summer (trial proof)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-summer-trial-proof-p01440", 
+  "width": "694"
 }

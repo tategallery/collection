@@ -1,6 +1,5 @@
 {
   "acno": "P04756", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04756-P04768", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "", 
   "dimensions": "image: 830 x 511 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "As Is When", 
+  "height": "511", 
   "id": 11190, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,84 @@
       "workCount": 846
     }
   ], 
-  "popularity": 214, 
   "subjectCount": 5, 
-  "title": "Poster"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10077, 
+                "name": "philosophy, Wittgenstein", 
+                "workCount": 13
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04756_8.jpg", 
+  "title": "Poster", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-poster-p04756", 
+  "width": "830"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T07955", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1922"
   }, 
   "dateText": "1922", 
+  "depth": "", 
   "dimensions": "unconfirmed: 685 x 756 mm\r\nframe: 740 x 813 x 55 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "756", 
   "id": 68531, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,72 @@
       "workCount": 409
     }
   ], 
-  "popularity": 366, 
   "subjectCount": 4, 
-  "title": "1922 (bread)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }, 
+              {
+                "id": 6720, 
+                "name": "saucepan", 
+                "workCount": 24
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread", 
+                "workCount": 33
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07955_8.jpg", 
+  "title": "1922 (bread)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-1922-bread-t07955", 
+  "width": "685"
 }

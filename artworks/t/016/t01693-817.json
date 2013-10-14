@@ -1,6 +1,5 @@
 {
   "acno": "T01693", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "support: 1219 x 1524 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1524", 
   "id": 817, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,48 @@
       "workCount": 102
     }
   ], 
-  "popularity": 55, 
   "subjectCount": 2, 
-  "title": "Mammoth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01693_8.jpg", 
+  "title": "Mammoth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/baziotes-mammoth-t01693", 
+  "width": "1219"
 }

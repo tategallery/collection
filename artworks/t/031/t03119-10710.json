@@ -1,6 +1,5 @@
 {
   "acno": "T03119", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1939-44"
   }, 
   "dateText": "1939-44", 
+  "depth": "6", 
   "dimensions": "object: 165 x 254 x 6 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 10710, 
   "inscription": null, 
   "medium": "Oil paint on hardboard on plywood", 
@@ -51,7 +51,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 442, 
   "subjectCount": 2, 
-  "title": "1939-44 (painted relief)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03119_8.jpg", 
+  "title": "1939-44 (painted relief)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-1939-44-painted-relief-t03119", 
+  "width": "165"
 }

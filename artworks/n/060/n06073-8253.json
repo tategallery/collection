@@ -1,6 +1,5 @@
 {
   "acno": "N06073", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,64 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "support: 1045 x 876 mm\r\nframe: 1116 x 949 x 50 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "876", 
   "id": 8253, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 492, 
   "subjectCount": 2, 
-  "title": "Ibaye"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4445, 
+                "name": "voodoo", 
+                "workCount": 3
+              }
+            ], 
+            "id": 138, 
+            "name": "magic and occultism", 
+            "workCount": 194
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06073_8.jpg", 
+  "title": "Ibaye", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lam-ibaye-n06073", 
+  "width": "1045"
 }

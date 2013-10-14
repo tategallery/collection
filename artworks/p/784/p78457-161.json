@@ -1,6 +1,5 @@
 {
   "acno": "P78457", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78455-P78474", 
     "completeStatus": "COMPLETE", 
@@ -36,10 +35,11 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "image: 228 x 78 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Exquisite Corpse", 
+  "height": "78", 
   "id": 161, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -66,7 +66,115 @@
       "workCount": 232
     }
   ], 
-  "popularity": 1825, 
   "subjectCount": 7, 
-  "title": "Exquisite Corpse"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance", 
+                "workCount": 103
+              }, 
+              {
+                "id": 6919, 
+                "name": "fragmentation", 
+                "workCount": 166
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13796, 
+                "name": "cobweb", 
+                "workCount": 4
+              }
+            ], 
+            "id": 64, 
+            "name": "animals: features", 
+            "workCount": 505
+          }, 
+          {
+            "children": [
+              {
+                "id": 1708, 
+                "name": "monster", 
+                "workCount": 75
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }, 
+          {
+            "children": [
+              {
+                "id": 3589, 
+                "name": "spider", 
+                "workCount": 10
+              }
+            ], 
+            "id": 66, 
+            "name": "animals: insects & lower animals", 
+            "workCount": 173
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2448, 
+                "name": "skull", 
+                "workCount": 71
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 14748, 
+                "name": "urinating", 
+                "workCount": 6
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78457_8.jpg", 
+  "title": "Exquisite Corpse", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78457", 
+  "width": "228"
 }

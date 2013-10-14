@@ -1,6 +1,5 @@
 {
   "acno": "D35413", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35402-D35417; D35419-D35421; D35423-D35425; D35427; D35429-D35431; D35433; D35435", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1845"
   }, 
   "dateText": "1845", 
+  "depth": "", 
   "dimensions": "support: 230 x 326 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLVIII 11", 
   "foreignTitle": null, 
   "groupTitle": "Boulogne Sketchbook [Finberg CCCLVIII]", 
+  "height": "326", 
   "id": 62540, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 21, 
-  "popularity": 16, 
   "subjectCount": 3, 
-  "title": "A Fort on the Coast. ?Fort Abletry [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35413_8.jpg", 
+  "title": "A Fort on the Coast. ?Fort Abletry [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fort-on-the-coast-fort-abletry-turner-d35413", 
+  "width": "230"
 }

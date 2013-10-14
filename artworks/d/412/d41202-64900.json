@@ -1,6 +1,5 @@
 {
   "acno": "D41202", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 113 x 190 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "190", 
   "id": 64900, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 186, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Mont Blanc from Fort Roch in the Val d'Aosta"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41202_8.jpg", 
+  "title": "Mont Blanc from Fort Roch in the Val d'Aosta", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mont-blanc-from-fort-roch-in-the-val-daosta-d41202", 
+  "width": "113"
 }

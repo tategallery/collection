@@ -1,6 +1,5 @@
 {
   "acno": "P77130", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "image: 140 x 115 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "115", 
   "id": 16075, 
   "inscription": "date inscribed", 
   "medium": "Engraving on paper", 
@@ -41,7 +41,46 @@
       "workCount": 409
     }
   ], 
-  "popularity": 43, 
   "subjectCount": 3, 
-  "title": "Topsail"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77130_8.jpg", 
+  "title": "Topsail", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wells-topsail-p77130", 
+  "width": "140"
 }

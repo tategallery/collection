@@ -1,6 +1,5 @@
 {
   "acno": "D25812", 
-  "addlImageCount": 0, 
   "catTextResId": 1134179, 
   "catalogueGroup": {
     "accessionRanges": "D25762-D25928; D41077-D41078", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVI 26 a", 
   "foreignTitle": null, 
   "groupTitle": "Minstrelsy of the Scottish Border Sketchbook [Finberg CCLXVI]", 
+  "height": "187", 
   "id": 53149, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 54, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Mayburgh Henge, Eamont Bridge, Penrith"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25812_8.jpg", 
+  "title": "Mayburgh Henge, Eamont Bridge, Penrith", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mayburgh-henge-eamont-bridge-penrith-d25812", 
+  "width": "114"
 }

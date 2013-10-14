@@ -1,6 +1,5 @@
 {
   "acno": "A01010", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1812"
   }, 
   "dateText": "1812", 
+  "depth": "", 
   "dimensions": "image: 178 x 253 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "253", 
   "id": 14710, 
   "inscription": null, 
   "medium": "Etching and engraving on paper", 
@@ -47,7 +47,82 @@
       "workCount": 39
     }
   ], 
-  "popularity": 219, 
   "subjectCount": 6, 
-  "title": "Mer de Glace"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 7684, 
+                "name": "Mer de Glace", 
+                "workCount": 9
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01010_8.jpg", 
+  "title": "Mer de Glace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mer-de-glace-a01010", 
+  "width": "178"
 }

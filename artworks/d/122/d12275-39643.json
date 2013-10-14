@@ -1,6 +1,5 @@
 {
   "acno": "D12275", 
-  "addlImageCount": 0, 
   "catTextResId": 1139475, 
   "catalogueGroup": {
     "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
@@ -28,17 +27,102 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 232 x 328 mm", 
-  "displayLocation": null, 
   "finberg": "CLVI 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Raby Sketchbook [Finberg CLVI]", 
+  "height": "328", 
   "id": 39643, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "popularity": 60, 
   "subjectCount": 5, 
-  "title": "Hylton Castle and Chapel"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 10602, 
+                "name": "Sunderland", 
+                "workCount": 6
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 10603, 
+                "name": "Sunderland, Hylton Castle", 
+                "workCount": 4
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12275_8.jpg", 
+  "title": "Hylton Castle and Chapel", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hylton-castle-and-chapel-d12275", 
+  "width": "232"
 }

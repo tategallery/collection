@@ -1,6 +1,5 @@
 {
   "acno": "T00432", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1922"
   }, 
   "dateText": "1922", 
+  "depth": "", 
   "dimensions": "support: 1153 x 1359 mm\r\nframe: 1308 x 1512 x 80 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1359", 
   "id": 9599, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,60 @@
       "workCount": 148
     }
   ], 
-  "popularity": 1177, 
   "subjectCount": 3, 
-  "title": "K VII"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00432_8.jpg", 
+  "title": "K VII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moholy-nagy-k-vii-t00432", 
+  "width": "1153"
 }

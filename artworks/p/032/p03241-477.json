@@ -1,6 +1,5 @@
 {
   "acno": "P03241", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03241-P03255", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1975-6"
   }, 
   "dateText": "1975-6", 
+  "depth": "", 
   "dimensions": "image: 691 x 510 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "For Jorn", 
+  "height": "510", 
   "id": 477, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 90, 
   "subjectCount": 5, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }, 
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3370, 
+                "name": "printmaking", 
+                "workCount": 9
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft", 
+            "workCount": 565
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03241_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/alechinsky-no-title-p03241", 
+  "width": "691"
 }

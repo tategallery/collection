@@ -1,6 +1,5 @@
 {
   "acno": "AR00255", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "image: 695 x 428 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "428", 
   "id": 97420, 
   "inscription": null, 
   "medium": "Ink and dye on paper", 
@@ -41,7 +41,36 @@
       "workCount": 248
     }
   ], 
-  "popularity": 178, 
   "subjectCount": 1, 
-  "title": "Ice Cream Dessert"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9466, 
+                "name": "ice cream", 
+                "workCount": 6
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00255_8.jpg", 
+  "title": "Ice Cream Dessert", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-ice-cream-dessert-ar00255", 
+  "width": "695"
 }

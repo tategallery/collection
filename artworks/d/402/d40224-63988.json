@@ -1,6 +1,5 @@
 {
   "acno": "D40224", 
-  "addlImageCount": 0, 
   "catTextResId": 1140309, 
   "catalogueGroup": {
     "accessionRanges": "D00124; D00125; D40224", 
@@ -28,16 +27,77 @@
     "text": "?1791"
   }, 
   "dateText": "?1791", 
+  "depth": "", 
   "dimensions": "support: 476 x 292 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Anatomical Studies", 
+  "height": "292", 
   "id": 63988, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 3, 
-  "title": "A Woman, Child and Wheelbarrow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6523, 
+                "name": "wheelbarrow", 
+                "workCount": 105
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40224_8.jpg", 
+  "title": "A Woman, Child and Wheelbarrow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-woman-child-and-wheelbarrow-d40224", 
+  "width": "476"
 }

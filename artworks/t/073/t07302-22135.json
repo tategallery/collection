@@ -1,6 +1,5 @@
 {
   "acno": "T07302", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1982"
   }, 
   "dateText": "1982", 
+  "depth": "30", 
   "dimensions": "support: 1620 x 1302 x 30 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1302", 
   "id": 22135, 
   "inscription": null, 
   "medium": "Oil paint and glue on canvas", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "From Winds"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind", 
+                "workCount": 122
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07302_8.jpg", 
+  "title": "From Winds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lee-from-winds-t07302", 
+  "width": "1620"
 }

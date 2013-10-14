@@ -1,6 +1,5 @@
 {
   "acno": "N06029", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1942"
   }, 
   "dateText": "1942", 
+  "depth": "", 
   "dimensions": "support: 1016 x 711 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "711", 
   "id": 15778, 
   "inscription": "date inscribed", 
   "medium": "Tempera on fabric", 
@@ -41,7 +41,118 @@
       "workCount": 75
     }
   ], 
-  "popularity": 367, 
   "subjectCount": 9, 
-  "title": "Signals"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5442, 
+                "name": "buoy", 
+                "workCount": 60
+              }, 
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }, 
+              {
+                "id": 2127, 
+                "name": "rope", 
+                "workCount": 40
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 4616, 
+                "name": "scientific instrument", 
+                "workCount": 18
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }, 
+              {
+                "id": 5779, 
+                "name": "rigging", 
+                "workCount": 37
+              }, 
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06029_8.jpg", 
+  "title": "Signals", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wadsworth-signals-n06029", 
+  "width": "1016"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D35855", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,68 @@
     "text": "c.1845"
   }, 
   "dateText": "c.1845", 
+  "depth": "", 
   "dimensions": "support: 219 x 290 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 18", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "290", 
   "id": 62943, 
   "inscription": null, 
   "medium": "Watercolour and crayon on paper", 
   "movementCount": 0, 
-  "popularity": 78, 
   "subjectCount": 4, 
-  "title": "Storm at Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35855_8.jpg", 
+  "title": "Storm at Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-at-sea-d35855", 
+  "width": "219"
 }

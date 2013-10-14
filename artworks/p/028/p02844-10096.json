@@ -1,6 +1,5 @@
 {
   "acno": "P02844", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1981, published 1983"
   }, 
   "dateText": "1981, published 1983", 
+  "depth": "", 
   "dimensions": "image: 225 x 251 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "251", 
   "id": 10096, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Two Heads"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02844_8.jpg", 
+  "title": "Two Heads", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-two-heads-p02844", 
+  "width": "225"
 }

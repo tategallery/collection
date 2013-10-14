@@ -1,6 +1,5 @@
 {
   "acno": "D21858", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21852-D21972; D41238-D41239", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 71 x 88 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVII 4", 
   "foreignTitle": null, 
   "groupTitle": "Roman and French Notebook [Finberg CCXXXVII]", 
+  "height": "88", 
   "id": 49199, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Boats on Shore, with Houses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1567, 
+                "name": "seafront", 
+                "workCount": 327
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21858_8.jpg", 
+  "title": "Boats on Shore, with Houses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boats-on-shore-with-houses-d21858", 
+  "width": "71"
 }

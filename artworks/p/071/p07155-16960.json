@@ -1,6 +1,5 @@
 {
   "acno": "P07155", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07152-P07173", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 410 x 359 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Some Poems of Jules Laforgue", 
+  "height": "359", 
   "id": 16960, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,86 @@
       "workCount": 846
     }
   ], 
-  "popularity": 159, 
   "subjectCount": 4, 
-  "title": "4. 'Her handkerchief swept me along the Rhine'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13209, 
+                "name": "Laforgue, Jules", 
+                "workCount": 22
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 13233, 
+                "name": "napkin", 
+                "workCount": 2
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07155_8.jpg", 
+  "title": "4. 'Her handkerchief swept me along the Rhine'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-4-her-handkerchief-swept-me-along-the-rhine-p07155", 
+  "width": "410"
 }

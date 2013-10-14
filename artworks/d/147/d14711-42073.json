@@ -1,6 +1,5 @@
 {
   "acno": "D14711", 
-  "addlImageCount": 0, 
   "catTextResId": 1138874, 
   "catalogueGroup": {
     "accessionRanges": "D14653-D14832; D40928-D40931", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 110 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVII 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Ancona to Rome Sketchbook [Finberg CLXXVII]", 
+  "height": "186", 
   "id": 42073, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 62, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Buildings in the Apennine Mountains; ?Pale, near Foligno"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14711_8.jpg", 
+  "title": "Buildings in the Apennine Mountains; ?Pale, near Foligno", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-in-the-apennine-mountains-pale-near-foligno-d14711", 
+  "width": "110"
 }

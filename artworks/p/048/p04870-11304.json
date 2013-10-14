@@ -1,6 +1,5 @@
 {
   "acno": "P04870", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01955-P01957; P04869-P04879", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 909 x 615 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Universal Electronic Vacuum", 
+  "height": "615", 
   "id": 11304, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 134, 
   "subjectCount": 3, 
-  "title": "Computer-Epoch"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7942, 
+                "name": "science", 
+                "workCount": 62
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04870_8.jpg", 
+  "title": "Computer-Epoch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-computer-epoch-p04870", 
+  "width": "909"
 }

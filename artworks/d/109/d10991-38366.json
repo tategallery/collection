@@ -1,6 +1,5 @@
 {
   "acno": "D10991", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1815-16"
   }, 
   "dateText": "c.1815-16", 
+  "depth": "", 
   "dimensions": "support: 154 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CXLIV 68", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
+  "height": "97", 
   "id": 38366, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 139, 
-  "popularity": 8, 
   "subjectCount": 1, 
-  "title": "A Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10991_8.jpg", 
+  "title": "A Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-castle-d10991", 
+  "width": "154"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N01350", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "c.1862"
   }, 
   "dateText": "c.1862", 
+  "depth": "", 
   "dimensions": "support: 914 x 1378 mm\r\nframe: 1175 x 1634 x 90 mm, 39 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1378", 
   "id": 8354, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 431, 
   "subjectCount": 1, 
-  "title": "Study of a Lion"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3119, 
+                "name": "lion", 
+                "workCount": 77
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01350_8.jpg", 
+  "title": "Study of a Lion", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-study-of-a-lion-n01350", 
+  "width": "914"
 }

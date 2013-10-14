@@ -1,6 +1,5 @@
 {
   "acno": "A00922", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,153 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "image: 183 x 258 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "258", 
   "id": 14622, 
   "inscription": null, 
   "medium": "Etching and mezzotint on paper", 
   "movementCount": 0, 
-  "popularity": 96, 
   "subjectCount": 10, 
-  "title": "Jason, engraved by Charles Turner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7005, 
+                "name": "Apollonius Rhodius, 'Argonautics'", 
+                "workCount": 4
+              }, 
+              {
+                "id": 4935, 
+                "name": "Ovid, 'Metamorphoses'", 
+                "workCount": 46
+              }
+            ], 
+            "id": 56, 
+            "name": "classical", 
+            "workCount": 184
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7006, 
+                "name": "Jason", 
+                "workCount": 7
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes", 
+            "workCount": 526
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave", 
+                "workCount": 118
+              }, 
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1403, 
+                "name": "serpent", 
+                "workCount": 24
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12778, 
+                "name": "climbing", 
+                "workCount": 45
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 1628, 
+                "name": "skeleton", 
+                "workCount": 70
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00922_8.jpg", 
+  "title": "Jason, engraved by Charles Turner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-jason-engraved-by-charles-turner-a00922", 
+  "width": "183"
 }

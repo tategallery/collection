@@ -1,6 +1,5 @@
 {
   "acno": "T01239", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "578", 
   "dimensions": "object: 117 x 1073 x 578 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1073", 
   "id": 10915, 
   "inscription": "date inscribed", 
   "medium": "Painted plaster", 
@@ -41,7 +41,63 @@
       "workCount": 248
     }
   ], 
-  "popularity": 407, 
   "subjectCount": 5, 
-  "title": "Counter and Plates with Potato and Ham"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1183, 
+                "name": "bread", 
+                "workCount": 33
+              }, 
+              {
+                "id": 5193, 
+                "name": "meat", 
+                "workCount": 31
+              }, 
+              {
+                "id": 5887, 
+                "name": "sandwich", 
+                "workCount": 2
+              }, 
+              {
+                "id": 4569, 
+                "name": "vegetable, potato", 
+                "workCount": 5
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 5927, 
+                "name": "counter", 
+                "workCount": 4
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01239_8.jpg", 
+  "title": "Counter and Plates with Potato and Ham", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/oldenburg-counter-and-plates-with-potato-and-ham-t01239", 
+  "width": "117"
 }

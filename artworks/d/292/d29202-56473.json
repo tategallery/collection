@@ -1,6 +1,5 @@
 {
   "acno": "D29202", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1833 and 1836"
   }, 
   "dateText": "1833 and 1836", 
+  "depth": "", 
   "dimensions": "support: 190 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIII 87", 
   "foreignTitle": null, 
   "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "height": "113", 
   "id": 56473, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 175, 
-  "popularity": 11, 
   "subjectCount": 4, 
-  "title": "Two Sketches: Stratford-upon-Avon; Castle in the ?Arve Valley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29202_8_R.jpg", 
+  "title": "Two Sketches: Stratford-upon-Avon; Castle in the ?Arve Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-stratford-upon-avon-castle-in-the-arve-valley-d29202", 
+  "width": "190"
 }

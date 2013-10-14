@@ -1,6 +1,5 @@
 {
   "acno": "P08159", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P08152-P08163", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1899"
   }, 
   "dateText": "1899", 
+  "depth": "", 
   "dimensions": "image: 280 x 220 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Twelve Portraits (First Series)", 
+  "height": "220", 
   "id": 10732, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 260, 
   "subjectCount": 5, 
-  "title": "Rudyard Kipling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10098, 
+                "name": "Kipling, Rudyard", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1196, 
+                "name": "author", 
+                "workCount": 95
+              }, 
+              {
+                "id": 1181, 
+                "name": "poet", 
+                "workCount": 136
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 203, 
+                "name": "spectacles", 
+                "workCount": 126
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08159_8.jpg", 
+  "title": "Rudyard Kipling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-rudyard-kipling-p08159", 
+  "width": "280"
 }

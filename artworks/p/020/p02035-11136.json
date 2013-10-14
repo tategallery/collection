@@ -1,6 +1,5 @@
 {
   "acno": "P02035", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02020-P02065", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "support: 347 x 259 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Bunk", 
+  "height": "259", 
   "id": 11136, 
   "inscription": null, 
   "medium": "Screenprint and lithograph on paper", 
@@ -57,7 +57,105 @@
       "workCount": 178
     }
   ], 
-  "popularity": 58, 
   "subjectCount": 5, 
-  "title": "16. Fantastic Weapons Contrived"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9469, 
+                "name": "bomb", 
+                "workCount": 9
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 3542, 
+                "name": "power", 
+                "workCount": 25
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7942, 
+                "name": "science", 
+                "workCount": 62
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02035_8.jpg", 
+  "title": "16. Fantastic Weapons Contrived", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-16-fantastic-weapons-contrived-p02035", 
+  "width": "347"
 }

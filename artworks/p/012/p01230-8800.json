@@ -1,6 +1,5 @@
 {
   "acno": "P01230", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01227-P01232", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 80 x 181 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Miscellaneous Etchings", 
+  "height": "181", 
   "id": 8800, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01230_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lim-no-title-p01230", 
+  "width": "80"
 }

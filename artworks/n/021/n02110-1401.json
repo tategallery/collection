@@ -1,6 +1,5 @@
 {
   "acno": "N02110", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "c.1887"
   }, 
   "dateText": "c.1887", 
+  "depth": "", 
   "dimensions": "support: 343 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "241", 
   "id": 1401, 
   "inscription": null, 
   "medium": "Gouache on paper", 
   "movementCount": 0, 
-  "popularity": 102, 
   "subjectCount": 2, 
-  "title": "Roses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1283, 
+                "name": "rose", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02110_8.jpg", 
+  "title": "Roses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brabazon-roses-n02110", 
+  "width": "343"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T02154", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1922"
   }, 
   "dateText": "1922", 
+  "depth": "", 
   "dimensions": "support: 432 x 314 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "314", 
   "id": 4823, 
   "inscription": "date inscribed", 
   "medium": "Ink on paper", 
@@ -41,7 +41,36 @@
       "workCount": 26
     }
   ], 
-  "popularity": 226, 
   "subjectCount": 1, 
-  "title": "Sketch for a Kinetic Construction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02154_8.jpg", 
+  "title": "Sketch for a Kinetic Construction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-sketch-for-a-kinetic-construction-t02154", 
+  "width": "432"
 }

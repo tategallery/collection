@@ -1,6 +1,5 @@
 {
   "acno": "P09187", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P09182-P09195", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,74 @@
     "text": "1976-7"
   }, 
   "dateText": "1976-7", 
+  "depth": "", 
   "dimensions": "unconfirmed: 502 x 698 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Screens I-XIV", 
+  "height": "698", 
   "id": 67936, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 14, 
   "subjectCount": 4, 
-  "title": "VI"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8494, 
+                "name": "word", 
+                "workCount": 160
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P09/P09187_8.jpg", 
+  "title": "VI", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyson-vi-p09187", 
+  "width": "502"
 }

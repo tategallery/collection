@@ -1,6 +1,5 @@
 {
   "acno": "P04518", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04514-P04527", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "unconfirmed: 615 x 422 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Day Book by Robert Creeley", 
+  "height": "422", 
   "id": 8077, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -57,7 +57,67 @@
       "workCount": 377
     }
   ], 
-  "popularity": 36, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2016, 
+                "name": "phrase", 
+                "workCount": 77
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04518_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-no-title-p04518", 
+  "width": "615"
 }

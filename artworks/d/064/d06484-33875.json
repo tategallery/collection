@@ -1,6 +1,5 @@
 {
   "acno": "D06484", 
-  "addlImageCount": 0, 
   "catTextResId": 1130680, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
@@ -28,17 +27,90 @@
     "text": "c.1805-9"
   }, 
   "dateText": "c.1805-9", 
+  "depth": "", 
   "dimensions": "support: 115 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "XCIX 71 a", 
   "foreignTitle": null, 
   "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "height": "190", 
   "id": 33875, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 152, 
-  "popularity": 164, 
   "subjectCount": 4, 
-  "title": "Cobham Hall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5347, 
+                "name": "Cobham", 
+                "workCount": 5
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 810, 
+                "name": "Kent", 
+                "workCount": 751
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06484_8.jpg", 
+  "title": "Cobham Hall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cobham-hall-d06484", 
+  "width": "115"
 }

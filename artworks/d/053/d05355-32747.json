@@ -1,6 +1,5 @@
 {
   "acno": "D05355", 
-  "addlImageCount": 0, 
   "catTextResId": 1133585, 
   "catalogueGroup": {
     "accessionRanges": "D05351-D05375; D40273; D40342-D40343", 
@@ -28,17 +27,78 @@
     "text": "c.1807-10"
   }, 
   "dateText": "c.1807-10", 
+  "depth": "", 
   "dimensions": "support: 258 x 370 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVI 4 a", 
   "foreignTitle": null, 
   "groupTitle": "Harvest Home Sketchbook [Finberg LXXXVI]", 
+  "height": "370", 
   "id": 32747, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 78, 
   "subjectCount": 3, 
-  "title": "Studies of a Black Servant and Other Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1325, 
+                "name": "black", 
+                "workCount": 197
+              }
+            ], 
+            "id": 179, 
+            "name": "ethnicity", 
+            "workCount": 475
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 548, 
+                "name": "servant", 
+                "workCount": 46
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic", 
+            "workCount": 438
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05355_8.jpg", 
+  "title": "Studies of a Black Servant and Other Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-a-black-servant-and-other-figures-d05355", 
+  "width": "258"
 }

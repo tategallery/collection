@@ -1,6 +1,5 @@
 {
   "acno": "D30383", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30377-D30395; D30397-D30400; D30403-D30458; D41213-D41215; D41510", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 155 x 100 mm", 
-  "displayLocation": null, 
   "finberg": "CCCII 5 a", 
   "foreignTitle": null, 
   "groupTitle": "On the Neckar Sketchbook [Finberg CCCII]", 
+  "height": "100", 
   "id": 57639, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 14, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Hills and Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30383_8.jpg", 
+  "title": "Hills and Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hills-and-tower-d30383", 
+  "width": "155"
 }

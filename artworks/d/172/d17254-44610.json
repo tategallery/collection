@@ -1,6 +1,5 @@
 {
   "acno": "D17254", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17207-D17364; D40685-D40686", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1821"
   }, 
   "dateText": "c.1821", 
+  "depth": "", 
   "dimensions": "support: 113 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CXCVIII 28 a", 
   "foreignTitle": null, 
   "groupTitle": "Folkestone Sketchbook [Finberg CXCVIII]", 
+  "height": "187", 
   "id": 44610, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 58, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Church and Other Buildings on Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17254_8.jpg", 
+  "title": "Church and Other Buildings on Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-and-other-buildings-on-coast-d17254", 
+  "width": "113"
 }

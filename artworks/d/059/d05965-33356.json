@@ -1,6 +1,5 @@
 {
   "acno": "D05965", 
-  "addlImageCount": 0, 
   "catTextResId": 1130140, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
@@ -28,17 +27,47 @@
     "text": "c.1807"
   }, 
   "dateText": "c.1807", 
+  "depth": "", 
   "dimensions": "support: 92 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "XCVI 5", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "height": "163", 
   "id": 33356, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 19, 
   "subjectCount": 1, 
-  "title": "Two Barges Sailing"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05965_8.jpg", 
+  "title": "Two Barges Sailing", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-barges-sailing-d05965", 
+  "width": "92"
 }

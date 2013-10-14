@@ -1,6 +1,5 @@
 {
   "acno": "T01043", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1925"
   }, 
   "dateText": "1925", 
+  "depth": "", 
   "dimensions": "support: 787 x 1003 mm\r\nframe: 1008 x 1219 x 90 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1003", 
   "id": 5128, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,145 @@
       "workCount": 67
     }
   ], 
-  "popularity": 312, 
   "subjectCount": 13, 
-  "title": "The Basket of Fruit"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 263, 
+                "name": "basket", 
+                "workCount": 494
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }, 
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific", 
+                "workCount": 334
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain", 
+                "workCount": 201
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth", 
+                "workCount": 44
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 3094, 
+                "name": "figurine", 
+                "workCount": 23
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 1037, 
+                "name": "fruit, apple", 
+                "workCount": 58
+              }, 
+              {
+                "id": 2192, 
+                "name": "fruit, banana", 
+                "workCount": 13
+              }, 
+              {
+                "id": 3373, 
+                "name": "fruit, cherry", 
+                "workCount": 7
+              }, 
+              {
+                "id": 4694, 
+                "name": "fruit, lemon", 
+                "workCount": 16
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4695, 
+                "name": "finch", 
+                "workCount": 1
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01043_8.jpg", 
+  "title": "The Basket of Fruit", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gertler-the-basket-of-fruit-t01043", 
+  "width": "787"
 }

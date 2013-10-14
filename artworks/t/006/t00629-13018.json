@@ -1,6 +1,5 @@
 {
   "acno": "T00629", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "165", 
   "dimensions": "object: 495 x 495 x 165 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "495", 
   "id": 13018, 
   "inscription": "date inscribed", 
   "medium": "Painted wood", 
@@ -41,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Painted Unit Relief"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00629_8.jpg", 
+  "title": "Painted Unit Relief", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rugg-painted-unit-relief-t00629", 
+  "width": "495"
 }

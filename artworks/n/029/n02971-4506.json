@@ -1,6 +1,5 @@
 {
   "acno": "N02971", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "exhibited 1895"
   }, 
   "dateText": "exhibited 1895", 
+  "depth": "", 
   "dimensions": "object: 622 x 305 x 229 mm, 28 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 4506, 
   "inscription": null, 
   "medium": "Bronze on marble base", 
@@ -41,7 +41,84 @@
       "workCount": 26
     }
   ], 
-  "popularity": 146, 
   "subjectCount": 5, 
-  "title": "Sir W.Q. Orchardson, R.A."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4888, 
+                "name": "Orchardson, William Quiller, Sir, RA", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }, 
+              {
+                "id": 2465, 
+                "name": "moustache", 
+                "workCount": 33
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02971_8.jpg", 
+  "title": "Sir W.Q. Orchardson, R.A.", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/ford-sir-wq-orchardson-ra-n02971", 
+  "width": ""
 }

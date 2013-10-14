@@ -1,6 +1,5 @@
 {
   "acno": "N05835", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1918"
   }, 
   "dateText": "1918", 
+  "depth": "", 
   "dimensions": "support: 406 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 5123, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,60 @@
       "workCount": 67
     }
   ], 
-  "popularity": 177, 
   "subjectCount": 3, 
-  "title": "The Tea Pot"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth", 
+                "workCount": 62
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 4672, 
+                "name": "tea pot", 
+                "workCount": 22
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 4673, 
+                "name": "tray", 
+                "workCount": 8
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05835_8.jpg", 
+  "title": "The Tea Pot", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gertler-the-tea-pot-n05835", 
+  "width": "406"
 }

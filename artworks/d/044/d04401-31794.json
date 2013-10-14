@@ -1,6 +1,5 @@
 {
   "acno": "D04401", 
-  "addlImageCount": 0, 
   "catTextResId": 1133027, 
   "catalogueGroup": {
     "accessionRanges": "D04391-D04492; D40785-D40789", 
@@ -28,17 +27,90 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 138 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "LXXIII 9", 
   "foreignTitle": null, 
   "groupTitle": "France, Savoy, Piedmont Sketchbook [Finberg LXXIII]", 
+  "height": "215", 
   "id": 31794, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "Auxerre from the Ramparts"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11319, 
+                "name": "Auxerre", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04401_8.jpg", 
+  "title": "Auxerre from the Ramparts", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-auxerre-from-the-ramparts-d04401", 
+  "width": "138"
 }

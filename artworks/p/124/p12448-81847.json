@@ -1,6 +1,5 @@
 {
   "acno": "P12448", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P12447-P12454", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "image: 340 x 255 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Superimpositions", 
+  "height": "255", 
   "id": 81847, 
   "inscription": null, 
   "medium": "Woodcut and linocut on paper", 
   "movementCount": 0, 
-  "popularity": 39, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P12/P12448_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/meyer-no-title-p12448", 
+  "width": "340"
 }

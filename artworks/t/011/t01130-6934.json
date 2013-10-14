@@ -1,6 +1,5 @@
 {
   "acno": "T01130", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "support: 1984 x 3658 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3658", 
   "id": 6934, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 141, 
   "subjectCount": 2, 
-  "title": "17. 3. 69"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01130_8.jpg", 
+  "title": "17. 3. 69", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hoyland-17-3-69-t01130", 
+  "width": "1984"
 }

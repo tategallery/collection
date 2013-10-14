@@ -1,6 +1,5 @@
 {
   "acno": "P07229", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07220-P07229", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "50", 
   "dimensions": "object: 600 x 500 x 50 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "LOGO", 
+  "height": "500", 
   "id": 13594, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on plastic", 
   "movementCount": 0, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "K. Magenta"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07229_8.jpg", 
+  "title": "K. Magenta", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-k-magenta-p07229", 
+  "width": "600"
 }

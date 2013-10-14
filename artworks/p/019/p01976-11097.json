@@ -1,6 +1,5 @@
 {
   "acno": "P01976", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01961-P01984; P11003", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 132 x 207 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Conditional Probability Machine", 
+  "height": "207", 
   "id": 11097, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,77 @@
       "workCount": 846
     }
   ], 
-  "popularity": 46, 
   "subjectCount": 5, 
-  "title": "Pages from the Aerospace Medical Library: Untitled (Decompression Pair)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 4616, 
+                "name": "scientific instrument", 
+                "workCount": 18
+              }, 
+              {
+                "id": 10027, 
+                "name": "test dummy", 
+                "workCount": 9
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01976_8.jpg", 
+  "title": "Pages from the Aerospace Medical Library: Untitled (Decompression Pair)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-pages-from-the-aerospace-medical-library-untitled-decompression-pair-p01976", 
+  "width": "132"
 }

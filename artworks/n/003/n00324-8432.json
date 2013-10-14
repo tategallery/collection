@@ -1,6 +1,5 @@
 {
   "acno": "N00324", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "c.1825-30"
   }, 
   "dateText": "c.1825-30", 
+  "depth": "", 
   "dimensions": "support: 690 x 565 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "565", 
   "id": 8432, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 128, 
   "subjectCount": 4, 
-  "title": "The Countess of Darnley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16037, 
+                "name": "Darnley, Countess of", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat", 
+                "workCount": 115
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank", 
+            "workCount": 341
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00324_8.jpg", 
+  "title": "The Countess of Darnley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lawrence-the-countess-of-darnley-n00324", 
+  "width": "690"
 }

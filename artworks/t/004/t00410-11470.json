@@ -1,6 +1,5 @@
 {
   "acno": "T00410", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1960-1"
   }, 
   "dateText": "1960-1", 
+  "depth": "", 
   "dimensions": "support: 1219 x 1219 mm\r\nframe: 1236 x 1236 x 73 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 11470, 
   "inscription": null, 
   "medium": "Oil paint on Formica and plywood", 
@@ -44,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 223, 
   "subjectCount": 2, 
-  "title": "Linear Motif in Black and White"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00410_8.jpg", 
+  "title": "Linear Motif in Black and White", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-linear-motif-in-black-and-white-t00410", 
+  "width": "1219"
 }

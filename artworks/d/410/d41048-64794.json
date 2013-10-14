@@ -1,6 +1,5 @@
 {
   "acno": "D41048", 
-  "addlImageCount": 0, 
   "catTextResId": 1136366, 
   "catalogueGroup": {
     "accessionRanges": "D26259-D26435; D41047-D41049", 
@@ -28,17 +27,64 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 190 x 113 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Stirling and Edinburgh Sketchbook [Finberg CCLXIX]", 
+  "height": "113", 
   "id": 64794, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 185, 
-  "popularity": 24, 
   "subjectCount": 3, 
-  "title": "?Bank of Scotland, Edinburgh; and Bothwell Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41048_8_R.jpg", 
+  "title": "?Bank of Scotland, Edinburgh; and Bothwell Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bank-of-scotland-edinburgh-and-bothwell-church-d41048", 
+  "width": "190"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04209", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "exhibited 1926"
   }, 
   "dateText": "exhibited 1926", 
+  "depth": "152", 
   "dimensions": "object: 235 x 254 x 152 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 5599, 
   "inscription": null, 
   "medium": "Wood", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 1, 
-  "title": "Cormorants"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4929, 
+                "name": "cormorant", 
+                "workCount": 11
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04209_8.jpg", 
+  "title": "Cormorants", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/graveney-cormorants-n04209", 
+  "width": "235"
 }

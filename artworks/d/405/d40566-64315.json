@@ -1,6 +1,5 @@
 {
   "acno": "D40566", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D00906-D00987; D00989-D01002; D40560-D40567; D41412", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "1797"
   }, 
   "dateText": "1797", 
+  "depth": "", 
   "dimensions": "support: 272 x 210 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "North of England Sketchbook [Finberg XXXIV]", 
+  "height": "210", 
   "id": 64315, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 196, 
-  "popularity": 34, 
   "subjectCount": 4, 
-  "title": "A Church Tower or Diagram"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9333, 
+                "name": "architectural plan", 
+                "workCount": 90
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40566_8.jpg", 
+  "title": "A Church Tower or Diagram", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-tower-or-diagram-d40566", 
+  "width": "272"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D40267", 
-  "addlImageCount": 0, 
   "catTextResId": 1141331, 
   "catalogueGroup": {
     "accessionRanges": "D00116; D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182; D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
@@ -28,16 +27,46 @@
     "text": "1792-3"
   }, 
   "dateText": "1792-3", 
+  "depth": "", 
   "dimensions": "support: 243 x 214 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "214", 
   "id": 64031, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 32, 
   "subjectCount": 1, 
-  "title": "Study of ?Scrollwork"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40267_8.jpg", 
+  "title": "Study of ?Scrollwork", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-scrollwork-d40267", 
+  "width": "243"
 }

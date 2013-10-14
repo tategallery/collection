@@ -1,6 +1,5 @@
 {
   "acno": "T08819", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1829"
   }, 
   "dateText": "1829", 
+  "depth": "", 
   "dimensions": "support: 251 x 356 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "356", 
   "id": 22650, 
   "inscription": "date inscribed", 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 153, 
   "subjectCount": 3, 
-  "title": "Interior of a Stable"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15954, 
+                "name": "harness", 
+                "workCount": 18
+              }, 
+              {
+                "id": 6523, 
+                "name": "wheelbarrow", 
+                "workCount": 105
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2736, 
+                "name": "stable", 
+                "workCount": 16
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces", 
+            "workCount": 368
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08819_8.jpg", 
+  "title": "Interior of a Stable", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cristall-interior-of-a-stable-t08819", 
+  "width": "251"
 }

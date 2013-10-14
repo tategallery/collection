@@ -1,6 +1,5 @@
 {
   "acno": "T00490", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "9", 
   "dimensions": "support: 533 x 584 x 9 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "584", 
   "id": 11478, 
   "inscription": null, 
   "medium": "Oil paint on plywood", 
@@ -41,7 +41,46 @@
       "workCount": 70
     }
   ], 
-  "popularity": 345, 
   "subjectCount": 3, 
-  "title": "Oval Motif in Grey and Ochre"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00490_8.jpg", 
+  "title": "Oval Motif in Grey and Ochre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-oval-motif-in-grey-and-ochre-t00490", 
+  "width": "533"
 }

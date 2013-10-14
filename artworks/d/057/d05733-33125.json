@@ -1,6 +1,5 @@
 {
   "acno": "D05733", 
-  "addlImageCount": 0, 
   "catTextResId": 1131053, 
   "catalogueGroup": {
     "accessionRanges": "D05717-D05765; D40631; D40633; D40660", 
@@ -28,17 +27,74 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 153 x 216 mm", 
-  "displayLocation": null, 
   "finberg": "XCII 14", 
   "foreignTitle": null, 
   "groupTitle": "Sussex Sketchbook [Finberg XCII]", 
+  "height": "216", 
   "id": 33125, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "popularity": 17, 
   "subjectCount": 5, 
-  "title": "Pevensey Bay, Looking Towards Beachy Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay", 
+                "workCount": 404
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05733_8.jpg", 
+  "title": "Pevensey Bay, Looking Towards Beachy Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-pevensey-bay-looking-towards-beachy-head-d05733", 
+  "width": "153"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01719", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,112 @@
     "text": "1947"
   }, 
   "dateText": "1947", 
+  "depth": "", 
   "dimensions": "image: 495 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "School Prints", 
+  "height": "762", 
   "id": 12344, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 11, 
   "subjectCount": 6, 
-  "title": "The Circus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4510, 
+                "name": "circus", 
+                "workCount": 2
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8463, 
+                "name": "clown", 
+                "workCount": 24
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 671, 
+                "name": "elephant", 
+                "workCount": 72
+              }, 
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01719_8.jpg", 
+  "title": "The Circus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reeve-the-circus-p01719", 
+  "width": "495"
 }

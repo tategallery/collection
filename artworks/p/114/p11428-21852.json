@@ -1,6 +1,5 @@
 {
   "acno": "P11428", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11422-P11436", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 470 x 612 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Other Men's Flowers", 
+  "height": "612", 
   "id": 21852, 
   "inscription": null, 
   "medium": "Letterpress on paper", 
@@ -47,7 +47,36 @@
       "workCount": 232
     }
   ], 
-  "popularity": 120, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11428_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gillick-no-title-p11428", 
+  "width": "470"
 }

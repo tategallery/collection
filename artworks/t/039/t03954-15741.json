@@ -1,6 +1,5 @@
 {
   "acno": "T03954", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1930"
   }, 
   "dateText": "1930", 
+  "depth": "", 
   "dimensions": "support: 920 x 730 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "730", 
   "id": 15741, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,36 @@
       "workCount": 98
     }
   ], 
-  "popularity": 360, 
   "subjectCount": 1, 
-  "title": "Curves and Circles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03954_8.jpg", 
+  "title": "Curves and Circles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vezelay-curves-and-circles-t03954", 
+  "width": "920"
 }

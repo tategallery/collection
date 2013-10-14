@@ -1,6 +1,5 @@
 {
   "acno": "T07803", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "18", 
   "dimensions": "support: 505 x 707 x 18 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "707", 
   "id": 9, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 1, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07803_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07803", 
+  "width": "505"
 }

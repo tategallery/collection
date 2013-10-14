@@ -1,6 +1,5 @@
 {
   "acno": "D18406", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18311-D18425; D18428-D18470; D18477-D18478; D41237", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CCX 57", 
   "foreignTitle": null, 
   "groupTitle": "Brighton and Arundel Sketchbook [Finberg CCX]", 
+  "height": "75", 
   "id": 45761, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 129, 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Vessel on Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18406_8.jpg", 
+  "title": "Vessel on Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessel-on-coast-d18406", 
+  "width": "118"
 }

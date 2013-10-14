@@ -1,6 +1,5 @@
 {
   "acno": "D21578", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21412-D21536; D21538-D21587; D40997-D40998", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 143 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIII 89", 
   "foreignTitle": null, 
   "groupTitle": "Genoa and Florence Sketchbook [Finberg CCXXXIII]", 
+  "height": "97", 
   "id": 48920, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 179, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Entablature of a Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7552, 
+                "name": "entablature", 
+                "workCount": 31
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21578_8.jpg", 
+  "title": "Entablature of a Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-entablature-of-a-building-d21578", 
+  "width": "143"
 }

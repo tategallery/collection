@@ -1,6 +1,5 @@
 {
   "acno": "D04707", 
-  "addlImageCount": 0, 
   "catTextResId": 1133182, 
   "catalogueGroup": {
     "accessionRanges": "D04649-D04735; D40783-D40784", 
@@ -28,17 +27,71 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 201 x 156 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVI 50", 
   "foreignTitle": null, 
   "groupTitle": "Lake Thun Sketchbook [Finberg LXXVI]", 
+  "height": "156", 
   "id": 32100, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 103, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Bridge and Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04707_8.jpg", 
+  "title": "Bridge and Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-and-mountains-d04707", 
+  "width": "201"
 }

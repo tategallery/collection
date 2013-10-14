@@ -1,6 +1,5 @@
 {
   "acno": "D05489", 
-  "addlImageCount": 0, 
   "catTextResId": 1139267, 
   "catalogueGroup": {
     "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
@@ -28,17 +27,67 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 114 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIX 30", 
   "foreignTitle": null, 
   "groupTitle": "Nelson Sketchbook [Finberg LXXXIX]", 
+  "height": "184", 
   "id": 32881, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 29, 
   "subjectCount": 5, 
-  "title": "The 'Victory': Port Side"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11481, 
+                "name": "hull", 
+                "workCount": 77
+              }, 
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }, 
+              {
+                "id": 5779, 
+                "name": "rigging", 
+                "workCount": 37
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05489_8.jpg", 
+  "title": "The 'Victory': Port Side", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-victory-port-side-d05489", 
+  "width": "114"
 }

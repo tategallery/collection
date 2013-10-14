@@ -1,6 +1,5 @@
 {
   "acno": "D20905", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20905-D20989; D40999-D41000", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXIX 1", 
   "foreignTitle": null, 
   "groupTitle": "Orleans to Marseilles Sketchbook [Finberg CCXXIX]", 
+  "height": "117", 
   "id": 48248, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20905_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d20905", 
+  "width": "179"
 }

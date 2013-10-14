@@ -1,6 +1,5 @@
 {
   "acno": "T02220", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1955"
   }, 
   "dateText": "1955", 
+  "depth": "", 
   "dimensions": "object: 292 x 232 mm, 3 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 10697, 
   "inscription": "date inscribed", 
   "medium": "Oil paint and graphite on paper on board", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 259, 
   "subjectCount": 2, 
-  "title": "Feb 55"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02220_8.jpg", 
+  "title": "Feb 55", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-feb-55-t02220", 
+  "width": ""
 }

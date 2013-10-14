@@ -1,6 +1,5 @@
 {
   "acno": "D12344", 
-  "addlImageCount": 0, 
   "catTextResId": 1139345, 
   "catalogueGroup": {
     "accessionRanges": "D12318-D12448; D40917-D40923", 
@@ -28,17 +27,47 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLVII 21", 
   "foreignTitle": null, 
   "groupTitle": "Durham, North Shore, Sketchbook [Finberg CLVII]", 
+  "height": "185", 
   "id": 39712, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "popularity": 20, 
   "subjectCount": 1, 
-  "title": "Gerard's Bridge, with Witton-le-Wear in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12344_8.jpg", 
+  "title": "Gerard's Bridge, with Witton-le-Wear in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gerards-bridge-with-witton-le-wear-in-the-distance-d12344", 
+  "width": "116"
 }

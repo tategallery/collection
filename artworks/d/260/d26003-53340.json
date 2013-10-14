@@ -1,6 +1,5 @@
 {
   "acno": "D26003", 
-  "addlImageCount": 0, 
   "catTextResId": 1134373, 
   "catalogueGroup": {
     "accessionRanges": "D25929-D26017; D26020-D26095; D40995-D40996", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 113 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVII 45 a", 
   "foreignTitle": null, 
   "groupTitle": "Abbotsford Sketchbook [Finberg CCLXVII]", 
+  "height": "185", 
   "id": 53340, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 92, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Haddington Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26003_8.jpg", 
+  "title": "Haddington Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-haddington-church-d26003", 
+  "width": "113"
 }

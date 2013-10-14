@@ -1,6 +1,5 @@
 {
   "acno": "T00348", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 1270 x 1016 mm\r\nframe: 1305 x 1050 x 55 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1016", 
   "id": 6455, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,79 @@
       "workCount": 39
     }
   ], 
-  "popularity": 563, 
   "subjectCount": 4, 
-  "title": "Grey Day by the Sea, February 1960"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00348_8.jpg", 
+  "title": "Grey Day by the Sea, February 1960", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hilton-grey-day-by-the-sea-february-1960-t00348", 
+  "width": "1270"
 }

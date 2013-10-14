@@ -1,6 +1,5 @@
 {
   "acno": "D33086", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33037-D33088; D41115-D41117; D41446-D41449", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,100 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 159 x 102 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVII 27 a", 
   "foreignTitle": null, 
   "groupTitle": "Ostend, Rhine and Berne Sketchbook [Finberg CCCXXVII]", 
+  "height": "102", 
   "id": 60268, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 56, 
-  "popularity": 82, 
   "subjectCount": 6, 
-  "title": "Sketches at Ostend and Berne [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3381, 
+                "name": "Belgium", 
+                "workCount": 495
+              }, 
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 13112, 
+                "name": "Bern", 
+                "workCount": 6
+              }, 
+              {
+                "id": 9794, 
+                "name": "Ostend", 
+                "workCount": 41
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33086_8.jpg", 
+  "title": "Sketches at Ostend and Berne [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-at-ostend-and-berne-turner-d33086", 
+  "width": "159"
 }

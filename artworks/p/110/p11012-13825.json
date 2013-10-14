@@ -1,6 +1,5 @@
 {
   "acno": "P11012", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11010-P11015", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,55 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "support: 560 x 714 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Phoenix", 
+  "height": "714", 
   "id": 13825, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper on screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 39, 
   "subjectCount": 3, 
-  "title": "233/540"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11012_8.jpg", 
+  "title": "233/540", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stephenson-233540-p11012", 
+  "width": "560"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P11677", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11676-P11685", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "unconfirmed: 508 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tate Modern: Ten Artists, Ten Images", 
+  "height": "762", 
   "id": 27128, 
   "inscription": null, 
   "medium": "Photograph, colour, Chromogenic print, on paper", 
@@ -47,7 +47,98 @@
       "workCount": 232
     }
   ], 
-  "popularity": 263, 
   "subjectCount": 5, 
-  "title": "Arrow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9985, 
+                "name": "arrow", 
+                "workCount": 23
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4537, 
+                "name": "art gallery", 
+                "workCount": 63
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur", 
+                "workCount": 94
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall", 
+                "workCount": 60
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11677_8.jpg", 
+  "title": "Arrow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/billingham-arrow-p11677", 
+  "width": "508"
 }

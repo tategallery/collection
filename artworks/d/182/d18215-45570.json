@@ -1,6 +1,5 @@
 {
   "acno": "D18215", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18159-D18310; D41437-D41439", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 115 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCIX 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Norfolk, Suffolk and Essex Sketchbook [Finberg CCIX]", 
+  "height": "188", 
   "id": 45570, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 62, 
-  "popularity": 3, 
   "subjectCount": 4, 
-  "title": "Buildings and Shipping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock", 
+                "workCount": 648
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18215_8.jpg", 
+  "title": "Buildings and Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-and-shipping-d18215", 
+  "width": "115"
 }

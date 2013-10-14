@@ -1,6 +1,5 @@
 {
   "acno": "N02372", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1843"
   }, 
   "dateText": "1843", 
+  "depth": "", 
   "dimensions": "support: 330 x 544 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "544", 
   "id": 10452, 
   "inscription": "date inscribed", 
   "medium": "Graphite and watercolour on paper", 
@@ -41,7 +41,67 @@
       "workCount": 17
     }
   ], 
-  "popularity": 112, 
   "subjectCount": 3, 
-  "title": "Camels, a Study in Smyrna"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4900, 
+                "name": "Izmir", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4901, 
+                "name": "Turkey", 
+                "workCount": 19
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 672, 
+                "name": "camel", 
+                "workCount": 45
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02372_8.jpg", 
+  "title": "Camels, a Study in Smyrna", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/muller-camels-a-study-in-smyrna-n02372", 
+  "width": "330"
 }

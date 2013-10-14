@@ -1,6 +1,5 @@
 {
   "acno": "N03195", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "?exhibited 1904"
   }, 
   "dateText": "?exhibited 1904", 
+  "depth": "", 
   "dimensions": "support: 610 x 470 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "470", 
   "id": 2545, 
   "inscription": null, 
   "medium": "Watercolour on fabric", 
@@ -61,7 +61,91 @@
       "workCount": 32
     }
   ], 
-  "popularity": 111, 
   "subjectCount": 5, 
-  "title": "Gossip"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 712, 
+                "name": "talking", 
+                "workCount": 391
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03195_8.jpg", 
+  "title": "Gossip", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/conder-gossip-n03195", 
+  "width": "610"
 }

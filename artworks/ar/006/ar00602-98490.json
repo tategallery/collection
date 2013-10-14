@@ -1,6 +1,5 @@
 {
   "acno": "AR00602", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,62 +20,95 @@
     "text": "1958-85"
   }, 
   "dateText": "1958-85", 
+  "depth": "", 
   "dimensions": "displayed (approximate): 925 x 1280 x 2575 mm\r\nOverall display dimensions variable", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Hirschdenkmal", 
   "groupTitle": null, 
+  "height": "", 
   "id": 98490, 
-  "images": [
-    {
-      "copyright": "\u00a9 DACS, 2009", 
-      "filenameBase": "AR00602_292172", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00602_292172_7.jpg", 
-          "height": 91, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00602_292172_8.jpg", 
-          "height": 183, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00602_292172_9.jpg", 
-          "height": 521, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00602_292172_10.jpg", 
-          "height": 1096, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood, iron and copper", 
   "movementCount": 0, 
-  "popularity": 819, 
   "subjectCount": 4, 
-  "title": "Monument to the Stag"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2962, 
+                "name": "deer", 
+                "workCount": 123
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5931, 
+                "name": "monument", 
+                "workCount": 179
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00602_8.jpg", 
+  "title": "Monument to the Stag", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-monument-to-the-stag-ar00602", 
+  "width": ""
 }

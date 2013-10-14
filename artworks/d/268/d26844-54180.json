@@ -1,6 +1,5 @@
 {
   "acno": "D26844", 
-  "addlImageCount": 0, 
   "catTextResId": 1135201, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
@@ -28,17 +27,83 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 116 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIII 53", 
   "foreignTitle": null, 
   "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "height": "186", 
   "id": 54180, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 107, 
-  "popularity": 18, 
   "subjectCount": 4, 
-  "title": "Ardtornish Castle from the South-South-East"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26844_8.jpg", 
+  "title": "Ardtornish Castle from the South-South-East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ardtornish-castle-from-the-south-south-east-d26844", 
+  "width": "116"
 }

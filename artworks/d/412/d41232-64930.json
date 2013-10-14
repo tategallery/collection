@@ -1,6 +1,5 @@
 {
   "acno": "D41232", 
-  "addlImageCount": 0, 
   "catTextResId": 1134006, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 96 x 59 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "height": "59", 
   "id": 64930, 
   "inscription": null, 
   "medium": "Pen and ink and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 2, 
-  "popularity": 45, 
   "subjectCount": 2, 
-  "title": "Jedburgh Abbey from the West; and Inscriptions by Turner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4898, 
+                "name": "stonework", 
+                "workCount": 403
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41232_8.jpg", 
+  "title": "Jedburgh Abbey from the West; and Inscriptions by Turner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-jedburgh-abbey-from-the-west-and-inscriptions-by-turner-d41232", 
+  "width": "96"
 }

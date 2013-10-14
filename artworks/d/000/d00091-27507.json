@@ -1,6 +1,5 @@
 {
   "acno": "D00091", 
-  "addlImageCount": 0, 
   "catTextResId": 1140142, 
   "catalogueGroup": {
     "accessionRanges": "D00072-D00107; D40733-D40736", 
@@ -28,17 +27,52 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 185 x 263 mm", 
-  "displayLocation": null, 
   "finberg": "VI 15", 
   "foreignTitle": null, 
   "groupTitle": "Bristol and Malmesbury Sketchbook [Finberg VI]", 
+  "height": "263", 
   "id": 27507, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 18, 
   "subjectCount": 2, 
-  "title": "Two Gables and a Chimney"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 214, 
+                "name": "chimney", 
+                "workCount": 40
+              }, 
+              {
+                "id": 8755, 
+                "name": "gable", 
+                "workCount": 22
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00091_8.jpg", 
+  "title": "Two Gables and a Chimney", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-gables-and-a-chimney-d00091", 
+  "width": "185"
 }

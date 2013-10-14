@@ -1,6 +1,5 @@
 {
   "acno": "D35861", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,58 @@
     "text": "c.1842-3"
   }, 
   "dateText": "c.1842-3", 
+  "depth": "", 
   "dimensions": "support: 245 x 307 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 24", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "307", 
   "id": 62949, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Lake, with Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35861_8.jpg", 
+  "title": "Lake, with Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-with-mountains-d35861", 
+  "width": "245"
 }

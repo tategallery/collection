@@ -1,6 +1,5 @@
 {
   "acno": "T00622", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1915"
   }, 
   "dateText": "c.1915", 
+  "depth": "", 
   "dimensions": "support: 289 x 184 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "184", 
   "id": 13153, 
   "inscription": null, 
   "medium": "Ink, watercolour and graphite on paper", 
@@ -41,7 +41,41 @@
       "workCount": 39
     }
   ], 
-  "popularity": 220, 
   "subjectCount": 2, 
-  "title": "Monochrome Abstract Composition"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00622_8.jpg", 
+  "title": "Monochrome Abstract Composition", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/saunders-monochrome-abstract-composition-t00622", 
+  "width": "289"
 }

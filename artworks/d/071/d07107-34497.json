@@ -1,6 +1,5 @@
 {
   "acno": "D07107", 
-  "addlImageCount": 0, 
   "catTextResId": 1134642, 
   "catalogueGroup": {
     "accessionRanges": "D06984-D07126; D07128-D07131; D40628-D40630; D40638", 
@@ -28,17 +27,52 @@
     "text": "c.1820-5"
   }, 
   "dateText": "c.1820-5", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CV 78 a", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.3 Sketchbook [Finberg CV]", 
+  "height": "185", 
   "id": 34497, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 178, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "A Fishing Smack"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }, 
+              {
+                "id": 1163, 
+                "name": "ship, warship", 
+                "workCount": 236
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07107_8.jpg", 
+  "title": "A Fishing Smack", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fishing-smack-d07107", 
+  "width": "108"
 }

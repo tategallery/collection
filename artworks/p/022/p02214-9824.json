@@ -1,6 +1,5 @@
 {
   "acno": "P02214", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02201-P02219", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 224 x 256 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Auden Poems Moore Lithographs Portfolio", 
+  "height": "256", 
   "id": 9824, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 31, 
   "subjectCount": 2, 
-  "title": "Fjord"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13518, 
+                "name": "fjord", 
+                "workCount": 2
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02214_8.jpg", 
+  "title": "Fjord", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-fjord-p02214", 
+  "width": "224"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D08838", 
-  "addlImageCount": 0, 
   "catTextResId": 1137319, 
   "catalogueGroup": {
     "accessionRanges": "D08807-D08815; D08817-D08822; D08824; D08826-D08842; D08844; D08846; D08848-D08863; D08940; D40821; D41522", 
@@ -28,17 +27,133 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 170 x 209 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIV 27", 
   "foreignTitle": null, 
   "groupTitle": "Corfe to Dartmouth Sketchbook [Finberg CXXIV]", 
+  "height": "209", 
   "id": 36223, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 57, 
-  "popularity": 130, 
   "subjectCount": 7, 
-  "title": "Bow and Arrow or Rufus Castle and Pennsylvania Castle, Portland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1600, 
+                "name": "Dorset", 
+                "workCount": 170
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 8699, 
+                "name": "Isle of Portland", 
+                "workCount": 14
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 8700, 
+                "name": "Rufus Castle", 
+                "workCount": 6
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks", 
+            "workCount": 837
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08838_8.jpg", 
+  "title": "Bow and Arrow or Rufus Castle and Pennsylvania Castle, Portland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bow-and-arrow-or-rufus-castle-and-pennsylvania-castle-portland-d08838", 
+  "width": "170"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D09687", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09668-D09788; D40819-D40820", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1812-15"
   }, 
   "dateText": "c.1812-15", 
+  "depth": "", 
   "dimensions": "support: 110 x 178 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIII 15 a", 
   "foreignTitle": null, 
   "groupTitle": "Devon Rivers, No.2 Sketchbook [Finberg CXXXIII]", 
+  "height": "178", 
   "id": 37066, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 32, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Castle on Headland"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09687_8.jpg", 
+  "title": "Castle on Headland", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-headland-d09687", 
+  "width": "110"
 }

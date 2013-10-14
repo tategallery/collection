@@ -1,6 +1,5 @@
 {
   "acno": "D26686", 
-  "addlImageCount": 0, 
   "catTextResId": 1136439, 
   "catalogueGroup": {
     "accessionRanges": "D26667-D26747", 
@@ -28,17 +27,90 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 184 x 118 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXII 11", 
   "foreignTitle": null, 
   "groupTitle": "Loch Ard Sketchbook [Finberg CCLXXII]", 
+  "height": "118", 
   "id": 54023, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 23, 
   "subjectCount": 4, 
-  "title": "Callander, Main Street with Ben Ledi"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26686_8.jpg", 
+  "title": "Callander, Main Street with Ben Ledi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-callander-main-street-with-ben-ledi-d26686", 
+  "width": "184"
 }

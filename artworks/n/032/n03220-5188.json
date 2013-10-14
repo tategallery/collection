@@ -1,6 +1,5 @@
 {
   "acno": "N03220", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,88 @@
     "text": "1916"
   }, 
   "dateText": "1916", 
+  "depth": "248", 
   "dimensions": "object: 406 x 254 x 248 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 5188, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "N03220_128441", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03220_128441_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 79
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03220_128441_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 159
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03220_128441_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 319
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "N/N03/N03220_128441_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 957
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Marble", 
   "movementCount": 0, 
-  "popularity": 66, 
   "subjectCount": 4, 
-  "title": "The Critic"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14363, 
+                "name": "Anderson, Stanley", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2790, 
+                "name": "artist, engraver", 
+                "workCount": 9
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03220_8.jpg", 
+  "title": "The Critic", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gilbert-the-critic-n03220", 
+  "width": "406"
 }

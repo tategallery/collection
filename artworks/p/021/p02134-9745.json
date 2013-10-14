@@ -1,6 +1,5 @@
 {
   "acno": "P02134", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02130-P02135", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 334 x 240 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "5 Incisioni di Moore", 
+  "height": "240", 
   "id": 9745, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print and lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 55, 
   "subjectCount": 3, 
-  "title": "After the Accident"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6360, 
+                "name": "crash", 
+                "workCount": 20
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1715, 
+                "name": "destruction", 
+                "workCount": 295
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02134_8.jpg", 
+  "title": "After the Accident", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-after-the-accident-p02134", 
+  "width": "334"
 }

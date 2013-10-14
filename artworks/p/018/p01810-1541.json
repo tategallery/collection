@@ -1,6 +1,5 @@
 {
   "acno": "P01810", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 606 x 1464 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Tractatus Logico-Catalogicus - L'Art ou l'art de vendre", 
   "groupTitle": null, 
+  "height": "1464", 
   "id": 1541, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 216, 
   "subjectCount": 3, 
-  "title": "Tractatus Logico Catalogicus - Art or the Art of Selling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text", 
+                "workCount": 36
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01810_8.jpg", 
+  "title": "Tractatus Logico Catalogicus - Art or the Art of Selling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/broodthaers-tractatus-logico-catalogicus-art-or-the-art-of-selling-p01810", 
+  "width": "606"
 }

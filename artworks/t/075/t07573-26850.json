@@ -1,6 +1,5 @@
 {
   "acno": "T07573", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1917, replica 1964"
   }, 
   "dateText": "1917, replica 1964", 
+  "depth": "610", 
   "dimensions": "unconfirmed: 360 x 480 x 610 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "480", 
   "id": 26850, 
   "inscription": null, 
   "medium": "Porcelain", 
@@ -44,7 +41,84 @@
       "workCount": 22
     }
   ], 
-  "popularity": 36912, 
   "subjectCount": 5, 
-  "title": "Fountain"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5443, 
+                "name": "humour", 
+                "workCount": 241
+              }, 
+              {
+                "id": 2438, 
+                "name": "pun", 
+                "workCount": 48
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation", 
+                "workCount": 145
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15026, 
+                "name": "urinal", 
+                "workCount": 1
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07573_8.jpg", 
+  "title": "Fountain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/duchamp-fountain-t07573", 
+  "width": "360"
 }

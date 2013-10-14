@@ -1,6 +1,5 @@
 {
   "acno": "D17785", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17773-D17817; D17819-D17833; D40981-D40983", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "1823-4"
   }, 
   "dateText": "1823-4", 
+  "depth": "", 
   "dimensions": "support: 111 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCIV 9", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg CCIV]", 
+  "height": "185", 
   "id": 45140, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "River Scene"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17785_8.jpg", 
+  "title": "River Scene", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-scene-d17785", 
+  "width": "111"
 }

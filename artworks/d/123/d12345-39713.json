@@ -1,6 +1,5 @@
 {
   "acno": "D12345", 
-  "addlImageCount": 0, 
   "catTextResId": 1139346, 
   "catalogueGroup": {
     "accessionRanges": "D12318-D12448; D40917-D40923", 
@@ -28,17 +27,66 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 116 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLVII 21 a", 
   "foreignTitle": null, 
   "groupTitle": "Durham, North Shore, Sketchbook [Finberg CLVII]", 
+  "height": "185", 
   "id": 39713, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 44, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Auckland Castle, Bishop Auckland, from the River Gaunless"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12345_8.jpg", 
+  "title": "Auckland Castle, Bishop Auckland, from the River Gaunless", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-auckland-castle-bishop-auckland-from-the-river-gaunless-d12345", 
+  "width": "116"
 }

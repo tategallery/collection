@@ -1,6 +1,5 @@
 {
   "acno": "D22783", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D22779-D22904; D41061-D41062", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 68 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXLV 3", 
   "foreignTitle": null, 
   "groupTitle": "Arundel and Shoreham Sketchbook [Finberg CCXLV]", 
+  "height": "110", 
   "id": 50120, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Cliffs on Coast"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22783_8.jpg", 
+  "title": "Cliffs on Coast", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-on-coast-d22783", 
+  "width": "68"
 }

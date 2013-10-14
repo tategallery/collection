@@ -1,6 +1,5 @@
 {
   "acno": "T01350", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "410", 
   "dimensions": "object: 606 x 816 x 410 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "816", 
   "id": 1219, 
   "inscription": null, 
   "medium": "Painted steel", 
@@ -41,7 +41,65 @@
       "workCount": 52
     }
   ], 
-  "popularity": 13, 
   "subjectCount": 4, 
-  "title": "5th Sculpture"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }, 
+              {
+                "id": 6739, 
+                "name": "dynamism", 
+                "workCount": 39
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01350_8.jpg", 
+  "title": "5th Sculpture", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bolus-5th-sculpture-t01350", 
+  "width": "606"
 }

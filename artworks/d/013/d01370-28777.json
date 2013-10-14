@@ -1,6 +1,5 @@
 {
   "acno": "D01370", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01356-D01400; D01402-D01460; D41254-D41260; D41433", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,74 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 266 x 171 mm", 
-  "displayLocation": null, 
   "finberg": "XXXIX 15", 
   "foreignTitle": null, 
   "groupTitle": "North Wales Sketchbook [Finberg XXXIX]", 
+  "height": "171", 
   "id": 28777, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 13, 
   "subjectCount": 5, 
-  "title": "A River Winding between Rocky Crags, with Mountains in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01370_8_R.jpg", 
+  "title": "A River Winding between Rocky Crags, with Mountains in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-river-winding-between-rocky-crags-with-mountains-in-the-distance-d01370", 
+  "width": "266"
 }

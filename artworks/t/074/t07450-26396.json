@@ -1,6 +1,5 @@
 {
   "acno": "T07450", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "45", 
   "dimensions": "displayed: 2205 x 4455 x 45 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4455", 
   "id": 26396, 
   "inscription": null, 
   "medium": "Household emulsion paint on canvas", 
   "movementCount": 0, 
-  "popularity": 104, 
   "subjectCount": 2, 
-  "title": "20 Part Line Painting"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07450_8.jpg", 
+  "title": "20 Part Line Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/charlton-20-part-line-painting-t07450", 
+  "width": "2205"
 }

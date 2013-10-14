@@ -1,6 +1,5 @@
 {
   "acno": "D40671", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 97 x 132 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "height": "132", 
   "id": 64418, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 2, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Sketches"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40671_8_R.jpg", 
+  "title": "Sketches", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-d40671", 
+  "width": "97"
 }

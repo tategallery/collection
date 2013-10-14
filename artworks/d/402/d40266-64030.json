@@ -1,6 +1,5 @@
 {
   "acno": "D40266", 
-  "addlImageCount": 0, 
   "catTextResId": 1140102, 
   "catalogueGroup": {
     "accessionRanges": "D00001-D00003; D00005; D00046-D00053; D00115; D00187; D00191; D00195; D00716; D40210-D40212; D40266", 
@@ -28,16 +27,46 @@
     "text": "c.1791"
   }, 
   "dateText": "c.1791", 
+  "depth": "", 
   "dimensions": "support: 201 x 252 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Oxford and Other Subjects", 
+  "height": "252", 
   "id": 64030, 
   "inscription": null, 
   "medium": "Pen and ink, graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 1, 
-  "title": "Study of Masonry"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall", 
+                "workCount": 60
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40266_8.jpg", 
+  "title": "Study of Masonry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-masonry-d40266", 
+  "width": "201"
 }

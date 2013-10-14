@@ -1,6 +1,5 @@
 {
   "acno": "P01949", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01949", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 238 x 277 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opus 9", 
+  "height": "277", 
   "id": 4795, 
   "inscription": null, 
   "medium": "Monoprint from wood engraving on paper", 
@@ -47,7 +47,36 @@
       "workCount": 148
     }
   ], 
-  "popularity": 37, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01949_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p01949", 
+  "width": "238"
 }

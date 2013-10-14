@@ -1,6 +1,5 @@
 {
   "acno": "P11389", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1969"
   }, 
   "dateText": "c.1969", 
+  "depth": "", 
   "dimensions": "image: 304 x 239 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "239", 
   "id": 21307, 
   "inscription": null, 
   "medium": "Wood engraving on paper", 
@@ -41,7 +41,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 46, 
   "subjectCount": 2, 
-  "title": "Opus 8"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11389_8.jpg", 
+  "title": "Opus 8", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-opus-8-p11389", 
+  "width": "304"
 }

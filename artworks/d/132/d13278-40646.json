@@ -1,6 +1,5 @@
 {
   "acno": "D13278", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D13245-D13321; D40907-D40909", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1817-18"
   }, 
   "dateText": "c.1817-18", 
+  "depth": "", 
   "dimensions": "support: 69 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CLXIV 27 v", 
   "foreignTitle": null, 
   "groupTitle": "Guards Sketchbook [Finberg CLXIV]", 
+  "height": "103", 
   "id": 40646, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 56, 
-  "popularity": 2, 
   "subjectCount": 1, 
-  "title": "Continuation of Study of a Mounted Soldier"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1076, 
+                "name": "leg", 
+                "workCount": 78
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13278_8.jpg", 
+  "title": "Continuation of Study of a Mounted Soldier", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-continuation-of-study-of-a-mounted-soldier-d13278", 
+  "width": "69"
 }

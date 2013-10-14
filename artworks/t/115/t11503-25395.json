@@ -1,6 +1,5 @@
 {
   "acno": "T11503", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11487-T11534", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,50 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 66 x 106 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Liber Studiorum: A Series of Sketches and Studies", 
+  "height": "106", 
   "id": 25395, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 33, 
   "subjectCount": 2, 
-  "title": "A Study"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11503_8.jpg", 
+  "title": "A Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cotman-a-study-t11503", 
+  "width": "66"
 }

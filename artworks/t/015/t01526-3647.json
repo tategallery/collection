@@ -1,6 +1,5 @@
 {
   "acno": "T01526", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,69 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "", 
   "dimensions": "support: 1518 x 1210 mm\r\nframe: 1530 x 1220 x 40 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1210", 
   "id": 3647, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 192, 
   "subjectCount": 3, 
-  "title": "Entrance to a Paradise"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3672, 
+                "name": "spirituality", 
+                "workCount": 62
+              }
+            ], 
+            "id": 444, 
+            "name": "mysticism", 
+            "workCount": 213
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01526_8.jpg", 
+  "title": "Entrance to a Paradise", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davie-entrance-to-a-paradise-t01526", 
+  "width": "1518"
 }

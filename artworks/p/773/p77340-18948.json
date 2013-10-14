@@ -1,6 +1,5 @@
 {
   "acno": "P77340", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77336-P77347", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 251 x 175 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "For Caroline", 
+  "height": "175", 
   "id": 18948, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77340_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/marden-no-title-p77340", 
+  "width": "251"
 }

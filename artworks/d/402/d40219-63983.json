@@ -1,6 +1,5 @@
 {
   "acno": "D40219", 
-  "addlImageCount": 1, 
   "catTextResId": 1140252, 
   "catalogueGroup": {
     "accessionRanges": "D00054-D00062; D00064-D00071; D40213; D40214; D40215; D40217; D40218; D40219; D40220", 
@@ -28,60 +27,77 @@
     "text": "c.1791"
   }, 
   "dateText": "c.1791", 
+  "depth": "", 
   "dimensions": "support: 480 x 302 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Studies from the Antique and Other Sculpture", 
+  "height": "302", 
   "id": 63983, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "D40219_302016", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D40/D40219_302016_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 83
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D40/D40219_302016_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 167
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D40/D40219_302016_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 475
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "D/D40/D40219_302016_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1000
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 3, 
-  "title": "Full-length Study of the Fighting Gladiator"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10734, 
+                "name": "'Fighting Gladiator', sculpture", 
+                "workCount": 3
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works", 
+            "workCount": 1052
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40219_8.jpg", 
+  "title": "Full-length Study of the Fighting Gladiator", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-full-length-study-of-the-fighting-gladiator-d40219", 
+  "width": "480"
 }

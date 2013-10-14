@@ -1,6 +1,5 @@
 {
   "acno": "N05346", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "c.1928"
   }, 
   "dateText": "c.1928", 
+  "depth": "", 
   "dimensions": "support: 762 x 686 mm\r\nframe: 966 x 892 x 93 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "686", 
   "id": 7131, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 157, 
   "subjectCount": 3, 
-  "title": "Blue Cineraria"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5967, 
+                "name": "cineraria", 
+                "workCount": 1
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15964, 
+                "name": "plant pot", 
+                "workCount": 40
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05346_8.jpg", 
+  "title": "Blue Cineraria", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-blue-cineraria-n05346", 
+  "width": "762"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D02246", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02243-D02341; D40772-D40774", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 150 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "XLIX 4", 
   "foreignTitle": null, 
   "groupTitle": "Salisbury Sketchbook [Finberg XLIX]", 
+  "height": "123", 
   "id": 29649, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 24, 
   "subjectCount": 1, 
-  "title": "Four Sketches of a Swan"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2415, 
+                "name": "swan", 
+                "workCount": 67
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02246_8.jpg", 
+  "title": "Four Sketches of a Swan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-four-sketches-of-a-swan-d02246", 
+  "width": "150"
 }

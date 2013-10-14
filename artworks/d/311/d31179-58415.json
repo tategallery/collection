@@ -1,6 +1,5 @@
 {
   "acno": "D31179", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31138-D31143; D31145-D31150; D31152-D31156; D31158-D31222; D41125-D41126", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 171 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVIII 25", 
   "foreignTitle": null, 
   "groupTitle": "Arco and Vigne Sketchbook [Finberg CCCVIII]", 
+  "height": "111", 
   "id": 58415, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 12, 
   "subjectCount": 5, 
-  "title": "Market Place, with Cathedral, Houses, and a Monument on Column"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 241, 
+                "name": "column", 
+                "workCount": 135
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }, 
+          {
+            "children": [
+              {
+                "id": 13609, 
+                "name": "market", 
+                "workCount": 133
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31179_8.jpg", 
+  "title": "Market Place, with Cathedral, Houses, and a Monument on Column", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-market-place-with-cathedral-houses-and-a-monument-on-column-d31179", 
+  "width": "171"
 }

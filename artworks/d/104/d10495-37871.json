@@ -1,6 +1,5 @@
 {
   "acno": "D10495", 
-  "addlImageCount": 0, 
   "catTextResId": 1131488, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,66 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37871, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 104, 
-  "popularity": 2, 
   "subjectCount": 2, 
-  "title": "Seashore, with Town in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10495_8_R.jpg", 
+  "title": "Seashore, with Town in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-seashore-with-town-in-distance-d10495", 
+  "width": "155"
 }

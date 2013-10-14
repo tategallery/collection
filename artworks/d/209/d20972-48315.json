@@ -1,6 +1,5 @@
 {
   "acno": "D20972", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20905-D20989; D40999-D41000", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 179 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXIX 36", 
   "foreignTitle": null, 
   "groupTitle": "Orleans to Marseilles Sketchbook [Finberg CCXXIX]", 
+  "height": "117", 
   "id": 48315, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 73, 
-  "popularity": 6, 
   "subjectCount": 1, 
-  "title": "Fortress"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20972_8_R.jpg", 
+  "title": "Fortress", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fortress-d20972", 
+  "width": "179"
 }

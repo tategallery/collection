@@ -1,6 +1,5 @@
 {
   "acno": "P01695", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01688-P01697", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 305 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tetrad Pamphlets Vol. I Nos. I-X", 
+  "height": "508", 
   "id": 15616, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 2, 
-  "title": "Knights Eminence"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01695_8.jpg", 
+  "title": "Knights Eminence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tyson-knights-eminence-p01695", 
+  "width": "305"
 }

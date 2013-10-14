@@ -1,6 +1,5 @@
 {
   "acno": "T00935", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1806"
   }, 
   "dateText": "1806", 
+  "depth": "", 
   "dimensions": "support: 165 x 254 mm\r\nframe: 305 x 390 x 38 mm", 
-  "displayLocation": {
-    "name": "Turner contemporary (Margate, UK)", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "254", 
   "id": 8870, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
@@ -44,7 +41,67 @@
       "workCount": 35
     }
   ], 
-  "popularity": 314, 
   "subjectCount": 3, 
-  "title": "Study of Buildings ('Study from Nature')"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 4625, 
+                "name": "Twickenham - non-specific", 
+                "workCount": 11
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn", 
+                "workCount": 52
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00935_8.jpg", 
+  "title": "Study of Buildings ('Study from Nature')", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/linnell-study-of-buildings-study-from-nature-t00935", 
+  "width": "165"
 }

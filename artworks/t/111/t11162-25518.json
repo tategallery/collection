@@ -1,6 +1,5 @@
 {
   "acno": "T11162", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11075-T11185", 
     "completeStatus": "IRRELEVANT", 
@@ -27,10 +26,11 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "image: 136 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Divine Poem of Dante Alighieri", 
+  "height": "190", 
   "id": 25518, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,86 @@
       "workCount": 310
     }
   ], 
-  "popularity": 19, 
   "subjectCount": 4, 
-  "title": "The Sun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2486, 
+                "name": "Dante, 'Divine Comedy: Paradiso'", 
+                "workCount": 32
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1503, 
+                "name": "flying", 
+                "workCount": 167
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 975, 
+                "name": "sun", 
+                "workCount": 289
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11162_8.jpg", 
+  "title": "The Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/flaxman-the-sun-t11162", 
+  "width": "136"
 }

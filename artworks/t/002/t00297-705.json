@@ -1,6 +1,5 @@
 {
   "acno": "T00297", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1943"
   }, 
   "dateText": "1943", 
+  "depth": "", 
   "dimensions": "support: 797 x 984 mm\r\nframe: 900 x 1095 x 55 mm", 
-  "displayLocation": {
-    "name": "Metropolitan Museum of Art (New York, USA)", 
-    "url": "http://www.metmuseum.org"
-  }, 
   "foreignTitle": "Dormeuse", 
   "groupTitle": null, 
+  "height": "984", 
   "id": 705, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
@@ -44,7 +41,106 @@
       "workCount": 4
     }
   ], 
-  "popularity": 675, 
   "subjectCount": 8, 
-  "title": "Sleeping Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }, 
+              {
+                "id": 739, 
+                "name": "blanket", 
+                "workCount": 31
+              }, 
+              {
+                "id": 839, 
+                "name": "couch", 
+                "workCount": 157
+              }, 
+              {
+                "id": 737, 
+                "name": "pillow", 
+                "workCount": 24
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2371, 
+                "name": "breast", 
+                "workCount": 48
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 723, 
+                "name": "lying down", 
+                "workCount": 221
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00297_8.jpg", 
+  "title": "Sleeping Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/klossowski-de-rola-sleeping-girl-t00297", 
+  "width": "797"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00949", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "support: 1524 x 2743 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2743", 
   "id": 2082, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 846
     }
   ], 
-  "popularity": 258, 
   "subjectCount": 1, 
-  "title": "Battlements"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement", 
+                "workCount": 133
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00949_8.jpg", 
+  "title": "Battlements", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-battlements-t00949", 
+  "width": "1524"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P02482", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02475-P02483", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 140 x 178 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "80th Anniversary Portfolio", 
+  "height": "178", 
   "id": 9932, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 36, 
   "subjectCount": 4, 
-  "title": "Woman with Clasped Hands"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4670, 
+                "name": "hands clasped", 
+                "workCount": 115
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 211, 
+                "name": "wall", 
+                "workCount": 280
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02482_8.jpg", 
+  "title": "Woman with Clasped Hands", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-woman-with-clasped-hands-p02482", 
+  "width": "140"
 }

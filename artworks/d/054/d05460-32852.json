@@ -1,6 +1,5 @@
 {
   "acno": "D05460", 
-  "addlImageCount": 0, 
   "catTextResId": 1139255, 
   "catalogueGroup": {
     "accessionRanges": "D05446-D05490; D40701-D40705; D41427", 
@@ -28,17 +27,119 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 114 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIX 13", 
   "foreignTitle": null, 
   "groupTitle": "Nelson Sketchbook [Finberg LXXXIX]", 
+  "height": "184", 
   "id": 32852, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 23, 
-  "popularity": 73, 
   "subjectCount": 7, 
-  "title": "The 'Temeraire', and a Group Surrounding the Wounded Lieutenant Pasco"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1711, 
+                "name": "Napoleonic Wars, 1796-1815", 
+                "workCount": 64
+              }, 
+              {
+                "id": 5875, 
+                "name": "Trafalgar, Battle, 21 Oct 1805", 
+                "workCount": 15
+              }
+            ], 
+            "id": 35, 
+            "name": "military", 
+            "workCount": 202
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9910, 
+                "name": "battle", 
+                "workCount": 97
+              }, 
+              {
+                "id": 3023, 
+                "name": "sailor", 
+                "workCount": 86
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 986, 
+                "name": "wounded", 
+                "workCount": 110
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05460_8.jpg", 
+  "title": "The 'Temeraire', and a Group Surrounding the Wounded Lieutenant Pasco", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-temeraire-and-a-group-surrounding-the-wounded-lieutenant-pasco-d05460", 
+  "width": "114"
 }

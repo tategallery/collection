@@ -1,6 +1,5 @@
 {
   "acno": "N04817", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1930-5"
   }, 
   "dateText": "c.1930-5", 
+  "depth": "", 
   "dimensions": "support: 641 x 762 mm\r\nframe: 838 x 965 x 60 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "762", 
   "id": 12242, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,125 @@
       "workCount": 14
     }
   ], 
-  "popularity": 339, 
   "subjectCount": 9, 
-  "title": "Kitchen at Myrtle Cottage"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6464, 
+                "name": "crockery", 
+                "workCount": 19
+              }, 
+              {
+                "id": 3424, 
+                "name": "tea set", 
+                "workCount": 12
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 3578, 
+                "name": "cupboard", 
+                "workCount": 35
+              }, 
+              {
+                "id": 4945, 
+                "name": "dresser", 
+                "workCount": 14
+              }, 
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }, 
+              {
+                "id": 1071, 
+                "name": "table cloth", 
+                "workCount": 44
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1269, 
+                "name": "eating", 
+                "workCount": 117
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking", 
+            "workCount": 348
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3256, 
+                "name": "kitchen", 
+                "workCount": 42
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04817_8.jpg", 
+  "title": "Kitchen at Myrtle Cottage", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/procter-kitchen-at-myrtle-cottage-n04817", 
+  "width": "641"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D21336", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21271-D21411; D41043-D41044", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 159 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXII 39", 
   "foreignTitle": null, 
   "groupTitle": "Coast of Genoa Sketchbook [Finberg CCXXXII]", 
+  "height": "98", 
   "id": 48679, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 79, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21336_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d21336", 
+  "width": "159"
 }

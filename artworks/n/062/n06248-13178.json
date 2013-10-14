@@ -1,6 +1,5 @@
 {
   "acno": "N06248", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919"
   }, 
   "dateText": "1919", 
+  "depth": "", 
   "dimensions": "support: 1006 x 873 mm\r\nframe: 1121 x 981 x 80 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Bildnis Rosa Schapire", 
   "groupTitle": null, 
+  "height": "873", 
   "id": 13178, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,117 @@
       "workCount": 7
     }
   ], 
-  "popularity": 587, 
   "subjectCount": 6, 
-  "title": "Dr Rosa Schapire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6710, 
+                "name": "Schapire, Rosa, Dr", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1514, 
+                "name": "art historian", 
+                "workCount": 9
+              }
+            ], 
+            "id": 126, 
+            "name": "literary", 
+            "workCount": 254
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 744, 
+                "name": "picture", 
+                "workCount": 130
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06248_8.jpg", 
+  "title": "Dr Rosa Schapire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/schmidt-rottluff-dr-rosa-schapire-n06248", 
+  "width": "1006"
 }

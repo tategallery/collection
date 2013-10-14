@@ -1,6 +1,5 @@
 {
   "acno": "D20788", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20733-D20762; D20764; D20766; D20768; D20770; D20772-D20777; D20779; D20781; D20783-D20803; D41004-D41006", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,85 @@
     "text": "c.1827"
   }, 
   "dateText": "c.1827", 
+  "depth": "", 
   "dimensions": "support: 110 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXVII 35 a", 
   "foreignTitle": null, 
   "groupTitle": "Isle of Wight Sketchbook [Finberg CCXXVII]", 
+  "height": "185", 
   "id": 48131, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 76, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Shipping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20788_8.jpg", 
+  "title": "Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-shipping-d20788", 
+  "width": "110"
 }

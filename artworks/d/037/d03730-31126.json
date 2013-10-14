@@ -1,6 +1,5 @@
 {
   "acno": "D03730", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03721-D03735", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "?c.1799-1801"
   }, 
   "dateText": "?c.1799-1801", 
+  "depth": "", 
   "dimensions": "support: 117 x 183 mm", 
-  "displayLocation": null, 
   "finberg": "LXII 9", 
   "foreignTitle": null, 
   "groupTitle": "Cows Sketchbook [Finberg LXII]", 
+  "height": "183", 
   "id": 31126, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Study of a Cow and a Bull"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03730_8.jpg", 
+  "title": "Study of a Cow and a Bull", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-cow-and-a-bull-d03730", 
+  "width": "117"
 }

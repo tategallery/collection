@@ -1,6 +1,5 @@
 {
   "acno": "D09116", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09058-D09206; D40818; D41541", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "c.1810-12"
   }, 
   "dateText": "c.1810-12", 
+  "depth": "", 
   "dimensions": "support: 110 x 178 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIX 41", 
   "foreignTitle": null, 
   "groupTitle": "Woodcock Shooting Sketchbook [Finberg CXXIX]", 
+  "height": "178", 
   "id": 36495, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "Study for 'Apuleia in Search of Apuleius'. ?Copy of the Claude at Petworth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09116_8_R.jpg", 
+  "title": "Study for 'Apuleia in Search of Apuleius'. ?Copy of the Claude at Petworth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-for-apuleia-in-search-of-apuleius-copy-of-the-claude-at-petworth-d09116", 
+  "width": "110"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D26973", 
-  "addlImageCount": 0, 
   "catTextResId": 1135338, 
   "catalogueGroup": {
     "accessionRanges": "D26966-D27045", 
@@ -28,17 +27,47 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 150 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVI 6 a", 
   "foreignTitle": null, 
   "groupTitle": "Fort Augustus Sketchbook [Finberg CCLXXVI]", 
+  "height": "184", 
   "id": 54308, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 12, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Loch Lochy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26973_8_R.jpg", 
+  "title": "Loch Lochy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-loch-lochy-d26973", 
+  "width": "150"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P05320", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05320-P05326", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 1041 x 790 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "London Transport", 
+  "height": "790", 
   "id": 16297, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 1, 
-  "title": "[title page]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05320_8.jpg", 
+  "title": "[title page]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-title-page-p05320", 
+  "width": "1041"
 }

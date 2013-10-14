@@ -1,6 +1,5 @@
 {
   "acno": "T01167", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "31", 
   "dimensions": "support: 1829 x 4572 x 31 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4572", 
   "id": 12970, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, acrylic paint and glue on canvas", 
@@ -41,7 +41,60 @@
       "workCount": 102
     }
   ], 
-  "popularity": 788, 
   "subjectCount": 3, 
-  "title": "Red on Maroon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation", 
+                "workCount": 128
+              }, 
+              {
+                "id": 759, 
+                "name": "pessimism", 
+                "workCount": 13
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01167_8.jpg", 
+  "title": "Red on Maroon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothko-red-on-maroon-t01167", 
+  "width": "1829"
 }

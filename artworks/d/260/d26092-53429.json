@@ -1,6 +1,5 @@
 {
   "acno": "D26092", 
-  "addlImageCount": 0, 
   "catTextResId": 1134460, 
   "catalogueGroup": {
     "accessionRanges": "D25929-D26017; D26020-D26095; D40995-D40996", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 113 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVII 92", 
   "foreignTitle": null, 
   "groupTitle": "Abbotsford Sketchbook [Finberg CCLXVII]", 
+  "height": "185", 
   "id": 53429, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 181, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "The Interior of Smailholm Tower, Scottish Borders"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26092_8.jpg", 
+  "title": "The Interior of Smailholm Tower, Scottish Borders", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-interior-of-smailholm-tower-scottish-borders-d26092", 
+  "width": "113"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D10239", 
-  "addlImageCount": 0, 
   "catTextResId": 1131281, 
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
@@ -28,17 +27,71 @@
     "text": "c.1810-16"
   }, 
   "dateText": "c.1810-16", 
+  "depth": "", 
   "dimensions": "support: 181 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVII 23", 
   "foreignTitle": null, 
   "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "height": "228", 
   "id": 37616, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 49, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "A Bay or Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay", 
+                "workCount": 404
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10239_8.jpg", 
+  "title": "A Bay or Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-bay-or-harbour-d10239", 
+  "width": "181"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D33148", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33132-D33235; D41137", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 138 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXIX 9", 
   "foreignTitle": null, 
   "groupTitle": "Between Lucerne and Thun Sketchbook [Finberg CCCXXIX]", 
+  "height": "82", 
   "id": 60327, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 10, 
   "subjectCount": 4, 
-  "title": "Wall, with Towers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall", 
+                "workCount": 146
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33148_8.jpg", 
+  "title": "Wall, with Towers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wall-with-towers-d33148", 
+  "width": "138"
 }

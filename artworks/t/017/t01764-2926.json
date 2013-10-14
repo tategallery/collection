@@ -1,6 +1,5 @@
 {
   "acno": "T01764", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "object: 533 x 4115 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "4115", 
   "id": 2926, 
   "inscription": null, 
   "medium": "Glass and plastic", 
@@ -41,7 +41,36 @@
       "workCount": 478
     }
   ], 
-  "popularity": 154, 
   "subjectCount": 1, 
-  "title": "Conviction"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01764_8.jpg", 
+  "title": "Conviction", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/craig-martin-conviction-t01764", 
+  "width": "533"
 }

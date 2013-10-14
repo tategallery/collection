@@ -1,6 +1,5 @@
 {
   "acno": "T00890", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "286", 
   "dimensions": "object: 1918 x 279 x 286 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "279", 
   "id": 9590, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -41,7 +41,67 @@
       "workCount": 409
     }
   ], 
-  "popularity": 100, 
   "subjectCount": 3, 
-  "title": "Praze"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1516, 
+                "name": "Cornwall", 
+                "workCount": 400
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 17240, 
+                "name": "Praze", 
+                "workCount": 1
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00890_8.jpg", 
+  "title": "Praze", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mitchell-praze-t00890", 
+  "width": "1918"
 }

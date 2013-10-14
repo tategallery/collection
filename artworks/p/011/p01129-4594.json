@@ -1,6 +1,5 @@
 {
   "acno": "P01129", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01127-P01135", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 540 x 465 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Birds of Prey", 
+  "height": "465", 
   "id": 4594, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 61, 
   "subjectCount": 1, 
-  "title": "Honey Buzzard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13345, 
+                "name": "buzzard", 
+                "workCount": 2
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01129_8.jpg", 
+  "title": "Honey Buzzard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frink-honey-buzzard-p01129", 
+  "width": "540"
 }

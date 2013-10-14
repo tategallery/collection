@@ -1,6 +1,5 @@
 {
   "acno": "N02202", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1832-4"
   }, 
   "dateText": "c.1832-4", 
+  "depth": "", 
   "dimensions": "support: 210 x 279 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "279", 
   "id": 8677, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
@@ -41,7 +41,103 @@
       "workCount": 17
     }
   ], 
-  "popularity": 178, 
   "subjectCount": 6, 
-  "title": "Mirador in Sanchez' Cottage, Alhambra"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10498, 
+                "name": "Alhambra", 
+                "workCount": 2
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1063, 
+                "name": "Spain", 
+                "workCount": 66
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7807, 
+                "name": "Moorish", 
+                "workCount": 6
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 584, 
+                "name": "balcony", 
+                "workCount": 63
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02202_8.jpg", 
+  "title": "Mirador in Sanchez' Cottage, Alhambra", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewis-mirador-in-sanchez-cottage-alhambra-n02202", 
+  "width": "210"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D31337", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31277-D31312; D31314; D31316-D31415; D41399-D41402", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 126 mm", 
-  "displayLocation": null, 
   "finberg": "CCCX 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice; Passau to W\u00fcrzburg Sketchbook [Finberg CCCX]", 
+  "height": "126", 
   "id": 58570, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 27, 
   "subjectCount": 6, 
-  "title": "Nuremberg: The Spittlertor and Town Walls"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 13918, 
+                "name": "Nuremberg, Spittlertor", 
+                "workCount": 3
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall", 
+                "workCount": 146
+              }, 
+              {
+                "id": 8513, 
+                "name": "gate", 
+                "workCount": 435
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31337_8.jpg", 
+  "title": "Nuremberg: The Spittlertor and Town Walls", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-nuremberg-the-spittlertor-and-town-walls-d31337", 
+  "width": "198"
 }

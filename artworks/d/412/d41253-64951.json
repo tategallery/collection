@@ -1,6 +1,5 @@
 {
   "acno": "D41253", 
-  "addlImageCount": 0, 
   "catTextResId": 1141040, 
   "catalogueGroup": {
     "accessionRanges": "D00407-D00461; D41250-D41253", 
@@ -28,17 +27,66 @@
     "text": "?1795-1800"
   }, 
   "dateText": "?1795-1800", 
+  "depth": "", 
   "dimensions": "support: 264 x 204 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Isle of Wight Sketchbook [Finberg XXIV]", 
+  "height": "204", 
   "id": 64951, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 113, 
-  "popularity": 28, 
   "subjectCount": 2, 
-  "title": "A Figure on Top of a Precipitous Cliff"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41253_8.jpg", 
+  "title": "A Figure on Top of a Precipitous Cliff", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-figure-on-top-of-a-precipitous-cliff-d41253", 
+  "width": "264"
 }

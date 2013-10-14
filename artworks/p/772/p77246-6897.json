@@ -1,6 +1,5 @@
 {
   "acno": "P77246", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77245-P77248", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,93 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "image: 330 x 245 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Saracen Heads", 
+  "height": "245", 
   "id": 6897, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 98, 
   "subjectCount": 5, 
-  "title": "Amanda"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12305, 
+                "name": "Amanda", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7289, 
+                "name": "tower block", 
+                "workCount": 89
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77246_8.jpg", 
+  "title": "Amanda", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/howson-amanda-p77246", 
+  "width": "330"
 }

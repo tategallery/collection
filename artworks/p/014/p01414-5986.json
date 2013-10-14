@@ -1,6 +1,5 @@
 {
   "acno": "P01414", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01414; P04257-P04264; P04266-P04268", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 775 x 583 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opposing Forms", 
+  "height": "583", 
   "id": 5986, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 57, 
   "subjectCount": 1, 
-  "title": "Rangatira II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01414_8.jpg", 
+  "title": "Rangatira II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-rangatira-ii-p01414", 
+  "width": "775"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04712", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1880-5"
   }, 
   "dateText": "c.1880-5", 
+  "depth": "", 
   "dimensions": "support: 229 x 445 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Le Coucher", 
   "groupTitle": null, 
+  "height": "445", 
   "id": 3699, 
   "inscription": null, 
   "medium": "Pastel and print on paper", 
@@ -41,7 +41,98 @@
       "workCount": 39
     }
   ], 
-  "popularity": 331, 
   "subjectCount": 5, 
-  "title": "Bed-Time"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom", 
+                "workCount": 177
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04712_8.jpg", 
+  "title": "Bed-Time", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/degas-bed-time-n04712", 
+  "width": "229"
 }

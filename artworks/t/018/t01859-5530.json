@@ -1,6 +1,5 @@
 {
   "acno": "T01859", 
-  "addlImageCount": 0, 
   "catTextResId": 1139300, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1912"
   }, 
   "dateText": "1912", 
+  "depth": "", 
   "dimensions": "support: 305 x 406 mm\r\nframe: 462 x 562 x 57 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 5530, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,122 @@
       "workCount": 56
     }
   ], 
-  "popularity": 768, 
   "subjectCount": 7, 
-  "title": "The Beanfield, Letchworth"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 665, 
+                "name": "Hertfordshire", 
+                "workCount": 48
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 3628, 
+                "name": "Letchworth", 
+                "workCount": 4
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 214, 
+                "name": "chimney", 
+                "workCount": 40
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1792, 
+                "name": "smoke", 
+                "workCount": 295
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01859_8.jpg", 
+  "title": "The Beanfield, Letchworth", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gore-the-beanfield-letchworth-t01859", 
+  "width": "305"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01225", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01222-P01226", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,62 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "support: 560 x 776 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Koan-Cuts", 
+  "height": "776", 
   "id": 8794, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper on screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 3, 
-  "title": "Koan-Cuts IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01225_8.jpg", 
+  "title": "Koan-Cuts IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lijn-koan-cuts-iv-p01225", 
+  "width": "560"
 }

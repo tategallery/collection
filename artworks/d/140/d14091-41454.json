@@ -1,6 +1,5 @@
 {
   "acno": "D14091", 
-  "addlImageCount": 0, 
   "catTextResId": 1142950, 
   "catalogueGroup": {
     "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
@@ -28,17 +27,88 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIII 62 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris, France, Savoy 2 Sketchbook [Finberg CLXXIII]", 
+  "height": "185", 
   "id": 41454, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 128, 
-  "popularity": 26, 
   "subjectCount": 5, 
-  "title": "?Les \u00c9chelles, Savoy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7920, 
+                "name": "France, Savoy", 
+                "workCount": 6
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14091_8.jpg", 
+  "title": "?Les \u00c9chelles, Savoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-les-echelles-savoy-d14091", 
+  "width": "114"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D29388", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29379-D29418; D29420-D29436; D29438-D29516; D29518-D29551; D29553-D29586; D29588-D29593; D41098", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1835-40"
   }, 
   "dateText": "c.1835-40", 
+  "depth": "", 
   "dimensions": "support: 146 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCV 6", 
   "foreignTitle": null, 
   "groupTitle": "Genoa to Grenoble Sketchbook [Finberg CCXCV]", 
+  "height": "103", 
   "id": 56655, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "A Ship in Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29388_8.jpg", 
+  "title": "A Ship in Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ship-in-harbour-d29388", 
+  "width": "146"
 }

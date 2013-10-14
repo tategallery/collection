@@ -1,6 +1,5 @@
 {
   "acno": "P01871", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "1977-8"
   }, 
   "dateText": "1977-8", 
+  "depth": "", 
   "dimensions": "image: 435 x 546 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "546", 
   "id": 13881, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 3, 
-  "title": "Darkling Thrush"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13546, 
+                "name": "Hardy, Thomas, 'The Darkling Thrush'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01871_8.jpg", 
+  "title": "Darkling Thrush", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stevens-darkling-thrush-p01871", 
+  "width": "435"
 }

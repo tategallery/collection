@@ -1,6 +1,5 @@
 {
   "acno": "D18382", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18311-D18425; D18428-D18470; D18477-D18478; D41237", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1824"
   }, 
   "dateText": "c.1824", 
+  "depth": "", 
   "dimensions": "support: 118 x 75 mm", 
-  "displayLocation": null, 
   "finberg": "CCX 44", 
   "foreignTitle": null, 
   "groupTitle": "Brighton and Arundel Sketchbook [Finberg CCX]", 
+  "height": "75", 
   "id": 45737, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 93, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "River, with Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18382_8.jpg", 
+  "title": "River, with Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-distant-hills-d18382", 
+  "width": "118"
 }

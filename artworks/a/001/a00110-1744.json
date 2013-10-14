@@ -1,6 +1,5 @@
 {
   "acno": "A00110", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "?c.1861"
   }, 
   "dateText": "?c.1861", 
+  "depth": "", 
   "dimensions": "support: 210 x 225 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "225", 
   "id": 1744, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,79 @@
       "workCount": 405
     }
   ], 
-  "popularity": 48, 
   "subjectCount": 4, 
-  "title": "Sketch of Two Seated Figures for ?'The Backgammon Players'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8342, 
+                "name": "backgammon", 
+                "workCount": 2
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00110_8.jpg", 
+  "title": "Sketch of Two Seated Figures for ?'The Backgammon Players'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-sketch-of-two-seated-figures-for-the-backgammon-players-a00110", 
+  "width": "210"
 }

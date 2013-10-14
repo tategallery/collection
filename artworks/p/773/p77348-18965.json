@@ -1,6 +1,5 @@
 {
   "acno": "P77348", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1947"
   }, 
   "dateText": "1947", 
+  "depth": "", 
   "dimensions": "image: 300 x 222 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Correspondances dangereuses", 
   "groupTitle": null, 
+  "height": "222", 
   "id": 18965, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
@@ -41,7 +41,48 @@
       "workCount": 98
     }
   ], 
-  "popularity": 423, 
   "subjectCount": 2, 
-  "title": "Dangerous Correspondances"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77348_8.jpg", 
+  "title": "Dangerous Correspondances", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ernst-dangerous-correspondances-p77348", 
+  "width": "300"
 }

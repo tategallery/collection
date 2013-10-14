@@ -1,6 +1,5 @@
 {
   "acno": "D06791", 
-  "addlImageCount": 0, 
   "catTextResId": 1130884, 
   "catalogueGroup": {
     "accessionRanges": "D06721-D06829; D40666-D40668", 
@@ -28,17 +27,47 @@
     "text": "c.1808"
   }, 
   "dateText": "c.1808", 
+  "depth": "", 
   "dimensions": "support: 76 x 115 mm", 
-  "displayLocation": null, 
   "finberg": "CII 36 a", 
   "foreignTitle": null, 
   "groupTitle": "Greenwich Sketchbook [Finberg CII]", 
+  "height": "115", 
   "id": 34181, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "popularity": 8, 
   "subjectCount": 1, 
-  "title": "Details of a Boat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1207, 
+                "name": "boat, barge", 
+                "workCount": 434
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06791_8.jpg", 
+  "title": "Details of a Boat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-details-of-a-boat-d06791", 
+  "width": "76"
 }

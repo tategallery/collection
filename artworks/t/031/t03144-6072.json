@@ -1,6 +1,5 @@
 {
   "acno": "T03144", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "89", 
   "dimensions": "object: 343 x 190 x 89 mm", 
-  "displayLocation": {
-    "name": "Barbara Hepworth Museum and Sculpture Garden", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "190", 
   "id": 6072, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -44,7 +41,55 @@
       "workCount": 409
     }
   ], 
-  "popularity": 385, 
   "subjectCount": 2, 
-  "title": "Square Forms"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03144_8.jpg", 
+  "title": "Square Forms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-square-forms-t03144", 
+  "width": "343"
 }

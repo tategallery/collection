@@ -1,6 +1,5 @@
 {
   "acno": "P11938", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,59 +20,93 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "image: 341 x 228 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "228", 
   "id": 78442, 
-  "images": [
-    {
-      "copyright": "\u00a9 Estate of Ian Hamilton Finlay", 
-      "filenameBase": "P11938_281209", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P11/P11938_281209_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 87
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P11/P11938_281209_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 174
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P11/P11938_281209_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 348
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P11/P11938_281209_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1044
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 40, 
   "subjectCount": 5, 
-  "title": "L'Embarquement pour l'Ile de Cyth\u00e8re - Homage to Watteau"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6376, 
+                "name": "French text", 
+                "workCount": 36
+              }, 
+              {
+                "id": 4207, 
+                "name": "dedication", 
+                "workCount": 16
+              }, 
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16884, 
+                "name": "Watteau, painting, 'L'Embarquement de Cythere'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 10639, 
+            "name": "fine art and design, named works", 
+            "workCount": 1052
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11938_8.jpg", 
+  "title": "L'Embarquement pour l'Ile de Cyth\u00e8re - Homage to Watteau", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-lembarquement-pour-lile-de-cythere-homage-to-watteau-p11938", 
+  "width": "341"
 }

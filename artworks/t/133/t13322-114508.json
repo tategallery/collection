@@ -1,6 +1,5 @@
 {
   "acno": "T13322", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1954"
   }, 
   "dateText": "1954", 
+  "depth": "118", 
   "dimensions": "object: 911 x 913 x 118 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "913", 
   "id": 114508, 
   "inscription": null, 
   "medium": "Wood and emulsion paint", 
@@ -44,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 476, 
   "subjectCount": 2, 
-  "title": "Expanding Form"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13322_8.jpg", 
+  "title": "Expanding Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-expanding-form-t13322", 
+  "width": "911"
 }

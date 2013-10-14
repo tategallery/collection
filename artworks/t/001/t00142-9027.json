@@ -1,6 +1,5 @@
 {
   "acno": "T00142", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,100 @@
     "text": "1955"
   }, 
   "dateText": "1955", 
+  "depth": "", 
   "dimensions": "support: 508 x 610 mm\r\nframe: 689 x 789 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "610", 
   "id": 9027, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 592, 
   "subjectCount": 5, 
-  "title": "A Young Man"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1841, 
+                "name": "male", 
+                "workCount": 151
+              }
+            ], 
+            "id": 1789, 
+            "name": "portraits: unidentified", 
+            "workCount": 277
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 2342, 
+                "name": "mental illness", 
+                "workCount": 31
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 846, 
+                "name": "suit", 
+                "workCount": 126
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00142_8.jpg", 
+  "title": "A Young Man", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lowry-a-young-man-t00142", 
+  "width": "508"
 }

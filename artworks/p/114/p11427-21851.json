@@ -1,6 +1,5 @@
 {
   "acno": "P11427", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11422-P11436", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "", 
   "dimensions": "image: 195 x 333 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Other Men's Flowers", 
+  "height": "333", 
   "id": 21851, 
   "inscription": null, 
   "medium": "Letterpress on paper", 
@@ -47,7 +47,36 @@
       "workCount": 232
     }
   ], 
-  "popularity": 152, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1876, 
+                "name": "fish", 
+                "workCount": 140
+              }
+            ], 
+            "id": 65, 
+            "name": "animals: fish and aquatic life", 
+            "workCount": 243
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11427_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fairhurst-no-title-p11427", 
+  "width": "195"
 }

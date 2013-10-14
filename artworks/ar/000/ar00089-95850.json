@@ -1,6 +1,5 @@
 {
   "acno": "AR00089", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,112 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "990", 
   "dimensions": "displayed: 860 x 1450 x 990 mm\r\nobject (vitrine): 200 x 690 x 470 mm\r\nobject (table): 660 x 760 x 520 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1450", 
   "id": 95850, 
-  "images": [
-    {
-      "copyright": "\u00a9 DACS, 2009", 
-      "filenameBase": "AR00089_301221", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00089_301221_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 87
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00089_301221_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 173
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00089_301221_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 493
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "AR/AR00089_301221_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1038
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Palm fronds, blossom, sulphur, cardboard, metal and glass", 
   "movementCount": 0, 
-  "popularity": 155, 
   "subjectCount": 6, 
-  "title": "Domenica delle Palme"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17860, 
+                "name": "Palm Sunday", 
+                "workCount": 3
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery", 
+            "workCount": 527
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2270, 
+                "name": "blossom", 
+                "workCount": 34
+              }, 
+              {
+                "id": 1831, 
+                "name": "palm", 
+                "workCount": 109
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }, 
+          {
+            "children": [
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 18681, 
+                "name": "sulphur", 
+                "workCount": 1
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00089_8.jpg", 
+  "title": "Domenica delle Palme", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-domenica-delle-palme-ar00089", 
+  "width": "860"
 }

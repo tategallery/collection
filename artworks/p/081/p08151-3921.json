@@ -1,6 +1,5 @@
 {
   "acno": "P08151", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "unconfirmed: 152 x 137 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "137", 
   "id": 3921, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on plastic", 
@@ -41,7 +41,36 @@
       "workCount": 248
     }
   ], 
-  "popularity": 209, 
   "subjectCount": 1, 
-  "title": "Welcome Home Rare Birds"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3598, 
+                "name": "heart", 
+                "workCount": 25
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08151_8.jpg", 
+  "title": "Welcome Home Rare Birds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-welcome-home-rare-birds-p08151", 
+  "width": "152"
 }

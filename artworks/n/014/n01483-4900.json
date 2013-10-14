@@ -1,6 +1,5 @@
 {
   "acno": "N01483", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "c.1775-85"
   }, 
   "dateText": "c.1775-85", 
+  "depth": "", 
   "dimensions": "support: 610 x 508 mm\r\nframe: 800 x 702 x 80 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 4900, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 382, 
   "subjectCount": 2, 
-  "title": "Tristram and Fox"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15787, 
+                "name": "dog, Spitz", 
+                "workCount": 1
+              }, 
+              {
+                "id": 1002, 
+                "name": "dog, spaniel", 
+                "workCount": 17
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01483_8.jpg", 
+  "title": "Tristram and Fox", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gainsborough-tristram-and-fox-n01483", 
+  "width": "610"
 }

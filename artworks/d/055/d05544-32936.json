@@ -1,6 +1,5 @@
 {
   "acno": "D05544", 
-  "addlImageCount": 0, 
   "catTextResId": 1129857, 
   "catalogueGroup": {
     "accessionRanges": "D05491-D05617; D40568-D40574; D41505", 
@@ -28,17 +27,64 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 150 x 258 mm", 
-  "displayLocation": null, 
   "finberg": "XC 35 a", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Pictures: Isleworth Sketchbook [Finberg XC]", 
+  "height": "258", 
   "id": 32936, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "popularity": 10, 
   "subjectCount": 3, 
-  "title": "Classical Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05544_8.jpg", 
+  "title": "Classical Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-classical-buildings-d05544", 
+  "width": "150"
 }

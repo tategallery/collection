@@ -1,6 +1,5 @@
 {
   "acno": "D05169", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05166; D05168-D05244; D40640-D40649", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1800-7"
   }, 
   "dateText": "c.1800-7", 
+  "depth": "", 
   "dimensions": "support: 119 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXIV 4", 
   "foreignTitle": null, 
   "groupTitle": "Academies Sketchbook [Finberg LXXXIV]", 
+  "height": "73", 
   "id": 32561, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 44, 
   "subjectCount": 4, 
-  "title": "A Nude Male, Seated"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands", 
+                "workCount": 234
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05169_8.jpg", 
+  "title": "A Nude Male, Seated", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-nude-male-seated-d05169", 
+  "width": "119"
 }

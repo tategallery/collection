@@ -1,6 +1,5 @@
 {
   "acno": "D06120", 
-  "addlImageCount": 0, 
   "catTextResId": 1130301, 
   "catalogueGroup": {
     "accessionRanges": "D06072-D06178; D40655-D40658", 
@@ -28,17 +27,47 @@
     "text": "c.1806-8"
   }, 
   "dateText": "c.1806-8", 
+  "depth": "", 
   "dimensions": "support: 107 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVII 47", 
   "foreignTitle": null, 
   "groupTitle": "Windsor and Eton Sketchbook [Finberg XCVII]", 
+  "height": "182", 
   "id": 33511, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 95, 
-  "popularity": 20, 
   "subjectCount": 1, 
-  "title": "Cows"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 569, 
+                "name": "cow", 
+                "workCount": 719
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06120_8.jpg", 
+  "title": "Cows", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cows-d06120", 
+  "width": "107"
 }

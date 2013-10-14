@@ -1,6 +1,5 @@
 {
   "acno": "T07809", 
-  "addlImageCount": 0, 
   "catTextResId": 1139026, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "?1920s"
   }, 
   "dateText": "?1920s", 
+  "depth": "18", 
   "dimensions": "support: 550 x 460 x 18 mm\r\nframe: 678 x 588 x 45 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "460", 
   "id": 66703, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,98 @@
       "workCount": 56
     }
   ], 
-  "popularity": 290, 
   "subjectCount": 5, 
-  "title": "Flowers in a Jug"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07809_8.jpg", 
+  "title": "Flowers in a Jug", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sands-flowers-in-a-jug-t07809", 
+  "width": "550"
 }

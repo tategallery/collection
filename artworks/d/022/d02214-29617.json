@@ -1,6 +1,5 @@
 {
   "acno": "D02214", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02178-D02235; D41264-D41265; D41466-D41467", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,125 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 335 x 433 mm", 
-  "displayLocation": null, 
   "finberg": "XLVII 37", 
   "foreignTitle": null, 
   "groupTitle": "Fonthill Sketchbook [Finberg XLVII]", 
+  "height": "433", 
   "id": 29617, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 118, 
   "subjectCount": 7, 
-  "title": "View of Oxford from Headington Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1090, 
+                "name": "Oxford - non-specific", 
+                "workCount": 42
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire", 
+                "workCount": 265
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4527, 
+                "name": "spire", 
+                "workCount": 903
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02214_8.jpg", 
+  "title": "View of Oxford from Headington Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-oxford-from-headington-hill-d02214", 
+  "width": "335"
 }

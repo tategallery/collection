@@ -1,6 +1,5 @@
 {
   "acno": "D14070", 
-  "addlImageCount": 0, 
   "catTextResId": 1142928, 
   "catalogueGroup": {
     "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
@@ -28,17 +27,95 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIII 50", 
   "foreignTitle": null, 
   "groupTitle": "Paris, France, Savoy 2 Sketchbook [Finberg CLXXIII]", 
+  "height": "185", 
   "id": 41433, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 103, 
-  "popularity": 4, 
   "subjectCount": 5, 
-  "title": "Place de l'Antiquaille, Lyon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14070_8.jpg", 
+  "title": "Place de l'Antiquaille, Lyon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-place-de-lantiquaille-lyon-d14070", 
+  "width": "114"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04222", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04216-P04225", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 603 x 480 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tool Box", 
+  "height": "480", 
   "id": 3914, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,72 @@
       "workCount": 248
     }
   ], 
-  "popularity": 160, 
   "subjectCount": 4, 
-  "title": "Tool Box 7"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15953, 
+                "name": "funnel", 
+                "workCount": 4
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }, 
+          {
+            "children": [
+              {
+                "id": 19562, 
+                "name": "handle", 
+                "workCount": 2
+              }, 
+              {
+                "id": 17495, 
+                "name": "safety pin", 
+                "workCount": 6
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04222_8.jpg", 
+  "title": "Tool Box 7", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-tool-box-7-p04222", 
+  "width": "603"
 }

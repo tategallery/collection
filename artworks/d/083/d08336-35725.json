@@ -1,6 +1,5 @@
 {
   "acno": "D08336", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1809-14"
   }, 
   "dateText": "c.1809-14", 
+  "depth": "", 
   "dimensions": "support: 69 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXXII 34", 
   "foreignTitle": null, 
   "groupTitle": "Finance Sketchbook [Finberg CXXII]", 
+  "height": "112", 
   "id": 35725, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 69, 
-  "popularity": 7, 
   "subjectCount": 2, 
-  "title": "Group of Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08336_8_R.jpg", 
+  "title": "Group of Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-buildings-d08336", 
+  "width": "69"
 }

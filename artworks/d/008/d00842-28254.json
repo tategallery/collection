@@ -1,6 +1,5 @@
 {
   "acno": "D00842", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,119 @@
     "text": "1796"
   }, 
   "dateText": "1796", 
+  "depth": "", 
   "dimensions": "support: 110 x 129 mm", 
-  "displayLocation": null, 
   "finberg": "XXX 96 a", 
   "foreignTitle": null, 
   "groupTitle": "Studies near Brighton Sketchbook [Finberg XXX]", 
+  "height": "129", 
   "id": 28254, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 189, 
-  "popularity": 68, 
   "subjectCount": 7, 
-  "title": "A Family Seen from Behind; A Man with a Bundle and a Woman Carrying an Infant Holding the Hand of a Small Girl"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 531, 
+                "name": "baby", 
+                "workCount": 425
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 276, 
+                "name": "carrying", 
+                "workCount": 482
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8493, 
+                "name": "bundle", 
+                "workCount": 43
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6907, 
+                "name": "family", 
+                "workCount": 169
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00842_8.jpg", 
+  "title": "A Family Seen from Behind; A Man with a Bundle and a Woman Carrying an Infant Holding the Hand of a Small Girl", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-family-seen-from-behind-a-man-with-a-bundle-and-a-woman-carrying-an-infant-holding-the-hand-of-a-small-girl-d00842", 
+  "width": "110"
 }

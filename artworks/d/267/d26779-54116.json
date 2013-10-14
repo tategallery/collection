@@ -1,6 +1,5 @@
 {
   "acno": "D26779", 
-  "addlImageCount": 0, 
   "catTextResId": 1135137, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
@@ -28,17 +27,57 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 116 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIII 19 a", 
   "foreignTitle": null, 
   "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "height": "186", 
   "id": 54116, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 40, 
-  "popularity": 14, 
   "subjectCount": 3, 
-  "title": "Staffa with Fingal's Cave from the South and South-West"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave", 
+                "workCount": 118
+              }, 
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26779_8.jpg", 
+  "title": "Staffa with Fingal's Cave from the South and South-West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-staffa-with-fingals-cave-from-the-south-and-south-west-d26779", 
+  "width": "116"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D01191", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1796-7"
   }, 
   "dateText": "1796-7", 
+  "depth": "", 
   "dimensions": "support: 113 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVII 74", 
   "foreignTitle": null, 
   "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "height": "93", 
   "id": 28600, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Cloudy Sky above Fields, Trees and Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01191_8_R.jpg", 
+  "title": "Cloudy Sky above Fields, Trees and Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cloudy-sky-above-fields-trees-and-buildings-d01191", 
+  "width": "113"
 }

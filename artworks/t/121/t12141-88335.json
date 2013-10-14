@@ -1,6 +1,5 @@
 {
   "acno": "T12141", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "", 
   "dimensions": "object: 530 x 1228 x 438 mm, 150.5 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 88335, 
   "inscription": null, 
   "medium": "Bronze on stone base", 
@@ -41,7 +41,87 @@
       "workCount": 478
     }
   ], 
-  "popularity": 86, 
   "subjectCount": 7, 
-  "title": "Flute"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2974, 
+                "name": "ambiguity", 
+                "workCount": 106
+              }, 
+              {
+                "id": 5719, 
+                "name": "danger", 
+                "workCount": 40
+              }, 
+              {
+                "id": 1704, 
+                "name": "irony", 
+                "workCount": 184
+              }, 
+              {
+                "id": 5930, 
+                "name": "transformation", 
+                "workCount": 145
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6412, 
+                "name": "gun, machine gun", 
+                "workCount": 17
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }, 
+          {
+            "children": [
+              {
+                "id": 1280, 
+                "name": "instrument, flute", 
+                "workCount": 16
+              }, 
+              {
+                "id": 856, 
+                "name": "plinth", 
+                "workCount": 59
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12141_8.jpg", 
+  "title": "Flute", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-flute-t12141", 
+  "width": ""
 }

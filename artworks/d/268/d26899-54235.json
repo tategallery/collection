@@ -1,6 +1,5 @@
 {
   "acno": "D26899", 
-  "addlImageCount": 0, 
   "catTextResId": 1135256, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
@@ -28,17 +27,69 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 186 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIII 80 a", 
   "foreignTitle": null, 
   "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "height": "116", 
   "id": 54235, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 162, 
-  "popularity": 34, 
   "subjectCount": 4, 
-  "title": "Landscape With Distant Hills (?Near Oban); and Continuation of Dunstaffnage Castle from Loch Etive"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26899_8.jpg", 
+  "title": "Landscape With Distant Hills (?Near Oban); and Continuation of Dunstaffnage Castle from Loch Etive", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-distant-hills-near-oban-and-continuation-of-dunstaffnage-castle-from-loch-etive-d26899", 
+  "width": "186"
 }

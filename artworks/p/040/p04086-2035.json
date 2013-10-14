@@ -1,6 +1,5 @@
 {
   "acno": "P04086", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 711 x 937 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "937", 
   "id": 2035, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,41 @@
       "workCount": 846
     }
   ], 
-  "popularity": 172, 
   "subjectCount": 2, 
-  "title": "Found Objects"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone", 
+                "workCount": 72
+              }, 
+              {
+                "id": 1297, 
+                "name": "wood", 
+                "workCount": 49
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04086_8.jpg", 
+  "title": "Found Objects", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-found-objects-p04086", 
+  "width": "711"
 }

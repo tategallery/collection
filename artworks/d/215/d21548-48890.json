@@ -1,6 +1,5 @@
 {
   "acno": "D21548", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21412-D21536; D21538-D21587; D40997-D40998", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 143 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIII 72", 
   "foreignTitle": null, 
   "groupTitle": "Genoa and Florence Sketchbook [Finberg CCXXXIII]", 
+  "height": "97", 
   "id": 48890, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 145, 
-  "popularity": 4, 
   "subjectCount": 4, 
-  "title": "Town, with Walls and Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21548_8_R.jpg", 
+  "title": "Town, with Walls and Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-with-walls-and-tower-d21548", 
+  "width": "143"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T11563", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08083-T08094; T11535-T11614", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,55 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 89 x 128 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Patrick Allan Fraser Album", 
+  "height": "128", 
   "id": 25676, 
   "inscription": null, 
   "medium": "Etching and engraving on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Raven, Crowes and Magpyes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5674, 
+                "name": "crow", 
+                "workCount": 16
+              }, 
+              {
+                "id": 7660, 
+                "name": "magpie", 
+                "workCount": 9
+              }, 
+              {
+                "id": 6775, 
+                "name": "raven", 
+                "workCount": 5
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11563_8.jpg", 
+  "title": "Raven, Crowes and Magpyes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/barlow-raven-crowes-and-magpyes-t11563", 
+  "width": "89"
 }

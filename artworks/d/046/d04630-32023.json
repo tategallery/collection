@@ -1,6 +1,5 @@
 {
   "acno": "D04630", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,88 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 473 x 315 mm", 
-  "displayLocation": null, 
   "finberg": "LXXV 38", 
   "foreignTitle": null, 
   "groupTitle": "St Gothard and Mont Blanc Sketchbook [Finberg LXXV]", 
+  "height": "315", 
   "id": 32023, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 81, 
-  "popularity": 109, 
   "subjectCount": 5, 
-  "title": "St Gothard Pass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass", 
+                "workCount": 41
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04630_8.jpg", 
+  "title": "St Gothard Pass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-gothard-pass-d04630", 
+  "width": "473"
 }

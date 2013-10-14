@@ -1,6 +1,5 @@
 {
   "acno": "P06258", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 591 x 822 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "822", 
   "id": 6012, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 75, 
   "subjectCount": 1, 
-  "title": "Sea Forms"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06258_8.jpg", 
+  "title": "Sea Forms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-sea-forms-p06258", 
+  "width": "591"
 }

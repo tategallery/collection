@@ -1,6 +1,5 @@
 {
   "acno": "D27842", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27792-D27832; D27834-D27845; D41445", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 139 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXII 41 a", 
   "foreignTitle": null, 
   "groupTitle": "The Fire at Sea Sketchbook [Finberg CCLXXXII]", 
+  "height": "228", 
   "id": 55161, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
   "pageNumber": 84, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "A Happy Couple"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 600, 
+                "name": "couple", 
+                "workCount": 199
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships", 
+            "workCount": 742
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27842_8.jpg", 
+  "title": "A Happy Couple", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-happy-couple-d27842", 
+  "width": "139"
 }

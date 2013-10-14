@@ -1,6 +1,5 @@
 {
   "acno": "D23751", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D23699-D23885; D41080-D41081", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "?1829"
   }, 
   "dateText": "?1829", 
+  "depth": "", 
   "dimensions": "support: 156 x 107 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIII 27 a", 
   "foreignTitle": null, 
   "groupTitle": "Tancarville and Lillebonne Sketchbook [Finberg CCLIII]", 
+  "height": "107", 
   "id": 51088, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 56, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "Castle on Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23751_8.jpg", 
+  "title": "Castle on Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-on-hill-d23751", 
+  "width": "156"
 }

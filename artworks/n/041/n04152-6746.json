@@ -1,6 +1,5 @@
 {
   "acno": "N04152", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1860"
   }, 
   "dateText": "c.1860", 
+  "depth": "", 
   "dimensions": "support: 241 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "190", 
   "id": 6746, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,117 @@
       "workCount": 125
     }
   ], 
-  "popularity": 122, 
   "subjectCount": 6, 
-  "title": "Lady with a Book"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 927, 
+                "name": "book - non-specific", 
+                "workCount": 334
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 1380, 
+                "name": "earring", 
+                "workCount": 31
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation", 
+                "workCount": 128
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4593, 
+                "name": "head in hand/hands", 
+                "workCount": 234
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1566, 
+                "name": "reading", 
+                "workCount": 274
+              }
+            ], 
+            "id": 52, 
+            "name": "recreational activities", 
+            "workCount": 1042
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04152_8.jpg", 
+  "title": "Lady with a Book", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/houghton-lady-with-a-book-n04152", 
+  "width": "241"
 }

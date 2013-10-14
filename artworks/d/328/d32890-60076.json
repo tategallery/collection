@@ -1,6 +1,5 @@
 {
   "acno": "D32890", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32881; D32883-D32885; D32887-D32946; D32948-D32974; D32976-D33018; D33020-D33030; D33032-D33036; D41136", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVI 5 a", 
   "foreignTitle": null, 
   "groupTitle": "Berne, Heidelberg and Rhine Sketchbook [Finberg CCCXXVI]", 
+  "height": "111", 
   "id": 60076, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 12, 
-  "popularity": 5, 
   "subjectCount": 1, 
-  "title": "Cathedral and Platform"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32890_8_R.jpg", 
+  "title": "Cathedral and Platform", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cathedral-and-platform-d32890", 
+  "width": "181"
 }

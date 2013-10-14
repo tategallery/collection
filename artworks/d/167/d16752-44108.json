@@ -1,6 +1,5 @@
 {
   "acno": "D16752", 
-  "addlImageCount": 0, 
   "catTextResId": 1142652, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,76 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 98 x 128 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 62", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "128", 
   "id": 44108, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "popularity": 16, 
   "subjectCount": 4, 
-  "title": "Interior of an Italian Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }, 
+              {
+                "id": 245, 
+                "name": "column", 
+                "workCount": 397
+              }, 
+              {
+                "id": 587, 
+                "name": "stair / step", 
+                "workCount": 376
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2943, 
+                "name": "cathedral", 
+                "workCount": 65
+              }
+            ], 
+            "id": 45, 
+            "name": "religious", 
+            "workCount": 332
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16752_8.jpg", 
+  "title": "Interior of an Italian Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-an-italian-building-d16752", 
+  "width": "98"
 }

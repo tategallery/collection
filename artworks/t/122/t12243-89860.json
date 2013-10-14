@@ -1,6 +1,5 @@
 {
   "acno": "T12243", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "27", 
   "dimensions": "support: 2133 x 2554 x 27 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2554", 
   "id": 89860, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 2, 
-  "title": "Untitled [8/71]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12243_8.jpg", 
+  "title": "Untitled [8/71]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moon-untitled-871-t12243", 
+  "width": "2133"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T01175", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "340", 
   "dimensions": "displayed: 1568 x 1940 x 340 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1940", 
   "id": 1029, 
   "inscription": "date inscribed", 
   "medium": "Wood, glass, paper, plastic, fabric and other materials", 
@@ -41,7 +41,138 @@
       "workCount": 846
     }
   ], 
-  "popularity": 2097, 
   "subjectCount": 13, 
-  "title": "The Toy Shop"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1051, 
+                "name": "boat", 
+                "workCount": 22
+              }, 
+              {
+                "id": 1607, 
+                "name": "doll", 
+                "workCount": 34
+              }, 
+              {
+                "id": 1652, 
+                "name": "toy", 
+                "workCount": 13
+              }, 
+              {
+                "id": 1653, 
+                "name": "train", 
+                "workCount": 3
+              }
+            ], 
+            "id": 89, 
+            "name": "toys and models", 
+            "workCount": 246
+          }, 
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 2835, 
+                "name": "paintbrush", 
+                "workCount": 50
+              }, 
+              {
+                "id": 199, 
+                "name": "palette", 
+                "workCount": 55
+              }, 
+              {
+                "id": 1637, 
+                "name": "photograph", 
+                "workCount": 53
+              }, 
+              {
+                "id": 744, 
+                "name": "picture", 
+                "workCount": 130
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }, 
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 1473, 
+                "name": "shop", 
+                "workCount": 87
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01175_8.jpg", 
+  "title": "The Toy Shop", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-the-toy-shop-t01175", 
+  "width": "1568"
 }

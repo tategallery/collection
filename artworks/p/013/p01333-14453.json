@@ -1,6 +1,5 @@
 {
   "acno": "P01333", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,105 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 352 x 483 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "483", 
   "id": 14453, 
   "inscription": null, 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 80, 
   "subjectCount": 6, 
-  "title": "Bulldozer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4571, 
+                "name": "aircraft, civil", 
+                "workCount": 20
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air", 
+            "workCount": 144
+          }, 
+          {
+            "children": [
+              {
+                "id": 13740, 
+                "name": "bulldozer", 
+                "workCount": 1
+              }, 
+              {
+                "id": 5134, 
+                "name": "lorry", 
+                "workCount": 18
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4617, 
+                "name": "airport", 
+                "workCount": 12
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 1822, 
+                "name": "building site", 
+                "workCount": 82
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 4582, 
+                "name": "shed", 
+                "workCount": 38
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01333_8.jpg", 
+  "title": "Bulldozer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-bulldozer-p01333", 
+  "width": "352"
 }

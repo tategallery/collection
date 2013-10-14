@@ -1,6 +1,5 @@
 {
   "acno": "N05547", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1895"
   }, 
   "dateText": "c.1895", 
+  "depth": "", 
   "dimensions": "support: 724 x 597 mm\r\nframe: 869 x 736 x 69 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "597", 
   "id": 2560, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -51,7 +51,60 @@
       "workCount": 32
     }
   ], 
-  "popularity": 41, 
   "subjectCount": 3, 
-  "title": "Trees in a Meadow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05547_8.jpg", 
+  "title": "Trees in a Meadow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/conder-trees-in-a-meadow-n05547", 
+  "width": "724"
 }

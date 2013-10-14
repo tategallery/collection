@@ -1,6 +1,5 @@
 {
   "acno": "D21371", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21271-D21411; D41043-D41044", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 159 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXII 56 a", 
   "foreignTitle": null, 
   "groupTitle": "Coast of Genoa Sketchbook [Finberg CCXXXII]", 
+  "height": "98", 
   "id": 48714, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 114, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Harbour"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21371_8.jpg", 
+  "title": "Harbour", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-harbour-d21371", 
+  "width": "159"
 }

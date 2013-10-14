@@ -1,6 +1,5 @@
 {
   "acno": "AR00071", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1993"
   }, 
   "dateText": "1993", 
+  "depth": "", 
   "dimensions": "Overall display dimensions variable\r\n2450 x 1650 x 955mm (approx when displayed at NGS)", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 98216, 
   "inscription": null, 
   "medium": "Bronze bells, wooden beams and rope", 
   "movementCount": 0, 
-  "popularity": 256, 
   "subjectCount": 4, 
-  "title": "Bells"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13017, 
+                "name": "Christianity", 
+                "workCount": 9
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery", 
+            "workCount": 527
+          }, 
+          {
+            "children": [
+              {
+                "id": 5750, 
+                "name": "worship", 
+                "workCount": 61
+              }
+            ], 
+            "id": 5731, 
+            "name": "universal religious imagery", 
+            "workCount": 671
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18023, 
+                "name": "beam", 
+                "workCount": 2
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5406, 
+                "name": "instrument, bell", 
+                "workCount": 6
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00071_8.jpg", 
+  "title": "Bells", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-bells-ar00071", 
+  "width": "display"
 }

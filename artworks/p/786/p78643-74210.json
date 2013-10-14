@@ -1,6 +1,5 @@
 {
   "acno": "P78643", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78636-P78645", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1999-2000"
   }, 
   "dateText": "1999-2000", 
+  "depth": "", 
   "dimensions": "image: 295 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Blue Sisters, Structures of Deviance", 
+  "height": "210", 
   "id": 74210, 
   "inscription": null, 
   "medium": "Photo-etching, aquatint and etching on paper", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 2, 
-  "title": "Untitled"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78643_8.jpg", 
+  "title": "Untitled", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/federle-untitled-p78643", 
+  "width": "295"
 }

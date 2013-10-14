@@ -1,6 +1,5 @@
 {
   "acno": "D00699", 
-  "addlImageCount": 0, 
   "catTextResId": 1141099, 
   "catalogueGroup": {
     "accessionRanges": "D00327; D00328; D00330-D00344; D00347-D00354; D00358-D00366; D00369-D00372; D00377; D00378; D00402; D00403; D00405; D00662; D00664; D00699; D00700; D36581-D36583; D40040; D40041; D40235-D40238; D40271", 
@@ -28,16 +27,77 @@
     "text": "?1794"
   }, 
   "dateText": "?1794", 
+  "depth": "", 
   "dimensions": "support: 280 x 214 mm", 
-  "displayLocation": null, 
   "finberg": "XXVIII N", 
   "foreignTitle": null, 
   "groupTitle": "Drawings Made on the Midland Tour", 
+  "height": "214", 
   "id": 28114, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 31, 
   "subjectCount": 3, 
-  "title": "A Watermill and Farm Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }, 
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00699_8.jpg", 
+  "title": "A Watermill and Farm Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-watermill-and-farm-buildings-d00699", 
+  "width": "280"
 }

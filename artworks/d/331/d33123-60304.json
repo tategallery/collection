@@ -1,6 +1,5 @@
 {
   "acno": "D33123", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33089-D33121; D33123-D33124; D33126-D33128; D33130-D33131; D41100-D41101", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,97 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 165 x 74 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVIII 18", 
   "foreignTitle": null, 
   "groupTitle": "Lucerne and Berne Sketchbook [Finberg CCCXXVIII]", 
+  "height": "74", 
   "id": 60304, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "Lucerne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5623, 
+                "name": "Lucerne - non-specific", 
+                "workCount": 45
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33123_8.jpg", 
+  "title": "Lucerne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lucerne-d33123", 
+  "width": "165"
 }

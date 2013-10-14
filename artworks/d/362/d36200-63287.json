@@ -1,6 +1,5 @@
 {
   "acno": "D36200", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,58 @@
     "text": "after c.1830"
   }, 
   "dateText": "after c.1830", 
+  "depth": "", 
   "dimensions": "support: 245 x 345 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXIV 340", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "345", 
   "id": 63287, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 32, 
   "subjectCount": 2, 
-  "title": "Red Sunset on Lake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36200_8.jpg", 
+  "title": "Red Sunset on Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-red-sunset-on-lake-d36200", 
+  "width": "245"
 }

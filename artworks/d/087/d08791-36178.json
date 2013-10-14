@@ -1,6 +1,5 @@
 {
   "acno": "D08791", 
-  "addlImageCount": 0, 
   "catTextResId": 1137270, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
@@ -28,17 +27,47 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 75 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXXIII 241", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "height": "117", 
   "id": 36178, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 489, 
-  "popularity": 16, 
   "subjectCount": 1, 
-  "title": "The Ruins of the Holy Ghost Chapel, Basingstoke"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08791_8_R.jpg", 
+  "title": "The Ruins of the Holy Ghost Chapel, Basingstoke", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-ruins-of-the-holy-ghost-chapel-basingstoke-d08791", 
+  "width": "75"
 }

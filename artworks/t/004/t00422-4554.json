@@ -1,6 +1,5 @@
 {
   "acno": "T00422", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1946"
   }, 
   "dateText": "1946", 
+  "depth": "", 
   "dimensions": "support: 610 x 502 mm\r\nframe: 800 x 690 x 80 mm, 8.2 kg", 
-  "displayLocation": {
-    "name": "Kunsthistorisches Museum Wien (Vienna, Austria)", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "502", 
   "id": 4554, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,117 @@
       "workCount": 377
     }
   ], 
-  "popularity": 1153, 
   "subjectCount": 6, 
-  "title": "Man with a Thistle (Self-Portrait)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3449, 
+                "name": "Freud, Lucian", 
+                "workCount": 1
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3462, 
+                "name": "thistle", 
+                "workCount": 13
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 529, 
+                "name": "window", 
+                "workCount": 509
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00422_8.jpg", 
+  "title": "Man with a Thistle (Self-Portrait)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freud-man-with-a-thistle-self-portrait-t00422", 
+  "width": "610"
 }

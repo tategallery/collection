@@ -1,6 +1,5 @@
 {
   "acno": "D05361", 
-  "addlImageCount": 0, 
   "catTextResId": 1133592, 
   "catalogueGroup": {
     "accessionRanges": "D05351-D05375; D40273; D40342-D40343", 
@@ -28,17 +27,107 @@
     "text": "1810"
   }, 
   "dateText": "1810", 
+  "depth": "", 
   "dimensions": "support: 258 x 370 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVI 8", 
   "foreignTitle": null, 
   "groupTitle": "Harvest Home Sketchbook [Finberg LXXXVI]", 
+  "height": "370", 
   "id": 32753, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 63, 
   "subjectCount": 6, 
-  "title": "Tonbridge Castle, Kent: Gilbert de Clare and the Keep from the Moat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 2314, 
+                "name": "willow", 
+                "workCount": 23
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05361_8.jpg", 
+  "title": "Tonbridge Castle, Kent: Gilbert de Clare and the Keep from the Moat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tonbridge-castle-kent-gilbert-de-clare-and-the-keep-from-the-moat-d05361", 
+  "width": "258"
 }

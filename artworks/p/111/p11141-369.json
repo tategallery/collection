@@ -1,6 +1,5 @@
 {
   "acno": "P11141", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11135-P11154", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1976"
   }, 
   "dateText": "1976", 
+  "depth": "", 
   "dimensions": "image: 220 x 180 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "E.A. Poe: Tales and Poems", 
+  "height": "180", 
   "id": 369, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,91 @@
       "workCount": 98
     }
   ], 
-  "popularity": 196, 
   "subjectCount": 5, 
-  "title": "A Dream Within a Dream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8488, 
+                "name": "Poe, Edgar Allan, 'A Dream within a Dream'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6368, 
+                "name": "hour glass", 
+                "workCount": 12
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6743, 
+                "name": "illogicality", 
+                "workCount": 17
+              }, 
+              {
+                "id": 4312, 
+                "name": "time", 
+                "workCount": 49
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11141_8.jpg", 
+  "title": "A Dream Within a Dream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/abrahams-a-dream-within-a-dream-p11141", 
+  "width": "220"
 }

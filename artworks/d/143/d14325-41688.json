@@ -1,6 +1,5 @@
 {
   "acno": "D14325", 
-  "addlImageCount": 0, 
   "catTextResId": 1142846, 
   "catalogueGroup": {
     "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 111 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIV 92 a", 
   "foreignTitle": null, 
   "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook [Finberg CLXXIV]", 
+  "height": "186", 
   "id": 41688, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 188, 
-  "popularity": 15, 
   "subjectCount": 1, 
-  "title": "Four Sketches of Mountains, ?near the Simplon Pass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14325_8.jpg", 
+  "title": "Four Sketches of Mountains, ?near the Simplon Pass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-four-sketches-of-mountains-near-the-simplon-pass-d14325", 
+  "width": "111"
 }

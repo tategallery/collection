@@ -1,6 +1,5 @@
 {
   "acno": "D06987", 
-  "addlImageCount": 0, 
   "catTextResId": 1134504, 
   "catalogueGroup": {
     "accessionRanges": "D06984-D07126; D07128-D07131; D40628-D40630; D40638", 
@@ -28,17 +27,78 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CV 4", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.3 Sketchbook [Finberg CV]", 
+  "height": "185", 
   "id": 34377, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "?Tabley: Bridge to the Old Hall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06987_8.jpg", 
+  "title": "?Tabley: Bridge to the Old Hall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tabley-bridge-to-the-old-hall-d06987", 
+  "width": "108"
 }

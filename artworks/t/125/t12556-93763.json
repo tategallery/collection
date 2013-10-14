@@ -1,6 +1,5 @@
 {
   "acno": "T12556", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "620 x 801 x 18 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "18", 
   "id": 93763, 
-  "images": [
-    {
-      "copyright": "\u00a9 Braco Dimitrijevic", 
-      "filenameBase": "T12556_289010", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12556_289010_7.jpg", 
-          "height": 104, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12556_289010_8.jpg", 
-          "height": 208, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12556_289010_9.jpg", 
-          "height": 592, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12556_289010_10.jpg", 
-          "height": 1246, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Marble", 
   "movementCount": 1, 
@@ -85,7 +41,79 @@
       "workCount": 478
     }
   ], 
-  "popularity": 297, 
   "subjectCount": 4, 
-  "title": "This Could be a Place of Historical Importance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6867, 
+                "name": "notice", 
+                "workCount": 17
+              }, 
+              {
+                "id": 2651, 
+                "name": "tablet", 
+                "workCount": 9
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2016, 
+                "name": "phrase", 
+                "workCount": 77
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5014, 
+                "name": "signage", 
+                "workCount": 225
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12556_8.jpg", 
+  "title": "This Could be a Place of Historical Importance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dimitrijevic-this-could-be-a-place-of-historical-importance-t12556", 
+  "width": "801"
 }

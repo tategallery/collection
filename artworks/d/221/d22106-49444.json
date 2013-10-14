@@ -1,6 +1,5 @@
 {
   "acno": "D22106", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21975-D22012; D22014-D22150; D41045-D41046; D41540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 120 x 203 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVIII 67 a", 
   "foreignTitle": null, 
   "groupTitle": "Kenilworth Sketchbook [Finberg CCXXXVIII]", 
+  "height": "203", 
   "id": 49444, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 140, 
-  "popularity": 8, 
   "subjectCount": 4, 
-  "title": "Ruins of Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval", 
+                "workCount": 937
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 5212, 
+                "name": "military", 
+                "workCount": 1591
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22106_8_R.jpg", 
+  "title": "Ruins of Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-of-castle-d22106", 
+  "width": "120"
 }

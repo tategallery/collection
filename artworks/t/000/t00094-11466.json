@@ -1,6 +1,5 @@
 {
   "acno": "T00094", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1949"
   }, 
   "dateText": "1949", 
+  "depth": "", 
   "dimensions": "support: 508 x 406 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "406", 
   "id": 11466, 
   "inscription": null, 
   "medium": "Graphite, paper and printed paper on canvas", 
@@ -41,7 +41,79 @@
       "workCount": 70
     }
   ], 
-  "popularity": 268, 
   "subjectCount": 4, 
-  "title": "Abstract in White, Grey and Ochre"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6925, 
+                "name": "cubist space", 
+                "workCount": 83
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific", 
+                "workCount": 155
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00094_8.jpg", 
+  "title": "Abstract in White, Grey and Ochre", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pasmore-abstract-in-white-grey-and-ochre-t00094", 
+  "width": "508"
 }

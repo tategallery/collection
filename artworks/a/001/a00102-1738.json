@@ -1,6 +1,5 @@
 {
   "acno": "A00102", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Bequeathed by J.R. Holliday 1927", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 114 x 149 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "149", 
   "id": 1738, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -38,7 +38,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 53, 
   "subjectCount": 2, 
-  "title": "Figure Study"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00102_8.jpg", 
+  "title": "Figure Study", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-figure-study-a00102", 
+  "width": "114"
 }

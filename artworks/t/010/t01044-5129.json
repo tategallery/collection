@@ -1,6 +1,5 @@
 {
   "acno": "T01044", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1934"
   }, 
   "dateText": "1934", 
+  "depth": "", 
   "dimensions": "support: 762 x 559 mm\r\nframe: 956 x 754 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "559", 
   "id": 5129, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on board", 
@@ -41,7 +41,91 @@
       "workCount": 67
     }
   ], 
-  "popularity": 326, 
   "subjectCount": 5, 
-  "title": "Mandolinist"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 1219, 
+                "name": "legs crossed", 
+                "workCount": 116
+              }, 
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1878, 
+                "name": "instrument, mandolin", 
+                "workCount": 4
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10065, 
+                "name": "music", 
+                "workCount": 317
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01044_8.jpg", 
+  "title": "Mandolinist", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gertler-mandolinist-t01044", 
+  "width": "762"
 }

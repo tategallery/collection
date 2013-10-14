@@ -1,6 +1,5 @@
 {
   "acno": "T06808", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1913-4"
   }, 
   "dateText": "1913-4", 
+  "depth": "", 
   "dimensions": "support: 460 x 370 mm\r\nframe: 647 x 555 x 67 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "La Bouteille de rhum et le journal", 
   "groupTitle": null, 
+  "height": "370", 
   "id": 20866, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,110 @@
       "workCount": 44
     }
   ], 
-  "popularity": 925, 
   "subjectCount": 6, 
-  "title": "Bottle of Rum and Newspaper"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 2066, 
+                "name": "drink, rum", 
+                "workCount": 2
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 1286, 
+                "name": "newspaper - non-specific", 
+                "workCount": 155
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06808_8.jpg", 
+  "title": "Bottle of Rum and Newspaper", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gris-bottle-of-rum-and-newspaper-t06808", 
+  "width": "460"
 }

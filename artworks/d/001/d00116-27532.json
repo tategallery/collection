@@ -1,6 +1,5 @@
 {
   "acno": "D00116", 
-  "addlImageCount": 0, 
   "catTextResId": 1141315, 
   "catalogueGroup": {
     "accessionRanges": "D00116; D00117; D00126-D00129; D00148; D00162; D00178-D00180; D00182; D00183; D00190; D40221; D40225-D40227; D40267; D40547", 
@@ -28,16 +27,118 @@
     "text": "1792-3"
   }, 
   "dateText": "1792-3", 
+  "depth": "", 
   "dimensions": "support: 183 x 255 mm", 
-  "displayLocation": null, 
   "finberg": "VIII B", 
   "foreignTitle": null, 
   "groupTitle": "Pencil Drawings of Oxford and the Home Counties", 
+  "height": "255", 
   "id": 27532, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 167, 
   "subjectCount": 7, 
-  "title": "Oxford: Corpus Christi College and Merton Tower from the Back Gate of Christ Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 9007, 
+                "name": "Oxford, Corpus Christi College", 
+                "workCount": 2
+              }, 
+              {
+                "id": 9008, 
+                "name": "Oxford, Merton College", 
+                "workCount": 8
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 654, 
+                "name": "Oxfordshire", 
+                "workCount": 265
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic", 
+                "workCount": 987
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 1718, 
+                "name": "college", 
+                "workCount": 100
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00116_8.jpg", 
+  "title": "Oxford: Corpus Christi College and Merton Tower from the Back Gate of Christ Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-oxford-corpus-christi-college-and-merton-tower-from-the-back-gate-of-christ-church-d00116", 
+  "width": "183"
 }

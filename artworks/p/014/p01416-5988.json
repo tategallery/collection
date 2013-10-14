@@ -1,6 +1,5 @@
 {
   "acno": "P01416", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01416; P06005; P06108; P06130; P06241; P06324; P06346; P06359; P06399; P06457; P06519; P06700", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 514 x 473 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Penwith Portfolio", 
+  "height": "473", 
   "id": 5988, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,72 @@
       "workCount": 409
     }
   ], 
-  "popularity": 119, 
   "subjectCount": 4, 
-  "title": "Moon Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01416_8.jpg", 
+  "title": "Moon Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-moon-landscape-p01416", 
+  "width": "514"
 }

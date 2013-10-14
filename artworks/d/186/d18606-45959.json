@@ -1,6 +1,5 @@
 {
   "acno": "D18606", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18595-D18704; D40969-D40973", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 114 x 188 mm", 
-  "displayLocation": null, 
   "finberg": "CCXII 7", 
   "foreignTitle": null, 
   "groupTitle": "Thames Sketchbook [Finberg CCXII]", 
+  "height": "188", 
   "id": 45959, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 15, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Roadway, with Figures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18606_8_R.jpg", 
+  "title": "Roadway, with Figures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-roadway-with-figures-d18606", 
+  "width": "114"
 }

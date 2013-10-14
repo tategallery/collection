@@ -1,6 +1,5 @@
 {
   "acno": "T13345", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919"
   }, 
   "dateText": "1919", 
+  "depth": "", 
   "dimensions": "support: 318 x 230 mm", 
-  "displayLocation": null, 
   "foreignTitle": "R\u00e9veil Matin", 
   "groupTitle": null, 
+  "height": "230", 
   "id": 114918, 
   "inscription": null, 
   "medium": "Ink on paper", 
@@ -41,7 +41,79 @@
       "workCount": 22
     }
   ], 
-  "popularity": 1264, 
   "subjectCount": 4, 
-  "title": "Alarm Clock"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1886, 
+                "name": "clock", 
+                "workCount": 58
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }, 
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog", 
+                "workCount": 11
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13345_8.jpg", 
+  "title": "Alarm Clock", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/picabia-alarm-clock-t13345", 
+  "width": "318"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01825", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01825-P01830", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 258 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Ravel Suite", 
+  "height": "190", 
   "id": 11065, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
@@ -47,7 +47,67 @@
       "workCount": 846
     }
   ], 
-  "popularity": 67, 
   "subjectCount": 3, 
-  "title": "Aranjeux"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01825_8.jpg", 
+  "title": "Aranjeux", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-aranjeux-p01825", 
+  "width": "258"
 }

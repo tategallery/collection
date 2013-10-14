@@ -1,6 +1,5 @@
 {
   "acno": "D36400", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,87 @@
     "text": "1786 or 1800"
   }, 
   "dateText": "1786 or 1800", 
+  "depth": "", 
   "dimensions": "support: 80 x 120 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLXXII 41", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "120", 
   "id": 63485, 
   "inscription": null, 
   "medium": "Pen and ink and graphite on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 5, 
-  "title": "View across Fields to a Broad Estuary or Inlet with a River Flowing into It past a Town; Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1236, 
+                "name": "estuary", 
+                "workCount": 299
+              }, 
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }, 
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36400_8.jpg", 
+  "title": "View across Fields to a Broad Estuary or Inlet with a River Flowing into It past a Town; Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/de-loutherbourg-view-across-fields-to-a-broad-estuary-or-inlet-with-a-river-flowing-into-it-past-a-town-distant-hills-d36400", 
+  "width": "80"
 }

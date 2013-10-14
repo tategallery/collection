@@ -1,6 +1,5 @@
 {
   "acno": "D03000", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 182 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LVI 45", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "height": "114", 
   "id": 30396, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 95, 
-  "popularity": 43, 
   "subjectCount": 6, 
-  "title": "Ben Cruachan and Loch Awe from above Cladich"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3425, 
+                "name": "Argyll and Bute", 
+                "workCount": 237
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7509, 
+                "name": "Ben Cruachan", 
+                "workCount": 20
+              }, 
+              {
+                "id": 5240, 
+                "name": "Loch Awe", 
+                "workCount": 29
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03000_8.jpg", 
+  "title": "Ben Cruachan and Loch Awe from above Cladich", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ben-cruachan-and-loch-awe-from-above-cladich-d03000", 
+  "width": "182"
 }

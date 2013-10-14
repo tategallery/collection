@@ -1,6 +1,5 @@
 {
   "acno": "P04948", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 597 x 492 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "492", 
   "id": 11564, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,72 @@
       "workCount": 846
     }
   ], 
-  "popularity": 84, 
   "subjectCount": 4, 
-  "title": "Apollo II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3753, 
+                "name": "Earth", 
+                "workCount": 21
+              }, 
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }, 
+          {
+            "children": [
+              {
+                "id": 930, 
+                "name": "eagle", 
+                "workCount": 36
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04948_8.jpg", 
+  "title": "Apollo II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/phillips-apollo-ii-p04948", 
+  "width": "597"
 }

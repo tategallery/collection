@@ -1,6 +1,5 @@
 {
   "acno": "AR00817", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,59 +20,95 @@
     "text": "1984"
   }, 
   "dateText": "1984", 
+  "depth": "", 
   "dimensions": "image: 505 x 606 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "606", 
   "id": 105729, 
-  "images": [
-    {
-      "copyright": "\u00a9 DACS, 2009", 
-      "filenameBase": "AR00817_293634", 
-      "sizes": [
-        {
-          "caption": "Additional  view 1", 
-          "cleared": true, 
-          "file": "AR/AR00817_293634_7.jpg", 
-          "height": 105, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": true, 
-          "file": "AR/AR00817_293634_8.jpg", 
-          "height": 210, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": true, 
-          "file": "AR/AR00817_293634_9.jpg", 
-          "height": 600, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional  view 1", 
-          "cleared": true, 
-          "file": "AR/AR00817_293634_10.jpg", 
-          "height": 1262, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Print on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "Joseph Beuys: Konrad Fischer. D\u00fcsselfdorf"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19400, 
+                "name": "D\u00fcsseldorf, Mutter-Ey-Strasse 5, Konrad Fischer Galerie", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19399, 
+                "name": "exhibition: 'Joseph Beuys', Konrad Fischer, Dusseldorf", 
+                "workCount": 1
+              }
+            ], 
+            "id": 18725, 
+            "name": "arts", 
+            "workCount": 362
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2959, 
+                "name": "invitation", 
+                "workCount": 7
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "", 
+  "title": "Joseph Beuys: Konrad Fischer. D\u00fcsselfdorf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-joseph-beuys-konrad-fischer-dusselfdorf-ar00817", 
+  "width": "505"
 }

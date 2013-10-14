@@ -1,6 +1,5 @@
 {
   "acno": "T00164", 
-  "addlImageCount": 0, 
   "catTextResId": 1136822, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "c.1912"
   }, 
   "dateText": "c.1912", 
+  "depth": "", 
   "dimensions": "support: 610 x 457 mm\r\nframe: 795 x 652 x 100 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "457", 
   "id": 13416, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,67 @@
       "workCount": 56
     }
   ], 
-  "popularity": 196, 
   "subjectCount": 3, 
-  "title": "Harold Gilman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5599, 
+                "name": "Gilman, Harold", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00164_8.jpg", 
+  "title": "Harold Gilman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-harold-gilman-t00164", 
+  "width": "610"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D10263", 
-  "addlImageCount": 0, 
   "catTextResId": 1131306, 
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
@@ -28,17 +27,119 @@
     "text": "?1810"
   }, 
   "dateText": "?1810", 
+  "depth": "", 
   "dimensions": "support: 181 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVII 42 a", 
   "foreignTitle": null, 
   "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "height": "228", 
   "id": 37640, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 88, 
-  "popularity": 84, 
   "subjectCount": 7, 
-  "title": "?Near Heathfield, with Beachy Head in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2225, 
+                "name": "Beachy Head", 
+                "workCount": 16
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 1856, 
+                "name": "Sussex, East", 
+                "workCount": 382
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10263_8.jpg", 
+  "title": "?Near Heathfield, with Beachy Head in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-near-heathfield-with-beachy-head-in-distance-d10263", 
+  "width": "181"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P77184", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "image: 472 x 487 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Feuillages \u00e0 l'oiseau", 
   "groupTitle": null, 
+  "height": "487", 
   "id": 4017, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,86 @@
       "workCount": 48
     }
   ], 
-  "popularity": 375, 
   "subjectCount": 4, 
-  "title": "Leaves with Bird"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 8485, 
+                "name": "fern", 
+                "workCount": 17
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77184_8.jpg", 
+  "title": "Leaves with Bird", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dubuffet-leaves-with-bird-p77184", 
+  "width": "472"
 }

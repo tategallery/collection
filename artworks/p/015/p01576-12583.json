@@ -1,6 +1,5 @@
 {
   "acno": "P01576", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01576", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 965 x 279 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Museum Tour Suite", 
+  "height": "279", 
   "id": 12583, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 190, 
   "subjectCount": 2, 
-  "title": "Elongated Triangles 5"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01576_8.jpg", 
+  "title": "Elongated Triangles 5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/riley-elongated-triangles-5-p01576", 
+  "width": "965"
 }

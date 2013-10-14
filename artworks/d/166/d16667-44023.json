@@ -1,6 +1,5 @@
 {
   "acno": "D16667", 
-  "addlImageCount": 0, 
   "catTextResId": 1142566, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,47 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 128 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 14", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "98", 
   "id": 44023, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 29, 
-  "popularity": 9, 
   "subjectCount": 1, 
-  "title": "Studies of Figures, ?Turin"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16667_8.jpg", 
+  "title": "Studies of Figures, ?Turin", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-figures-turin-d16667", 
+  "width": "128"
 }

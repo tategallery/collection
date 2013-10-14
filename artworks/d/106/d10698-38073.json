@@ -1,6 +1,5 @@
 {
   "acno": "D10698", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10647-D10774; D40858", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 160 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXLII 35", 
   "foreignTitle": null, 
   "groupTitle": "Walmer Ferry Sketchbook [Finberg CXLII]", 
+  "height": "112", 
   "id": 38073, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 73, 
-  "popularity": 1, 
   "subjectCount": 1, 
-  "title": "Vessels"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10698_8.jpg", 
+  "title": "Vessels", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-vessels-d10698", 
+  "width": "160"
 }

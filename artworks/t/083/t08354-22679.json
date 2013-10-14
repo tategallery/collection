@@ -1,6 +1,5 @@
 {
   "acno": "T08354", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T08347-T08445; T08871; T08875; T10264", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,81 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 94 x 45 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Drawings by Nathaniel Dance-Holland and George Dance", 
+  "height": "45", 
   "id": 22679, 
   "inscription": null, 
   "medium": "Graphite and ink on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 4, 
-  "title": "A Man Seen from the Rear"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }, 
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T08/T08354_8.jpg", 
+  "title": "A Man Seen from the Rear", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dance-a-man-seen-from-the-rear-t08354", 
+  "width": "94"
 }

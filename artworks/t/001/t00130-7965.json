@@ -1,6 +1,5 @@
 {
   "acno": "T00130", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "support: 1448 x 889 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "889", 
   "id": 7965, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 88, 
   "subjectCount": 2, 
-  "title": "Walking Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking", 
+                "workCount": 376
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00130_8.jpg", 
+  "title": "Walking Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kinley-walking-figure-t00130", 
+  "width": "1448"
 }

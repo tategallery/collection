@@ -1,6 +1,5 @@
 {
   "acno": "D32984", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32881; D32883-D32885; D32887-D32946; D32948-D32974; D32976-D33018; D33020-D33030; D33032-D33036; D41136", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1841"
   }, 
   "dateText": "1841", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXVI 54", 
   "foreignTitle": null, 
   "groupTitle": "Berne, Heidelberg and Rhine Sketchbook [Finberg CCCXXVI]", 
+  "height": "111", 
   "id": 60168, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 109, 
-  "popularity": 50, 
   "subjectCount": 4, 
-  "title": "Worms [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 9720, 
+                "name": "Worms", 
+                "workCount": 8
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32984_8_R.jpg", 
+  "title": "Worms [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-worms-turner-d32984", 
+  "width": "181"
 }

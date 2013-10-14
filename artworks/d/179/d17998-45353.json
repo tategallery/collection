@@ -1,6 +1,5 @@
 {
   "acno": "D17998", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17991-D18133; D41064", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1823-4"
   }, 
   "dateText": "c.1823-4", 
+  "depth": "", 
   "dimensions": "support: 74 x 100 mm", 
-  "displayLocation": null, 
   "finberg": "CCVII 5", 
   "foreignTitle": null, 
   "groupTitle": "Gosport Sketchbook [Finberg CCVII]", 
+  "height": "100", 
   "id": 45353, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 11, 
-  "popularity": 59, 
   "subjectCount": 3, 
-  "title": "Interior of Large Hall"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9991, 
+                "name": "Bank, Mansion House", 
+                "workCount": 3
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5730, 
+                "name": "hall", 
+                "workCount": 35
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17998_8.jpg", 
+  "title": "Interior of Large Hall", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-interior-of-large-hall-d17998", 
+  "width": "74"
 }

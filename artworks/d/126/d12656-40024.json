@@ -1,6 +1,5 @@
 {
   "acno": "D12656", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12528-D12701; D40910-D40912; D41502", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 56 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CLIX 80", 
   "foreignTitle": null, 
   "groupTitle": "Itinerary Rhine Tour Sketchbook [Finberg CLIX]", 
+  "height": "106", 
   "id": 40024, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 161, 
-  "popularity": 70, 
   "subjectCount": 4, 
-  "title": "The Archbishop's Castle at Andernach from the South with the Christuskirche behind It"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9557, 
+                "name": "Andernach - non specific", 
+                "workCount": 25
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1927, 
+                "name": "palace", 
+                "workCount": 423
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12656_8_R.jpg", 
+  "title": "The Archbishop's Castle at Andernach from the South with the Christuskirche behind It", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-archbishops-castle-at-andernach-from-the-south-with-the-christuskirche-behind-it-d12656", 
+  "width": "56"
 }

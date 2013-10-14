@@ -1,6 +1,5 @@
 {
   "acno": "P78579", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78571-P78581", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "image: 192 x 147 mm\r\nsupport: 431 x 355 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Footsteps on Mulberry Tree Tops", 
+  "height": "147", 
   "id": 67318, 
   "inscription": null, 
   "medium": "Etching on paper mounted onto paper", 
   "movementCount": 0, 
-  "popularity": 61, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11192, 
+                "name": "fingerprint", 
+                "workCount": 12
+              }, 
+              {
+                "id": 11235, 
+                "name": "handprint", 
+                "workCount": 18
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78579_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/penone-no-title-p78579", 
+  "width": "192"
 }

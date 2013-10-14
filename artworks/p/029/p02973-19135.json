@@ -1,6 +1,5 @@
 {
   "acno": "P02973", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1946"
   }, 
   "dateText": "1946", 
+  "depth": "", 
   "dimensions": "image: 202 x 290 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Das Junge kommt", 
   "groupTitle": null, 
+  "height": "290", 
   "id": 19135, 
   "inscription": "date inscribed", 
   "medium": "Monotype on paper", 
   "movementCount": 0, 
-  "popularity": 58, 
   "subjectCount": 3, 
-  "title": "The Young One is Coming"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16453, 
+                "name": "animal/plant", 
+                "workCount": 3
+              }, 
+              {
+                "id": 1708, 
+                "name": "monster", 
+                "workCount": 75
+              }
+            ], 
+            "id": 63, 
+            "name": "animals: fantastic", 
+            "workCount": 376
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 758, 
+                "name": "anxiety", 
+                "workCount": 137
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02973_8.jpg", 
+  "title": "The Young One is Coming", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gotz-the-young-one-is-coming-p02973", 
+  "width": "202"
 }

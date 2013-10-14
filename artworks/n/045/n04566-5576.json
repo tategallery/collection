@@ -1,6 +1,5 @@
 {
   "acno": "N04566", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1911"
   }, 
   "dateText": "1911", 
+  "depth": "25", 
   "dimensions": "support: 2277 x 1975 x 25 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1975", 
   "id": 5576, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,67 @@
       "workCount": 67
     }
   ], 
-  "popularity": 247, 
   "subjectCount": 3, 
-  "title": "Football"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 564, 
+                "name": "running", 
+                "workCount": 92
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4918, 
+                "name": "rugby", 
+                "workCount": 1
+              }
+            ], 
+            "id": 54, 
+            "name": "sport", 
+            "workCount": 522
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04566_8.jpg", 
+  "title": "Football", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/grant-football-n04566", 
+  "width": "2277"
 }

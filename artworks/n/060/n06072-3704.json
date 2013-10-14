@@ -1,6 +1,5 @@
 {
   "acno": "N06072", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1887-8"
   }, 
   "dateText": "c.1887-8", 
+  "depth": "241", 
   "dimensions": "object: 305 x 387 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Cheval s'enlevant sur l'obstacle", 
   "groupTitle": null, 
+  "height": "387", 
   "id": 3704, 
   "inscription": null, 
   "medium": "Bronze", 
@@ -41,7 +41,48 @@
       "workCount": 39
     }
   ], 
-  "popularity": 201, 
   "subjectCount": 2, 
-  "title": "Horse Clearing an Obstacle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 1093, 
+                "name": "leaping", 
+                "workCount": 11
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06072_8.jpg", 
+  "title": "Horse Clearing an Obstacle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/degas-horse-clearing-an-obstacle-n06072", 
+  "width": "305"
 }

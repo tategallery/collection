@@ -1,6 +1,5 @@
 {
   "acno": "D33273", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33236-D33243; D33245; D33247-D33286; D33288-D33293; D33295-D33300; D33302-D33307; D33309-D33315; D33317-D33404; D41138-D41139; D41494", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1841-2"
   }, 
   "dateText": "c.1841-2", 
+  "depth": "", 
   "dimensions": "support: 175 x 107 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXX 20 a", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Flushing and Lausanne Sketchbook [Finberg CCCXXX]", 
+  "height": "107", 
   "id": 60450, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 42, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33273_8.jpg", 
+  "title": "Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d33273", 
+  "width": "175"
 }

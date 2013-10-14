@@ -1,6 +1,5 @@
 {
   "acno": "T03751", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,76 @@
     "text": "c.1953"
   }, 
   "dateText": "c.1953", 
+  "depth": "180", 
   "dimensions": "object: 330 x 320 x 180 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "320", 
   "id": 7008, 
   "inscription": null, 
   "medium": "Terracotta and wax", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 3, 
-  "title": "Three-fold Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 789, 
+                "name": "deformity", 
+                "workCount": 24
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03751_8.jpg", 
+  "title": "Three-fold Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hutchinson-three-fold-head-t03751", 
+  "width": "330"
 }

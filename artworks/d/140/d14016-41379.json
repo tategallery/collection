@@ -1,6 +1,5 @@
 {
   "acno": "D14016", 
-  "addlImageCount": 0, 
   "catTextResId": 1142876, 
   "catalogueGroup": {
     "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
@@ -28,17 +27,83 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIII 16", 
   "foreignTitle": null, 
   "groupTitle": "Paris, France, Savoy 2 Sketchbook [Finberg CLXXIII]", 
+  "height": "185", 
   "id": 41379, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 10, 
   "subjectCount": 4, 
-  "title": "?Pont Saint Laurent, Chalon-sur-Sa\u00f4ne"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14016_8.jpg", 
+  "title": "?Pont Saint Laurent, Chalon-sur-Sa\u00f4ne", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-pont-saint-laurent-chalon-sur-saone-d14016", 
+  "width": "114"
 }

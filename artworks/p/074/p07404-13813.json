@@ -1,6 +1,5 @@
 {
   "acno": "P07404", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07404-P07405", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1980"
   }, 
   "dateText": "1980", 
+  "depth": "", 
   "dimensions": "image: 978 x 965 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Polar Co-ordinates for Ronnie Peterson", 
+  "height": "965", 
   "id": 13813, 
   "inscription": "date inscribed", 
   "medium": "Screenprint and lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 218, 
   "subjectCount": 2, 
-  "title": "I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07404_8.jpg", 
+  "title": "I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stella-i-p07404", 
+  "width": "978"
 }

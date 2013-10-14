@@ -1,6 +1,5 @@
 {
   "acno": "N01891", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Bequeathed by Richard and Catherine Garnons 1854", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 1003 x 1365 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1365", 
   "id": 16253, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -38,7 +38,72 @@
       "workCount": 39
     }
   ], 
-  "popularity": 186, 
   "subjectCount": 4, 
-  "title": "Niagara Falls"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5872, 
+                "name": "Canada", 
+                "workCount": 21
+              }, 
+              {
+                "id": 1811, 
+                "name": "USA", 
+                "workCount": 228
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 15008, 
+                "name": "Niagara Falls", 
+                "workCount": 2
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 913, 
+                "name": "waterfall", 
+                "workCount": 435
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01891_8.jpg", 
+  "title": "Niagara Falls", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wilson-niagara-falls-n01891", 
+  "width": "1003"
 }

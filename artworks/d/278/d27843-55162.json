@@ -1,6 +1,5 @@
 {
   "acno": "D27843", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27792-D27832; D27834-D27845; D41445", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,76 @@
     "text": "c.1834"
   }, 
   "dateText": "c.1834", 
+  "depth": "", 
   "dimensions": "support: 139 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXII 42", 
   "foreignTitle": null, 
   "groupTitle": "The Fire at Sea Sketchbook [Finberg CCLXXXII]", 
+  "height": "228", 
   "id": 55162, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 15, 
   "subjectCount": 4, 
-  "title": "Cliffs by the Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27843_8.jpg", 
+  "title": "Cliffs by the Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-by-the-sea-d27843", 
+  "width": "139"
 }

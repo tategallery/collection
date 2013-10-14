@@ -1,6 +1,5 @@
 {
   "acno": "N05091", 
-  "addlImageCount": 0, 
   "catTextResId": 1129528, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1906"
   }, 
   "dateText": "1906", 
+  "depth": "", 
   "dimensions": "support: 457 x 381 mm\r\nframe: 622 x 548 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "381", 
   "id": 13396, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,110 @@
       "workCount": 56
     }
   ], 
-  "popularity": 509, 
   "subjectCount": 6, 
-  "title": "Woman Washing her Hair"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3211, 
+                "name": "bathroom", 
+                "workCount": 25
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1546, 
+                "name": "bending forward", 
+                "workCount": 249
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 517, 
+                "name": "washing", 
+                "workCount": 72
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05091_8.jpg", 
+  "title": "Woman Washing her Hair", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-woman-washing-her-hair-n05091", 
+  "width": "457"
 }

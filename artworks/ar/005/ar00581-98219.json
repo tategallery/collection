@@ -1,6 +1,5 @@
 {
   "acno": "AR00581", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1989-91"
   }, 
   "dateText": "1989-91", 
+  "depth": "77", 
   "dimensions": "displayed: 653 x 455 x 77 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "455", 
   "id": 98219, 
   "inscription": null, 
   "medium": "Metal, glass, etching on paper, coffee beans and lead", 
   "movementCount": 0, 
-  "popularity": 212, 
   "subjectCount": 2, 
-  "title": "Untitled (Coffee)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3274, 
+                "name": "drink, coffee", 
+                "workCount": 5
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00581_8.jpg", 
+  "title": "Untitled (Coffee)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-coffee-ar00581", 
+  "width": "653"
 }

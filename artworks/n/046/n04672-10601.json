@@ -1,6 +1,5 @@
 {
   "acno": "N04672", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "1911"
   }, 
   "dateText": "1911", 
+  "depth": "", 
   "dimensions": "support: 311 x 232 mm\r\nframe: 506 x 425 x 39 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "232", 
   "id": 10601, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 279, 
   "subjectCount": 4, 
-  "title": "Self-Portrait"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6415, 
+                "name": "Nevinson, Christopher Richard Wynne", 
+                "workCount": 1
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter", 
+                "workCount": 338
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 493, 
+                "name": "hat", 
+                "workCount": 965
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04672_8.jpg", 
+  "title": "Self-Portrait", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nevinson-self-portrait-n04672", 
+  "width": "311"
 }

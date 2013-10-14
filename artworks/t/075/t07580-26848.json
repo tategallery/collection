@@ -1,6 +1,5 @@
 {
   "acno": "T07580", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1998"
   }, 
   "dateText": "1998", 
+  "depth": "850", 
   "dimensions": "unconfirmed: 1750 x 3000 x 850 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3000", 
   "id": 26848, 
   "inscription": null, 
   "medium": "Metal, plaster, wool and leather", 
   "movementCount": 0, 
-  "popularity": 371, 
   "subjectCount": 2, 
-  "title": "Moose"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 739, 
+                "name": "blanket", 
+                "workCount": 31
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12785, 
+                "name": "moose", 
+                "workCount": 1
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07580_8.jpg", 
+  "title": "Moose", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ford-moose-t07580", 
+  "width": "1750"
 }

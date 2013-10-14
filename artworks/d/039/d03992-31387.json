@@ -1,6 +1,5 @@
 {
   "acno": "D03992", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03985-D03993", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1800-1"
   }, 
   "dateText": "1800-1", 
+  "depth": "", 
   "dimensions": "support: 117 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "LXVIII 7", 
   "foreignTitle": null, 
   "groupTitle": "On a Lee Shore (2) Sketchbook [Finberg LXVIII]", 
+  "height": "182", 
   "id": 31387, 
   "inscription": null, 
   "medium": "Ink and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 17, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "A Fishing Boat Riding a Breaker"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03992_8.jpg", 
+  "title": "A Fishing Boat Riding a Breaker", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fishing-boat-riding-a-breaker-d03992", 
+  "width": "117"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P78370", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78364-P78370", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1959,1999"
   }, 
   "dateText": "1959,1999", 
+  "depth": "", 
   "dimensions": "unconfirmed: 510 x 410 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seven Etchings for Seven Letters", 
+  "height": "410", 
   "id": 27148, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -47,7 +47,79 @@
       "workCount": 409
     }
   ], 
-  "popularity": 1620, 
   "subjectCount": 4, 
-  "title": "Bright Hemisphere Blue"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15983, 
+                "name": "Graham, W.S., 'The Seven Letters'", 
+                "workCount": 7
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6795, 
+                "name": "spontaneity", 
+                "workCount": 91
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78370_8.jpg", 
+  "title": "Bright Hemisphere Blue", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/benjamin-bright-hemisphere-blue-p78370", 
+  "width": "510"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01015", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1954"
   }, 
   "dateText": "c.1954", 
+  "depth": "", 
   "dimensions": "image: 276 x 346 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Serie serigrafica", 
   "groupTitle": null, 
+  "height": "346", 
   "id": 2462, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,41 @@
       "workCount": 5
     }
   ], 
-  "popularity": 28, 
   "subjectCount": 2, 
-  "title": "Screenprint"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01015_8.jpg", 
+  "title": "Screenprint", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/colla-screenprint-p01015", 
+  "width": "276"
 }

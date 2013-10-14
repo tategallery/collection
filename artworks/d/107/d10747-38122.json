@@ -1,6 +1,5 @@
 {
   "acno": "D10747", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10647-D10774; D40858", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 160 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXLII 81 a", 
   "foreignTitle": null, 
   "groupTitle": "Walmer Ferry Sketchbook [Finberg CXLII]", 
+  "height": "112", 
   "id": 38122, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 166, 
-  "popularity": 9, 
   "subjectCount": 4, 
-  "title": "Castle among Trees on River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10747_8.jpg", 
+  "title": "Castle among Trees on River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-castle-among-trees-on-river-d10747", 
+  "width": "160"
 }

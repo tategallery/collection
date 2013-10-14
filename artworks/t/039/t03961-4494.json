@@ -1,6 +1,5 @@
 {
   "acno": "T03961", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1949-50"
   }, 
   "dateText": "1949-50", 
+  "depth": "", 
   "dimensions": "unconfirmed: 550 x 846 mm\r\nframe: 754 x 1047 x 56 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Concetto Spazial", 
   "groupTitle": null, 
+  "height": "846", 
   "id": 4494, 
   "inscription": "date inscribed", 
   "medium": "Canvas", 
@@ -41,7 +41,77 @@
       "workCount": 8
     }
   ], 
-  "popularity": 1096, 
   "subjectCount": 5, 
-  "title": "Spatial Concept"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9592, 
+                "name": "cosmos", 
+                "workCount": 25
+              }, 
+              {
+                "id": 6274, 
+                "name": "infinity", 
+                "workCount": 7
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }, 
+          {
+            "children": [
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03961_8.jpg", 
+  "title": "Spatial Concept", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/fontana-spatial-concept-t03961", 
+  "width": "550"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P07010", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07008-P07013", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "c.1914-19"
   }, 
   "dateText": "c.1914-19", 
+  "depth": "", 
   "dimensions": "image: 76 x 159 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Russian Ballet", 
+  "height": "159", 
   "id": 16948, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,105 @@
       "workCount": 39
     }
   ], 
-  "popularity": 206, 
   "subjectCount": 5, 
-  "title": "iii"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6681, 
+                "name": "ballet", 
+                "workCount": 18
+              }
+            ], 
+            "id": 53, 
+            "name": "music and entertainment", 
+            "workCount": 856
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07010_8.jpg", 
+  "title": "iii", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bomberg-iii-p07010", 
+  "width": "76"
 }

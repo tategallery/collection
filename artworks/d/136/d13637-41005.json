@@ -1,6 +1,5 @@
 {
   "acno": "D13637", 
-  "addlImageCount": 0, 
   "catTextResId": 1132185, 
   "catalogueGroup": {
     "accessionRanges": "D13587-D13654; D13656-D13747; D40913-D40916", 
@@ -28,17 +27,66 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 112 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVII 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Antiquities Sketchbook [Finberg CLXVII]", 
+  "height": "186", 
   "id": 41005, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 66, 
-  "popularity": 18, 
   "subjectCount": 2, 
-  "title": "Coast of Dunbar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13637_8.jpg", 
+  "title": "Coast of Dunbar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-coast-of-dunbar-d13637", 
+  "width": "112"
 }

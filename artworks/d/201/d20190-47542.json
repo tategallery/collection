@@ -1,6 +1,5 @@
 {
   "acno": "D20190", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D20162-D20206; D41010; D41503", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1824"
   }, 
   "dateText": "1824", 
+  "depth": "", 
   "dimensions": "support: 160 x 235 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIX 29", 
   "foreignTitle": null, 
   "groupTitle": "Moselle (or Rhine) Sketchbook [Finberg CCXIX]", 
+  "height": "235", 
   "id": 47542, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 39, 
-  "popularity": 7, 
   "subjectCount": 4, 
-  "title": "River and Village"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20190_8.jpg", 
+  "title": "River and Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-and-village-d20190", 
+  "width": "160"
 }

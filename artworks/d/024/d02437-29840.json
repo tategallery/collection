@@ -1,6 +1,5 @@
 {
   "acno": "D02437", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02393-D02461", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 143 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "LII 30", 
   "foreignTitle": null, 
   "groupTitle": "Guisborough Shore Sketchbook [Finberg LII]", 
+  "height": "103", 
   "id": 29840, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 61, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Rocks in the Sea near the Shore, with Cliffs beyond to the Right"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02437_8.jpg", 
+  "title": "Rocks in the Sea near the Shore, with Cliffs beyond to the Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-rocks-in-the-sea-near-the-shore-with-cliffs-beyond-to-the-right-d02437", 
+  "width": "143"
 }

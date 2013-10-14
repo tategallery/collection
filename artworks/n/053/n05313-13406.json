@@ -1,6 +1,5 @@
 {
   "acno": "N05313", 
-  "addlImageCount": 0, 
   "catTextResId": 1139003, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1924"
   }, 
   "dateText": "1924", 
+  "depth": "", 
   "dimensions": "support: 610 x 381 mm\r\nframe: 745 x 517 x 83 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "381", 
   "id": 13406, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -42,7 +42,127 @@
       "workCount": 14
     }
   ], 
-  "popularity": 377, 
   "subjectCount": 8, 
-  "title": "L'Armoire \u00e0 Glace"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7066, 
+                "name": "P\u00e9pin, Marie", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 732, 
+                "name": "bedroom", 
+                "workCount": 177
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2209, 
+                "name": "contemplation", 
+                "workCount": 128
+              }, 
+              {
+                "id": 5345, 
+                "name": "sadness", 
+                "workCount": 75
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }, 
+              {
+                "id": 3172, 
+                "name": "wardrobe", 
+                "workCount": 11
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05313_8.jpg", 
+  "title": "L'Armoire \u00e0 Glace", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sickert-larmoire-a-glace-n05313", 
+  "width": "610"
 }

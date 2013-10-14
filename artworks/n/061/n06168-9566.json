@@ -1,6 +1,5 @@
 {
   "acno": "N06168", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,98 @@
     "text": "1951"
   }, 
   "dateText": "1951", 
+  "depth": "", 
   "dimensions": "support: 1619 x 968 mm\r\n", 
-  "displayLocation": null, 
   "foreignTitle": "Fauteuil dans un int\u00e9rieur", 
   "groupTitle": null, 
+  "height": "968", 
   "id": 9566, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 131, 
   "subjectCount": 6, 
-  "title": "Arm-chair in an Interior"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }, 
+              {
+                "id": 3578, 
+                "name": "cupboard", 
+                "workCount": 35
+              }, 
+              {
+                "id": 2576, 
+                "name": "stool", 
+                "workCount": 79
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }, 
+          {
+            "children": [
+              {
+                "id": 3479, 
+                "name": "cloth", 
+                "workCount": 62
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 6720, 
+                "name": "saucepan", 
+                "workCount": 24
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 527, 
+                "name": "interior - non-specific", 
+                "workCount": 546
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06168_8.jpg", 
+  "title": "Arm-chair in an Interior", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/minaux-arm-chair-in-an-interior-n06168", 
+  "width": "1619"
 }

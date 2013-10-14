@@ -1,6 +1,5 @@
 {
   "acno": "D29548", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29379-D29418; D29420-D29436; D29438-D29516; D29518-D29551; D29553-D29586; D29588-D29593; D41098", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "c.1835-40"
   }, 
   "dateText": "c.1835-40", 
+  "depth": "", 
   "dimensions": "support: 146 x 103 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCV 87", 
   "foreignTitle": null, 
   "groupTitle": "Genoa to Grenoble Sketchbook [Finberg CCXCV]", 
+  "height": "103", 
   "id": 56812, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 177, 
-  "popularity": 9, 
   "subjectCount": 3, 
-  "title": "Street Scene, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }, 
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29548_8.jpg", 
+  "title": "Street Scene, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-etc-d29548", 
+  "width": "146"
 }

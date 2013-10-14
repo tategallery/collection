@@ -1,6 +1,5 @@
 {
   "acno": "T00738", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "1219", 
   "dimensions": "object: 349 x 1219 x 1219 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1219", 
   "id": 1216, 
   "inscription": null, 
   "medium": "Painted aluminium", 
@@ -41,7 +41,36 @@
       "workCount": 52
     }
   ], 
-  "popularity": 7, 
   "subjectCount": 1, 
-  "title": "Nenuphar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00738_8.jpg", 
+  "title": "Nenuphar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bolus-nenuphar-t00738", 
+  "width": "349"
 }

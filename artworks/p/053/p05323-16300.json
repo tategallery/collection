@@ -1,6 +1,5 @@
 {
   "acno": "P05323", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05320-P05326", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 1042 x 790 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "London Transport", 
+  "height": "790", 
   "id": 16300, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 45, 
   "subjectCount": 3, 
-  "title": "'Pollock' Long Distance Lorry"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5134, 
+                "name": "lorry", 
+                "workCount": 18
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2472, 
+                "name": "number", 
+                "workCount": 155
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05323_8.jpg", 
+  "title": "'Pollock' Long Distance Lorry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-pollock-long-distance-lorry-p05323", 
+  "width": "1042"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D14551", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14489-D14652; D40893-D40897", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 111 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVI 31 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice to Ancona Sketchbook [Finberg CLXXVI]", 
+  "height": "184", 
   "id": 41913, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 72, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "View of Distant Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14551_8.jpg", 
+  "title": "View of Distant Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-of-distant-hills-d14551", 
+  "width": "111"
 }

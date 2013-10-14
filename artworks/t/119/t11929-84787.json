@@ -1,6 +1,5 @@
 {
   "acno": "T11929", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": null, 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "30", 
   "dimensions": "object: 243 x 165 x 30 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "165", 
   "id": 84787, 
   "inscription": null, 
   "medium": "Book", 
   "movementCount": 0, 
-  "popularity": 253, 
   "subjectCount": 2, 
-  "title": "The System of Landor's Cottage. A Pendant to Poe's Last Story"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17551, 
+                "name": "Poe, Edgar Allan, 'Landor's Cottage'", 
+                "workCount": 3
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)", 
+            "workCount": 1839
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction", 
+        "workCount": 2343
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17550, 
+                "name": "book, Beckford, William, 'Vathek'", 
+                "workCount": 3
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11929_8.jpg", 
+  "title": "The System of Landor's Cottage. A Pendant to Poe's Last Story", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/graham-the-system-of-landors-cottage-a-pendant-to-poes-last-story-t11929", 
+  "width": "243"
 }

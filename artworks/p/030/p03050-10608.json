@@ -1,6 +1,5 @@
 {
   "acno": "P03050", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03045-P03050", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 405 x 302 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Britain's Efforts and Ideals", 
+  "height": "302", 
   "id": 10608, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,98 @@
       "workCount": 141
     }
   ], 
-  "popularity": 295, 
   "subjectCount": 5, 
-  "title": "In the Air"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 885, 
+                "name": "aerial view", 
+                "workCount": 34
+              }, 
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3464, 
+                "name": "aircraft, military", 
+                "workCount": 66
+              }
+            ], 
+            "id": 159, 
+            "name": "transport: air", 
+            "workCount": 144
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road", 
+                "workCount": 935
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03050_8.jpg", 
+  "title": "In the Air", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nevinson-in-the-air-p03050", 
+  "width": "405"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P08014", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P08006-P08015", 
     "completeStatus": "COMPLETE", 
@@ -27,59 +26,124 @@
     "text": "1973-4"
   }, 
   "dateText": "1973-4", 
+  "depth": "", 
   "dimensions": "image: 559 x 441 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Jam Press Phase One", 
+  "height": "441", 
   "id": 13890, 
-  "images": [
-    {
-      "copyright": "\u00a9 John Stezaker", 
-      "filenameBase": "P08014_122106", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P08/P08014_122106_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 101
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P08/P08014_122106_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 202
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P08/P08014_122106_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 404
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": true, 
-          "file": "P/P08/P08014_122106_10.jpg", 
-          "height": 1534, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1209
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 7, 
-  "title": "1. 10 and 1. 11"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4217, 
+                "name": "cutlery", 
+                "workCount": 43
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic", 
+                "workCount": 738
+              }, 
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1982, 
+                "name": "notes and diagrams", 
+                "workCount": 257
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08014_8.jpg", 
+  "title": "1. 10 and 1. 11", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stezaker-1-10-and-1-11-p08014", 
+  "width": "559"
 }

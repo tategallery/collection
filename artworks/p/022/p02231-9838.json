@@ -1,6 +1,5 @@
 {
   "acno": "P02231", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02228-P02244", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,81 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 329 x 411 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sheep Album", 
+  "height": "411", 
   "id": 9838, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 90, 
   "subjectCount": 4, 
-  "title": "Sheep in Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02231_8.jpg", 
+  "title": "Sheep in Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-sheep-in-landscape-p02231", 
+  "width": "329"
 }

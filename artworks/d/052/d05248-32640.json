@@ -1,6 +1,5 @@
 {
   "acno": "D05248", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D05245-D05350", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1804"
   }, 
   "dateText": "1804", 
+  "depth": "", 
   "dimensions": "support: 166 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXV 2 a", 
   "foreignTitle": null, 
   "groupTitle": "Eclipse Sketchbook [Finberg LXXXV]", 
+  "height": "112", 
   "id": 32640, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 6, 
-  "popularity": 13, 
   "subjectCount": 4, 
-  "title": "Landscape; More than Half of the Sun Eclipsed"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 10152, 
+                "name": "eclipse", 
+                "workCount": 11
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05248_8.jpg", 
+  "title": "Landscape; More than Half of the Sun Eclipsed", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-more-than-half-of-the-sun-eclipsed-d05248", 
+  "width": "166"
 }

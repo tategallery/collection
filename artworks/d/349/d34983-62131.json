@@ -1,6 +1,5 @@
 {
   "acno": "D34983", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D34962-D34971; D34973; D34975; D34977; D34979; D34981; D34983; D34985; D34987; D34989; D34991; D34993; D34995; D34997; D34999", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,100 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 228 x 325 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLV 16", 
   "foreignTitle": null, 
   "groupTitle": "Lucerne Sketchbook [Finberg CCCXLV]", 
+  "height": "325", 
   "id": 62131, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 79, 
   "subjectCount": 6, 
-  "title": "The Red and Blue Rigi"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 8372, 
+                "name": "Lake Lucerne", 
+                "workCount": 104
+              }, 
+              {
+                "id": 8864, 
+                "name": "Rigi", 
+                "workCount": 37
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34983_8.jpg", 
+  "title": "The Red and Blue Rigi", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-red-and-blue-rigi-d34983", 
+  "width": "228"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T05494", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,177 @@
     "text": "1742"
   }, 
   "dateText": "1742", 
+  "depth": "", 
   "dimensions": "support: 1245 x 1003 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1003", 
   "id": 17282, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 341, 
   "subjectCount": 12, 
-  "title": "Thomas, 2nd Baron Mansel of Margam with his Blackwood Half-Brothers and Sister"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6513, 
+                "name": "Blackwood family", 
+                "workCount": 1
+              }
+            ], 
+            "id": 101, 
+            "name": "portraits: family", 
+            "workCount": 50
+          }, 
+          {
+            "children": [
+              {
+                "id": 6514, 
+                "name": "Mansel of Margam, Thomas, 2nd Baron", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }, 
+              {
+                "id": 594, 
+                "name": "girl", 
+                "workCount": 736
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 656, 
+                "name": "holding hands", 
+                "workCount": 125
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6905, 
+                "name": "brother", 
+                "workCount": 36
+              }, 
+              {
+                "id": 6907, 
+                "name": "family", 
+                "workCount": 169
+              }, 
+              {
+                "id": 6912, 
+                "name": "sister", 
+                "workCount": 37
+              }
+            ], 
+            "id": 6904, 
+            "name": "family", 
+            "workCount": 565
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4876, 
+                "name": "death", 
+                "workCount": 87
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 6515, 
+                "name": "partridge", 
+                "workCount": 10
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5988, 
+                "name": "gun, rifle", 
+                "workCount": 197
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05494_8.jpg", 
+  "title": "Thomas, 2nd Baron Mansel of Margam with his Blackwood Half-Brothers and Sister", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ramsay-thomas-2nd-baron-mansel-of-margam-with-his-blackwood-half-brothers-and-sister-t05494", 
+  "width": "1245"
 }

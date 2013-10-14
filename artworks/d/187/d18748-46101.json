@@ -1,6 +1,5 @@
 {
   "acno": "D18748", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18706-D18840; D40974; D40984-D40985", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1825"
   }, 
   "dateText": "c.1825", 
+  "depth": "", 
   "dimensions": "support: 113 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCXIII 23 a", 
   "foreignTitle": null, 
   "groupTitle": "Mortlake and Pulborough Sketchbook [Finberg CCXIII]", 
+  "height": "187", 
   "id": 46101, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 48, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "Water Mill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 946, 
+                "name": "watermill", 
+                "workCount": 237
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18748_8.jpg", 
+  "title": "Water Mill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-water-mill-d18748", 
+  "width": "113"
 }

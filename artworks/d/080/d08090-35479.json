@@ -1,6 +1,5 @@
 {
   "acno": "D08090", 
-  "addlImageCount": 0, 
   "catTextResId": 1131812, 
   "catalogueGroup": {
     "accessionRanges": "D08084-D08101; D40351-D40381", 
@@ -28,16 +27,92 @@
     "text": "c.1807-19"
   }, 
   "dateText": "c.1807-19", 
+  "depth": "", 
   "dimensions": "support: 230 x 376 mm", 
-  "displayLocation": null, 
   "finberg": "CXV 7", 
   "foreignTitle": null, 
   "groupTitle": "Studies for Liber Sketchbook [Finberg CXV]", 
+  "height": "376", 
   "id": 35479, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 57, 
   "subjectCount": 6, 
-  "title": "A Sea Piece with a Breaking Wave"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 2414, 
+                "name": "island", 
+                "workCount": 310
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19508, 
+                "name": "gestural", 
+                "workCount": 539
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08090_8.jpg", 
+  "title": "A Sea Piece with a Breaking Wave", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-sea-piece-with-a-breaking-wave-d08090", 
+  "width": "230"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D33312", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33236-D33243; D33245; D33247-D33286; D33288-D33293; D33295-D33300; D33302-D33307; D33309-D33315; D33317-D33404; D41138-D41139; D41494", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1841-2"
   }, 
   "dateText": "c.1841-2", 
+  "depth": "", 
   "dimensions": "support: 175 x 107 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXX 48", 
   "foreignTitle": null, 
   "groupTitle": "Rhine, Flushing and Lausanne Sketchbook [Finberg CCCXXX]", 
+  "height": "107", 
   "id": 60485, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 97, 
-  "popularity": 2, 
   "subjectCount": 3, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33312_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-title-not-known-d33312", 
+  "width": "175"
 }

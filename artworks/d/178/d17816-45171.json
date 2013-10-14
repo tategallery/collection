@@ -1,6 +1,5 @@
 {
   "acno": "D17816", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17773-D17817; D17819-D17833; D40981-D40983", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1823-4"
   }, 
   "dateText": "1823-4", 
+  "depth": "", 
   "dimensions": "support: 111 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CCIV 33", 
   "foreignTitle": null, 
   "groupTitle": "River Sketchbook [Finberg CCIV]", 
+  "height": "185", 
   "id": 45171, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 67, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "Meadows - Storm Coming On [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17816_8.jpg", 
+  "title": "Meadows - Storm Coming On [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-meadows-storm-coming-on-turner-d17816", 
+  "width": "111"
 }

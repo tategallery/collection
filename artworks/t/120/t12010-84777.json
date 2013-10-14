@@ -1,6 +1,5 @@
 {
   "acno": "T12010", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1990"
   }, 
   "dateText": "1990", 
+  "depth": "", 
   "dimensions": "overall display dimensions variable", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 84777, 
   "inscription": null, 
   "medium": "Vinyl wall text", 
@@ -41,7 +41,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 88, 
   "subjectCount": 3, 
-  "title": "CROSSED OUT (&) AND JUST ON THE OTHER SIDE"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2974, 
+                "name": "ambiguity", 
+                "workCount": 106
+              }, 
+              {
+                "id": 3542, 
+                "name": "power", 
+                "workCount": 25
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12010_8.jpg", 
+  "title": "CROSSED OUT (&) AND JUST ON THE OTHER SIDE", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/weiner-crossed-out-and-just-on-the-other-side-t12010", 
+  "width": "display"
 }

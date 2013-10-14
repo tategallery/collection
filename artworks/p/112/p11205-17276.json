@@ -1,6 +1,5 @@
 {
   "acno": "P11205", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "1946"
   }, 
   "dateText": "1946", 
+  "depth": "", 
   "dimensions": "image: 270 x 435 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Vogelpflanze", 
   "groupTitle": null, 
+  "height": "435", 
   "id": 17276, 
   "inscription": "date inscribed", 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 76, 
   "subjectCount": 5, 
-  "title": "Bird Plant"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }, 
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant", 
+                "workCount": 198
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }, 
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11205_8.jpg", 
+  "title": "Bird Plant", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gotz-bird-plant-p11205", 
+  "width": "270"
 }

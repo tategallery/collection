@@ -1,6 +1,5 @@
 {
   "acno": "P02486", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02484-P02487", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1971-2"
   }, 
   "dateText": "1971-2", 
+  "depth": "", 
   "dimensions": "image: 615 x 615 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Four Seasons", 
+  "height": "615", 
   "id": 8658, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 47, 
   "subjectCount": 3, 
-  "title": "Autumn"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn", 
+                "workCount": 73
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02486_8.jpg", 
+  "title": "Autumn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-autumn-p02486", 
+  "width": "615"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T01121", 
-  "addlImageCount": 0, 
   "catTextResId": 1139231, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,15 +21,88 @@
     "text": "c.1904"
   }, 
   "dateText": "c.1904", 
+  "depth": "", 
   "dimensions": "support: 219 x 264 mm\r\nframe: 374 x 426 x 54 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "264", 
   "id": 972, 
   "inscription": null, 
   "medium": "Oil paint on canvas mounted on hardboard", 
   "movementCount": 0, 
-  "popularity": 175, 
   "subjectCount": 4, 
-  "title": "Morning over the Ploughed Fields"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1575, 
+                "name": "Poland", 
+                "workCount": 32
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 1869, 
+                "name": "Szeliwy", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 457, 
+                "name": "farmland", 
+                "workCount": 356
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 681, 
+                "name": "morning", 
+                "workCount": 98
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01121_8.jpg", 
+  "title": "Morning over the Ploughed Fields", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bevan-morning-over-the-ploughed-fields-t01121", 
+  "width": "219"
 }

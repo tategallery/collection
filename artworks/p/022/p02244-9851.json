@@ -1,6 +1,5 @@
 {
   "acno": "P02244", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02228-P02244", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,57 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 183 x 240 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Sheep Album", 
+  "height": "240", 
   "id": 9851, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 2, 
-  "title": "Shorn Sheep with Lamb"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5054, 
+                "name": "feeding", 
+                "workCount": 55
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 266, 
+                "name": "sheep", 
+                "workCount": 496
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02244_8.jpg", 
+  "title": "Shorn Sheep with Lamb", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-shorn-sheep-with-lamb-p02244", 
+  "width": "183"
 }

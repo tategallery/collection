@@ -1,6 +1,5 @@
 {
   "acno": "D40601", 
-  "addlImageCount": 0, 
   "catTextResId": 1130571, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
@@ -28,17 +27,59 @@
     "text": "1805-9"
   }, 
   "dateText": "1805-9", 
+  "depth": "", 
   "dimensions": "support: 115 x 190 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "height": "190", 
   "id": 64350, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 34, 
-  "popularity": 10, 
   "subjectCount": 2, 
-  "title": "A Stormy Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40601_8.jpg", 
+  "title": "A Stormy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stormy-sky-d40601", 
+  "width": "115"
 }

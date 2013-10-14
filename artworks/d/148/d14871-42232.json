@@ -1,6 +1,5 @@
 {
   "acno": "D14871", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 97 x 132 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVIII 22", 
   "foreignTitle": null, 
   "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "height": "132", 
   "id": 42232, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 85, 
   "subjectCount": 4, 
-  "title": "Piazza del Nettuno, Bologna"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9779, 
+                "name": "Bologna, Piazza del Nettuno", 
+                "workCount": 6
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 3517, 
+                "name": "statue", 
+                "workCount": 191
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments", 
+            "workCount": 809
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14871_8.jpg", 
+  "title": "Piazza del Nettuno, Bologna", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-piazza-del-nettuno-bologna-d14871", 
+  "width": "97"
 }

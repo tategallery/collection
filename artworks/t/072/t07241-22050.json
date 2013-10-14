@@ -1,6 +1,5 @@
 {
   "acno": "T07241", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1685"
   }, 
   "dateText": "c.1685", 
+  "depth": "", 
   "dimensions": "unconfirmed: 750 x 630 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "630", 
   "id": 22050, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,110 @@
       "workCount": 36
     }
   ], 
-  "popularity": 173, 
   "subjectCount": 6, 
-  "title": "Portrait of a lady, thought to be Dionesse Cullum, wife of Robert Colman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12627, 
+                "name": "Colman, Dionesse", 
+                "workCount": 1
+              }, 
+              {
+                "id": 7003, 
+                "name": "Cullum, Dionesse", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5689, 
+                "name": "cartouche", 
+                "workCount": 20
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1957, 
+                "name": "name of sitter", 
+                "workCount": 46
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07241_8.jpg", 
+  "title": "Portrait of a lady, thought to be Dionesse Cullum, wife of Robert Colman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/verelst-portrait-of-a-lady-thought-to-be-dionesse-cullum-wife-of-robert-colman-t07241", 
+  "width": "750"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D01357", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01356-D01400; D01402-D01460; D41254-D41260; D41433", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 266 x 171 mm", 
-  "displayLocation": null, 
   "finberg": "XXXIX 2", 
   "foreignTitle": null, 
   "groupTitle": "North Wales Sketchbook [Finberg XXXIX]", 
+  "height": "171", 
   "id": 28764, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 13, 
   "subjectCount": 4, 
-  "title": "A Cottage by a Single-Arched Bridge among Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 503, 
+                "name": "cottage", 
+                "workCount": 437
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01357_8_R.jpg", 
+  "title": "A Cottage by a Single-Arched Bridge among Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-cottage-by-a-single-arched-bridge-among-mountains-d01357", 
+  "width": "266"
 }

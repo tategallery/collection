@@ -1,6 +1,5 @@
 {
   "acno": "P02396", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02394-P02399", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,88 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "unconfirmed: 243 x 173 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Seated Figures", 
+  "height": "173", 
   "id": 9918, 
   "inscription": "date inscribed", 
   "medium": null, 
   "movementCount": 0, 
-  "popularity": 66, 
   "subjectCount": 4, 
-  "title": "Seated Figure III Dark Room"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02396_8.jpg", 
+  "title": "Seated Figure III Dark Room", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-seated-figure-iii-dark-room-p02396", 
+  "width": "243"
 }

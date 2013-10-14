@@ -1,6 +1,5 @@
 {
   "acno": "P01296", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01296-P01300", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "support: 438 x 442 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Paper Clip Suite II", 
+  "height": "442", 
   "id": 13550, 
   "inscription": "date inscribed", 
   "medium": "Etching and 2 metal paperclips on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 2, 
-  "title": "Print 1"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01296_8.jpg", 
+  "title": "Print 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-print-1-p01296", 
+  "width": "438"
 }

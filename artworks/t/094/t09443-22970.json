@@ -1,6 +1,5 @@
 {
   "acno": "T09443", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,69 @@
     "text": "1872"
   }, 
   "dateText": "1872", 
+  "depth": "", 
   "dimensions": "support: 124 x 175 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "175", 
   "id": 22970, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T09443_143355", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09443_143355_7.jpg", 
-          "height": 90, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09443_143355_8.jpg", 
-          "height": 180, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09443_143355_9.jpg", 
-          "height": 360, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T09/T09443_143355_10.jpg", 
-          "height": 1079, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Chalk on paper. Verso: chalk on paper", 
   "movementCount": 0, 
-  "popularity": 67, 
   "subjectCount": 3, 
-  "title": "Portrait Study, a Head of a Woman. Verso: Sketch and a Caricature"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 2594, 
+                "name": "looking down", 
+                "workCount": 126
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09443_8.jpg", 
+  "title": "Portrait Study, a Head of a Woman. Verso: Sketch and a Caricature", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/haden-portrait-study-a-head-of-a-woman-verso-sketch-and-a-caricature-t09443", 
+  "width": "124"
 }

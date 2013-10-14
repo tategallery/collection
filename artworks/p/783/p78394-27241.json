@@ -1,6 +1,5 @@
 {
   "acno": "P78394", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78388-P78407", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "", 
   "dimensions": "unconfirmed: 260 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cubitt Print Box", 
+  "height": "210", 
   "id": 27241, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 84, 
   "subjectCount": 3, 
-  "title": "Dark Eyes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78394_8.jpg", 
+  "title": "Dark Eyes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/katz-dark-eyes-p78394", 
+  "width": "260"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D11938", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11914-D11951; D40706-D40707", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 180 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CL 19 a", 
   "foreignTitle": null, 
   "groupTitle": "Scarborough 1 Sketchbook [Finberg CL]", 
+  "height": "117", 
   "id": 39307, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 1, 
   "subjectCount": 1, 
-  "title": "A Ship"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11938_8.jpg", 
+  "title": "A Ship", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ship-d11938", 
+  "width": "180"
 }

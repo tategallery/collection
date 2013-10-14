@@ -1,6 +1,5 @@
 {
   "acno": "D13190", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D13171-D13244; D40938; D40940-D40941; D41230", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "c.1817-18"
   }, 
   "dateText": "c.1817-18", 
+  "depth": "", 
   "dimensions": "support: 88 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CLXIII 15", 
   "foreignTitle": null, 
   "groupTitle": "Artist's Benevolent Fund Sketchbook [Finberg CLXIII]", 
+  "height": "110", 
   "id": 40558, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 31, 
-  "popularity": 27, 
   "subjectCount": 1, 
-  "title": "A Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13190_8.jpg", 
+  "title": "A Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-building-d13190", 
+  "width": "88"
 }

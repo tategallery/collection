@@ -1,6 +1,5 @@
 {
   "acno": "D33429", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33406-D33469; D41103-D41104", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,109 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 173 x 73 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXI 12 a", 
   "foreignTitle": null, 
   "groupTitle": "Lake of Zug and Goldau Sketchbook [Finberg CCCXXXI]", 
+  "height": "73", 
   "id": 60600, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "popularity": 75, 
   "subjectCount": 5, 
-  "title": "Mountains, Switz [Turner]. (?Schwyz)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 13080, 
+                "name": "Schwyz", 
+                "workCount": 4
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33429_8.jpg", 
+  "title": "Mountains, Switz [Turner]. (?Schwyz)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-switz-turner-schwyz-d33429", 
+  "width": "173"
 }

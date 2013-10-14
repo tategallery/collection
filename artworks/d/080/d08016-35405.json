@@ -1,6 +1,5 @@
 {
   "acno": "D08016", 
-  "addlImageCount": 0, 
   "catTextResId": 1134795, 
   "catalogueGroup": {
     "accessionRanges": "D07958-D08083; D40812; D41525-D41529", 
@@ -28,17 +27,59 @@
     "text": "c.1808-11"
   }, 
   "dateText": "c.1808-11", 
+  "depth": "", 
   "dimensions": "support: 87 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "CXIV 44 a", 
   "foreignTitle": null, 
   "groupTitle": "Windmill and Lock Sketchbook [Finberg CXIV]", 
+  "height": "117", 
   "id": 35405, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 90, 
-  "popularity": 28, 
   "subjectCount": 2, 
-  "title": "A Gothic Archway"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door", 
+                "workCount": 348
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08016_8_R.jpg", 
+  "title": "A Gothic Archway", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-gothic-archway-d08016", 
+  "width": "87"
 }

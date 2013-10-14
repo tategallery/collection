@@ -1,6 +1,5 @@
 {
   "acno": "P06005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01416; P06005; P06108; P06130; P06241; P06324; P06346; P06359; P06399; P06457; P06519; P06700", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 562 x 292 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Penwith Portfolio", 
+  "height": "292", 
   "id": 440, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 114, 
   "subjectCount": 1, 
-  "title": "Screen Form"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06005_8.jpg", 
+  "title": "Screen Form", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/adams-screen-form-p06005", 
+  "width": "562"
 }

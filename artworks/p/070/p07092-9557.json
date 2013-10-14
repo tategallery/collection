@@ -1,6 +1,5 @@
 {
   "acno": "P07092", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07090-P07095", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 508 x 762 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "15 23/55 55/46 66", 
+  "height": "762", 
   "id": 9557, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 20, 
   "subjectCount": 3, 
-  "title": "PR3NT A"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4687, 
+                "name": "floor", 
+                "workCount": 33
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 206, 
+                "name": "studio", 
+                "workCount": 145
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces", 
+            "workCount": 368
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07092_8.jpg", 
+  "title": "PR3NT A", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/milow-pr3nt-a-p07092", 
+  "width": "508"
 }

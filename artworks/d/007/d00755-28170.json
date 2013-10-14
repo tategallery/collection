@@ -1,6 +1,5 @@
 {
   "acno": "D00755", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D00730-D00764; D00766-D00768; D00770-D00831; D00833-D00842; D40759-D40761", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1796"
   }, 
   "dateText": "1796", 
+  "depth": "", 
   "dimensions": "support: 110 x 129 mm", 
-  "displayLocation": null, 
   "finberg": "XXX 26", 
   "foreignTitle": null, 
   "groupTitle": "Studies near Brighton Sketchbook [Finberg XXX]", 
+  "height": "129", 
   "id": 28170, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 55, 
-  "popularity": 23, 
   "subjectCount": 2, 
-  "title": "Study of the Side (?Prow, Port Side) of a Sailing-Boat, with Part of a Boom and Halyards"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1826, 
+                "name": "crane", 
+                "workCount": 75
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00755_8.jpg", 
+  "title": "Study of the Side (?Prow, Port Side) of a Sailing-Boat, with Part of a Boom and Halyards", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-the-side-prow-port-side-of-a-sailing-boat-with-part-of-a-boom-and-halyards-d00755", 
+  "width": "110"
 }

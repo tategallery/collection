@@ -1,6 +1,5 @@
 {
   "acno": "T01661", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "c.1903-4"
   }, 
   "dateText": "c.1903-4", 
+  "depth": "", 
   "dimensions": "support: 479 x 622 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Les Trois Arbres", 
   "groupTitle": null, 
+  "height": "622", 
   "id": 5423, 
   "inscription": null, 
   "medium": "Pastel on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 2, 
-  "title": "Three Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01661_8.jpg", 
+  "title": "Three Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gonzalez-three-trees-t01661", 
+  "width": "479"
 }

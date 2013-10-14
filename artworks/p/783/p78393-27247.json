@@ -1,6 +1,5 @@
 {
   "acno": "P78393", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78388-P78407", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1999-2000"
   }, 
   "dateText": "1999-2000", 
+  "depth": "", 
   "dimensions": "unconfirmed: 260 x 210 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Cubitt Print Box", 
+  "height": "210", 
   "id": 27247, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 107, 
   "subjectCount": 2, 
-  "title": "Diamond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78393_8.jpg", 
+  "title": "Diamond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jones-diamond-p78393", 
+  "width": "260"
 }

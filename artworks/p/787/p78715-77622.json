@@ -1,6 +1,5 @@
 {
   "acno": "P78715", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78712-P78716", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "2001"
   }, 
   "dateText": "2001", 
+  "depth": "", 
   "dimensions": "image: 840 x 1190 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "BQ Poster Edition", 
+  "height": "1190", 
   "id": 77622, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 49, 
   "subjectCount": 2, 
-  "title": "Untitled Figure 4"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16420, 
+                "name": "cross", 
+                "workCount": 46
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78715_8.jpg", 
+  "title": "Untitled Figure 4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wright-untitled-figure-4-p78715", 
+  "width": "840"
 }

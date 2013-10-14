@@ -1,6 +1,5 @@
 {
   "acno": "T02931", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T02415-T03024; T03239-T03240", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,117 @@
     "text": null
   }, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 162 x 241 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Voyage Round Great Britain", 
+  "height": "241", 
   "id": 3526, 
   "inscription": null, 
   "medium": "Aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 72, 
   "subjectCount": 7, 
-  "title": "Whitby, Yorkshire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7892, 
+                "name": "Whitby, Whitby Abbey", 
+                "workCount": 13
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North", 
+                "workCount": 679
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 777, 
+                "name": "cliff", 
+                "workCount": 1396
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02931_8.jpg", 
+  "title": "Whitby, Yorkshire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/daniell-whitby-yorkshire-t02931", 
+  "width": "162"
 }

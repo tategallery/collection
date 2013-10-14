@@ -1,6 +1,5 @@
 {
   "acno": "A01029", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A01029-A01033", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,100 @@
     "text": "1931"
   }, 
   "dateText": "1931", 
+  "depth": "", 
   "dimensions": "support: 152 x 222 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Rake's Progress", 
+  "height": "222", 
   "id": 550, 
   "inscription": "date inscribed", 
   "medium": "Watercolour and ink on paper", 
   "movementCount": 0, 
-  "popularity": 82, 
   "subjectCount": 5, 
-  "title": "At the Brasserie"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 623, 
+                "name": "bar", 
+                "workCount": 36
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 549, 
+                "name": "drinking", 
+                "workCount": 174
+              }, 
+              {
+                "id": 7164, 
+                "name": "toasting", 
+                "workCount": 4
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking", 
+            "workCount": 348
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A01/A01029_8.jpg", 
+  "title": "At the Brasserie", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ardizzone-at-the-brasserie-a01029", 
+  "width": "152"
 }

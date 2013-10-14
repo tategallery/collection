@@ -1,6 +1,5 @@
 {
   "acno": "P11836", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "P11822-P11837", 
     "completeStatus": "COMPLETE", 
@@ -27,59 +26,57 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "unconfirmed: 968 x 629 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Illustrations for 'Anna Karenina' I-XIV", 
+  "height": "629", 
   "id": 67378, 
-  "images": [
-    {
-      "copyright": "\u00a9 The estate of Barnett Freedman", 
-      "filenameBase": "P11836_142107", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11836_142107_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 85
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11836_142107_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 169
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11836_142107_9.jpg", 
-          "height": 730, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 483
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "P/P11/P11836_142107_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1016
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Lithograph on paper. Verso: lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 2, 
-  "title": "Untitled: Verso: And a Boy too!"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11836_8.jpg", 
+  "title": "Untitled: Verso: And a Boy too!", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/freedman-untitled-verso-and-a-boy-too-p11836", 
+  "width": "968"
 }

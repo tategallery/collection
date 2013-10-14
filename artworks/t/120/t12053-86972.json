@@ -1,6 +1,5 @@
 {
   "acno": "T12053", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1992"
   }, 
   "dateText": "1992", 
+  "depth": "18", 
   "dimensions": "support: 2998 x 1401 x 18 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1401", 
   "id": 86972, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 75, 
   "subjectCount": 2, 
-  "title": "Ladder"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8482, 
+                "name": "blur", 
+                "workCount": 94
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 458, 
+                "name": "ladder", 
+                "workCount": 100
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12053_8.jpg", 
+  "title": "Ladder", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lochore-ladder-t12053", 
+  "width": "2998"
 }

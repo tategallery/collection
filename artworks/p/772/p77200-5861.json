@@ -1,6 +1,5 @@
 {
   "acno": "P77200", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1953"
   }, 
   "dateText": "1953", 
+  "depth": "", 
   "dimensions": "image: 378 x 517 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "517", 
   "id": 5861, 
   "inscription": null, 
   "medium": "Etching on paper", 
@@ -41,7 +41,36 @@
       "workCount": 48
     }
   ], 
-  "popularity": 309, 
   "subjectCount": 1, 
-  "title": "24"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77200_8.jpg", 
+  "title": "24", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hartung-24-p77200", 
+  "width": "378"
 }

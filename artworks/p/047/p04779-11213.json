@@ -1,6 +1,5 @@
 {
   "acno": "P04779", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04770-P04867", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 380 x 255 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Moonstrips Empire News", 
+  "height": "255", 
   "id": 11213, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,55 @@
       "workCount": 846
     }
   ], 
-  "popularity": 40, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6472, 
+                "name": "embryo / foetus", 
+                "workCount": 9
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8034, 
+                "name": "sequence", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04779_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-p04779", 
+  "width": "380"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P77335", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1952"
   }, 
   "dateText": "1952", 
+  "depth": "", 
   "dimensions": "image: 350 x 247 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "247", 
   "id": 18926, 
   "inscription": null, 
   "medium": "Linocut on paper", 
@@ -41,7 +41,41 @@
       "workCount": 70
     }
   ], 
-  "popularity": 114, 
   "subjectCount": 2, 
-  "title": "Composition - Black and Yellow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77335_8.jpg", 
+  "title": "Composition - Black and Yellow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heath-composition-black-and-yellow-p77335", 
+  "width": "350"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05901", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,98 @@
     "text": "1885"
   }, 
   "dateText": "1885", 
+  "depth": "", 
   "dimensions": "support: 1041 x 571 mm\r\nframe: 1215 x 745 x 90 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "571", 
   "id": 13143, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 332, 
   "subjectCount": 6, 
-  "title": "Mrs Frederick Barnard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14727, 
+                "name": "Barnard, Alice", 
+                "workCount": 1
+              }, 
+              {
+                "id": 14728, 
+                "name": "Faraday, Alice", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress", 
+                "workCount": 212
+              }, 
+              {
+                "id": 1047, 
+                "name": "parasol", 
+                "workCount": 67
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05901_8.jpg", 
+  "title": "Mrs Frederick Barnard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sargent-mrs-frederick-barnard-n05901", 
+  "width": "1041"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T07147", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1982"
   }, 
   "dateText": "1982", 
+  "depth": "38", 
   "dimensions": "support: 982 x 918 x 38 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "918", 
   "id": 21769, 
   "inscription": null, 
   "medium": "Enamelac paint on fibreglass, aluminium and wood", 
@@ -41,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 227, 
   "subjectCount": 1, 
-  "title": "Guild"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07147_8.jpg", 
+  "title": "Guild", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ryman-guild-t07147", 
+  "width": "982"
 }

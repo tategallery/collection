@@ -1,6 +1,5 @@
 {
   "acno": "D07210", 
-  "addlImageCount": 0, 
   "catTextResId": 1129634, 
   "catalogueGroup": {
     "accessionRanges": "D07132-D07198; D07201-D07204; D07208-D07249; D07251-D07254; D40624-D40627", 
@@ -28,17 +27,97 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CVI 66", 
   "foreignTitle": null, 
   "groupTitle": "Derbyshire Sketchbook [Finberg CVI]", 
+  "height": "185", 
   "id": 34599, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 139, 
-  "popularity": 20, 
   "subjectCount": 4, 
-  "title": "Figure Working in a Barn"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2832, 
+                "name": "barn", 
+                "workCount": 16
+              }
+            ], 
+            "id": 46, 
+            "name": "workspaces", 
+            "workCount": 368
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 688, 
+                "name": "farm labourer", 
+                "workCount": 86
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07210_8.jpg", 
+  "title": "Figure Working in a Barn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figure-working-in-a-barn-d07210", 
+  "width": "108"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T00959", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "95", 
   "dimensions": "object: 679 x 508 x 95 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 6046, 
   "inscription": "date inscribed", 
   "medium": "Bronze", 
@@ -41,7 +41,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 160, 
   "subjectCount": 2, 
-  "title": "Maquette, Three Forms in Echelon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement", 
+                "workCount": 139
+              }, 
+              {
+                "id": 8034, 
+                "name": "sequence", 
+                "workCount": 77
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00959_8.jpg", 
+  "title": "Maquette, Three Forms in Echelon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-maquette-three-forms-in-echelon-t00959", 
+  "width": "679"
 }

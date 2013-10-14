@@ -1,6 +1,5 @@
 {
   "acno": "D12969", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12884-D12992; D41392-D41396", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 202 x 265 mm", 
-  "displayLocation": null, 
   "finberg": "CLXI 46 a", 
   "foreignTitle": null, 
   "groupTitle": "Rhine Sketchbook [Finberg CLXI]", 
+  "height": "265", 
   "id": 40337, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 96, 
-  "popularity": 23, 
   "subjectCount": 5, 
-  "title": "View up the Rhine from the West Bank at Hirzenach"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 4386, 
+                "name": "River Rhine", 
+                "workCount": 725
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12969_8.jpg", 
+  "title": "View up the Rhine from the West Bank at Hirzenach", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-up-the-rhine-from-the-west-bank-at-hirzenach-d12969", 
+  "width": "202"
 }

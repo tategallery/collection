@@ -1,6 +1,5 @@
 {
   "acno": "T07532", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "4", 
   "dimensions": "support: 855 x 1180 x 4 mm\r\nframe: 892 x 1219 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1180", 
   "id": 26676, 
   "inscription": null, 
   "medium": "Oil paint on canvas on hardboard", 
   "movementCount": 0, 
-  "popularity": 155, 
   "subjectCount": 4, 
-  "title": "The St George River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 885, 
+                "name": "aerial view", 
+                "workCount": 34
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 597, 
+                "name": "pool", 
+                "workCount": 376
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07532_8.jpg", 
+  "title": "The St George River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/williams-the-st-george-river-t07532", 
+  "width": "855"
 }

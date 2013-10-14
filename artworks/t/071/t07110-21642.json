@@ -1,6 +1,5 @@
 {
   "acno": "T07110", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "support: 1161 x 890 mm\r\nframe: 1190 x 918 x 51 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "L'Arbre de fluides", 
   "groupTitle": null, 
+  "height": "890", 
   "id": 21642, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -54,7 +51,91 @@
       "workCount": 48
     }
   ], 
-  "popularity": 1539, 
   "subjectCount": 5, 
-  "title": "The Tree of Fluids"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2545, 
+                "name": "beauty", 
+                "workCount": 76
+              }, 
+              {
+                "id": 1042, 
+                "name": "fertility", 
+                "workCount": 29
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07110_8.jpg", 
+  "title": "The Tree of Fluids", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dubuffet-the-tree-of-fluids-t07110", 
+  "width": "1161"
 }

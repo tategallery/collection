@@ -1,6 +1,5 @@
 {
   "acno": "P05117", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05108-P05124", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 579 x 388 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Poem for Alexander", 
+  "height": "388", 
   "id": 13239, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Fire on the Rectangle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13022, 
+                "name": "poetry", 
+                "workCount": 54
+              }
+            ], 
+            "id": 6927, 
+            "name": "lifestyle and culture", 
+            "workCount": 932
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05117_8.jpg", 
+  "title": "Fire on the Rectangle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/scott-fire-on-the-rectangle-p05117", 
+  "width": "579"
 }

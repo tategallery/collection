@@ -1,6 +1,5 @@
 {
   "acno": "P04308", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04308-P04311", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 428 x 522 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Small Red: January 1973", 
+  "height": "522", 
   "id": 6169, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 47, 
   "subjectCount": 2, 
-  "title": "Small Red : January 1973 : 1"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04308_8.jpg", 
+  "title": "Small Red : January 1973 : 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heron-small-red-january-1973-1-p04308", 
+  "width": "428"
 }

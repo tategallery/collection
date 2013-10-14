@@ -1,6 +1,5 @@
 {
   "acno": "D13802", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D13751-D13813; D40932-D40933", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1819"
   }, 
   "dateText": "c.1819", 
+  "depth": "", 
   "dimensions": "support: 87 x 119 mm", 
-  "displayLocation": null, 
   "finberg": "CLXIX 34", 
   "foreignTitle": null, 
   "groupTitle": "Aesacus and Hesperie Sketchbook [Finberg CLXIX]", 
+  "height": "119", 
   "id": 41169, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 69, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Two Skies"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13802_8.jpg", 
+  "title": "Two Skies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-skies-d13802", 
+  "width": "87"
 }

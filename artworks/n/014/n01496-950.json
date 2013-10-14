@@ -1,6 +1,5 @@
 {
   "acno": "N01496", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1545"
   }, 
   "dateText": "1545", 
+  "depth": "", 
   "dimensions": "support: 470 x 410 mm\r\nframe: 750 x 628 x 100 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "410", 
   "id": 950, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on oak", 
@@ -44,7 +41,103 @@
       "workCount": 17
     }
   ], 
-  "popularity": 888, 
   "subjectCount": 6, 
-  "title": "A Man in a Black Cap"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1452, 
+                "name": "age of sitter", 
+                "workCount": 4
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1402, 
+                "name": "beard", 
+                "workCount": 160
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 1841, 
+                "name": "male", 
+                "workCount": 151
+              }
+            ], 
+            "id": 1789, 
+            "name": "portraits: unidentified", 
+            "workCount": 277
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1889, 
+                "name": "collar", 
+                "workCount": 43
+              }, 
+              {
+                "id": 201, 
+                "name": "hat, cap", 
+                "workCount": 153
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N01/N01496_8.jpg", 
+  "title": "A Man in a Black Cap", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bettes-a-man-in-a-black-cap-n01496", 
+  "width": "470"
 }

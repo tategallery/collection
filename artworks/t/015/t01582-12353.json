@@ -1,6 +1,5 @@
 {
   "acno": "T01582", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "support: 1524 x 1524 mm\r\nframe: 1576 x 1577 x 66 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1524", 
   "id": 12353, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 1342, 
   "subjectCount": 1, 
-  "title": "Abstract Painting No. 5"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01582_8.jpg", 
+  "title": "Abstract Painting No. 5", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/reinhardt-abstract-painting-no-5-t01582", 
+  "width": "1524"
 }

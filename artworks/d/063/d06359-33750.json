@@ -1,6 +1,5 @@
 {
   "acno": "D06359", 
-  "addlImageCount": 0, 
   "catTextResId": 1130543, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
@@ -28,17 +27,78 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 182 x 117 mm", 
-  "displayLocation": null, 
   "finberg": "XCVIII 137", 
   "foreignTitle": null, 
   "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "height": "117", 
   "id": 33750, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 275, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "Seated Figure, ?Sketching"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1069, 
+                "name": "drawing", 
+                "workCount": 64
+              }
+            ], 
+            "id": 51, 
+            "name": "art and craft", 
+            "workCount": 565
+          }
+        ], 
+        "id": 47, 
+        "name": "leisure and pastimes", 
+        "workCount": 3120
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06359_8.jpg", 
+  "title": "Seated Figure, ?Sketching", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-seated-figure-sketching-d06359", 
+  "width": "182"
 }

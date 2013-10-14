@@ -1,6 +1,5 @@
 {
   "acno": "T07144", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "914", 
   "dimensions": "displayed: 920 x 6720 x 914 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "6720", 
   "id": 21766, 
   "inscription": null, 
   "medium": "Mahogany", 
@@ -51,7 +51,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 710, 
   "subjectCount": 1, 
-  "title": "Five Open Geometric Structures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07144_8.jpg", 
+  "title": "Five Open Geometric Structures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-five-open-geometric-structures-t07144", 
+  "width": "920"
 }

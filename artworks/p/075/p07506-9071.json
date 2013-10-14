@@ -1,6 +1,5 @@
 {
   "acno": "P07506", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07501-P07506", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1975-9"
   }, 
   "dateText": "1975-9", 
+  "depth": "", 
   "dimensions": "image: 445 x 346 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Blossoms and Flowers", 
+  "height": "346", 
   "id": 9071, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 36, 
   "subjectCount": 2, 
-  "title": "Apple Blossom II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3572, 
+                "name": "apple", 
+                "workCount": 16
+              }, 
+              {
+                "id": 2270, 
+                "name": "blossom", 
+                "workCount": 34
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07506_8.jpg", 
+  "title": "Apple Blossom II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-apple-blossom-ii-p07506", 
+  "width": "445"
 }

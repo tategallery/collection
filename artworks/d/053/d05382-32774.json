@@ -1,6 +1,5 @@
 {
   "acno": "D05382", 
-  "addlImageCount": 0, 
   "catTextResId": 1139160, 
   "catalogueGroup": {
     "accessionRanges": "D05376-D05427; D40694-D40696", 
@@ -28,17 +27,47 @@
     "text": "c.1805"
   }, 
   "dateText": "c.1805", 
+  "depth": "", 
   "dimensions": "support: 118 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "LXXXVII 7", 
   "foreignTitle": null, 
   "groupTitle": "Shipwreck (1) Sketchbook [Finberg LXXXVII]", 
+  "height": "185", 
   "id": 32774, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "?A Ship"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05382_8.jpg", 
+  "title": "?A Ship", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-ship-d05382", 
+  "width": "118"
 }

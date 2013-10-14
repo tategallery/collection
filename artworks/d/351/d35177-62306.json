@@ -1,6 +1,5 @@
 {
   "acno": "D35177", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35175-D35192; D35194-D35218", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 229 x 327 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLI 3", 
   "foreignTitle": null, 
   "groupTitle": "Rhine and Rhine Castles Sketchbook [Finberg CCCLI]", 
+  "height": "327", 
   "id": 62306, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 7, 
-  "popularity": 4, 
   "subjectCount": 3, 
-  "title": "Storm over a River"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35177_8.jpg", 
+  "title": "Storm over a River", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-storm-over-a-river-d35177", 
+  "width": "229"
 }

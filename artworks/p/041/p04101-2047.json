@@ -1,6 +1,5 @@
 {
   "acno": "P04101", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 584 x 714 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "714", 
   "id": 2047, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,48 @@
       "workCount": 846
     }
   ], 
-  "popularity": 161, 
   "subjectCount": 2, 
-  "title": "Occasional Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 776, 
+                "name": "ashtray", 
+                "workCount": 17
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04101_8.jpg", 
+  "title": "Occasional Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-occasional-table-p04101", 
+  "width": "584"
 }

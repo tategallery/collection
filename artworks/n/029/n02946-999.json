@@ -1,6 +1,5 @@
 {
   "acno": "N02946", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,98 @@
     "text": "?1829"
   }, 
   "dateText": "?1829", 
+  "depth": "", 
   "dimensions": "support: 254 x 200 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "200", 
   "id": 999, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 142, 
   "subjectCount": 6, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1115, 
+                "name": "duck", 
+                "workCount": 82
+              }, 
+              {
+                "id": 4767, 
+                "name": "heron", 
+                "workCount": 31
+              }, 
+              {
+                "id": 5053, 
+                "name": "pigeon", 
+                "workCount": 16
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug", 
+                "workCount": 194
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 12653, 
+                "name": "poultry - non specific", 
+                "workCount": 1
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02946_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/blake-still-life-n02946", 
+  "width": "254"
 }

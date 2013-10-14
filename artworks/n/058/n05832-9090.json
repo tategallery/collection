@@ -1,6 +1,5 @@
 {
   "acno": "N05832", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1900"
   }, 
   "dateText": "1900", 
+  "depth": "", 
   "dimensions": "support: 184 x 127 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "127", 
   "id": 9090, 
   "inscription": "date inscribed", 
   "medium": "Graphite and ink on paper", 
   "movementCount": 0, 
-  "popularity": 172, 
   "subjectCount": 3, 
-  "title": "Self-Portrait"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16408, 
+                "name": "McEvoy, Ambrose", 
+                "workCount": 1
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05832_8.jpg", 
+  "title": "Self-Portrait", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mcevoy-self-portrait-n05832", 
+  "width": "184"
 }

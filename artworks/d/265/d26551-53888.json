@@ -1,6 +1,5 @@
 {
   "acno": "D26551", 
-  "addlImageCount": 0, 
   "catTextResId": 1134985, 
   "catalogueGroup": {
     "accessionRanges": "D26436-D26618; D41082-D41083", 
@@ -28,17 +27,71 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 125 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXX 58 a", 
   "foreignTitle": null, 
   "groupTitle": "Stirling and the West Sketchbook [Finberg CCLXX]", 
+  "height": "201", 
   "id": 53888, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 118, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "Glen Croe from 'Rest and be Thankful'; and ?Ardkinglas House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26551_8.jpg", 
+  "title": "Glen Croe from 'Rest and be Thankful'; and ?Ardkinglas House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-glen-croe-from-rest-and-be-thankful-and-ardkinglas-house-d26551", 
+  "width": "125"
 }

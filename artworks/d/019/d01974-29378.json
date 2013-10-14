@@ -1,6 +1,5 @@
 {
   "acno": "D01974", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01912-D01991; D41266-D41274", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1799"
   }, 
   "dateText": "1799", 
+  "depth": "", 
   "dimensions": "support: 330 x 228 mm", 
-  "displayLocation": null, 
   "finberg": "XLV 38 a", 
   "foreignTitle": null, 
   "groupTitle": "Lancashire and North Wales Sketchbook [Finberg XLV]", 
+  "height": "228", 
   "id": 29378, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 4, 
   "subjectCount": 1, 
-  "title": "Precipitous Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01974_8.jpg", 
+  "title": "Precipitous Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-precipitous-hills-d01974", 
+  "width": "330"
 }

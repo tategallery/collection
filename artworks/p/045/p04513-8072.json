@@ -1,6 +1,5 @@
 {
   "acno": "P04513", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 632 x 425 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "425", 
   "id": 8072, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -51,7 +51,72 @@
       "workCount": 377
     }
   ], 
-  "popularity": 52, 
   "subjectCount": 4, 
-  "title": "Belgian Letters"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1585, 
+                "name": "arm", 
+                "workCount": 49
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12338, 
+                "name": "book, Goris, Jan-Albert, 'Belgian Letters'", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3253, 
+                "name": "pen", 
+                "workCount": 19
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04513_8.jpg", 
+  "title": "Belgian Letters", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-belgian-letters-p04513", 
+  "width": "632"
 }

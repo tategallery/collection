@@ -1,6 +1,5 @@
 {
   "acno": "D10541", 
-  "addlImageCount": 0, 
   "catTextResId": 1131535, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,47 @@
     "text": "c.1816-19"
   }, 
   "dateText": "c.1816-19", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 66 c", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37917, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 152, 
-  "popularity": 11, 
   "subjectCount": 1, 
-  "title": "Trees on Richmond Hill; ?Nightingale Lane"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10541_8.jpg", 
+  "title": "Trees on Richmond Hill; ?Nightingale Lane", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trees-on-richmond-hill-nightingale-lane-d10541", 
+  "width": "155"
 }

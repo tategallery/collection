@@ -1,6 +1,5 @@
 {
   "acno": "P04258", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01414; P04257-P04264; P04266-P04268", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 777 x 583 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opposing Forms", 
+  "height": "583", 
   "id": 5990, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 63, 
   "subjectCount": 1, 
-  "title": "December Forms"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04258_8.jpg", 
+  "title": "December Forms", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-december-forms-p04258", 
+  "width": "777"
 }

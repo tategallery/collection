@@ -1,6 +1,5 @@
 {
   "acno": "P07066", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07066-P07081", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 356 x 356 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Lines of One Inch, Four Directions, Four Colours (set of 16)", 
+  "height": "356", 
   "id": 8729, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -57,7 +57,41 @@
       "workCount": 140
     }
   ], 
-  "popularity": 157, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07066_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lewitt-no-title-p07066", 
+  "width": "356"
 }

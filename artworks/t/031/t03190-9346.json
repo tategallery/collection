@@ -1,6 +1,5 @@
 {
   "acno": "T03190", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1978-9"
   }, 
   "dateText": "1978-9", 
+  "depth": "", 
   "dimensions": "support: 911 x 911 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "911", 
   "id": 9346, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,65 @@
       "workCount": 70
     }
   ], 
-  "popularity": 374, 
   "subjectCount": 4, 
-  "title": "Chance, Order, Change 6 (Black)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance", 
+                "workCount": 103
+              }, 
+              {
+                "id": 11717, 
+                "name": "order", 
+                "workCount": 32
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03190_8.jpg", 
+  "title": "Chance, Order, Change 6 (Black)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martin-chance-order-change-6-black-t03190", 
+  "width": "911"
 }

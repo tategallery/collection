@@ -1,6 +1,5 @@
 {
   "acno": "D05683", 
-  "addlImageCount": 0, 
   "catTextResId": 1130994, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
@@ -28,17 +27,71 @@
     "text": "c.1806-10"
   }, 
   "dateText": "c.1806-10", 
+  "depth": "", 
   "dimensions": "support: 128 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "XCI 66", 
   "foreignTitle": null, 
   "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "height": "201", 
   "id": 33075, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 133, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "Ruins of Robertsbridge Abbey"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2711, 
+                "name": "abbey", 
+                "workCount": 560
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 745, 
+                "name": "religious", 
+                "workCount": 742
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05683_8_R.jpg", 
+  "title": "Ruins of Robertsbridge Abbey", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-ruins-of-robertsbridge-abbey-d05683", 
+  "width": "128"
 }

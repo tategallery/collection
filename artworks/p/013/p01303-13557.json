@@ -1,6 +1,5 @@
 {
   "acno": "P01303", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01301-P01303", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1975"
   }, 
   "dateText": "1975", 
+  "depth": "", 
   "dimensions": "support: 691 x 717 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Folded Paper Clip Suite", 
+  "height": "717", 
   "id": 13557, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on papers and 4 metal paperclips", 
   "movementCount": 0, 
-  "popularity": 68, 
   "subjectCount": 2, 
-  "title": "Folded Paper Clip III"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01303_8.jpg", 
+  "title": "Folded Paper Clip III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-folded-paper-clip-iii-p01303", 
+  "width": "691"
 }

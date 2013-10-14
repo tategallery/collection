@@ -1,6 +1,5 @@
 {
   "acno": "D35085", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35069-D35124; D41141-D41143", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 116 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLVIII 9", 
   "foreignTitle": null, 
   "groupTitle": "Grindelwald Sketchbook [Finberg CCCXLVIII]", 
+  "height": "106", 
   "id": 62214, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 73, 
   "subjectCount": 3, 
-  "title": "Mountains; the Scheideck [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14672, 
+                "name": "Grosse Scheidegg Pass", 
+                "workCount": 7
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35085_8.jpg", 
+  "title": "Mountains; the Scheideck [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mountains-the-scheideck-turner-d35085", 
+  "width": "116"
 }

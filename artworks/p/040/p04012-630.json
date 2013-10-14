@@ -1,6 +1,5 @@
 {
   "acno": "P04012", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04010-P04015", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 580 x 806 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Heads and Figures", 
+  "height": "806", 
   "id": 630, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,79 @@
       "workCount": 377
     }
   ], 
-  "popularity": 84, 
   "subjectCount": 4, 
-  "title": "Reclining Figure II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 565, 
+                "name": "reclining", 
+                "workCount": 737
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure", 
+                "workCount": 1761
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }, 
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04012_8.jpg", 
+  "title": "Reclining Figure II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/auerbach-reclining-figure-ii-p04012", 
+  "width": "580"
 }

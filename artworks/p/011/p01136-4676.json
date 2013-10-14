@@ -1,6 +1,5 @@
 {
   "acno": "P01136", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "support: 768 x 584 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "584", 
   "id": 4676, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper and leather", 
@@ -41,7 +41,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 50, 
   "subjectCount": 1, 
-  "title": "Lace I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01136_8.jpg", 
+  "title": "Lace I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-lace-i-p01136", 
+  "width": "768"
 }

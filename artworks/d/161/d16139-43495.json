@@ -1,6 +1,5 @@
 {
   "acno": "D16139", 
-  "addlImageCount": 0, 
   "catTextResId": 1132401, 
   "catalogueGroup": {
     "accessionRanges": "D16089-D16103; D16105-D16131; D16133-D16156; D17195; D40048; D40079; D41404-D41407; D41482; D41514", 
@@ -28,17 +27,64 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 255 x 403 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXVII 51", 
   "foreignTitle": null, 
   "groupTitle": "Naples: Rome. C. Studies Sketchbook [Finberg CLXXXVII]", 
+  "height": "403", 
   "id": 43495, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 105, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "View from the Fontana dell'Acqua Acetosa, Rome, with the Ponte Molle and the Torre Lazzaroni"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16139_8_R.jpg", 
+  "title": "View from the Fontana dell'Acqua Acetosa, Rome, with the Ponte Molle and the Torre Lazzaroni", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-from-the-fontana-dellacqua-acetosa-rome-with-the-ponte-molle-and-the-torre-lazzaroni-d16139", 
+  "width": "255"
 }

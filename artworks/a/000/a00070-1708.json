@@ -1,6 +1,5 @@
 {
   "acno": "A00070", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1872"
   }, 
   "dateText": "c.1872", 
+  "depth": "", 
   "dimensions": "support: 146 x 149 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "149", 
   "id": 1708, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,60 @@
       "workCount": 405
     }
   ], 
-  "popularity": 128, 
   "subjectCount": 3, 
-  "title": "Study of a Female Head for 'The Hours'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 14746, 
+                "name": "sleeping", 
+                "workCount": 224
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions", 
+            "workCount": 1271
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00070_8.jpg", 
+  "title": "Study of a Female Head for 'The Hours'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-a-female-head-for-the-hours-a00070", 
+  "width": "146"
 }

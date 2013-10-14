@@ -1,6 +1,5 @@
 {
   "acno": "P04033", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04030-P04037", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 750 x 750 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Chromatische Triangulierung II", 
   "groupTitle": "A Series of Eight Screenprints", 
+  "height": "750", 
   "id": 809, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 127, 
   "subjectCount": 2, 
-  "title": "Chromatic Triangulation II"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04033_8.jpg", 
+  "title": "Chromatic Triangulation II", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bayer-chromatic-triangulation-ii-p04033", 
+  "width": "750"
 }

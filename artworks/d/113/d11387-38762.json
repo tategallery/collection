@@ -1,6 +1,5 @@
 {
   "acno": "D11387", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11372-D11441; D40835-D40838", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "c.1816"
   }, 
   "dateText": "c.1816", 
+  "depth": "", 
   "dimensions": "support: 125 x 200 mm", 
-  "displayLocation": null, 
   "finberg": "CXLVI 11 a", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 3 Sketchbook [Finberg CXLVI]", 
+  "height": "200", 
   "id": 38762, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 6, 
   "subjectCount": 4, 
-  "title": "View over Hills and Dales; River Winding through Centre and Church with Tall Spire in Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11387_8.jpg", 
+  "title": "View over Hills and Dales; River Winding through Centre and Church with Tall Spire in Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-view-over-hills-and-dales-river-winding-through-centre-and-church-with-tall-spire-in-distance-d11387", 
+  "width": "125"
 }

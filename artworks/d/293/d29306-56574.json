@@ -1,6 +1,5 @@
 {
   "acno": "D29306", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29213-D29237; D29239-D29264; D29266-D29273; D29275-D29377; D41206-D41208", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,100 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 104 x 148 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIV 51", 
   "foreignTitle": null, 
   "groupTitle": "Fort Bard Sketchbook [Finberg CCXCIV]", 
+  "height": "148", 
   "id": 56574, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 105, 
-  "popularity": 7, 
   "subjectCount": 6, 
-  "title": "Verres, Val d'Aosta; the Bridge, Castle and Church and College of St Gilles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29306_8.jpg", 
+  "title": "Verres, Val d'Aosta; the Bridge, Castle and Church and College of St Gilles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-verres-val-daosta-the-bridge-castle-and-church-and-college-of-st-gilles-d29306", 
+  "width": "104"
 }

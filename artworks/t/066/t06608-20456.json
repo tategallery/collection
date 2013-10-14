@@ -1,6 +1,5 @@
 {
   "acno": "T06608", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957-9"
   }, 
   "dateText": "1957-9", 
+  "depth": "", 
   "dimensions": "unconfirmed: 2286 x 3657 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3657", 
   "id": 20456, 
   "inscription": null, 
   "medium": "Oil paint on board", 
@@ -51,7 +51,53 @@
       "workCount": 39
     }
   ], 
-  "popularity": 208, 
   "subjectCount": 3, 
-  "title": "Yellow Triptych"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06608_8.jpg", 
+  "title": "Yellow Triptych", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/frost-yellow-triptych-t06608", 
+  "width": "2286"
 }

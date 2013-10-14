@@ -1,6 +1,5 @@
 {
   "acno": "D12129", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12124-D12239; D40851-D40853; D41537", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 89 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CLIV a 3 a", 
   "foreignTitle": null, 
   "groupTitle": "Liber Notes (2) Sketchbook [Finberg CLIV a]", 
+  "height": "110", 
   "id": 39498, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 8, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "A Stream"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank", 
+                "workCount": 681
+              }, 
+              {
+                "id": 1698, 
+                "name": "stream", 
+                "workCount": 262
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12129_8.jpg", 
+  "title": "A Stream", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stream-d12129", 
+  "width": "89"
 }

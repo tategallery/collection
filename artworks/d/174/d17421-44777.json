@@ -1,6 +1,5 @@
 {
   "acno": "D17421", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D17365-D17507; D40691-D40693", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 112 x 190 mm", 
-  "displayLocation": null, 
   "finberg": "CXCIX 35", 
   "foreignTitle": null, 
   "groupTitle": "Medway Sketchbook [Finberg CXCIX]", 
+  "height": "190", 
   "id": 44777, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 71, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "Studies of Brace, Brace, M. Missen [Turner], Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2354, 
+                "name": "mast", 
+                "workCount": 122
+              }, 
+              {
+                "id": 2182, 
+                "name": "sail", 
+                "workCount": 52
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17421_8.jpg", 
+  "title": "Studies of Brace, Brace, M. Missen [Turner], Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-brace-brace-m-missen-turner-etc-d17421", 
+  "width": "112"
 }

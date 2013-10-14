@@ -1,6 +1,5 @@
 {
   "acno": "T00736", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "889", 
   "dimensions": "object: 508 x 616 x 889 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "616", 
   "id": 2245, 
   "inscription": "date inscribed", 
   "medium": "Aluminium", 
@@ -41,7 +41,36 @@
       "workCount": 85
     }
   ], 
-  "popularity": 127, 
   "subjectCount": 1, 
-  "title": "Block with Eight Pieces"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00736_8.jpg", 
+  "title": "Block with Eight Pieces", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/clarke-block-with-eight-pieces-t00736", 
+  "width": "508"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D14232", 
-  "addlImageCount": 0, 
   "catTextResId": 1142753, 
   "catalogueGroup": {
     "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
@@ -28,17 +27,83 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 111 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIV 45 a", 
   "foreignTitle": null, 
   "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook [Finberg CLXXIV]", 
+  "height": "186", 
   "id": 41595, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "popularity": 16, 
   "subjectCount": 4, 
-  "title": "A Narrow Passage; ?Boffalora sopra Ticino"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6467, 
+                "name": "alley", 
+                "workCount": 14
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 244, 
+                "name": "arch", 
+                "workCount": 850
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14232_8.jpg", 
+  "title": "A Narrow Passage; ?Boffalora sopra Ticino", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-narrow-passage-boffalora-sopra-ticino-d14232", 
+  "width": "111"
 }

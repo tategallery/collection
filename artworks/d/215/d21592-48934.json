@@ -1,6 +1,5 @@
 {
   "acno": "D21592", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21588-D21663", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1828"
   }, 
   "dateText": "1828", 
+  "depth": "", 
   "dimensions": "support: 148 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXIV 3", 
   "foreignTitle": null, 
   "groupTitle": "Florence to Orvieto Sketchbook [Finberg CCXXXIV]", 
+  "height": "104", 
   "id": 48934, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 14, 
   "subjectCount": 4, 
-  "title": "Street Scene, All Arco [Turner], and River between Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21592_8.jpg", 
+  "title": "Street Scene, All Arco [Turner], and River between Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-street-scene-all-arco-turner-and-river-between-mountains-d21592", 
+  "width": "148"
 }

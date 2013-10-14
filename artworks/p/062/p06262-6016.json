@@ -1,6 +1,5 @@
 {
   "acno": "P06262", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1969"
   }, 
   "dateText": "1969", 
+  "depth": "", 
   "dimensions": "image: 737 x 483 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "483", 
   "id": 6016, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,36 @@
       "workCount": 409
     }
   ], 
-  "popularity": 86, 
   "subjectCount": 1, 
-  "title": "Two Marble Forms (Mykonos)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06262_8.jpg", 
+  "title": "Two Marble Forms (Mykonos)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hepworth-two-marble-forms-mykonos-p06262", 
+  "width": "737"
 }

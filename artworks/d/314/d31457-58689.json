@@ -1,6 +1,5 @@
 {
   "acno": "D31457", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31416-D31426; D31428-D31466; D31468-D31559; D31561-D31567; D31569-D31570; D31572-D31575; D31577-D31581; D31583-D31586; D31588-D31592; D31594-D31597; D41262-D41263; D41500", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 184 x 113 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXI 21 a", 
   "foreignTitle": null, 
   "groupTitle": "Vienna up to Venice Sketchbook [Finberg CCCXI]", 
+  "height": "113", 
   "id": 58689, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 44, 
-  "popularity": 5, 
   "subjectCount": 2, 
-  "title": "Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1048, 
+                "name": "square", 
+                "workCount": 398
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31457_8.jpg", 
+  "title": "Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-d31457", 
+  "width": "184"
 }

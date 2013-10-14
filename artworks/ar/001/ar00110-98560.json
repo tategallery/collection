@@ -1,6 +1,5 @@
 {
   "acno": "AR00110", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,83 @@
     "text": "1959"
   }, 
   "dateText": "1959", 
+  "depth": "", 
   "dimensions": "support: 240 x 252 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "252", 
   "id": 98560, 
   "inscription": "date inscribed", 
   "medium": "Graphite on board on oil paint on paper", 
   "movementCount": 0, 
-  "popularity": 128, 
   "subjectCount": 3, 
-  "title": "Battery"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2015, 
+                "name": "battery", 
+                "workCount": 4
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 572, 
+                "name": "energy", 
+                "workCount": 61
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00110_8.jpg", 
+  "title": "Battery", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-battery-ar00110", 
+  "width": "240"
 }

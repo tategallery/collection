@@ -1,6 +1,5 @@
 {
   "acno": "D16390", 
-  "addlImageCount": 0, 
   "catTextResId": 1132447, 
   "catalogueGroup": {
     "accessionRanges": "D16327-D16391; D16393-D16394; D40049-D40050; D40855-D40857", 
@@ -28,17 +27,47 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 229 x 368 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXIX 59", 
   "foreignTitle": null, 
   "groupTitle": "Rome: Colour Studies Sketchbook [Finberg CLXXXIX]", 
+  "height": "368", 
   "id": 43746, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 121, 
-  "popularity": 53, 
   "subjectCount": 1, 
-  "title": "Three Sketches of Birds"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird", 
+                "workCount": 321
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16390_8.jpg", 
+  "title": "Three Sketches of Birds", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-sketches-of-birds-d16390", 
+  "width": "229"
 }

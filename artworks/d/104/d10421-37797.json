@@ -1,6 +1,5 @@
 {
   "acno": "D10421", 
-  "addlImageCount": 0, 
   "catTextResId": 1131404, 
   "catalogueGroup": {
     "accessionRanges": "D10409-D10585; D40868; D41539", 
@@ -28,17 +27,76 @@
     "text": "c.1816"
   }, 
   "dateText": "c.1816", 
+  "depth": "", 
   "dimensions": "support: 155 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CXL 6 a", 
   "foreignTitle": null, 
   "groupTitle": "Richmond Hill; Hastings to Margate Sketchbook [Finberg CXL]", 
+  "height": "95", 
   "id": 37797, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 16, 
-  "popularity": 80, 
   "subjectCount": 4, 
-  "title": "A Seated Woman, Draped, One Arm Raised to her Head; Back of a Woman's Head Seen from the Left"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4059, 
+                "name": "hair", 
+                "workCount": 111
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10421_8.jpg", 
+  "title": "A Seated Woman, Draped, One Arm Raised to her Head; Back of a Woman's Head Seen from the Left", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-seated-woman-draped-one-arm-raised-to-her-head-back-of-a-womans-head-seen-from-the-left-d10421", 
+  "width": "155"
 }

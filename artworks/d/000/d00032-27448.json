@@ -1,6 +1,5 @@
 {
   "acno": "D00032", 
-  "addlImageCount": 0, 
   "catTextResId": 1140187, 
   "catalogueGroup": {
     "accessionRanges": "D00010-D00045; D40737-D40742", 
@@ -28,17 +27,90 @@
     "text": "c.1789"
   }, 
   "dateText": "c.1789", 
+  "depth": "", 
   "dimensions": "support: 249 x 160 mm", 
-  "displayLocation": null, 
   "finberg": "II 17 a", 
   "foreignTitle": null, 
   "groupTitle": "Oxford Sketchbook [Finberg II]", 
+  "height": "160", 
   "id": 27448, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 36, 
-  "popularity": 35, 
   "subjectCount": 4, 
-  "title": "A Partially Draped Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 219, 
+                "name": "child", 
+                "workCount": 941
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure", 
+                "workCount": 162
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10325, 
+                "name": "putto", 
+                "workCount": 65
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes", 
+            "workCount": 526
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00032_8_R.jpg", 
+  "title": "A Partially Draped Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-partially-draped-figure-d00032", 
+  "width": "249"
 }

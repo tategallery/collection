@@ -1,6 +1,5 @@
 {
   "acno": "D01554", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01461-D01624; D01626-D01628; D40752; D41422-D41423; D41434-D41435; D41451-D41452", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,109 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 131 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "XL 54 a", 
   "foreignTitle": null, 
   "groupTitle": "Dynevor Castle Sketchbook [Finberg XL]", 
+  "height": "95", 
   "id": 28960, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 116, 
-  "popularity": 11, 
   "subjectCount": 5, 
-  "title": "Figures and Boats with a Large Building (?a Castle) Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01554_8.jpg", 
+  "title": "Figures and Boats with a Large Building (?a Castle) Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-and-boats-with-a-large-building-a-castle-beyond-d01554", 
+  "width": "131"
 }

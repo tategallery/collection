@@ -1,6 +1,5 @@
 {
   "acno": "D27502", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27481-D27517; D41102", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1832"
   }, 
   "dateText": "c.1832", 
+  "depth": "", 
   "dimensions": "support: 184 x 72 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXIX b 22", 
   "foreignTitle": null, 
   "groupTitle": "Life Class (2) Sketchbook [Finberg CCLXXIX (b)]", 
+  "height": "72", 
   "id": 54829, 
   "inscription": null, 
   "medium": "Chalk on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Kneeling Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1056, 
+                "name": "crawling", 
+                "workCount": 27
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 794, 
+                "name": "figure", 
+                "workCount": 162
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27502_8.jpg", 
+  "title": "Kneeling Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-kneeling-figure-d27502", 
+  "width": "184"
 }

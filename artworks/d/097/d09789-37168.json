@@ -1,6 +1,5 @@
 {
   "acno": "D09789", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1815"
   }, 
   "dateText": "c.1815", 
+  "depth": "", 
   "dimensions": "support: 179 x 254 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXIV 1", 
   "foreignTitle": null, 
   "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook [Finberg CXXXIV]", 
+  "height": "254", 
   "id": 37168, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 37, 
   "subjectCount": 2, 
-  "title": "A Dead Kingfisher"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4876, 
+                "name": "death", 
+                "workCount": 87
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 3994, 
+                "name": "kingfisher", 
+                "workCount": 7
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09789_8.jpg", 
+  "title": "A Dead Kingfisher", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-dead-kingfisher-d09789", 
+  "width": "179"
 }

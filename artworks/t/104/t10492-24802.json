@@ -1,6 +1,5 @@
 {
   "acno": "T10492", 
-  "addlImageCount": 1, 
   "catalogueGroup": {
     "accessionRanges": "T10455-T10493", 
     "completeStatus": "IRRELEVANT", 
@@ -24,59 +23,86 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 125 x 181 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Small Lakes Sketchbook", 
+  "height": "181", 
   "id": 24802, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T10492_141961", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10492_141961_7.jpg", 
-          "height": 88, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10492_141961_8.jpg", 
-          "height": 176, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10492_141961_9.jpg", 
-          "height": 352, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "T/T10/T10492_141961_10.jpg", 
-          "height": 1057, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Chalk on paper. Verso: chalk on paper", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 5, 
-  "title": "[title not known] Verso: ?Architectural Sketch"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }, 
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T10/T10492_8.jpg", 
+  "title": "[title not known] Verso: ?Architectural Sketch", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beaumont-title-not-known-verso-architectural-sketch-t10492", 
+  "width": "125"
 }

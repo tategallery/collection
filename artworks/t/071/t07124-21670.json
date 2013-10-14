@@ -1,6 +1,5 @@
 {
   "acno": "T07124", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,18 +20,64 @@
     "text": "1985-9"
   }, 
   "dateText": "1985-9", 
+  "depth": "500", 
   "dimensions": "object: 700 x 500 x 500 mm", 
-  "displayLocation": {
-    "name": "De La Warr Pavilion (Bexhill on Sea, UK)", 
-    "url": "http://www.dlwp.com/"
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "500", 
   "id": 21670, 
   "inscription": null, 
   "medium": "Minicomputer", 
   "movementCount": 0, 
-  "popularity": 274, 
   "subjectCount": 2, 
-  "title": "Diab DS-101 Computer"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12824, 
+                "name": "computer", 
+                "workCount": 5
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6742, 
+                "name": "purity", 
+                "workCount": 35
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07124_8.jpg", 
+  "title": "Diab DS-101 Computer", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-diab-ds-101-computer-t07124", 
+  "width": "700"
 }

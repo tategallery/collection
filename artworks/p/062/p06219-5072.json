@@ -1,6 +1,5 @@
 {
   "acno": "P06219", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06215-P06224", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,88 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 643 x 528 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Topographical Lithographs", 
+  "height": "528", 
   "id": 5072, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 304, 
   "subjectCount": 4, 
-  "title": "Kelmscott House, Chiswick"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 13320, 
+                "name": "Hammersmith, Kelmscott House", 
+                "workCount": 1
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5209, 
+                "name": "Georgian", 
+                "workCount": 20
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06219_8.jpg", 
+  "title": "Kelmscott House, Chiswick", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gentleman-kelmscott-house-chiswick-p06219", 
+  "width": "643"
 }

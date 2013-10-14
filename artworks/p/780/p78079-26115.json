@@ -1,6 +1,5 @@
 {
   "acno": "P78079", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78078-P78088", 
     "completeStatus": "COMPLETE", 
@@ -36,10 +35,11 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 735 x 883 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Screen", 
+  "height": "883", 
   "id": 26115, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -56,7 +56,41 @@
       "workCount": 232
     }
   ], 
-  "popularity": 190, 
   "subjectCount": 2, 
-  "title": "Double Deathshead"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1586, 
+                "name": "bone", 
+                "workCount": 33
+              }, 
+              {
+                "id": 2448, 
+                "name": "skull", 
+                "workCount": 71
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78079_8.jpg", 
+  "title": "Double Deathshead", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chapman-double-deathshead-p78079", 
+  "width": "735"
 }

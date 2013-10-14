@@ -1,6 +1,5 @@
 {
   "acno": "D13674", 
-  "addlImageCount": 0, 
   "catTextResId": 1132221, 
   "catalogueGroup": {
     "accessionRanges": "D13587-D13654; D13656-D13747; D40913-D40916", 
@@ -28,17 +27,95 @@
     "text": "1818"
   }, 
   "dateText": "1818", 
+  "depth": "", 
   "dimensions": "support: 112 x 186 mm", 
-  "displayLocation": null, 
   "finberg": "CLXVII 50 a", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Antiquities Sketchbook [Finberg CLXVII]", 
+  "height": "186", 
   "id": 41041, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 108, 
-  "popularity": 83, 
   "subjectCount": 5, 
-  "title": "Linlithgow"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12249, 
+                "name": "Linlithgow - non-specific", 
+                "workCount": 5
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 5794, 
+                "name": "Lothian, West", 
+                "workCount": 68
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13674_8.jpg", 
+  "title": "Linlithgow", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-linlithgow-d13674", 
+  "width": "112"
 }

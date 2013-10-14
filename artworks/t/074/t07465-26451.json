@@ -1,6 +1,5 @@
 {
   "acno": "T07465", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,18 +20,64 @@
     "text": "1937"
   }, 
   "dateText": "1937", 
+  "depth": "68", 
   "dimensions": "displayed: 400 x 465 x 68 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "465", 
   "id": 26451, 
   "inscription": null, 
   "medium": "Metal, clay, wood and Perspex", 
   "movementCount": 0, 
-  "popularity": 264, 
   "subjectCount": 2, 
-  "title": "Bomblet"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11002, 
+                "name": "frame", 
+                "workCount": 17
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07465_8.jpg", 
+  "title": "Bomblet", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/trevelyan-bomblet-t07465", 
+  "width": "400"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03167", 
-  "addlImageCount": 0, 
   "catTextResId": 1136014, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,13 +21,11 @@
     "text": "1918"
   }, 
   "dateText": "1918", 
+  "depth": "", 
   "dimensions": "support: 510 x 508 mm\r\nframe: 624 x 625 x 95 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 12310, 
   "inscription": null, 
   "medium": "Oil paint on plywood", 
@@ -45,7 +42,75 @@
       "workCount": 56
     }
   ], 
-  "popularity": 281, 
   "subjectCount": 6, 
-  "title": "Attic Room"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4375, 
+                "name": "attic", 
+                "workCount": 10
+              }, 
+              {
+                "id": 732, 
+                "name": "bedroom", 
+                "workCount": 177
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic", 
+            "workCount": 1246
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }, 
+              {
+                "id": 750, 
+                "name": "chair", 
+                "workCount": 639
+              }, 
+              {
+                "id": 844, 
+                "name": "rug", 
+                "workCount": 61
+              }, 
+              {
+                "id": 2090, 
+                "name": "wallpaper", 
+                "workCount": 34
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03167_8.jpg", 
+  "title": "Attic Room", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ratcliffe-attic-room-t03167", 
+  "width": "510"
 }

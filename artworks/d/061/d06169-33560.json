@@ -1,6 +1,5 @@
 {
   "acno": "D06169", 
-  "addlImageCount": 0, 
   "catTextResId": 1130350, 
   "catalogueGroup": {
     "accessionRanges": "D06072-D06178; D40655-D40658", 
@@ -28,17 +27,47 @@
     "text": "c.1806-8"
   }, 
   "dateText": "c.1806-8", 
+  "depth": "", 
   "dimensions": "support: 107 x 182 mm", 
-  "displayLocation": null, 
   "finberg": "XCVII 85 a", 
   "foreignTitle": null, 
   "groupTitle": "Windsor and Eton Sketchbook [Finberg XCVII]", 
+  "height": "182", 
   "id": 33560, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 172, 
-  "popularity": 10, 
   "subjectCount": 1, 
-  "title": "Sails"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06169_8_R.jpg", 
+  "title": "Sails", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sails-d06169", 
+  "width": "107"
 }

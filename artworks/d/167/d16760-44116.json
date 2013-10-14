@@ -1,6 +1,5 @@
 {
   "acno": "D16760", 
-  "addlImageCount": 0, 
   "catTextResId": 1142660, 
   "catalogueGroup": {
     "accessionRanges": "D16641-D16761; D40986-D40987; D40993-D40994", 
@@ -28,17 +27,52 @@
     "text": "1820"
   }, 
   "dateText": "1820", 
+  "depth": "", 
   "dimensions": "support: 128 x 98 mm", 
-  "displayLocation": null, 
   "finberg": "CXCII 66", 
   "foreignTitle": null, 
   "groupTitle": "Return from Italy Sketchbook [Finberg CXCII]", 
+  "height": "98", 
   "id": 44116, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 135, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "Sketches of ?Italian Architectural Features; Including a Turret and a Campanile"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8899, 
+                "name": "finial", 
+                "workCount": 24
+              }, 
+              {
+                "id": 9016, 
+                "name": "turret", 
+                "workCount": 56
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16760_8.jpg", 
+  "title": "Sketches of ?Italian Architectural Features; Including a Turret and a Campanile", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-sketches-of-italian-architectural-features-including-a-turret-and-a-campanile-d16760", 
+  "width": "128"
 }

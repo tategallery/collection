@@ -1,6 +1,5 @@
 {
   "acno": "N00604", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1839"
   }, 
   "dateText": "1839", 
+  "depth": "", 
   "dimensions": "support: 889 x 692 mm\r\nframe: 1155 x 952 x 108 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "692", 
   "id": 8348, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -41,7 +41,84 @@
       "workCount": 125
     }
   ], 
-  "popularity": 1992, 
   "subjectCount": 5, 
-  "title": "Dignity and Impudence"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6760, 
+                "name": "dignity", 
+                "workCount": 6
+              }, 
+              {
+                "id": 11987, 
+                "name": "mischievousness", 
+                "workCount": 2
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10111, 
+                "name": "dog, West Highland terrier", 
+                "workCount": 2
+              }, 
+              {
+                "id": 10110, 
+                "name": "dog, bloodhound", 
+                "workCount": 5
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4422, 
+                "name": "kennel", 
+                "workCount": 2
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00604_8.jpg", 
+  "title": "Dignity and Impudence", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/landseer-dignity-and-impudence-n00604", 
+  "width": "889"
 }

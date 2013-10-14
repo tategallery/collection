@@ -1,6 +1,5 @@
 {
   "acno": "D31812", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31791-D31928; D41118-D41120", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 173 x 123 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXIII 11 a", 
   "foreignTitle": null, 
   "groupTitle": "Venice and Botzen Sketchbook [Finberg CCCXIII]", 
+  "height": "123", 
   "id": 59032, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 24, 
-  "popularity": 11, 
   "subjectCount": 2, 
-  "title": "An Interior"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11206, 
+                "name": "interior - non-specific", 
+                "workCount": 36
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31812_8_R.jpg", 
+  "title": "An Interior", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-an-interior-d31812", 
+  "width": "173"
 }

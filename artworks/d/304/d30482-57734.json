@@ -1,6 +1,5 @@
 {
   "acno": "D30482", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30460-D30488; D30490; D30492-D30538; D30540-D30596; D30598-D30632; D41128-D41130", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 170 x 104 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIII 12 a", 
   "foreignTitle": null, 
   "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook [Finberg CCCIII]", 
+  "height": "104", 
   "id": 57734, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 28, 
-  "popularity": 14, 
   "subjectCount": 1, 
-  "title": "Group of Carts and Horses"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1254, 
+                "name": "carriage", 
+                "workCount": 271
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30482_8_R.jpg", 
+  "title": "Group of Carts and Horses", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-carts-and-horses-d30482", 
+  "width": "170"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D04613", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,141 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 313 x 468 mm", 
-  "displayLocation": null, 
   "finberg": "LXXV 21", 
   "foreignTitle": null, 
   "groupTitle": "St Gothard and Mont Blanc Sketchbook [Finberg LXXV]", 
+  "height": "468", 
   "id": 32006, 
   "inscription": null, 
   "medium": "Graphite, watercolour and gouache on paper", 
   "movementCount": 0, 
-  "popularity": 132, 
   "subjectCount": 13, 
-  "title": "The Source of the Arveyron"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10587, 
+                "name": "Aiguille Verte", 
+                "workCount": 1
+              }, 
+              {
+                "id": 9890, 
+                "name": "Aiguille du Dru", 
+                "workCount": 2
+              }, 
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 9888, 
+                "name": "Glacier des Bois", 
+                "workCount": 7
+              }, 
+              {
+                "id": 8380, 
+                "name": "River Arveyron", 
+                "workCount": 12
+              }, 
+              {
+                "id": 10588, 
+                "name": "Rochers des Mottets", 
+                "workCount": 1
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04613_8.jpg", 
+  "title": "The Source of the Arveyron", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-source-of-the-arveyron-d04613", 
+  "width": "313"
 }

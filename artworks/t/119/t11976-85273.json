@@ -1,6 +1,5 @@
 {
   "acno": "T11976", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,95 @@
     "text": "2003-4"
   }, 
   "dateText": "2003-4", 
+  "depth": "34", 
   "dimensions": "support: 2668 x 1828 x 34 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1828", 
   "id": 85273, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 239, 
   "subjectCount": 4, 
-  "title": "Cross in the Wilderness"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7298, 
+                "name": "cross", 
+                "workCount": 15
+              }
+            ], 
+            "id": 133, 
+            "name": "Judaeo-Christian imagery", 
+            "workCount": 527
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest", 
+                "workCount": 225
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 6876, 
+                "name": "pine", 
+                "workCount": 47
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11976_8.jpg", 
+  "title": "Cross in the Wilderness", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/quinn-cross-in-the-wilderness-t11976", 
+  "width": "2668"
 }

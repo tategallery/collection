@@ -1,6 +1,5 @@
 {
   "acno": "T12308", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "2006"
   }, 
   "dateText": "2006", 
+  "depth": "34", 
   "dimensions": "support: 2127 x 2449 x 34 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2449", 
   "id": 91785, 
   "inscription": null, 
   "medium": "Oil paint, gold leaf and graphite on canvas", 
   "movementCount": 0, 
-  "popularity": 152, 
   "subjectCount": 2, 
-  "title": "The Hedonistic Imperative (2nd version)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific", 
+                "workCount": 552
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12308_8.jpg", 
+  "title": "The Hedonistic Imperative (2nd version)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ziegler-the-hedonistic-imperative-2nd-version-t12308", 
+  "width": "2127"
 }

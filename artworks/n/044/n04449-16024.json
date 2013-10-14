@@ -1,6 +1,5 @@
 {
   "acno": "N04449", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1882"
   }, 
   "dateText": "1882", 
+  "depth": "", 
   "dimensions": "support: 660 x 533 mm\r\nframe: 970 x 845 x 55 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "533", 
   "id": 16024, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 68, 
   "subjectCount": 2, 
-  "title": "Mrs Arthur Sassoon"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14772, 
+                "name": "Sassoon, Arthur, Mrs", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04449_8.jpg", 
+  "title": "Mrs Arthur Sassoon", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/watts-mrs-arthur-sassoon-n04449", 
+  "width": "660"
 }

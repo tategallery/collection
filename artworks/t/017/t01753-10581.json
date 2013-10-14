@@ -1,6 +1,5 @@
 {
   "acno": "T01753", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "12192", 
   "dimensions": "object: 3048 x 178 x 12192 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "178", 
   "id": 10581, 
   "inscription": null, 
   "medium": "Wood, glass and fluorescent tubes", 
@@ -41,7 +41,86 @@
       "workCount": 478
     }
   ], 
-  "popularity": 708, 
   "subjectCount": 4, 
-  "title": "Corridor with Mirror and White Lights"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6921, 
+                "name": "enclosure", 
+                "workCount": 15
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11403, 
+                "name": "hallway", 
+                "workCount": 25
+              }
+            ], 
+            "id": 44, 
+            "name": "public and municipal", 
+            "workCount": 355
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3053, 
+                "name": "light, electric", 
+                "workCount": 61
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }, 
+          {
+            "children": [
+              {
+                "id": 1078, 
+                "name": "mirror", 
+                "workCount": 147
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01753_8.jpg", 
+  "title": "Corridor with Mirror and White Lights", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nauman-corridor-with-mirror-and-white-lights-t01753", 
+  "width": "3048"
 }

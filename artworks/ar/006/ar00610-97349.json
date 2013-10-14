@@ -1,6 +1,5 @@
 {
   "acno": "AR00610", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "20", 
   "dimensions": "support: 408 x 332 x 20 mm\r\nframe: 460 x 380 x 65 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "332", 
   "id": 97349, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint and silkscreen on canvas", 
@@ -41,7 +41,122 @@
       "workCount": 248
     }
   ], 
-  "popularity": 488, 
   "subjectCount": 7, 
-  "title": "Self-Portrait with Skull"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6836, 
+                "name": "Warhol, Andy", 
+                "workCount": 34
+              }
+            ], 
+            "id": 105, 
+            "name": "self-portraits", 
+            "workCount": 601
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }, 
+              {
+                "id": 2448, 
+                "name": "skull", 
+                "workCount": 71
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13610, 
+                "name": "artist, multi-media", 
+                "workCount": 348
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment", 
+            "workCount": 1300
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6726, 
+                "name": "mortality", 
+                "workCount": 19
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00610_8.jpg", 
+  "title": "Self-Portrait with Skull", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/warhol-self-portrait-with-skull-ar00610", 
+  "width": "408"
 }

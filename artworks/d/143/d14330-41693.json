@@ -1,6 +1,5 @@
 {
   "acno": "D14330", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14326-D14417; D14419-D14488; D40890-D40892", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 112 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXV 3 a", 
   "foreignTitle": null, 
   "groupTitle": "Milan to Venice Sketchbook [Finberg CLXXV]", 
+  "height": "185", 
   "id": 41693, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 8, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "?A Fountain"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain", 
+                "workCount": 125
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14330_8.jpg", 
+  "title": "?A Fountain", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fountain-d14330", 
+  "width": "112"
 }

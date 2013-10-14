@@ -1,6 +1,5 @@
 {
   "acno": "D00185", 
-  "addlImageCount": 0, 
   "catTextResId": 1140293, 
   "catalogueGroup": {
     "accessionRanges": "D00155; D00156; D00161; D00176; D00184-D00186; D00379; D40228; D40229", 
@@ -28,16 +27,70 @@
     "text": "1792"
   }, 
   "dateText": "1792", 
+  "depth": "", 
   "dimensions": "support: 277 x 223 mm", 
-  "displayLocation": null, 
   "finberg": "XVII J", 
   "foreignTitle": null, 
   "groupTitle": "Watercolours of Oxford and the Home Counties", 
+  "height": "223", 
   "id": 27601, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 14, 
   "subjectCount": 3, 
-  "title": "A Church Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 2774, 
+                "name": "graveyard", 
+                "workCount": 170
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00185_8.jpg", 
+  "title": "A Church Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-tower-d00185", 
+  "width": "277"
 }

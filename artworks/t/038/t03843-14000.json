@@ -1,6 +1,5 @@
 {
   "acno": "T03843", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,15 +20,74 @@
     "text": "published 1788"
   }, 
   "dateText": "published 1788", 
+  "depth": "", 
   "dimensions": "image: 250 x 335 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "335", 
   "id": 14000, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 180, 
   "subjectCount": 4, 
-  "title": "A Horse Attacked by a Lion (A Lion Devouring a Horse)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6851, 
+                "name": "attacking", 
+                "workCount": 83
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }, 
+              {
+                "id": 3119, 
+                "name": "lion", 
+                "workCount": 77
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03843_8.jpg", 
+  "title": "A Horse Attacked by a Lion (A Lion Devouring a Horse)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stubbs-a-horse-attacked-by-a-lion-a-lion-devouring-a-horse-t03843", 
+  "width": "250"
 }

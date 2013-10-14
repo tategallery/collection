@@ -1,6 +1,5 @@
 {
   "acno": "P07511", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07511-P07512", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 542 x 340 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Drawing Boards II", 
+  "height": "340", 
   "id": 13601, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07511_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-no-title-p07511", 
+  "width": "542"
 }

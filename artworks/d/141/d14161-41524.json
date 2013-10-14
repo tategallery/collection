@@ -1,6 +1,5 @@
 {
   "acno": "D14161", 
-  "addlImageCount": 0, 
   "catTextResId": 1142684, 
   "catalogueGroup": {
     "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 186 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIV 8 a", 
   "foreignTitle": null, 
   "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook [Finberg CLXXIV]", 
+  "height": "111", 
   "id": 41524, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 20, 
   "subjectCount": 2, 
-  "title": "Two Sketches of the Castle at Avigliana, and One of the Sacra di San Michele from the East"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14161_8.jpg", 
+  "title": "Two Sketches of the Castle at Avigliana, and One of the Sacra di San Michele from the East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-of-the-castle-at-avigliana-and-one-of-the-sacra-di-san-michele-from-the-east-d14161", 
+  "width": "186"
 }

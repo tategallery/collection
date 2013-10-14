@@ -1,6 +1,5 @@
 {
   "acno": "T07810", 
-  "addlImageCount": 0, 
   "catTextResId": 1136016, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "After 1927"
   }, 
   "dateText": "After 1927", 
+  "depth": "", 
   "dimensions": "unconfirmed: 462 x 382 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "382", 
   "id": 66704, 
   "inscription": null, 
   "medium": "Oil paint on board", 
@@ -42,7 +42,79 @@
       "workCount": 56
     }
   ], 
-  "popularity": 139, 
   "subjectCount": 4, 
-  "title": "Chateau d'Auppegard"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17320, 
+                "name": "Dieppe, Chateau d'Auppegard", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 743, 
+                "name": "garden", 
+                "workCount": 414
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures", 
+            "workCount": 817
+          }, 
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07810_8.jpg", 
+  "title": "Chateau d'Auppegard", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hudson-chateau-dauppegard-t07810", 
+  "width": "462"
 }

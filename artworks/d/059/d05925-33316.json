@@ -1,6 +1,5 @@
 {
   "acno": "D05925", 
-  "addlImageCount": 0, 
   "catTextResId": 1129956, 
   "catalogueGroup": {
     "accessionRanges": "D05905-D05946; D05949-D05953; D40344-D40345; D40382", 
@@ -28,16 +27,46 @@
     "text": "1805"
   }, 
   "dateText": "1805", 
+  "depth": "", 
   "dimensions": "support: 367 x 259 mm", 
-  "displayLocation": null, 
   "finberg": "XCV 21", 
   "foreignTitle": null, 
   "groupTitle": "Thames, from Reading to Walton Sketchbook [Finberg XCV]", 
+  "height": "259", 
   "id": 33316, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 24, 
   "subjectCount": 1, 
-  "title": "Trunk and Branches of a Tree"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05925_8.jpg", 
+  "title": "Trunk and Branches of a Tree", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-trunk-and-branches-of-a-tree-d05925", 
+  "width": "367"
 }

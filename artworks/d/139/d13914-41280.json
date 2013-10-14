@@ -1,6 +1,5 @@
 {
   "acno": "D13914", 
-  "addlImageCount": 0, 
   "catTextResId": 1138732, 
   "catalogueGroup": {
     "accessionRanges": "D13859-D13878; D13880-D13924; D13926; D13928-D13933; D40673-D40676", 
@@ -28,17 +27,78 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 88 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXI 29 a", 
   "foreignTitle": null, 
   "groupTitle": "Route to Rome Sketchbook [Finberg CLXXI]", 
+  "height": "88", 
   "id": 41280, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 60, 
-  "popularity": 40, 
   "subjectCount": 3, 
-  "title": "Copies of Paintings in the Scuola Grande di San Rocco, Venice, including 'Slaughter of the Innocents' and 'Presentation at the Temple' by Tintoretto"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 204, 
+                "name": "painting", 
+                "workCount": 200
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13914_8.jpg", 
+  "title": "Copies of Paintings in the Scuola Grande di San Rocco, Venice, including 'Slaughter of the Innocents' and 'Presentation at the Temple' by Tintoretto", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-copies-of-paintings-in-the-scuola-grande-di-san-rocco-venice-including-slaughter-of-the-innocents-and-presentation-at-the-temple-by-tintoretto-d13914", 
+  "width": "114"
 }

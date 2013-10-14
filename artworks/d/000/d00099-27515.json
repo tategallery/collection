@@ -1,6 +1,5 @@
 {
   "acno": "D00099", 
-  "addlImageCount": 0, 
   "catTextResId": 1140150, 
   "catalogueGroup": {
     "accessionRanges": "D00072-D00107; D40733-D40736", 
@@ -28,17 +27,47 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 263 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "VI 19", 
   "foreignTitle": null, 
   "groupTitle": "Bristol and Malmesbury Sketchbook [Finberg VI]", 
+  "height": "185", 
   "id": 27515, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 39, 
-  "popularity": 25, 
   "subjectCount": 1, 
-  "title": "A Building with Arches, Enclosed in an Oval"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00099_8.jpg", 
+  "title": "A Building with Arches, Enclosed in an Oval", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-building-with-arches-enclosed-in-an-oval-d00099", 
+  "width": "263"
 }

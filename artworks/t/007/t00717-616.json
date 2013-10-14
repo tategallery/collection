@@ -1,6 +1,5 @@
 {
   "acno": "T00717", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1915-20"
   }, 
   "dateText": "c.1915-20", 
+  "depth": "", 
   "dimensions": "support: 254 x 368 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "368", 
   "id": 616, 
   "inscription": null, 
   "medium": "Ink and watercolour on paper", 
@@ -41,7 +41,67 @@
       "workCount": 39
     }
   ], 
-  "popularity": 174, 
   "subjectCount": 3, 
-  "title": "The Lake"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00717_8.jpg", 
+  "title": "The Lake", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/atkinson-the-lake-t00717", 
+  "width": "254"
 }

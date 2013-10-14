@@ -1,6 +1,5 @@
 {
   "acno": "D02942", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,90 @@
     "text": "1801"
   }, 
   "dateText": "1801", 
+  "depth": "", 
   "dimensions": "support: 182 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "LVI 13 a", 
   "foreignTitle": null, 
   "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "height": "114", 
   "id": 30345, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 28, 
-  "popularity": 91, 
   "subjectCount": 4, 
-  "title": "Linlithgow: St Michael's Church from the North East"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11458, 
+                "name": "Linlithgow, St Michael's Church", 
+                "workCount": 26
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }, 
+          {
+            "children": [
+              {
+                "id": 5794, 
+                "name": "Lothian, West", 
+                "workCount": 68
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 1719, 
+                "name": "Scotland", 
+                "workCount": 1869
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02942_8_R.jpg", 
+  "title": "Linlithgow: St Michael's Church from the North East", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-linlithgow-st-michaels-church-from-the-north-east-d02942", 
+  "width": "182"
 }

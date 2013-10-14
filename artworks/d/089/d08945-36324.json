@@ -1,6 +1,5 @@
 {
   "acno": "D08945", 
-  "addlImageCount": 0, 
   "catTextResId": 1137539, 
   "catalogueGroup": {
     "accessionRanges": "D08945-D08964; D40294-D40295; D41531", 
@@ -28,16 +27,46 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 208 x 302 mm", 
-  "displayLocation": null, 
   "finberg": "CXXVI", 
   "foreignTitle": null, 
   "groupTitle": "Somerset and North Devon Sketchbook [Finberg CXXVI]", 
+  "height": "302", 
   "id": 36324, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 21, 
   "subjectCount": 1, 
-  "title": "?Dunster Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08945_8.jpg", 
+  "title": "?Dunster Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dunster-castle-d08945", 
+  "width": "208"
 }

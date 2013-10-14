@@ -1,6 +1,5 @@
 {
   "acno": "D01353", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01247-D01326; D01328-D01333; D01335-D01355; D40575-D40576", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,119 @@
     "text": "1798"
   }, 
   "dateText": "1798", 
+  "depth": "", 
   "dimensions": "support: 332 x 225 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVIII 99", 
   "foreignTitle": null, 
   "groupTitle": "Hereford Court Sketchbook [Finberg XXXVIII]", 
+  "height": "225", 
   "id": 28760, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 101, 
-  "popularity": 205, 
   "subjectCount": 7, 
-  "title": "A Lake among Mountains, Perhaps Llyn Gwynant or Glydwr, with Snowdon among Clouds Beyond"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4756, 
+                "name": "Caernarfonshire and Merionethshire", 
+                "workCount": 249
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 9615, 
+                "name": "Snowdon", 
+                "workCount": 31
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features", 
+            "workCount": 3820
+          }, 
+          {
+            "children": [
+              {
+                "id": 4753, 
+                "name": "Snowdonia", 
+                "workCount": 196
+              }, 
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01353_8.jpg", 
+  "title": "A Lake among Mountains, Perhaps Llyn Gwynant or Glydwr, with Snowdon among Clouds Beyond", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-lake-among-mountains-perhaps-llyn-gwynant-or-glydwr-with-snowdon-among-clouds-beyond-d01353", 
+  "width": "332"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D29930", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29814-D29987; D29989-D29998; D30000-D30001; D41209-D41210", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,95 @@
     "text": "1833"
   }, 
   "dateText": "1833", 
+  "depth": "", 
   "dimensions": "support: 165 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCVIII 59", 
   "foreignTitle": null, 
   "groupTitle": "Heidelberg up to Salzburg Sketchbook [Finberg CCXCVIII]", 
+  "height": "110", 
   "id": 57192, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 119, 
-  "popularity": 30, 
   "subjectCount": 5, 
-  "title": "(1) Augsburg: Buildings, Including the Tower of SS Ulrich and Afra; (2) Landscape (?near Cannstatt)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14183, 
+                "name": "Augsburg - non-specific", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1151, 
+                "name": "dome", 
+                "workCount": 489
+              }, 
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street", 
+                "workCount": 879
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29930_8_R.jpg", 
+  "title": "(1) Augsburg: Buildings, Including the Tower of SS Ulrich and Afra; (2) Landscape (?near Cannstatt)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-augsburg-buildings-including-the-tower-of-ss-ulrich-and-afra-2-landscape-near-cannstatt-d29930", 
+  "width": "165"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P01275", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01275-P01281", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 793 x 594 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Proscenium Suite", 
+  "height": "594", 
   "id": 13529, 
   "inscription": "date inscribed", 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 1, 
-  "title": "I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01275_8.jpg", 
+  "title": "I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-i-p01275", 
+  "width": "793"
 }

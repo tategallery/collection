@@ -1,6 +1,5 @@
 {
   "acno": "T05003", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,69 @@
     "text": "1987"
   }, 
   "dateText": "1987", 
+  "depth": "", 
   "dimensions": "support: 750 x 2285 mm\r\nframe: 778 x 2322 x 42 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2285", 
   "id": 9134, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 202, 
   "subjectCount": 3, 
-  "title": "Opening"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 940, 
+                "name": "happiness", 
+                "workCount": 62
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05003_8.jpg", 
+  "title": "Opening", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mclean-opening-t05003", 
+  "width": "750"
 }

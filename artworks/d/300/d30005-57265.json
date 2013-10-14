@@ -1,6 +1,5 @@
 {
   "acno": "D30005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30002-D30129; D41222", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,83 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIX 2 a", 
   "foreignTitle": null, 
   "groupTitle": "Trieste, Graz and Danube Sketchbook [Finberg CCXCIX]", 
+  "height": "127", 
   "id": 57265, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 6, 
-  "popularity": 26, 
   "subjectCount": 4, 
-  "title": "City Walls, Probably at Vienna"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7000, 
+                "name": "Austria", 
+                "workCount": 329
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 7001, 
+                "name": "Vienna - non-specific", 
+                "workCount": 13
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 997, 
+                "name": "city wall", 
+                "workCount": 146
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30005_8_R.jpg", 
+  "title": "City Walls, Probably at Vienna", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-city-walls-probably-at-vienna-d30005", 
+  "width": "198"
 }

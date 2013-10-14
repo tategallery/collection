@@ -1,6 +1,5 @@
 {
   "acno": "D25361", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,75 @@
     "text": "c.1822"
   }, 
   "dateText": "c.1822", 
+  "depth": "", 
   "dimensions": "support: 171 x 245 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIII 239", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "245", 
   "id": 52698, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 4, 
-  "title": "A Stormy Sunset"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25361_8.jpg", 
+  "title": "A Stormy Sunset", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-stormy-sunset-d25361", 
+  "width": "171"
 }

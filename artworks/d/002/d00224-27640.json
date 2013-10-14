@@ -1,6 +1,5 @@
 {
   "acno": "D00224", 
-  "addlImageCount": 0, 
   "catTextResId": 1140744, 
   "catalogueGroup": {
     "accessionRanges": "D00207-D00234; D00237-D00259; D40749-D40751; D41421; D41432", 
@@ -28,17 +27,102 @@
     "text": "1794"
   }, 
   "dateText": "1794", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "XIX 17", 
   "foreignTitle": null, 
   "groupTitle": "Matlock Sketchbook [Finberg XIX]", 
+  "height": "111", 
   "id": 27640, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 86, 
   "subjectCount": 5, 
-  "title": "A Group of Gabled Timber-Frame Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 509, 
+                "name": "Wales", 
+                "workCount": 872
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 7244, 
+                "name": "Wrexham", 
+                "workCount": 9
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties", 
+            "workCount": 9309
+          }, 
+          {
+            "children": [
+              {
+                "id": 7857, 
+                "name": "Wrexham - non-specific", 
+                "workCount": 6
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages", 
+            "workCount": 6775
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 8755, 
+                "name": "gable", 
+                "workCount": 22
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00224_8_R.jpg", 
+  "title": "A Group of Gabled Timber-Frame Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-group-of-gabled-timber-frame-buildings-d00224", 
+  "width": "181"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D14121", 
-  "addlImageCount": 0, 
   "catTextResId": 1142980, 
   "catalogueGroup": {
     "accessionRanges": "D13991-D14044; D14047-D14143; D40872-D40877", 
@@ -28,17 +27,57 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 114 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXIII 78 a", 
   "foreignTitle": null, 
   "groupTitle": "Paris, France, Savoy 2 Sketchbook [Finberg CLXXIII]", 
+  "height": "185", 
   "id": 41484, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 160, 
-  "popularity": 3, 
   "subjectCount": 3, 
-  "title": "Glaciers and Waterfall in the Maurienne Valley, Savoy"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14121_8.jpg", 
+  "title": "Glaciers and Waterfall in the Maurienne Valley, Savoy", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-glaciers-and-waterfall-in-the-maurienne-valley-savoy-d14121", 
+  "width": "114"
 }

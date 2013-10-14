@@ -1,6 +1,5 @@
 {
   "acno": "T00684", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "relief", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1964"
   }, 
   "dateText": "1964", 
+  "depth": "76", 
   "dimensions": "object: 870 x 870 x 76 mm", 
-  "displayLocation": {
-    "name": "Tate Modern", 
-    "url": null
-  }, 
   "foreignTitle": "Weisses Feld", 
   "groupTitle": null, 
+  "height": "870", 
   "id": 15659, 
   "inscription": "date inscribed", 
   "medium": "Painted nails on canvas and board", 
@@ -44,7 +41,55 @@
       "workCount": 57
     }
   ], 
-  "popularity": 436, 
   "subjectCount": 2, 
-  "title": "White Field"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2073, 
+                "name": "nail", 
+                "workCount": 11
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00684_8.jpg", 
+  "title": "White Field", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/uecker-white-field-t00684", 
+  "width": "870"
 }

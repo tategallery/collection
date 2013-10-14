@@ -1,6 +1,5 @@
 {
   "acno": "N04323", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,15 +17,50 @@
   "creditLine": "Bequeathed by J.R. Holliday 1927", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 133 x 229 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "229", 
   "id": 6449, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 55, 
   "subjectCount": 2, 
-  "title": "A Barn"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 505, 
+                "name": "barn", 
+                "workCount": 52
+              }, 
+              {
+                "id": 1561, 
+                "name": "farm", 
+                "workCount": 180
+              }
+            ], 
+            "id": 14, 
+            "name": "agricultural", 
+            "workCount": 326
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04323_8.jpg", 
+  "title": "A Barn", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hills-a-barn-n04323", 
+  "width": "133"
 }

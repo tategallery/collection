@@ -1,6 +1,5 @@
 {
   "acno": "D08895", 
-  "addlImageCount": 0, 
   "catTextResId": 1137376, 
   "catalogueGroup": {
     "accessionRanges": "D08865-D08939; D40815-D40817", 
@@ -28,17 +27,64 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 166 x 208 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV 21 a", 
   "foreignTitle": null, 
   "groupTitle": "Ivy Bridge to Penzance Sketchbook [Finberg CXXV]", 
+  "height": "208", 
   "id": 36276, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 48, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "Restormel Castle from the Fowey Valley"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08895_8.jpg", 
+  "title": "Restormel Castle from the Fowey Valley", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-restormel-castle-from-the-fowey-valley-d08895", 
+  "width": "166"
 }

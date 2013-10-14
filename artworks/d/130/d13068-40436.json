@@ -1,6 +1,5 @@
 {
   "acno": "D13068", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D12996-D13170; D40680-D40681", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 156 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "CLXII 39 a", 
   "foreignTitle": null, 
   "groupTitle": "Dort Sketchbook [Finberg CLXII]", 
+  "height": "93", 
   "id": 40436, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 80, 
-  "popularity": 85, 
   "subjectCount": 3, 
-  "title": "Distant View of Amsterdam [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9952, 
+                "name": "Amsterdam - non-specific", 
+                "workCount": 20
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 2751, 
+                "name": "Netherlands", 
+                "workCount": 251
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13068_8.jpg", 
+  "title": "Distant View of Amsterdam [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-view-of-amsterdam-turner-d13068", 
+  "width": "156"
 }

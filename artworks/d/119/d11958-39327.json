@@ -1,6 +1,5 @@
 {
   "acno": "D11958", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D11952-D11973; D40708-D40711", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "c.1816-18"
   }, 
   "dateText": "c.1816-18", 
+  "depth": "", 
   "dimensions": "support: 182 x 116 mm", 
-  "displayLocation": null, 
   "finberg": "CLI 6", 
   "foreignTitle": null, 
   "groupTitle": "Scarborough 2 Sketchbook [Finberg CLI]", 
+  "height": "116", 
   "id": 39327, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 13, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Cliffs"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11958_8.jpg", 
+  "title": "Cliffs", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-cliffs-d11958", 
+  "width": "182"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "T03467", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,50 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "support: 1648 x 1876 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1876", 
   "id": 7761, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
   "movementCount": 0, 
-  "popularity": 71, 
   "subjectCount": 2, 
-  "title": "No. 55 Green with Dark Blue Surround"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03467_8.jpg", 
+  "title": "No. 55 Green with Dark Blue Surround", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/joseph-no-55-green-with-dark-blue-surround-t03467", 
+  "width": "1648"
 }

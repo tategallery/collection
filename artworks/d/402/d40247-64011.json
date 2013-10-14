@@ -1,6 +1,5 @@
 {
   "acno": "D40247", 
-  "addlImageCount": 0, 
   "catTextResId": 1140206, 
   "catalogueGroup": {
     "accessionRanges": "D00719-D00721; D00723; D40247; D40248", 
@@ -28,16 +27,58 @@
     "text": "c.1796-7"
   }, 
   "dateText": "c.1796-7", 
+  "depth": "", 
   "dimensions": "support: 238 x 278 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Figure Studies", 
+  "height": "278", 
   "id": 64011, 
   "inscription": null, 
   "medium": "Chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 119, 
   "subjectCount": 2, 
-  "title": "Study of a Sleeping Cat"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 775, 
+                "name": "cat", 
+                "workCount": 126
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }, 
+          {
+            "children": [
+              {
+                "id": 3521, 
+                "name": "sleeping", 
+                "workCount": 16
+              }
+            ], 
+            "id": 61, 
+            "name": "animals: actions", 
+            "workCount": 434
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40247_8.jpg", 
+  "title": "Study of a Sleeping Cat", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-sleeping-cat-d40247", 
+  "width": "238"
 }

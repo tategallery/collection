@@ -1,6 +1,5 @@
 {
   "acno": "P06703", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "", 
   "dimensions": "image: 657 x 508 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 2137, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,74 @@
       "workCount": 85
     }
   ], 
-  "popularity": 121, 
   "subjectCount": 3, 
-  "title": "Moon in Alabama (colour variant)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6824, 
+                "name": "USA, Alabama", 
+                "workCount": 4
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 537, 
+                "name": "moon", 
+                "workCount": 439
+              }
+            ], 
+            "id": 69, 
+            "name": "astronomy", 
+            "workCount": 935
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06703_8.jpg", 
+  "title": "Moon in Alabama (colour variant)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chadwick-moon-in-alabama-colour-variant-p06703", 
+  "width": "657"
 }

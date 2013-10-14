@@ -1,6 +1,5 @@
 {
   "acno": "T07805", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,67 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "19", 
   "dimensions": "support: 512 x 612 x 19 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "612", 
   "id": 11, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 121, 
   "subjectCount": 4, 
-  "title": "Still Life"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle", 
+                "workCount": 208
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 19657, 
+                "name": "cup / mug", 
+                "workCount": 106
+              }, 
+              {
+                "id": 19661, 
+                "name": "decanter", 
+                "workCount": 10
+              }, 
+              {
+                "id": 19663, 
+                "name": "goblet", 
+                "workCount": 30
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07805_8.jpg", 
+  "title": "Still Life", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/stokes-still-life-t07805", 
+  "width": "512"
 }

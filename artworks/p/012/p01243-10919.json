@@ -1,6 +1,5 @@
 {
   "acno": "P01243", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01243-P01247", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 895 x 664 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Five Prints Part I", 
+  "height": "664", 
   "id": 10919, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,36 @@
       "workCount": 49
     }
   ], 
-  "popularity": 107, 
   "subjectCount": 1, 
-  "title": "Magenta-Orange I"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01243_8.jpg", 
+  "title": "Magenta-Orange I", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/olitski-magenta-orange-i-p01243", 
+  "width": "895"
 }

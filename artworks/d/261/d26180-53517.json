@@ -1,6 +1,5 @@
 {
   "acno": "D26180", 
-  "addlImageCount": 0, 
   "catTextResId": 1136108, 
   "catalogueGroup": {
     "accessionRanges": "D26096-D26258", 
@@ -28,17 +27,47 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 181 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXVIII 44", 
   "foreignTitle": null, 
   "groupTitle": "Edinburgh Sketchbook [Finberg CCLXVIII]", 
+  "height": "111", 
   "id": 53517, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 89, 
-  "popularity": 8, 
   "subjectCount": 1, 
-  "title": "Gala Water and Galashiels"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26180_8.jpg", 
+  "title": "Gala Water and Galashiels", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gala-water-and-galashiels-d26180", 
+  "width": "181"
 }

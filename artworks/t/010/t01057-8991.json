@@ -1,6 +1,5 @@
 {
   "acno": "T01057", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1960"
   }, 
   "dateText": "1960", 
+  "depth": "", 
   "dimensions": "support: 2603 x 3594 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3594", 
   "id": 8991, 
   "inscription": null, 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,86 @@
       "workCount": 49
     }
   ], 
-  "popularity": 393, 
   "subjectCount": 4, 
-  "title": "VAV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12875, 
+                "name": "chance", 
+                "workCount": 103
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }, 
+          {
+            "children": [
+              {
+                "id": 4067, 
+                "name": "sensuality", 
+                "workCount": 17
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6738, 
+                "name": "sensuality", 
+                "workCount": 39
+              }
+            ], 
+            "id": 157, 
+            "name": "sex and relationships", 
+            "workCount": 742
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T01/T01057_8.jpg", 
+  "title": "VAV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/louis-vav-t01057", 
+  "width": "2603"
 }

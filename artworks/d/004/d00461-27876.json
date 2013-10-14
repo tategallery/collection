@@ -1,6 +1,5 @@
 {
   "acno": "D00461", 
-  "addlImageCount": 0, 
   "catTextResId": 1141039, 
   "catalogueGroup": {
     "accessionRanges": "D00407-D00461; D41250-D41253", 
@@ -28,17 +27,85 @@
     "text": "?1798"
   }, 
   "dateText": "?1798", 
+  "depth": "", 
   "dimensions": "support: 204 x 264 mm", 
-  "displayLocation": null, 
   "finberg": "XXIV 52", 
   "foreignTitle": null, 
   "groupTitle": "Isle of Wight Sketchbook [Finberg XXIV]", 
+  "height": "264", 
   "id": 27876, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 111, 
-  "popularity": 31, 
   "subjectCount": 3, 
-  "title": "A Cart and Horses in a Quarry"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13637, 
+                "name": "quarry", 
+                "workCount": 49
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00461_8.jpg", 
+  "title": "A Cart and Horses in a Quarry", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-cart-and-horses-in-a-quarry-d00461", 
+  "width": "204"
 }

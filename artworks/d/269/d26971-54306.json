@@ -1,6 +1,5 @@
 {
   "acno": "D26971", 
-  "addlImageCount": 0, 
   "catTextResId": 1135336, 
   "catalogueGroup": {
     "accessionRanges": "D26966-D27045", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 150 x 184 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVI 5", 
   "foreignTitle": null, 
   "groupTitle": "Fort Augustus Sketchbook [Finberg CCLXXVI]", 
+  "height": "184", 
   "id": 54306, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 25, 
   "subjectCount": 2, 
-  "title": "Distant Mountains Seen From the Caledonian Canal Beyond Neptune's Staircase"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26971_8.jpg", 
+  "title": "Distant Mountains Seen From the Caledonian Canal Beyond Neptune's Staircase", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-distant-mountains-seen-from-the-caledonian-canal-beyond-neptunes-staircase-d26971", 
+  "width": "150"
 }

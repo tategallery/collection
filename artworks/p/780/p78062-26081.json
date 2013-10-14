@@ -1,6 +1,5 @@
 {
   "acno": "P78062", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P20170-P20176; P78060-P78064", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 1125 x 800 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Eight by Twelve", 
+  "height": "800", 
   "id": 26081, 
   "inscription": "date inscribed", 
   "medium": "Woodcut on paper", 
   "movementCount": 0, 
-  "popularity": 17, 
   "subjectCount": 2, 
-  "title": "Print F - Version V"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78062_8.jpg", 
+  "title": "Print F - Version V", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mckeever-print-f-version-v-p78062", 
+  "width": "1125"
 }

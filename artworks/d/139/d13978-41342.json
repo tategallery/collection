@@ -1,6 +1,5 @@
 {
   "acno": "D13978", 
-  "addlImageCount": 0, 
   "catTextResId": 1138799, 
   "catalogueGroup": {
     "accessionRanges": "D13934-D13989; D40677-D40679; D41519", 
@@ -28,17 +27,59 @@
     "text": "c.1819"
   }, 
   "dateText": "c.1819", 
+  "depth": "", 
   "dimensions": "support: 99 x 155 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXII 25", 
   "foreignTitle": null, 
   "groupTitle": "Italian Guide Book Sketchbook [Finberg CLXXII]", 
+  "height": "155", 
   "id": 41342, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 51, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "A Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13978_8.jpg", 
+  "title": "A Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-landscape-d13978", 
+  "width": "99"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D25302", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,65 @@
     "text": "c.1820-30"
   }, 
   "dateText": "c.1820-30", 
+  "depth": "", 
   "dimensions": "support: 335 x 480 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIII 180", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "480", 
   "id": 52639, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Classical Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25302_8.jpg", 
+  "title": "Classical Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-classical-landscape-d25302", 
+  "width": "335"
 }

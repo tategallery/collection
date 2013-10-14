@@ -1,6 +1,5 @@
 {
   "acno": "D25405", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "c.1820-35"
   }, 
   "dateText": "c.1820-35", 
+  "depth": "", 
   "dimensions": "support: 170 x 240 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXIII 282", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "240", 
   "id": 52742, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 3, 
-  "title": "Bay on the Coast with Stormy Sky"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25405_8.jpg", 
+  "title": "Bay on the Coast with Stormy Sky", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bay-on-the-coast-with-stormy-sky-d25405", 
+  "width": "170"
 }

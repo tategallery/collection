@@ -1,6 +1,5 @@
 {
   "acno": "D10636", 
-  "addlImageCount": 0, 
   "catTextResId": 1131689, 
   "catalogueGroup": {
     "accessionRanges": "D10587-D10646; D40849-D40850; D40854", 
@@ -28,17 +27,71 @@
     "text": "c.1815-17"
   }, 
   "dateText": "c.1815-17", 
+  "depth": "", 
   "dimensions": "support: 88 x 114 mm", 
-  "displayLocation": null, 
   "finberg": "CXLI 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Hints River Sketchbook [Finberg CXLI]", 
+  "height": "114", 
   "id": 38011, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 62, 
-  "popularity": 27, 
   "subjectCount": 3, 
-  "title": "Classical Architecture; an Arcade and other Buildings"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 246, 
+                "name": "arcade", 
+                "workCount": 203
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical", 
+                "workCount": 994
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10636_8.jpg", 
+  "title": "Classical Architecture; an Arcade and other Buildings", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-classical-architecture-an-arcade-and-other-buildings-d10636", 
+  "width": "88"
 }

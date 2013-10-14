@@ -1,6 +1,5 @@
 {
   "acno": "T07542", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T07539-T07544", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1997-8"
   }, 
   "dateText": "1997-8", 
+  "depth": "", 
   "dimensions": "support: 1530 x 2750 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Pyramid, Sphere, Cube", 
+  "height": "2750", 
   "id": 26703, 
   "inscription": null, 
   "medium": "Charcoal on canvas", 
   "movementCount": 0, 
-  "popularity": 305, 
   "subjectCount": 3, 
-  "title": "Pyramid"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11845, 
+                "name": "silhouette", 
+                "workCount": 215
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07542_8.jpg", 
+  "title": "Pyramid", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nash-pyramid-t07542", 
+  "width": "1530"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P04793", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04770-P04867", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1967"
   }, 
   "dateText": "1967", 
+  "depth": "", 
   "dimensions": "image: 380 x 255 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Moonstrips Empire News", 
+  "height": "255", 
   "id": 11227, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,60 @@
       "workCount": 846
     }
   ], 
-  "popularity": 60, 
   "subjectCount": 3, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3405, 
+                "name": "quotation", 
+                "workCount": 274
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04793_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-no-title-p04793", 
+  "width": "380"
 }

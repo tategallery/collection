@@ -1,6 +1,5 @@
 {
   "acno": "D30861", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30823-D30877; D30879-D30887; D41035-D41037", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,143 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 155 x 92 mm", 
-  "displayLocation": null, 
   "finberg": "CCCV 21", 
   "foreignTitle": null, 
   "groupTitle": "Hamburg and Copenhagen Sketchbook [Finberg CCCV]", 
+  "height": "92", 
   "id": 58102, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "popularity": 61, 
   "subjectCount": 9, 
-  "title": "(1) Copenhagen: The Round Tower as Seen from Store Kannikestraede, plus a Detail of its Doorway and One of a Window; (2) Hamburg: The Niederhafen from the West"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15266, 
+                "name": "Copenhagen, Round Tower", 
+                "workCount": 2
+              }, 
+              {
+                "id": 15231, 
+                "name": "Hamburg, Niederhafen", 
+                "workCount": 2
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 14013, 
+                "name": "Denmark", 
+                "workCount": 39
+              }, 
+              {
+                "id": 3561, 
+                "name": "Germany", 
+                "workCount": 2367
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront", 
+                "workCount": 1203
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30861_8_R.jpg", 
+  "title": "(1) Copenhagen: The Round Tower as Seen from Store Kannikestraede, plus a Detail of its Doorway and One of a Window; (2) Hamburg: The Niederhafen from the West", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-1-copenhagen-the-round-tower-as-seen-from-store-kannikestraede-plus-a-detail-of-its-doorway-and-one-of-a-window-2-hamburg-the-niederhafen-from-the-west-d30861", 
+  "width": "155"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D31150", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31138-D31143; D31145-D31150; D31152-D31156; D31158-D31222; D41125-D41126", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "c.1837-41"
   }, 
   "dateText": "c.1837-41", 
+  "depth": "", 
   "dimensions": "support: 171 x 111 mm", 
-  "displayLocation": null, 
   "finberg": "CCCVIII 9", 
   "foreignTitle": null, 
   "groupTitle": "Arco and Vigne Sketchbook [Finberg CCCVIII]", 
+  "height": "111", 
   "id": 58388, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 20, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Lake, with Mountains. ?Montr... [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake", 
+                "workCount": 1799
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31150_8_R.jpg", 
+  "title": "Lake, with Mountains. ?Montr... [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-lake-with-mountains-montr-turner-d31150", 
+  "width": "171"
 }

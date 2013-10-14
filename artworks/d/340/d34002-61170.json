@@ -1,6 +1,5 @@
 {
   "acno": "D34002", 
-  "addlImageCount": 0, 
   "catTextResId": 1135616, 
   "catalogueGroup": {
     "accessionRanges": "D12109; D34001; D34002; D34791-D34794; D34796; D34797; D34836; D34842-D34849; D34857; D34858; D40300; D40396", 
@@ -28,16 +27,51 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 156 x 235 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLI 285", 
   "foreignTitle": null, 
   "groupTitle": "Sheets Associated with the 1831 Tour of Scotland", 
+  "height": "235", 
   "id": 61170, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "Fingal's Cave, Staffa"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 675, 
+                "name": "cave", 
+                "workCount": 118
+              }, 
+              {
+                "id": 1351, 
+                "name": "cliff", 
+                "workCount": 814
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34002_8.jpg", 
+  "title": "Fingal's Cave, Staffa", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fingals-cave-staffa-d34002", 
+  "width": "156"
 }

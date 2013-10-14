@@ -1,6 +1,5 @@
 {
   "acno": "D40029", 
-  "addlImageCount": 0, 
   "catTextResId": 1140438, 
   "catalogueGroup": {
     "accessionRanges": "D00108-D00114; D40029-D40032; D41454", 
@@ -28,16 +27,77 @@
     "text": "1791"
   }, 
   "dateText": "1791", 
+  "depth": "", 
   "dimensions": "support: 342 x 314 mm", 
-  "displayLocation": null, 
   "finberg": null, 
   "foreignTitle": null, 
   "groupTitle": "Subjects Related to the Bristol and Malmesbury Tour", 
+  "height": "314", 
   "id": 63799, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 3, 
-  "title": "Study of a Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 3123, 
+                "name": "roof", 
+                "workCount": 66
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40029_8.jpg", 
+  "title": "Study of a Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-a-building-d40029", 
+  "width": "342"
 }

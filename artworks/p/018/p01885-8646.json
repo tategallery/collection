@@ -1,6 +1,5 @@
 {
   "acno": "P01885", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01884-P01886", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 600 x 900 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "3 X 3 Shift", 
+  "height": "900", 
   "id": 8646, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 25, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01885_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leverett-no-title-p01885", 
+  "width": "600"
 }

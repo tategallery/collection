@@ -1,6 +1,5 @@
 {
   "acno": "D01225", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1796-7"
   }, 
   "dateText": "1796-7", 
+  "depth": "", 
   "dimensions": "support: 113 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVII 108", 
   "foreignTitle": null, 
   "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "height": "93", 
   "id": 28634, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 108, 
-  "popularity": 78, 
   "subjectCount": 6, 
-  "title": "A Fishing Boat Running before the Wind"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1521, 
+                "name": "boat, fishing", 
+                "workCount": 308
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave", 
+                "workCount": 724
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 800, 
+                "name": "wind", 
+                "workCount": 122
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01225_8.jpg", 
+  "title": "A Fishing Boat Running before the Wind", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-fishing-boat-running-before-the-wind-d01225", 
+  "width": "113"
 }

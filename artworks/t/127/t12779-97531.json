@@ -1,6 +1,5 @@
 {
   "acno": "T12779", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,59 +20,64 @@
     "text": "1994"
   }, 
   "dateText": "1994", 
+  "depth": "650", 
   "dimensions": "object: 800 x 1190 x 650 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Niekada atgal", 
   "groupTitle": null, 
+  "height": "1190", 
   "id": 97531, 
-  "images": [
-    {
-      "copyright": "\u00a9 Deimantas Narkevicius", 
-      "filenameBase": "T12779_289024", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12779_289024_7.jpg", 
-          "height": 100, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12779_289024_8.jpg", 
-          "height": 200, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12779_289024_9.jpg", 
-          "height": 571, 
-          "resolution": 730, 
-          "size": "large", 
-          "width": 730
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": true, 
-          "file": "T/T12/T12779_289024_10.jpg", 
-          "height": 1202, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Wood and paraffin", 
   "movementCount": 0, 
-  "popularity": 281, 
   "subjectCount": 2, 
-  "title": "Never Backwards"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4376, 
+                "name": "cot", 
+                "workCount": 4
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 877, 
+                "name": "dysfunction", 
+                "workCount": 26
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12779_8.jpg", 
+  "title": "Never Backwards", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/narkevicius-never-backwards-t12779", 
+  "width": "800"
 }

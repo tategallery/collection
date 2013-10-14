@@ -1,6 +1,5 @@
 {
   "acno": "D17663", 
-  "addlImageCount": 0, 
   "catTextResId": 1133004, 
   "catalogueGroup": {
     "accessionRanges": "D17508-D17671; D40687-D40688", 
@@ -28,17 +27,78 @@
     "text": "1821-2"
   }, 
   "dateText": "1821-2", 
+  "depth": "", 
   "dimensions": "support: 114 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CC 87 a", 
   "foreignTitle": null, 
   "groupTitle": "King's Visit to Edinburgh Sketchbook [Finberg CC]", 
+  "height": "187", 
   "id": 45019, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 176, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "Landscape, with Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17663_8_R.jpg", 
+  "title": "Landscape, with Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-bridge-d17663", 
+  "width": "114"
 }

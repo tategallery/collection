@@ -1,6 +1,5 @@
 {
   "acno": "A00928", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "A00911-A01015; A01112-A01159; A01188", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,122 @@
     "text": "1808"
   }, 
   "dateText": "1808", 
+  "depth": "", 
   "dimensions": "image: 177 x 259 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Etchings and Engravings for the 'Liber Studiorum'", 
+  "height": "259", 
   "id": 14628, 
   "inscription": null, 
   "medium": "Etching and mezzotint on paper", 
   "movementCount": 0, 
-  "popularity": 139, 
   "subjectCount": 8, 
-  "title": "Mt St Gothard, engraved by Charles Turner"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass", 
+                "workCount": 41
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1256, 
+                "name": "mule", 
+                "workCount": 28
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 650, 
+                "name": "path", 
+                "workCount": 214
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00928_8.jpg", 
+  "title": "Mt St Gothard, engraved by Charles Turner", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-mt-st-gothard-engraved-by-charles-turner-a00928", 
+  "width": "177"
 }

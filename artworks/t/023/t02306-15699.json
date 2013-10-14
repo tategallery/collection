@@ -1,6 +1,5 @@
 {
   "acno": "T02306", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1919"
   }, 
   "dateText": "1919", 
+  "depth": "137", 
   "dimensions": "object: 225 x 137 x 137 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Rapport des volumes", 
   "groupTitle": null, 
+  "height": "137", 
   "id": 15699, 
   "inscription": null, 
   "medium": "Sandstone", 
@@ -61,7 +61,60 @@
       "workCount": 6
     }
   ], 
-  "popularity": 520, 
   "subjectCount": 3, 
-  "title": "Interrelation of Volumes"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6735, 
+                "name": "balance", 
+                "workCount": 47
+              }, 
+              {
+                "id": 6746, 
+                "name": "space", 
+                "workCount": 167
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T02/T02306_8.jpg", 
+  "title": "Interrelation of Volumes", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/vantongerloo-interrelation-of-volumes-t02306", 
+  "width": "225"
 }

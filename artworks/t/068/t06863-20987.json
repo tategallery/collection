@@ -1,6 +1,5 @@
 {
   "acno": "T06863", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1928, cast 1928 or 1929"
   }, 
   "dateText": "1928, cast 1928 or 1929", 
+  "depth": "190", 
   "dimensions": "displayed: 860 x 470 x 190 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Torso di giovinetto", 
   "groupTitle": null, 
+  "height": "470", 
   "id": 20987, 
   "inscription": null, 
   "medium": "Terracotta", 
@@ -41,7 +41,65 @@
       "workCount": 3
     }
   ], 
-  "popularity": 134, 
   "subjectCount": 4, 
-  "title": "Torso of a Young Man"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }, 
+              {
+                "id": 1025, 
+                "name": "torso", 
+                "workCount": 77
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T06/T06863_8.jpg", 
+  "title": "Torso of a Young Man", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/martini-torso-of-a-young-man-t06863", 
+  "width": "860"
 }

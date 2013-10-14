@@ -1,6 +1,5 @@
 {
   "acno": "N03975", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Presented by Lord Duveen 1924", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "support: 190 x 165 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "165", 
   "id": 1784, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -38,7 +38,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 74, 
   "subjectCount": 2, 
-  "title": "Female Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03975_8.jpg", 
+  "title": "Female Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-female-head-n03975", 
+  "width": "190"
 }

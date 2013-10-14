@@ -1,6 +1,5 @@
 {
   "acno": "D10944", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "c.1815-16"
   }, 
   "dateText": "c.1815-16", 
+  "depth": "", 
   "dimensions": "support: 154 x 97 mm", 
-  "displayLocation": null, 
   "finberg": "CXLIV 41", 
   "foreignTitle": null, 
   "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
+  "height": "97", 
   "id": 38319, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 85, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "River with Hills Beyond; Architectural Details"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10944_8.jpg", 
+  "title": "River with Hills Beyond; Architectural Details", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-river-with-hills-beyond-architectural-details-d10944", 
+  "width": "154"
 }

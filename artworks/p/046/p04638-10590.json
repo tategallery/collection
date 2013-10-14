@@ -1,6 +1,5 @@
 {
   "acno": "P04638", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04636-P04639", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 574 x 459 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Machine", 
+  "height": "459", 
   "id": 10590, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 9, 
   "subjectCount": 2, 
-  "title": "Machine III"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }, 
+              {
+                "id": 3986, 
+                "name": "robot", 
+                "workCount": 37
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04638_8.jpg", 
+  "title": "Machine III", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nellens-machine-iii-p04638", 
+  "width": "574"
 }

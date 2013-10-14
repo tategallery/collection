@@ -1,6 +1,5 @@
 {
   "acno": "T07777", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,83 @@
     "text": "2000"
   }, 
   "dateText": "2000", 
+  "depth": "35", 
   "dimensions": "support: 1905 x 1903 x 35 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1903", 
   "id": 66692, 
   "inscription": null, 
   "medium": "Acrylic paint and graphite on canvas", 
   "movementCount": 0, 
-  "popularity": 91, 
   "subjectCount": 3, 
-  "title": "Shroud"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15956, 
+                "name": "shroud", 
+                "workCount": 25
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial", 
+            "workCount": 807
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07777_8.jpg", 
+  "title": "Shroud", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/houshiary-shroud-t07777", 
+  "width": "1905"
 }

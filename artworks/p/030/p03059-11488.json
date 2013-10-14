@@ -1,6 +1,5 @@
 {
   "acno": "P03059", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03001-P03006; P03011-P03022; P03031-P03036; P03039-P03044; P03059-P03064", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 360 x 459 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Great War: Britain's Efforts and Ideals", 
+  "height": "459", 
   "id": 11488, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,74 @@
       "workCount": 141
     }
   ], 
-  "popularity": 67, 
   "subjectCount": 3, 
-  "title": "Transport by Sea: Maintaining Food Supplies"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3829, 
+                "name": "World War I - non-specific", 
+                "workCount": 96
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03059_8.jpg", 
+  "title": "Transport by Sea: Maintaining Food Supplies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/pears-transport-by-sea-maintaining-food-supplies-p03059", 
+  "width": "360"
 }

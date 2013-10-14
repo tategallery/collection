@@ -1,6 +1,5 @@
 {
   "acno": "T00650", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "", 
   "dimensions": "support, circular: 1650 x 1650 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 8768, 
   "inscription": "date inscribed", 
   "medium": "Acrylic paint on canvas", 
@@ -41,7 +41,36 @@
       "workCount": 140
     }
   ], 
-  "popularity": 127, 
   "subjectCount": 1, 
-  "title": "Andromeda"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00650_8.jpg", 
+  "title": "Andromeda", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/liberman-andromeda-t00650", 
+  "width": ""
 }

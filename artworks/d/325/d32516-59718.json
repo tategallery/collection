@@ -1,6 +1,5 @@
 {
   "acno": "D32516", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D32444; D32446; D32448; D32450-D32458; D32460-D32462; D32464; D32466; D32468-D32474; D32476-D32478; D32480-D32501; D32503-D32524; D32526-D32532; D32534-D32538; D32540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,64 @@
     "text": "1835"
   }, 
   "dateText": "1835", 
+  "depth": "", 
   "dimensions": "support: 153 x 95 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXI 38 a", 
   "foreignTitle": null, 
   "groupTitle": "Rotterdam Sketchbook [Finberg CCCXXI]", 
+  "height": "95", 
   "id": 59718, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 78, 
-  "popularity": 6, 
   "subjectCount": 3, 
-  "title": "Shipping"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }, 
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32516_8.jpg", 
+  "title": "Shipping", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-shipping-d32516", 
+  "width": "153"
 }

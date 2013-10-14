@@ -1,6 +1,5 @@
 {
   "acno": "D33606", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,87 @@
     "text": "c.1841"
   }, 
   "dateText": "c.1841", 
+  "depth": "", 
   "dimensions": "support: 228 x 290 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXXXVII 6", 
   "foreignTitle": null, 
   "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "height": "290", 
   "id": 60777, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 10, 
   "subjectCount": 5, 
-  "title": "Town in Valley, with Castle on Rock Above"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }, 
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33606_8.jpg", 
+  "title": "Town in Valley, with Castle on Rock Above", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-in-valley-with-castle-on-rock-above-d33606", 
+  "width": "228"
 }

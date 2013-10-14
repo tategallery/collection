@@ -1,6 +1,5 @@
 {
   "acno": "P05136", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05129-P05137", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 494 x 493 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Looking Glass Suite", 
+  "height": "493", 
   "id": 13283, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 57
     }
   ], 
-  "popularity": 46, 
   "subjectCount": 2, 
-  "title": "Looking Glass No. 8"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05136_8.jpg", 
+  "title": "Looking Glass No. 8", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/sedgley-looking-glass-no-8-p05136", 
+  "width": "494"
 }

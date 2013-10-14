@@ -1,6 +1,5 @@
 {
   "acno": "P04498", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 478 x 286 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "286", 
   "id": 8057, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,67 @@
       "workCount": 377
     }
   ], 
-  "popularity": 26, 
   "subjectCount": 3, 
-  "title": "(47) Hanging in Chains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12415, 
+                "name": "book, Hartshorne, Albert, 'Hanging in Chains'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 3631, 
+                "name": "chain", 
+                "workCount": 36
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9326, 
+                "name": "printed text", 
+                "workCount": 1061
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04498_8.jpg", 
+  "title": "(47) Hanging in Chains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-47-hanging-in-chains-p04498", 
+  "width": "478"
 }

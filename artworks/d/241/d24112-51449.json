@@ -1,6 +1,5 @@
 {
   "acno": "D24112", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D24107-D24167", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1826"
   }, 
   "dateText": "c.1826", 
+  "depth": "", 
   "dimensions": "support: 158 x 106 mm", 
-  "displayLocation": null, 
   "finberg": "CCLVI 3 a", 
   "foreignTitle": null, 
   "groupTitle": "France and Folkestone Sketchbook [Finberg CCLVI]", 
+  "height": "106", 
   "id": 51449, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 10, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "Church"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 741, 
+                "name": "Gothic", 
+                "workCount": 987
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles", 
+            "workCount": 3305
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24112_8_R.jpg", 
+  "title": "Church", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-church-d24112", 
+  "width": "158"
 }

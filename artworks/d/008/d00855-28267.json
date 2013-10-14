@@ -1,6 +1,5 @@
 {
   "acno": "D00855", 
-  "addlImageCount": 0, 
   "catTextResId": 1140058, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
@@ -22,16 +21,58 @@
     "text": "?1796"
   }, 
   "dateText": "?1796", 
+  "depth": "", 
   "dimensions": "support: 184 x 236 mm", 
-  "displayLocation": null, 
   "finberg": "XXXI M", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "236", 
   "id": 28267, 
   "inscription": null, 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 15, 
   "subjectCount": 2, 
-  "title": "A Church with a Broached Spire"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00855_8.jpg", 
+  "title": "A Church with a Broached Spire", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-with-a-broached-spire-d00855", 
+  "width": "184"
 }

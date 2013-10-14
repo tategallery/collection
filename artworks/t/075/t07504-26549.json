@@ -1,6 +1,5 @@
 {
   "acno": "T07504", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1991"
   }, 
   "dateText": "1991", 
+  "depth": "", 
   "dimensions": "unconfirmed: 2255 x 1005 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1005", 
   "id": 26549, 
   "inscription": null, 
   "medium": "Steel and wood", 
@@ -41,7 +41,55 @@
       "workCount": 44
     }
   ], 
-  "popularity": 156, 
   "subjectCount": 2, 
-  "title": "Two Rules Pair 1991"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9024, 
+                "name": "repetition", 
+                "workCount": 295
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07504_8.jpg", 
+  "title": "Two Rules Pair 1991", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/davey-two-rules-pair-1991-t07504", 
+  "width": "2255"
 }

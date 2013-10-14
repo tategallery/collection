@@ -1,6 +1,5 @@
 {
   "acno": "P07633", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07632-P07636", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 282 x 300 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Alla torre", 
   "groupTitle": "April Manual", 
+  "height": "300", 
   "id": 2190, 
   "inscription": "date inscribed", 
   "medium": "Etching and drypoint on paper", 
@@ -57,7 +57,117 @@
       "workCount": 23
     }
   ], 
-  "popularity": 66, 
   "subjectCount": 6, 
-  "title": "To the Tower"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2216, 
+                "name": "dagger / knife", 
+                "workCount": 34
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 722, 
+                "name": "death", 
+                "workCount": 378
+              }
+            ], 
+            "id": 146, 
+            "name": "birth to death", 
+            "workCount": 658
+          }, 
+          {
+            "children": [
+              {
+                "id": 2497, 
+                "name": "murder", 
+                "workCount": 48
+              }
+            ], 
+            "id": 147, 
+            "name": "crime and punishment", 
+            "workCount": 318
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 13543, 
+                "name": "stabbed", 
+                "workCount": 2
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12968, 
+                "name": "question mark", 
+                "workCount": 5
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07633_8.jpg", 
+  "title": "To the Tower", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chia-to-the-tower-p07633", 
+  "width": "282"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D07765", 
-  "addlImageCount": 0, 
   "catTextResId": 1135718, 
   "catalogueGroup": {
     "accessionRanges": "D07755-D07852; D40804", 
@@ -28,17 +27,59 @@
     "text": "1809"
   }, 
   "dateText": "1809", 
+  "depth": "", 
   "dimensions": "support: 107 x 180 mm", 
-  "displayLocation": null, 
   "finberg": "CXII 9", 
   "foreignTitle": null, 
   "groupTitle": "Frittlewell Sketchbook [Finberg CXII]", 
+  "height": "180", 
   "id": 35154, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 19, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "?The River Arun, or Rother"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07765_8.jpg", 
+  "title": "?The River Arun, or Rother", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-river-arun-or-rother-d07765", 
+  "width": "107"
 }

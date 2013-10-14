@@ -1,6 +1,5 @@
 {
   "acno": "T00627", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1963"
   }, 
   "dateText": "1963", 
+  "depth": "", 
   "dimensions": "support: 759 x 511 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "511", 
   "id": 11342, 
   "inscription": "date inscribed", 
   "medium": "Printed papers and card on paper", 
@@ -54,7 +51,79 @@
       "workCount": 178
     }
   ], 
-  "popularity": 282, 
   "subjectCount": 4, 
-  "title": "Conjectures to Identity"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2452, 
+                "name": "cog", 
+                "workCount": 11
+              }, 
+              {
+                "id": 6243, 
+                "name": "machinery", 
+                "workCount": 135
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00627_8.jpg", 
+  "title": "Conjectures to Identity", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/paolozzi-conjectures-to-identity-t00627", 
+  "width": "759"
 }

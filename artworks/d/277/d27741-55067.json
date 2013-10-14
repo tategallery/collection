@@ -1,6 +1,5 @@
 {
   "acno": "D27741", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D27727-D27731; D27733-D27744; D27746-D27749; D27751-D27753; D27755-D27778; D27780-D27784; D27786-D27791; D40746-D40748", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1830-5"
   }, 
   "dateText": "c.1830-5", 
+  "depth": "", 
   "dimensions": "support: 79 x 101 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXXI 9 a", 
   "foreignTitle": null, 
   "groupTitle": "Fishing at the Weir Sketchbook [Finberg CCLXXXI]", 
+  "height": "101", 
   "id": 55067, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 22, 
-  "popularity": 2, 
   "subjectCount": 2, 
-  "title": "Views of Castle, Etc."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27741_8.jpg", 
+  "title": "Views of Castle, Etc.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-of-castle-etc-d27741", 
+  "width": "79"
 }

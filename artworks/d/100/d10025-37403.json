@@ -1,6 +1,5 @@
 {
   "acno": "D10025", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D09987-D10204; D40829-D40833", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "1814"
   }, 
   "dateText": "1814", 
+  "depth": "", 
   "dimensions": "support: 119 x 82 mm", 
-  "displayLocation": null, 
   "finberg": "CXXXVI 37", 
   "foreignTitle": null, 
   "groupTitle": "Review at Portsmouth Sketchbook [Finberg CXXXVI]", 
+  "height": "82", 
   "id": 37403, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 75, 
-  "popularity": 4, 
   "subjectCount": 2, 
-  "title": "Fort"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10025_8_R.jpg", 
+  "title": "Fort", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-fort-d10025", 
+  "width": "119"
 }

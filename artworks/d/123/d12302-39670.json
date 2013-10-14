@@ -1,6 +1,5 @@
 {
   "acno": "D12302", 
-  "addlImageCount": 0, 
   "catTextResId": 1139488, 
   "catalogueGroup": {
     "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
@@ -28,17 +27,47 @@
     "text": "1817"
   }, 
   "dateText": "1817", 
+  "depth": "", 
   "dimensions": "support: 232 x 328 mm", 
-  "displayLocation": null, 
   "finberg": "CLVI 24 a", 
   "foreignTitle": null, 
   "groupTitle": "Raby Sketchbook [Finberg CLVI]", 
+  "height": "328", 
   "id": 39670, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 36, 
   "subjectCount": 1, 
-  "title": "Beech Trees near Raby Castle"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest", 
+                "workCount": 225
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12302_8.jpg", 
+  "title": "Beech Trees near Raby Castle", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-beech-trees-near-raby-castle-d12302", 
+  "width": "232"
 }

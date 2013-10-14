@@ -1,6 +1,5 @@
 {
   "acno": "T09344", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "1765"
   }, 
   "dateText": "1765", 
+  "depth": "", 
   "dimensions": "support: 149 x 226 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "226", 
   "id": 23425, 
   "inscription": "date inscribed", 
   "medium": "Graphite, watercolour and ink on paper", 
   "movementCount": 0, 
-  "popularity": 42, 
   "subjectCount": 3, 
-  "title": "Houses in a Village"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village", 
+                "workCount": 504
+              }, 
+              {
+                "id": 211, 
+                "name": "wall", 
+                "workCount": 280
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T09/T09344_8.jpg", 
+  "title": "Houses in a Village", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/richards-houses-in-a-village-t09344", 
+  "width": "149"
 }

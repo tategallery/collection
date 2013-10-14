@@ -1,6 +1,5 @@
 {
   "acno": "T11967", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "200", 
   "dimensions": "object: 685 x 200 x 200 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "200", 
   "id": 78614, 
   "inscription": null, 
   "medium": "Copper and brass on slate base", 
@@ -44,7 +41,74 @@
       "workCount": 85
     }
   ], 
-  "popularity": 208, 
   "subjectCount": 3, 
-  "title": "Stabile with Mobile Elements (Maquette for 'Cypress')"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7863, 
+                "name": "cypress", 
+                "workCount": 12
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17525, 
+                "name": "exhibition: Festival of Britain, 1951", 
+                "workCount": 1
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11967_8.jpg", 
+  "title": "Stabile with Mobile Elements (Maquette for 'Cypress')", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/chadwick-stabile-with-mobile-elements-maquette-for-cypress-t11967", 
+  "width": "685"
 }

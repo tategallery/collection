@@ -1,6 +1,5 @@
 {
   "acno": "D22113", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D21975-D22012; D22014-D22150; D41045-D41046; D41540", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1830"
   }, 
   "dateText": "1830", 
+  "depth": "", 
   "dimensions": "support: 120 x 203 mm", 
-  "displayLocation": null, 
   "finberg": "CCXXXVIII 71 a", 
   "foreignTitle": null, 
   "groupTitle": "Kenilworth Sketchbook [Finberg CCXXXVIII]", 
+  "height": "203", 
   "id": 49451, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 148, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "House, Surrounded by Trees"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house", 
+                "workCount": 1219
+              }
+            ], 
+            "id": 26, 
+            "name": "residential", 
+            "workCount": 2882
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22113_8.jpg", 
+  "title": "House, Surrounded by Trees", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-house-surrounded-by-trees-d22113", 
+  "width": "120"
 }

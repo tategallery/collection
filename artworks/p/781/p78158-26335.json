@@ -1,6 +1,5 @@
 {
   "acno": "P78158", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P78138-P78185", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1995"
   }, 
   "dateText": "1995", 
+  "depth": "", 
   "dimensions": "image: 198 x 136 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Vibeke", 
+  "height": "136", 
   "id": 26335, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P78/P78158_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kirkeby-no-title-p78158", 
+  "width": "198"
 }

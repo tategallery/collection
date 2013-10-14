@@ -1,6 +1,5 @@
 {
   "acno": "P01293", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01291-P01295", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "support: 445 x 442 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Paper Clip Suite I", 
+  "height": "442", 
   "id": 13547, 
   "inscription": "date inscribed", 
   "medium": "Etching and 3 metal paperclips on paper", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 2, 
-  "title": "Print 3"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01293_8.jpg", 
+  "title": "Print 3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-print-3-p01293", 
+  "width": "445"
 }

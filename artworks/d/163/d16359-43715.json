@@ -1,6 +1,5 @@
 {
   "acno": "D16359", 
-  "addlImageCount": 0, 
   "catTextResId": 1132427, 
   "catalogueGroup": {
     "accessionRanges": "D16327-D16391; D16393-D16394; D40049-D40050; D40855-D40857", 
@@ -28,17 +27,90 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 229 x 368 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXXIX 32 v", 
   "foreignTitle": null, 
   "groupTitle": "Rome: Colour Studies Sketchbook [Finberg CLXXXIX]", 
+  "height": "368", 
   "id": 43715, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 68, 
-  "popularity": 11, 
   "subjectCount": 4, 
-  "title": "Torre San Giovanni and St Peter's, Rome"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16359_8.jpg", 
+  "title": "Torre San Giovanni and St Peter's, Rome", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-torre-san-giovanni-and-st-peters-rome-d16359", 
+  "width": "229"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P06290", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06244; P06289-P06291; P06319; P06340-P06341; P06549", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,83 @@
     "text": "1970-1"
   }, 
   "dateText": "1970-1", 
+  "depth": "", 
   "dimensions": "image: 752 x 533 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Europaeische Graphik VII", 
+  "height": "533", 
   "id": 6512, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 342, 
   "subjectCount": 3, 
-  "title": "Lillies"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1228, 
+                "name": "lily", 
+                "workCount": 39
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06290_8.jpg", 
+  "title": "Lillies", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hockney-lillies-p06290", 
+  "width": "752"
 }

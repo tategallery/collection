@@ -1,6 +1,5 @@
 {
   "acno": "D31247", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D31223-D31256; D31258-D31276", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "1843"
   }, 
   "dateText": "1843", 
+  "depth": "", 
   "dimensions": "support: 174 x 76 mm", 
-  "displayLocation": null, 
   "finberg": "CCCIX 13 a", 
   "foreignTitle": null, 
   "groupTitle": "Dover, Rhine and Innsbruck Sketchbook [Finberg CCCIX]", 
+  "height": "76", 
   "id": 58483, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "popularity": 6, 
   "subjectCount": 2, 
-  "title": "Town, with Mountains"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31247_8.jpg", 
+  "title": "Town, with Mountains", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-town-with-mountains-d31247", 
+  "width": "174"
 }

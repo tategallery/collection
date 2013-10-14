@@ -1,6 +1,5 @@
 {
   "acno": "P05322", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05320-P05326", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1970"
   }, 
   "dateText": "1970", 
+  "depth": "", 
   "dimensions": "image: 1042 x 790 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "London Transport", 
+  "height": "790", 
   "id": 16299, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 46, 
   "subjectCount": 2, 
-  "title": "Green Line Bus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1726, 
+                "name": "bus", 
+                "workCount": 44
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05322_8.jpg", 
+  "title": "Green Line Bus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/winner-green-line-bus-p05322", 
+  "width": "1042"
 }

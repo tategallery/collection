@@ -1,6 +1,5 @@
 {
   "acno": "T07879", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,62 @@
     "text": "c.1790"
   }, 
   "dateText": "c.1790", 
+  "depth": "", 
   "dimensions": "support: 261 x 191 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "191", 
   "id": 71348, 
   "inscription": null, 
   "medium": "Ink and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 59, 
   "subjectCount": 3, 
-  "title": "Three Trees on a Hill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree", 
+                "workCount": 1694
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07879_8.jpg", 
+  "title": "Three Trees on a Hill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hearne-three-trees-on-a-hill-t07879", 
+  "width": "261"
 }

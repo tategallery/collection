@@ -1,6 +1,5 @@
 {
   "acno": "D04719", 
-  "addlImageCount": 0, 
   "catTextResId": 1133195, 
   "catalogueGroup": {
     "accessionRanges": "D04649-D04735; D40783-D40784", 
@@ -28,17 +27,83 @@
     "text": "1802"
   }, 
   "dateText": "1802", 
+  "depth": "", 
   "dimensions": "support: 156 x 201 mm", 
-  "displayLocation": null, 
   "finberg": "LXXVI 62", 
   "foreignTitle": null, 
   "groupTitle": "Lake Thun Sketchbook [Finberg LXXVI]", 
+  "height": "201", 
   "id": 32112, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "popularity": 64, 
   "subjectCount": 4, 
-  "title": "The St Gotthard Road: the Schollenen Gorge and Reuss Valley near G\u00f6schenen"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8364, 
+                "name": "St Gotthard Pass", 
+                "workCount": 41
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 883, 
+                "name": "Switzerland", 
+                "workCount": 917
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2942, 
+                "name": "gorge", 
+                "workCount": 612
+              }, 
+              {
+                "id": 563, 
+                "name": "rocky", 
+                "workCount": 2751
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04719_8_R.jpg", 
+  "title": "The St Gotthard Road: the Schollenen Gorge and Reuss Valley near G\u00f6schenen", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-the-st-gotthard-road-the-schollenen-gorge-and-reuss-valley-near-goschenen-d04719", 
+  "width": "156"
 }

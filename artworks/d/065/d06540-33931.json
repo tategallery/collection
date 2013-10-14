@@ -1,6 +1,5 @@
 {
   "acno": "D06540", 
-  "addlImageCount": 0, 
   "catTextResId": 1139062, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
@@ -28,17 +27,47 @@
     "text": "1807"
   }, 
   "dateText": "1807", 
+  "depth": "", 
   "dimensions": "support: 118 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "C 21", 
   "foreignTitle": null, 
   "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "height": "187", 
   "id": 33931, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 45, 
-  "popularity": 36, 
   "subjectCount": 1, 
-  "title": "Gibbet Hill, Hindhead"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06540_8.jpg", 
+  "title": "Gibbet Hill, Hindhead", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-gibbet-hill-hindhead-d06540", 
+  "width": "118"
 }

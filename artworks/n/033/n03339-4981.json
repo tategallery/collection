@@ -1,6 +1,5 @@
 {
   "acno": "N03339", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1913"
   }, 
   "dateText": "1913", 
+  "depth": "", 
   "dimensions": "support: 240 x 385 mm\r\nframe: 350 x 514 x 20 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "385", 
   "id": 4981, 
   "inscription": "date inscribed", 
   "medium": "Ink on paper", 
   "movementCount": 0, 
-  "popularity": 110, 
   "subjectCount": 1, 
-  "title": "A Wolf"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4660, 
+                "name": "wolf", 
+                "workCount": 17
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03339_8.jpg", 
+  "title": "A Wolf", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gaudier-brzeska-a-wolf-n03339", 
+  "width": "240"
 }

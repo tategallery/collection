@@ -1,6 +1,5 @@
 {
   "acno": "D14924", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,78 @@
     "text": "1828-9"
   }, 
   "dateText": "1828-9", 
+  "depth": "", 
   "dimensions": "support: 97 x 132 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXVIII 51 a", 
   "foreignTitle": null, 
   "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "height": "132", 
   "id": 42281, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 104, 
-  "popularity": 76, 
   "subjectCount": 3, 
-  "title": "Views of Town. Rimini [Turner]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }, 
+          {
+            "children": [
+              {
+                "id": 11920, 
+                "name": "Rimini - non-specific", 
+                "workCount": 5
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14924_8.jpg", 
+  "title": "Views of Town. Rimini [Turner]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-views-of-town-rimini-turner-d14924", 
+  "width": "97"
 }

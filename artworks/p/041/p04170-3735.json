@@ -1,6 +1,5 @@
 {
   "acno": "P04170", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04167-P04176", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 758 x 496 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Suite 66", 
+  "height": "496", 
   "id": 3735, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 26, 
   "subjectCount": 3, 
-  "title": "Suite 66 IV"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6749, 
+                "name": "symmetry", 
+                "workCount": 184
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04170_8.jpg", 
+  "title": "Suite 66 IV", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-suite-66-iv-p04170", 
+  "width": "758"
 }

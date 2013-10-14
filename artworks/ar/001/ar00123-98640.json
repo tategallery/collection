@@ -1,6 +1,5 @@
 {
   "acno": "AR00123", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "support: 297 x 208 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "208", 
   "id": 98640, 
   "inscription": "date inscribed", 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 72, 
   "subjectCount": 5, 
-  "title": "Granite in Arid Chalk"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17999, 
+                "name": "chalk", 
+                "workCount": 1
+              }, 
+              {
+                "id": 17998, 
+                "name": "granite", 
+                "workCount": 1
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4048, 
+                "name": "contrast", 
+                "workCount": 67
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts", 
+            "workCount": 1991
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00123_8.jpg", 
+  "title": "Granite in Arid Chalk", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beuys-granite-in-arid-chalk-ar00123", 
+  "width": "297"
 }

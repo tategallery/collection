@@ -1,6 +1,5 @@
 {
   "acno": "A00813", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1860"
   }, 
   "dateText": "c.1860", 
+  "depth": "", 
   "dimensions": "support: 86 x 64 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "64", 
   "id": 12385, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -41,7 +41,48 @@
       "workCount": 405
     }
   ], 
-  "popularity": 67, 
   "subjectCount": 2, 
-  "title": "Study for 'The Black Brunswicker'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00813_8.jpg", 
+  "title": "Study for 'The Black Brunswicker'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/millais-study-for-the-black-brunswicker-a00813", 
+  "width": "86"
 }

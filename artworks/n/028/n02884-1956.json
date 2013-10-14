@@ -1,6 +1,5 @@
 {
   "acno": "N02884", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1825-30"
   }, 
   "dateText": "c.1825-30", 
+  "depth": "", 
   "dimensions": "support: 251 x 181 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "181", 
   "id": 1956, 
   "inscription": null, 
   "medium": "Chalk on paper", 
@@ -41,7 +41,60 @@
       "workCount": 33
     }
   ], 
-  "popularity": 85, 
   "subjectCount": 3, 
-  "title": "Mary Calvert, the Artist's Wife"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16616, 
+                "name": "Calvert, Mary", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02884_8.jpg", 
+  "title": "Mary Calvert, the Artist's Wife", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/calvert-mary-calvert-the-artists-wife-n02884", 
+  "width": "251"
 }

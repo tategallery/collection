@@ -1,6 +1,5 @@
 {
   "acno": "N04638", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1875"
   }, 
   "dateText": "c.1875", 
+  "depth": "", 
   "dimensions": "support: 251 x 172 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "172", 
   "id": 1811, 
   "inscription": null, 
   "medium": "Graphite, chalk and watercolour on paper", 
@@ -41,7 +41,53 @@
       "workCount": 405
     }
   ], 
-  "popularity": 87, 
   "subjectCount": 3, 
-  "title": "Study of the Head and Shoulders of a Woman for 'The Passing of Venus'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2763, 
+                "name": "back", 
+                "workCount": 131
+              }, 
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04638_8.jpg", 
+  "title": "Study of the Head and Shoulders of a Woman for 'The Passing of Venus'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/burne-jones-study-of-the-head-and-shoulders-of-a-woman-for-the-passing-of-venus-n04638", 
+  "width": "251"
 }

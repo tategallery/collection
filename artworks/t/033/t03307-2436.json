@@ -1,6 +1,5 @@
 {
   "acno": "T03307", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1955"
   }, 
   "dateText": "1955", 
+  "depth": "", 
   "dimensions": "support: 768 x 562 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "562", 
   "id": 2436, 
   "inscription": "date inscribed", 
   "medium": "Charcoal on paper", 
@@ -41,7 +41,55 @@
       "workCount": 11
     }
   ], 
-  "popularity": 72, 
   "subjectCount": 2, 
-  "title": "Hanging Hare"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1547, 
+                "name": "hare", 
+                "workCount": 39
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5193, 
+                "name": "meat", 
+                "workCount": 31
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03307_8.jpg", 
+  "title": "Hanging Hare", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/coker-hanging-hare-t03307", 
+  "width": "768"
 }

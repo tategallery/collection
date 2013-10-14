@@ -1,6 +1,5 @@
 {
   "acno": "N05695", 
-  "addlImageCount": 0, 
   "catTextResId": 1139031, 
   "catalogueGroup": {}, 
   "classification": "painting", 
@@ -22,10 +21,11 @@
     "text": "1942"
   }, 
   "dateText": "1942", 
+  "depth": "", 
   "dimensions": "support: 686 x 508 mm\r\nframe: 846 x 670 x 85 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "508", 
   "id": 5359, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -52,7 +52,115 @@
       "workCount": 56
     }
   ], 
-  "popularity": 381, 
   "subjectCount": 7, 
-  "title": "Emergency Water Storage Tank"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 2732, 
+                "name": "St Paul's Cathedral", 
+                "workCount": 56
+              }, 
+              {
+                "id": 5027, 
+                "name": "Upper Thames Street", 
+                "workCount": 1
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1164, 
+                "name": "bomb damage", 
+                "workCount": 33
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 1727, 
+                "name": "cathedral", 
+                "workCount": 689
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 5028, 
+                "name": "water tank", 
+                "workCount": 12
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1731, 
+                "name": "reflection", 
+                "workCount": 590
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05695_8.jpg", 
+  "title": "Emergency Water Storage Tank", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ginner-emergency-water-storage-tank-n05695", 
+  "width": "686"
 }

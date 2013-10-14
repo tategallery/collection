@@ -1,6 +1,5 @@
 {
   "acno": "T00471", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "support: 1140 x 1613 mm\r\nframe: 1183 x 1665 x 48 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Peinture grise et verte", 
   "groupTitle": null, 
+  "height": "1613", 
   "id": 14124, 
   "inscription": null, 
   "medium": "Oil paint, epoxy resin and marble dust on canvas", 
@@ -41,7 +41,46 @@
       "workCount": 48
     }
   ], 
-  "popularity": 725, 
   "subjectCount": 3, 
-  "title": "Grey and Green Painting"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00471_8.jpg", 
+  "title": "Grey and Green Painting", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/tapies-grey-and-green-painting-t00471", 
+  "width": "1140"
 }

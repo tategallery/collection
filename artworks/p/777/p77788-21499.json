@@ -1,6 +1,5 @@
 {
   "acno": "P77788", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77769-P77770; P77773-P77781; P77788-P77799; P77839-P77850", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1986"
   }, 
   "dateText": "1986", 
+  "depth": "", 
   "dimensions": "image: 310 x 180 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Garden Proposals", 
+  "height": "180", 
   "id": 21499, 
   "inscription": null, 
   "medium": "Lithograph on paper; with Gary Hincks", 
@@ -47,7 +47,93 @@
       "workCount": 478
     }
   ], 
-  "popularity": 88, 
   "subjectCount": 4, 
-  "title": "Temple of Bara"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1721, 
+                "name": "French", 
+                "workCount": 28
+              }
+            ], 
+            "id": 183, 
+            "name": "nationality", 
+            "workCount": 351
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2550, 
+                "name": "temple", 
+                "workCount": 235
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77788_8.jpg", 
+  "title": "Temple of Bara", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-temple-of-bara-p77788", 
+  "width": "310"
 }

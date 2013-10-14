@@ -1,6 +1,5 @@
 {
   "acno": "D07012", 
-  "addlImageCount": 0, 
   "catTextResId": 1134533, 
   "catalogueGroup": {
     "accessionRanges": "D06984-D07126; D07128-D07131; D40628-D40630; D40638", 
@@ -28,17 +27,90 @@
     "text": "c.1808"
   }, 
   "dateText": "c.1808", 
+  "depth": "", 
   "dimensions": "support: 108 x 185 mm", 
-  "displayLocation": null, 
   "finberg": "CV 23", 
   "foreignTitle": null, 
   "groupTitle": "Tabley No.3 Sketchbook [Finberg CV]", 
+  "height": "185", 
   "id": 34402, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 16, 
   "subjectCount": 4, 
-  "title": "A Church and other Buildings on the Bank of a River, Bridge in the Distance at Right"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 495, 
+                "name": "river", 
+                "workCount": 7934
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland", 
+            "workCount": 11432
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07012_8.jpg", 
+  "title": "A Church and other Buildings on the Bank of a River, Bridge in the Distance at Right", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-church-and-other-buildings-on-the-bank-of-a-river-bridge-in-the-distance-at-right-d07012", 
+  "width": "108"
 }

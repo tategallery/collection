@@ -1,6 +1,5 @@
 {
   "acno": "N03957", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,93 @@
     "text": "1904"
   }, 
   "dateText": "1904", 
+  "depth": "", 
   "dimensions": "support: 608 x 510 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "510", 
   "id": 3959, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 964, 
   "subjectCount": 5, 
-  "title": "A Smiling Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3066, 
+                "name": "Beauchamp, Lettice Mary Elizabeth, Countess", 
+                "workCount": 1
+              }, 
+              {
+                "id": 3067, 
+                "name": "Grosvenor, Lettice Mary Elizabeth, Lady", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 2155, 
+                "name": "smiling", 
+                "workCount": 158
+              }
+            ], 
+            "id": 177, 
+            "name": "actions: expressive", 
+            "workCount": 1998
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 940, 
+                "name": "happiness", 
+                "workCount": 62
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities", 
+            "workCount": 1745
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03957_8.jpg", 
+  "title": "A Smiling Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dodd-a-smiling-woman-n03957", 
+  "width": "608"
 }

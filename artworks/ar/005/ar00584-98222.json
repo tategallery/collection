@@ -1,6 +1,5 @@
 {
   "acno": "AR00584", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "2004"
   }, 
   "dateText": "2004", 
+  "depth": "138", 
   "dimensions": "object: 650 x 449 x 138 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "449", 
   "id": 98222, 
   "inscription": null, 
   "medium": "Metal, glass and scissors", 
   "movementCount": 0, 
-  "popularity": 166, 
   "subjectCount": 2, 
-  "title": "Untitled (Scissors)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4278, 
+                "name": "scissors", 
+                "workCount": 23
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00584_8.jpg", 
+  "title": "Untitled (Scissors)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-scissors-ar00584", 
+  "width": "650"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04427", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,59 +20,119 @@
     "text": "1924"
   }, 
   "dateText": "1924", 
+  "depth": "", 
   "dimensions": "support: 603 x 807 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "807", 
   "id": 2225, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "N04427_34052", 
-      "sizes": [
-        {
-          "caption": ".", 
-          "cleared": true, 
-          "file": "N/N04/N04427_34052_7.jpg", 
-          "height": 96, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": ".", 
-          "cleared": true, 
-          "file": "N/N04/N04427_34052_8.jpg", 
-          "height": 192, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": ".", 
-          "cleared": true, 
-          "file": "N/N04/N04427_34052_9.jpg", 
-          "height": 385, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": ".", 
-          "cleared": true, 
-          "file": "N/N04/N04427_34052_10.jpg", 
-          "height": 1154, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 110, 
   "subjectCount": 6, 
-  "title": "Diaphanous Day"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2987, 
+                "name": "bell tower", 
+                "workCount": 177
+              }, 
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2985, 
+                "name": "lagoon", 
+                "workCount": 27
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 476, 
+                "name": "sunlight", 
+                "workCount": 448
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04427_8.jpg", 
+  "title": "Diaphanous Day", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/ciardi-diaphanous-day-n04427", 
+  "width": "603"
 }

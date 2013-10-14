@@ -1,6 +1,5 @@
 {
   "acno": "P03140", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03139-P03141; P04456-P04503", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1969-70"
   }, 
   "dateText": "1969-70", 
+  "depth": "", 
   "dimensions": "image: 580 x 404 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "In Our Time", 
+  "height": "404", 
   "id": 7971, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -57,7 +57,36 @@
       "workCount": 377
     }
   ], 
-  "popularity": 26, 
   "subjectCount": 1, 
-  "title": "(26) Deliverance from Russia"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12410, 
+                "name": "book, 'Deliverance From Russia'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03140_8.jpg", 
+  "title": "(26) Deliverance from Russia", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kitaj-26-deliverance-from-russia-p03140", 
+  "width": "580"
 }

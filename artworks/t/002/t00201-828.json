@@ -1,6 +1,5 @@
 {
   "acno": "T00201", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1746"
   }, 
   "dateText": "1746", 
+  "depth": "", 
   "dimensions": "support: 759 x 632 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "632", 
   "id": 828, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "popularity": 47, 
   "subjectCount": 2, 
-  "title": "Portrait of a Gentleman, possibly Hugh Marriott"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1248, 
+                "name": "Marriott, Hugh", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00201_8.jpg", 
+  "title": "Portrait of a Gentleman, possibly Hugh Marriott", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/beare-portrait-of-a-gentleman-possibly-hugh-marriott-t00201", 
+  "width": "759"
 }

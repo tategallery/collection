@@ -1,6 +1,5 @@
 {
   "acno": "T00220", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "?c.1935-6"
   }, 
   "dateText": "?c.1935-6", 
+  "depth": "", 
   "dimensions": "support: 368 x 387 mm\r\nframe: 490 x 513 x 40 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "387", 
   "id": 15897, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
@@ -51,7 +51,86 @@
       "workCount": 409
     }
   ], 
-  "popularity": 258, 
   "subjectCount": 4, 
-  "title": "Voyage to Labrador"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5872, 
+                "name": "Canada", 
+                "workCount": 21
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 14757, 
+                "name": "iceberg", 
+                "workCount": 1
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena", 
+            "workCount": 1949
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00220_8.jpg", 
+  "title": "Voyage to Labrador", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wallis-voyage-to-labrador-t00220", 
+  "width": "368"
 }

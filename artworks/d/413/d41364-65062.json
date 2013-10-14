@@ -1,6 +1,5 @@
 {
   "acno": "D41364", 
-  "addlImageCount": 0, 
   "catTextResId": 1137512, 
   "catalogueGroup": {
     "accessionRanges": "D08941-D08942; D41275-D41296; D41299-D41373", 
@@ -28,17 +27,105 @@
     "text": "1811"
   }, 
   "dateText": "1811", 
+  "depth": "", 
   "dimensions": "support: 141 x 215 mm", 
-  "displayLocation": null, 
   "finberg": "CXXV a 82", 
   "foreignTitle": null, 
   "groupTitle": "Cornwall and Devon Sketchbook [pseudo-Finberg CXXV a]", 
+  "height": "215", 
   "id": 65062, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 167, 
-  "popularity": 17, 
   "subjectCount": 7, 
-  "title": "St Ives from Man's Head"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1519, 
+                "name": "beach", 
+                "workCount": 928
+              }, 
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 1518, 
+                "name": "harbour", 
+                "workCount": 1204
+              }, 
+              {
+                "id": 2285, 
+                "name": "rocky", 
+                "workCount": 1165
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant", 
+                "workCount": 8180
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41364_8.jpg", 
+  "title": "St Ives from Man's Head", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-st-ives-from-mans-head-d41364", 
+  "width": "141"
 }

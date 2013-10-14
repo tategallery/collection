@@ -1,6 +1,5 @@
 {
   "acno": "P02916", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02912-P02926", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 212 x 277 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Animals in the Zoo", 
+  "height": "277", 
   "id": 10168, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 25, 
   "subjectCount": 1, 
-  "title": "Dromedary"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 16011, 
+                "name": "dromedary", 
+                "workCount": 1
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02916_8.jpg", 
+  "title": "Dromedary", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-dromedary-p02916", 
+  "width": "212"
 }

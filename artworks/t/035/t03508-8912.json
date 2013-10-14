@@ -1,6 +1,5 @@
 {
   "acno": "T03508", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,15 +20,57 @@
     "text": "1911-12"
   }, 
   "dateText": "1911-12", 
+  "depth": "54", 
   "dimensions": "object: 158 x 63 x 54 mm", 
-  "displayLocation": null, 
   "foreignTitle": "T\u00eate de fillette", 
   "groupTitle": null, 
+  "height": "63", 
   "id": 8912, 
   "inscription": null, 
   "medium": "Plaster", 
   "movementCount": 0, 
-  "popularity": 93, 
   "subjectCount": 2, 
-  "title": "Head of a Woman"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 615, 
+                "name": "head / face", 
+                "workCount": 1696
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03508_8.jpg", 
+  "title": "Head of a Woman", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lipchitz-head-of-a-woman-t03508", 
+  "width": "158"
 }

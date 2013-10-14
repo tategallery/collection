@@ -1,6 +1,5 @@
 {
   "acno": "D27204", 
-  "addlImageCount": 0, 
   "catTextResId": 1135570, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
@@ -28,17 +27,59 @@
     "text": "1831"
   }, 
   "dateText": "1831", 
+  "depth": "", 
   "dimensions": "support: 104 x 163 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXVII 132 a", 
   "foreignTitle": null, 
   "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "height": "163", 
   "id": 54539, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 266, 
-  "popularity": 13, 
   "subjectCount": 2, 
-  "title": "Bishop's House and Elgin Cathedral"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3778, 
+                "name": "building", 
+                "workCount": 451
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27204_8.jpg", 
+  "title": "Bishop's House and Elgin Cathedral", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-bishops-house-and-elgin-cathedral-d27204", 
+  "width": "104"
 }

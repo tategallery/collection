@@ -1,6 +1,5 @@
 {
   "acno": "D15163", 
-  "addlImageCount": 0, 
   "catTextResId": 1139575, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
@@ -28,17 +27,66 @@
     "text": "1819"
   }, 
   "dateText": "1819", 
+  "depth": "", 
   "dimensions": "support: 101 x 161 mm", 
-  "displayLocation": null, 
   "finberg": "CLXXX 30 a", 
   "foreignTitle": null, 
   "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "height": "161", 
   "id": 42519, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 64, 
-  "popularity": 32, 
   "subjectCount": 2, 
-  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Relief of the Three Graces and a Statue of a Man with the Head of Lucius Verus"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 649, 
+                "name": "sculpture, classical", 
+                "workCount": 109
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15163_8_R.jpg", 
+  "title": "Studies of Sculptural Fragments from the Vatican Museums, Including a Relief of the Three Graces and a Statue of a Man with the Head of Lucius Verus", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-studies-of-sculptural-fragments-from-the-vatican-museums-including-a-relief-of-the-three-graces-and-a-statue-of-a-man-with-the-head-of-lucius-verus-d15163", 
+  "width": "101"
 }

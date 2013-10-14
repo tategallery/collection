@@ -1,6 +1,5 @@
 {
   "acno": "P02005", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01928; P02005", 
     "completeStatus": "INCOMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "image: 243 x 302 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opus 5", 
+  "height": "302", 
   "id": 4800, 
   "inscription": null, 
   "medium": "Wood engraving on paper", 
@@ -47,7 +47,41 @@
       "workCount": 148
     }
   ], 
-  "popularity": 42, 
   "subjectCount": 2, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02005_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02005", 
+  "width": "243"
 }

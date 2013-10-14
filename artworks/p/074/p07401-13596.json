@@ -1,6 +1,5 @@
 {
   "acno": "P07401", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07401-P07403", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,55 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "support: 705 x 905 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Two of a Kind, Three of a Kind", 
+  "height": "905", 
   "id": 13596, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on papers and 4 metal paperclips", 
   "movementCount": 0, 
-  "popularity": 34, 
   "subjectCount": 3, 
-  "title": "Triangles"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07401_8.jpg", 
+  "title": "Triangles", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/smith-triangles-p07401", 
+  "width": "705"
 }

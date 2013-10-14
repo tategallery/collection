@@ -1,6 +1,5 @@
 {
   "acno": "D26742", 
-  "addlImageCount": 0, 
   "catTextResId": 1136429, 
   "catalogueGroup": {
     "accessionRanges": "D26667-D26747", 
@@ -28,17 +27,71 @@
     "text": "1834"
   }, 
   "dateText": "1834", 
+  "depth": "", 
   "dimensions": "support: 143 x 119 mm", 
-  "displayLocation": null, 
   "finberg": "CCLXXII 40", 
   "foreignTitle": null, 
   "groupTitle": "Loch Ard Sketchbook [Finberg CCLXXII]", 
+  "height": "119", 
   "id": 54079, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 70, 
-  "popularity": 15, 
   "subjectCount": 3, 
-  "title": "Doune Castle from the North-West; The River Teith; and Part of a Building"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle", 
+                "workCount": 5507
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26742_8.jpg", 
+  "title": "Doune Castle from the North-West; The River Teith; and Part of a Building", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-doune-castle-from-the-north-west-the-river-teith-and-part-of-a-building-d26742", 
+  "width": "143"
 }

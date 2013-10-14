@@ -1,6 +1,5 @@
 {
   "acno": "P07273", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07267-P07278", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 1025 x 700 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Blackboard Suite", 
+  "height": "700", 
   "id": 15832, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 19, 
   "subjectCount": 3, 
-  "title": "VII"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1981, 
+                "name": "blackboard", 
+                "workCount": 18
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07273_8.jpg", 
+  "title": "VII", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/walker-vii-p07273", 
+  "width": "1025"
 }

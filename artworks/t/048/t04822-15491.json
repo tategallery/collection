@@ -1,6 +1,5 @@
 {
   "acno": "T04822", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T04822-T04837", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,88 @@
     "text": "1826"
   }, 
   "dateText": "1826", 
+  "depth": "", 
   "dimensions": "image: 160 x 110 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "The Ports of England", 
+  "height": "110", 
   "id": 15491, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 4, 
-  "title": "Naval Design on Wrapper"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2609, 
+                "name": "anchor", 
+                "workCount": 66
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3529, 
+                "name": "artillery", 
+                "workCount": 70
+              }
+            ], 
+            "id": 90, 
+            "name": "weapons", 
+            "workCount": 813
+          }, 
+          {
+            "children": [
+              {
+                "id": 10951, 
+                "name": "book, 'Ports of England'", 
+                "workCount": 1
+              }
+            ], 
+            "id": 174, 
+            "name": "reading, writing, printed matter", 
+            "workCount": 1854
+          }, 
+          {
+            "children": [
+              {
+                "id": 1229, 
+                "name": "flag - non-specific", 
+                "workCount": 162
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T04/T04822_8.jpg", 
+  "title": "Naval Design on Wrapper", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-naval-design-on-wrapper-t04822", 
+  "width": "160"
 }

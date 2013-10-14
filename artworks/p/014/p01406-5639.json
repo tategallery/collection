@@ -1,6 +1,5 @@
 {
   "acno": "P01406", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01406-P01408", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1974"
   }, 
   "dateText": "1974", 
+  "depth": "", 
   "dimensions": "image: 548 x 696 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Three Variations", 
+  "height": "696", 
   "id": 5639, 
   "inscription": "date inscribed", 
   "medium": "Intaglio print on paper", 
   "movementCount": 0, 
-  "popularity": 50, 
   "subjectCount": 1, 
-  "title": "Variation A"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01406_8.jpg", 
+  "title": "Variation A", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/green-variation-a-p01406", 
+  "width": "548"
 }

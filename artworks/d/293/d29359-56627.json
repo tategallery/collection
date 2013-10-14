@@ -1,6 +1,5 @@
 {
   "acno": "D29359", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D29213-D29237; D29239-D29264; D29266-D29273; D29275-D29377; D41206-D41208", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,102 @@
     "text": "1836"
   }, 
   "dateText": "1836", 
+  "depth": "", 
   "dimensions": "support: 104 x 148 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIV 80", 
   "foreignTitle": null, 
   "groupTitle": "Fort Bard Sketchbook [Finberg CCXCIV]", 
+  "height": "148", 
   "id": 56627, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 164, 
-  "popularity": 24, 
   "subjectCount": 5, 
-  "title": "Two Sketches: A View into a Mountain Valley ?Towards Susa; Lake on the Mont Cenis Pass"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps", 
+                "workCount": 748
+              }, 
+              {
+                "id": 9828, 
+                "name": "Mont Cenis", 
+                "workCount": 27
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29359_8.jpg", 
+  "title": "Two Sketches: A View into a Mountain Valley ?Towards Susa; Lake on the Mont Cenis Pass", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-two-sketches-a-view-into-a-mountain-valley-towards-susa-lake-on-the-mont-cenis-pass-d29359", 
+  "width": "104"
 }

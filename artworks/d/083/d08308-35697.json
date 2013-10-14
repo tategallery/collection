@@ -1,6 +1,5 @@
 {
   "acno": "D08308", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,66 @@
     "text": "c.1809-14"
   }, 
   "dateText": "c.1809-14", 
+  "depth": "", 
   "dimensions": "support: 69 x 112 mm", 
-  "displayLocation": null, 
   "finberg": "CXXII 16", 
   "foreignTitle": null, 
   "groupTitle": "Finance Sketchbook [Finberg CXXII]", 
+  "height": "112", 
   "id": 35697, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 33, 
-  "popularity": 3, 
   "subjectCount": 2, 
-  "title": "Landscape with Bridge"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge", 
+                "workCount": 3845
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts", 
+            "workCount": 3954
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific", 
+                "workCount": 552
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08308_8.jpg", 
+  "title": "Landscape with Bridge", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-landscape-with-bridge-d08308", 
+  "width": "69"
 }

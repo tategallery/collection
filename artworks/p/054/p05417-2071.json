@@ -1,6 +1,5 @@
 {
   "acno": "P05417", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1978"
   }, 
   "dateText": "1978", 
+  "depth": "", 
   "dimensions": "image: 448 x 483 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "483", 
   "id": 2071, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -41,7 +41,53 @@
       "workCount": 846
     }
   ], 
-  "popularity": 75, 
   "subjectCount": 3, 
-  "title": "Cigar"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 776, 
+                "name": "ashtray", 
+                "workCount": 17
+              }, 
+              {
+                "id": 13331, 
+                "name": "doily", 
+                "workCount": 2
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }, 
+          {
+            "children": [
+              {
+                "id": 1193, 
+                "name": "cigar", 
+                "workCount": 24
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05417_8.jpg", 
+  "title": "Cigar", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/caulfield-cigar-p05417", 
+  "width": "448"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P03080", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03075-P03081", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1917"
   }, 
   "dateText": "1917", 
+  "depth": "", 
   "dimensions": "image: 354 x 459 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Work on the Land", 
+  "height": "459", 
   "id": 12946, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
@@ -47,7 +47,112 @@
       "workCount": 141
     }
   ], 
-  "popularity": 34, 
   "subjectCount": 5, 
-  "title": "Timber Hauling"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3355, 
+                "name": "axe", 
+                "workCount": 29
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4279, 
+                "name": "forest", 
+                "workCount": 225
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7060, 
+                "name": "home front", 
+                "workCount": 23
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 686, 
+                "name": "woodman", 
+                "workCount": 25
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03080_8.jpg", 
+  "title": "Timber Hauling", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rothenstein-timber-hauling-p03080", 
+  "width": "354"
 }

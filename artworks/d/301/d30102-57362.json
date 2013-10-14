@@ -1,6 +1,5 @@
 {
   "acno": "D30102", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D30002-D30129; D41222", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,47 @@
     "text": "1840"
   }, 
   "dateText": "1840", 
+  "depth": "", 
   "dimensions": "support: 198 x 127 mm", 
-  "displayLocation": null, 
   "finberg": "CCXCIX 53", 
   "foreignTitle": null, 
   "groupTitle": "Trieste, Graz and Danube Sketchbook [Finberg CCXCIX]", 
+  "height": "127", 
   "id": 57362, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 107, 
-  "popularity": 3, 
   "subjectCount": 1, 
-  "title": "Three Sketches of Hills"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30102_8.jpg", 
+  "title": "Three Sketches of Hills", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-three-sketches-of-hills-d30102", 
+  "width": "198"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P03292", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03289-P03296", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,69 @@
     "text": "1977"
   }, 
   "dateText": "1977", 
+  "depth": "", 
   "dimensions": "image: 760 x 516 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Towards Sculpture, Eight Studies of the Nude", 
+  "height": "516", 
   "id": 16139, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 12, 
   "subjectCount": 3, 
-  "title": "4"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 726, 
+                "name": "crouching", 
+                "workCount": 210
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03292_8.jpg", 
+  "title": "4", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/whiteley-4-p03292", 
+  "width": "760"
 }

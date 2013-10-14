@@ -1,6 +1,5 @@
 {
   "acno": "T00771", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,81 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "", 
   "dimensions": "support: 950 x 750 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "750", 
   "id": 5337, 
   "inscription": null, 
   "medium": "Oil paint on board", 
   "movementCount": 0, 
-  "popularity": 85, 
   "subjectCount": 4, 
-  "title": "The Marble-Topped Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2079, 
+                "name": "candlestick", 
+                "workCount": 33
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting", 
+            "workCount": 570
+          }, 
+          {
+            "children": [
+              {
+                "id": 2606, 
+                "name": "jar", 
+                "workCount": 92
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 199, 
+                "name": "palette", 
+                "workCount": 55
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00771_8.jpg", 
+  "title": "The Marble-Topped Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gillies-the-marble-topped-table-t00771", 
+  "width": "950"
 }

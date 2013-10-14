@@ -1,6 +1,5 @@
 {
   "acno": "T00761", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,18 +20,117 @@
     "text": "1965"
   }, 
   "dateText": "1965", 
+  "depth": "29", 
   "dimensions": "support: 1524 x 2743 x 29 mm", 
-  "displayLocation": {
-    "name": "Barbican Art Gallery (London, UK)", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "2743", 
   "id": 3922, 
   "inscription": "date inscribed", 
   "medium": "Oil paint, charcoal and steel on canvas", 
   "movementCount": 0, 
-  "popularity": 366, 
   "subjectCount": 7, 
-  "title": "Walking Dream with Four Foot Clamp"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3151, 
+                "name": "clamp", 
+                "workCount": 5
+              }, 
+              {
+                "id": 3150, 
+                "name": "spanner", 
+                "workCount": 4
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 12406, 
+                "name": "fan", 
+                "workCount": 7
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances", 
+            "workCount": 186
+          }, 
+          {
+            "children": [
+              {
+                "id": 1029, 
+                "name": "shoe", 
+                "workCount": 97
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12873, 
+                "name": "dreaming", 
+                "workCount": 57
+              }
+            ], 
+            "id": 178, 
+            "name": "diseases and conditions", 
+            "workCount": 627
+          }, 
+          {
+            "children": [
+              {
+                "id": 1076, 
+                "name": "leg", 
+                "workCount": 78
+              }
+            ], 
+            "id": 93, 
+            "name": "body", 
+            "workCount": 2881
+          }, 
+          {
+            "children": [
+              {
+                "id": 271, 
+                "name": "walking", 
+                "workCount": 376
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00761_8.jpg", 
+  "title": "Walking Dream with Four Foot Clamp", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-walking-dream-with-four-foot-clamp-t00761", 
+  "width": "1524"
 }

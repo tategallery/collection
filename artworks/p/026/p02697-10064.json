@@ -1,6 +1,5 @@
 {
   "acno": "P02697", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02692-P02697", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1979"
   }, 
   "dateText": "1979", 
+  "depth": "", 
   "dimensions": "image: 222 x 168 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Trees", 
+  "height": "168", 
   "id": 10064, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 100, 
   "subjectCount": 2, 
-  "title": "Trees VI Dead Ash"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10039, 
+                "name": "ash", 
+                "workCount": 1
+              }, 
+              {
+                "id": 1832, 
+                "name": "branch", 
+                "workCount": 118
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02697_8.jpg", 
+  "title": "Trees VI Dead Ash", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-trees-vi-dead-ash-p02697", 
+  "width": "222"
 }

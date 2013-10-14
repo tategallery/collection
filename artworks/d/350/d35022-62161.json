@@ -1,6 +1,5 @@
 {
   "acno": "D35022", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35001-D35030; D40719", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,52 @@
     "text": "1844"
   }, 
   "dateText": "1844", 
+  "depth": "", 
   "dimensions": "support: 223 x 328 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLVI 20", 
   "foreignTitle": null, 
   "groupTitle": "Thun, Interlaken, Lauterbrunnen and Grindelwald Sketchbook [Finberg CCCXLVI]", 
+  "height": "328", 
   "id": 62161, 
   "inscription": null, 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 41, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "Among the Glaciers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 881, 
+                "name": "glacier", 
+                "workCount": 45
+              }, 
+              {
+                "id": 880, 
+                "name": "mountain", 
+                "workCount": 6140
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35022_8.jpg", 
+  "title": "Among the Glaciers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-among-the-glaciers-d35022", 
+  "width": "223"
 }

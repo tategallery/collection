@@ -1,6 +1,5 @@
 {
   "acno": "D03781", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03778-D03801; D40809-D40810", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,71 @@
     "text": "c.1799-1801"
   }, 
   "dateText": "c.1799-1801", 
+  "depth": "", 
   "dimensions": "support: 175 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "LXIV 4", 
   "foreignTitle": null, 
   "groupTitle": "On the Cliffs Sketchbook [Finberg LXIV]", 
+  "height": "110", 
   "id": 31177, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 9, 
-  "popularity": 7, 
   "subjectCount": 3, 
-  "title": "Study of Clouds over a Calm Sea"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 4574, 
+                "name": "sky", 
+                "workCount": 811
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03781_8.jpg", 
+  "title": "Study of Clouds over a Calm Sea", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-study-of-clouds-over-a-calm-sea-d03781", 
+  "width": "175"
 }

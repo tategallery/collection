@@ -1,6 +1,5 @@
 {
   "acno": "D18497", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D18479; D18481; D18483-D18524; D40743", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,59 @@
     "text": "c.1810"
   }, 
   "dateText": "c.1810", 
+  "depth": "", 
   "dimensions": "support: 115 x 187 mm", 
-  "displayLocation": null, 
   "finberg": "CCX a 16", 
   "foreignTitle": null, 
   "groupTitle": "Academy Auditing Sketchbook [Finberg CCX(a)]", 
+  "height": "187", 
   "id": 45850, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 37, 
-  "popularity": 25, 
   "subjectCount": 2, 
-  "title": "A Seated, Naked Woman with her Arm Raised towards Another Figure"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18497_8.jpg", 
+  "title": "A Seated, Naked Woman with her Arm Raised towards Another Figure", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-seated-naked-woman-with-her-arm-raised-towards-another-figure-d18497", 
+  "width": "115"
 }

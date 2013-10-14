@@ -1,6 +1,5 @@
 {
   "acno": "P77308", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P77305-P77317", 
     "completeStatus": "COMPLETE", 
@@ -36,15 +35,69 @@
     "text": "1957"
   }, 
   "dateText": "1957", 
+  "depth": "", 
   "dimensions": "image: 350 x 445 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Stones", 
+  "height": "445", 
   "id": 17362, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 23, 
   "subjectCount": 3, 
-  "title": "3"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P77/P77308_8.jpg", 
+  "title": "3", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/rivers-3-p77308", 
+  "width": "350"
 }

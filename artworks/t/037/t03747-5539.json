@@ -1,6 +1,5 @@
 {
   "acno": "T03747", 
-  "addlImageCount": 3, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,143 +20,112 @@
     "text": "1901"
   }, 
   "dateText": "1901", 
+  "depth": "120", 
   "dimensions": "object: 680 x 210 x 120 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "210", 
   "id": 5539, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "T03747_129717", 
-      "sizes": [
-        {
-          "caption": "Additional view 3", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129717_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 50
-        }, 
-        {
-          "caption": "Additional view 3", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129717_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 100
-        }, 
-        {
-          "caption": "Additional view 3", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129717_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 201
-        }, 
-        {
-          "caption": "Additional view 3", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129717_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 604
-        }
-      ]
-    }, 
-    {
-      "copyright": null, 
-      "filenameBase": "T03747_129719", 
-      "sizes": [
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129719_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 50
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129719_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 100
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129719_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 201
-        }, 
-        {
-          "caption": "Additional view 1", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129719_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 604
-        }
-      ]
-    }, 
-    {
-      "copyright": null, 
-      "filenameBase": "T03747_129721", 
-      "sizes": [
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129721_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 50
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129721_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 100
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129721_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 201
-        }, 
-        {
-          "caption": "Additional view 2", 
-          "cleared": false, 
-          "file": "T/T03/T03747_129721_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 604
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Bronze", 
   "movementCount": 0, 
-  "popularity": 18, 
   "subjectCount": 6, 
-  "title": "Pan"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3875, 
+                "name": "Pan", 
+                "workCount": 12
+              }
+            ], 
+            "id": 141, 
+            "name": "classical myths: gods and heroes", 
+            "workCount": 526
+          }
+        ], 
+        "id": 132, 
+        "name": "religion and belief", 
+        "workCount": 2374
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1050, 
+                "name": "arm/arms raised", 
+                "workCount": 667
+              }, 
+              {
+                "id": 270, 
+                "name": "standing", 
+                "workCount": 2262
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 249, 
+                "name": "boy", 
+                "workCount": 747
+              }
+            ], 
+            "id": 94, 
+            "name": "children", 
+            "workCount": 2432
+          }, 
+          {
+            "children": [
+              {
+                "id": 480, 
+                "name": "male", 
+                "workCount": 734
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7719, 
+                "name": "instrument, panpipes", 
+                "workCount": 9
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03747_8.jpg", 
+  "title": "Pan", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/john-pan-t03747", 
+  "width": "680"
 }

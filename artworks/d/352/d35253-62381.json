@@ -1,6 +1,5 @@
 {
   "acno": "D35253", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D35240-D35261; D40442", 
     "completeStatus": "COMPLETE", 
@@ -27,16 +26,103 @@
     "text": "c.1844-5"
   }, 
   "dateText": "c.1844-5", 
+  "depth": "", 
   "dimensions": "support: 221 x 329 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLIII 14", 
   "foreignTitle": null, 
   "groupTitle": "The Whalers Sketchbook [Finberg CCCLIII]", 
+  "height": "329", 
   "id": 62381, 
   "inscription": null, 
   "medium": "Chalk and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 51, 
   "subjectCount": 4, 
-  "title": "Whalers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1738, 
+                "name": "ship - non-specific", 
+                "workCount": 191
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6220, 
+                "name": "whaler", 
+                "workCount": 12
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing", 
+            "workCount": 999
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35253_8.jpg", 
+  "title": "Whalers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-whalers-d35253", 
+  "width": "221"
 }

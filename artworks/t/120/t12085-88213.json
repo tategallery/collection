@@ -1,6 +1,5 @@
 {
   "acno": "T12085", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1955-65"
   }, 
   "dateText": "1955-65", 
+  "depth": "150", 
   "dimensions": "object: 68 x 150 x 150 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "150", 
   "id": 88213, 
   "inscription": null, 
   "medium": "Reduced stoneware", 
@@ -41,7 +41,48 @@
       "workCount": 409
     }
   ], 
-  "popularity": 111, 
   "subjectCount": 2, 
-  "title": "Standard Ware"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 19662, 
+                "name": "bowl", 
+                "workCount": 125
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 10623, 
+                "name": "ceramics", 
+                "workCount": 73
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music", 
+            "workCount": 1753
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12085_8.jpg", 
+  "title": "Standard Ware", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/leach-standard-ware-t12085", 
+  "width": "68"
 }

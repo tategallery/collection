@@ -1,6 +1,5 @@
 {
   "acno": "N03433", 
-  "addlImageCount": 2, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,101 +20,119 @@
     "text": "1916"
   }, 
   "dateText": "1916", 
+  "depth": "", 
   "dimensions": "support: 305 x 236 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "236", 
   "id": 1266, 
-  "images": [
-    {
-      "copyright": "\u00a9 The estate of Sir Muirhead Bone", 
-      "filenameBase": "N03433_144854", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N03/N03433_144854_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 98
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N03/N03433_144854_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 196
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N03/N03433_144854_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 392
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N03/N03433_144854_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1177
-        }
-      ]
-    }, 
-    {
-      "copyright": "\u00a9 The estate of Sir Muirhead Bone", 
-      "filenameBase": "N03433_83663", 
-      "sizes": [
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "N/N03/N03433_83663_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 98
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "N/N03/N03433_83663_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 196
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "N/N03/N03433_83663_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 393
-        }, 
-        {
-          "caption": null, 
-          "cleared": true, 
-          "file": "N/N03/N03433_83663_10.jpg", 
-          "height": 1532, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1177
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Pastel on paper. Verso: pastel on paper", 
   "movementCount": 0, 
-  "popularity": 182, 
   "subjectCount": 6, 
-  "title": "A Church in the Citadel at Arras"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12668, 
+                "name": "Arras", 
+                "workCount": 1
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)", 
+            "workCount": 9203
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France", 
+                "workCount": 2429
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents", 
+            "workCount": 12032
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6140, 
+                "name": "Western Front", 
+                "workCount": 30
+              }
+            ], 
+            "id": 36, 
+            "name": "military: World War I", 
+            "workCount": 156
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1164, 
+                "name": "bomb damage", 
+                "workCount": 33
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins", 
+            "workCount": 3193
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church", 
+                "workCount": 2281
+              }
+            ], 
+            "id": 25, 
+            "name": "religious", 
+            "workCount": 4159
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03433_8.jpg", 
+  "title": "A Church in the Citadel at Arras", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/bone-a-church-in-the-citadel-at-arras-n03433", 
+  "width": "305"
 }

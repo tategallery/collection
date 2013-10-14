@@ -1,6 +1,5 @@
 {
   "acno": "T00509", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,64 @@
     "text": "1962"
   }, 
   "dateText": "1962", 
+  "depth": "53", 
   "dimensions": "support: 1806 x 1220 x 53 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "1220", 
   "id": 12133, 
   "inscription": null, 
   "medium": "Acrylic paint, PVC, vinyl and tape on canvas", 
   "movementCount": 0, 
-  "popularity": 63, 
   "subjectCount": 2, 
-  "title": "Edgehill"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15666, 
+                "name": "Edgehill, Battle, 23 Oct, 1643", 
+                "workCount": 1
+              }
+            ], 
+            "id": 35, 
+            "name": "military", 
+            "workCount": 202
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00509_8.jpg", 
+  "title": "Edgehill", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/plumb-edgehill-t00509", 
+  "width": "1806"
 }

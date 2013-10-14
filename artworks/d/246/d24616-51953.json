@@ -1,6 +1,5 @@
 {
   "acno": "D24616", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "c.1830"
   }, 
   "dateText": "c.1830", 
+  "depth": "", 
   "dimensions": "support: 143 x 194 mm", 
-  "displayLocation": null, 
   "finberg": "CCLIX 51", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "194", 
   "id": 51953, 
   "inscription": null, 
   "medium": "Gouache and watercolour on paper", 
   "movementCount": 0, 
-  "popularity": 25, 
   "subjectCount": 3, 
-  "title": "A Storm"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud", 
+                "workCount": 1819
+              }, 
+              {
+                "id": 614, 
+                "name": "storm", 
+                "workCount": 752
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 625, 
+                "name": "landscape - non-specific", 
+                "workCount": 552
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D24/D24616_8.jpg", 
+  "title": "A Storm", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-storm-d24616", 
+  "width": "143"
 }

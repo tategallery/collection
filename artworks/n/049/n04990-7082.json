@@ -1,6 +1,5 @@
 {
   "acno": "N04990", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,59 +20,93 @@
     "text": "c.1937-8"
   }, 
   "dateText": "c.1937-8", 
+  "depth": "", 
   "dimensions": "support: 556 x 381 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "381", 
   "id": 7082, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "N04990_84225", 
-      "sizes": [
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N04/N04990_84225_7.jpg", 
-          "height": 128, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 87
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N04/N04990_84225_8.jpg", 
-          "height": 256, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 174
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N04/N04990_84225_9.jpg", 
-          "height": 512, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 349
-        }, 
-        {
-          "caption": "Verso", 
-          "cleared": true, 
-          "file": "N/N04/N04990_84225_10.jpg", 
-          "height": 1536, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1047
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Tempera on paper", 
   "movementCount": 0, 
-  "popularity": 143, 
   "subjectCount": 5, 
-  "title": "A Model Seated on a Bed. Verso: Nude Figures in a Room"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 736, 
+                "name": "bed", 
+                "workCount": 205
+              }, 
+              {
+                "id": 841, 
+                "name": "curtain", 
+                "workCount": 201
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 519, 
+                "name": "female", 
+                "workCount": 1337
+              }
+            ], 
+            "id": 98, 
+            "name": "nudes", 
+            "workCount": 2019
+          }, 
+          {
+            "children": [
+              {
+                "id": 694, 
+                "name": "sitting", 
+                "workCount": 2374
+              }
+            ], 
+            "id": 92, 
+            "name": "actions: postures and motions", 
+            "workCount": 6763
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04990_8.jpg", 
+  "title": "A Model Seated on a Bed. Verso: Nude Figures in a Room", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/jacovleff-a-model-seated-on-a-bed-verso-nude-figures-in-a-room-n04990", 
+  "width": "556"
 }

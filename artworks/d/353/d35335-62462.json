@@ -1,6 +1,5 @@
 {
   "acno": "D35335", 
-  "addlImageCount": 0, 
   "catTextResId": 1142166, 
   "catalogueGroup": {
     "accessionRanges": "D35335-D35360", 
@@ -28,17 +27,100 @@
     "text": "1845"
   }, 
   "dateText": "1845", 
+  "depth": "", 
   "dimensions": "support: 170 x 70 mm", 
-  "displayLocation": null, 
   "finberg": "CCCLV 1", 
   "foreignTitle": null, 
   "groupTitle": "Hythe and Walmer Sketchbook [Finberg CCCLV]", 
+  "height": "70", 
   "id": 62462, 
   "inscription": null, 
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 4, 
-  "popularity": 39, 
   "subjectCount": 6, 
-  "title": "Boats and Ships, with a Windmill on Shore"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1266, 
+                "name": "boat, rowing", 
+                "workCount": 698
+              }, 
+              {
+                "id": 1865, 
+                "name": "boat, sailing", 
+                "workCount": 3602
+              }, 
+              {
+                "id": 2355, 
+                "name": "ship, sailing", 
+                "workCount": 1351
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2030, 
+                "name": "windmill", 
+                "workCount": 306
+              }
+            ], 
+            "id": 19, 
+            "name": "industrial", 
+            "workCount": 1038
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35335_8.jpg", 
+  "title": "Boats and Ships, with a Windmill on Shore", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-boats-and-ships-with-a-windmill-on-shore-d35335", 
+  "width": "170"
 }

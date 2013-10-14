@@ -1,6 +1,5 @@
 {
   "acno": "P07503", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07501-P07506", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1975-9"
   }, 
   "dateText": "1975-9", 
+  "depth": "", 
   "dimensions": "image: 400 x 282 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Blossoms and Flowers", 
+  "height": "282", 
   "id": 9068, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 41, 
   "subjectCount": 1, 
-  "title": "Rhododendrons"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 12459, 
+                "name": "rhododendron", 
+                "workCount": 2
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07503_8.jpg", 
+  "title": "Rhododendrons", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-rhododendrons-p07503", 
+  "width": "400"
 }

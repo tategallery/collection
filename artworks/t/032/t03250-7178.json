@@ -1,6 +1,5 @@
 {
   "acno": "T03250", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1620"
   }, 
   "dateText": "1620", 
+  "depth": "", 
   "dimensions": "support: 679 x 518 mm\r\nframe: 850 x 686 x 75 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "518", 
   "id": 7178, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on oak", 
@@ -41,7 +41,125 @@
       "workCount": 28
     }
   ], 
-  "popularity": 347, 
   "subjectCount": 9, 
-  "title": "Portrait of Susanna Temple, Later Lady Lister"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15457, 
+                "name": "Lister, Susanna, Lady", 
+                "workCount": 1
+              }, 
+              {
+                "id": 4210, 
+                "name": "Temple, Susanna", 
+                "workCount": 1
+              }, 
+              {
+                "id": 15456, 
+                "name": "Thornhurst, Susanna, Lady", 
+                "workCount": 1
+              }
+            ], 
+            "id": 102, 
+            "name": "portraits: female", 
+            "workCount": 944
+          }, 
+          {
+            "children": [
+              {
+                "id": 167, 
+                "name": "woman", 
+                "workCount": 7621
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4702, 
+                "name": "aristocrat", 
+                "workCount": 115
+              }
+            ], 
+            "id": 869, 
+            "name": "royalty and social rank", 
+            "workCount": 341
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5689, 
+                "name": "cartouche", 
+                "workCount": 20
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1380, 
+                "name": "earring", 
+                "workCount": 31
+              }, 
+              {
+                "id": 1901, 
+                "name": "headdress", 
+                "workCount": 119
+              }, 
+              {
+                "id": 1890, 
+                "name": "ruff", 
+                "workCount": 14
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03250_8.jpg", 
+  "title": "Portrait of Susanna Temple, Later Lady Lister", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/johnson-portrait-of-susanna-temple-later-lady-lister-t03250", 
+  "width": "679"
 }

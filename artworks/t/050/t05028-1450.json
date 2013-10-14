@@ -1,6 +1,5 @@
 {
   "acno": "T05028", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "1909-10"
   }, 
   "dateText": "1909-10", 
+  "depth": "", 
   "dimensions": "support: 331 x 372 mm\r\nframe: 582 x 620 x 73 mm", 
-  "displayLocation": {
-    "name": "Tate Liverpool", 
-    "url": null
-  }, 
   "foreignTitle": "Le Verre sur la table", 
   "groupTitle": null, 
+  "height": "372", 
   "id": 1450, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
@@ -44,7 +41,96 @@
       "workCount": 44
     }
   ], 
-  "popularity": 1878, 
   "subjectCount": 6, 
-  "title": "Glass on a Table"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box", 
+                "workCount": 134
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }, 
+          {
+            "children": [
+              {
+                "id": 2009, 
+                "name": "fruit, pear", 
+                "workCount": 23
+              }
+            ], 
+            "id": 286, 
+            "name": "food and drink", 
+            "workCount": 539
+          }, 
+          {
+            "children": [
+              {
+                "id": 19665, 
+                "name": "glass", 
+                "workCount": 95
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 826, 
+                "name": "table", 
+                "workCount": 501
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings", 
+            "workCount": 1928
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }, 
+              {
+                "id": 224, 
+                "name": "organic", 
+                "workCount": 350
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05028_8.jpg", 
+  "title": "Glass on a Table", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/braque-glass-on-a-table-t05028", 
+  "width": "331"
 }

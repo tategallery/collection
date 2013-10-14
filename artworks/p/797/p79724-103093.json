@@ -1,6 +1,5 @@
 {
   "acno": "P79724", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P79720-P79727", 
     "completeStatus": "IRRELEVANT", 
@@ -27,15 +26,69 @@
     "text": "2006"
   }, 
   "dateText": "2006", 
+  "depth": "", 
   "dimensions": "image: 555 x 405 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Here's Flowers", 
+  "height": "405", 
   "id": 103093, 
   "inscription": null, 
   "medium": "Linocut print on paper", 
   "movementCount": 0, 
-  "popularity": 216, 
   "subjectCount": 3, 
-  "title": "Untitled 04"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }, 
+              {
+                "id": 448, 
+                "name": "leaf", 
+                "workCount": 84
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79724_8.jpg", 
+  "title": "Untitled 04", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/hume-untitled-04-p79724", 
+  "width": "555"
 }

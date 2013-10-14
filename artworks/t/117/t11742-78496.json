@@ -1,6 +1,5 @@
 {
   "acno": "T11742", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -18,10 +17,11 @@
   "creditLine": "Bequeathed by David Brown in memory of Mrs Liza Brown 2003", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "displayed: 340 x 300 x 60 mm, 1.4 kg", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "", 
   "id": 78496, 
   "inscription": null, 
   "medium": "Wood on wooden base", 
@@ -38,7 +38,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 94, 
   "subjectCount": 3, 
-  "title": "KY"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4408, 
+                "name": "letter of alphabet", 
+                "workCount": 82
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11742_8.jpg", 
+  "title": "KY", 
+  "units": "", 
+  "url": "http://www.tate.org.uk/art/artworks/hamilton-finlay-ky-t11742", 
+  "width": ""
 }

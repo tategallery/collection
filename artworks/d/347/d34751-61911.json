@@ -1,6 +1,5 @@
 {
   "acno": "D34751", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,16 +20,63 @@
     "text": "c.1830-41"
   }, 
   "dateText": "c.1830-41", 
+  "depth": "", 
   "dimensions": "support: 145 x 134 mm", 
-  "displayLocation": null, 
   "finberg": "CCCXLIV 302", 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "134", 
   "id": 61911, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "popularity": 13, 
   "subjectCount": 3, 
-  "title": "Wall, with Towers"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 8952, 
+                "name": "fortification", 
+                "workCount": 656
+              }
+            ], 
+            "id": 20, 
+            "name": "military", 
+            "workCount": 6180
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower", 
+                "workCount": 2905
+              }, 
+              {
+                "id": 700, 
+                "name": "wall", 
+                "workCount": 60
+              }
+            ], 
+            "id": 17, 
+            "name": "features", 
+            "workCount": 7253
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34751_8.jpg", 
+  "title": "Wall, with Towers", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-wall-with-towers-d34751", 
+  "width": "145"
 }

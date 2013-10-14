@@ -1,6 +1,5 @@
 {
   "acno": "N02414", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1889"
   }, 
   "dateText": "1889", 
+  "depth": "", 
   "dimensions": "support: 179 x 256 mm\r\nmount: 279 x 405 x 5 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "256", 
   "id": 1588, 
   "inscription": "date inscribed", 
   "medium": "Graphite on paper", 
@@ -41,7 +41,74 @@
       "workCount": 405
     }
   ], 
-  "popularity": 32, 
   "subjectCount": 3, 
-  "title": "Study for 'John Kay'"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9864, 
+                "name": "economics: Industrial Revolution, 18th c.", 
+                "workCount": 7
+              }
+            ], 
+            "id": 38, 
+            "name": "politics and society", 
+            "workCount": 865
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9967, 
+                "name": "loom", 
+                "workCount": 2
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N02/N02414_8.jpg", 
+  "title": "Study for 'John Kay'", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/brown-study-for-john-kay-n02414", 
+  "width": "179"
 }

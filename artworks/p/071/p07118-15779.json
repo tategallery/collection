@@ -1,6 +1,5 @@
 {
   "acno": "P07118", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,13 +20,11 @@
     "text": "c.1918"
   }, 
   "dateText": "c.1918", 
+  "depth": "", 
   "dimensions": "image: 175 x 127 mm", 
-  "displayLocation": {
-    "name": "Cooper Gallery (Barnsley, UK)", 
-    "url": "http://www.barnsley.gov.uk/tourism/coopergallery/index.asp"
-  }, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "127", 
   "id": 15779, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
@@ -44,7 +41,67 @@
       "workCount": 39
     }
   ], 
-  "popularity": 266, 
   "subjectCount": 3, 
-  "title": "View of a Town"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }, 
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape", 
+                "workCount": 955
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape", 
+                "workCount": 3102
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07118_8.jpg", 
+  "title": "View of a Town", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/wadsworth-view-of-a-town-p07118", 
+  "width": "175"
 }

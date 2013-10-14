@@ -1,6 +1,5 @@
 {
   "acno": "P11548", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11544-P11553", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1997"
   }, 
   "dateText": "1997", 
+  "depth": "", 
   "dimensions": "image: 300 x 203 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Grasshopper", 
+  "height": "203", 
   "id": 26413, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 405, 
   "subjectCount": 3, 
-  "title": "Figure in a Mountain Landscape"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure", 
+                "workCount": 6496
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow", 
+                "workCount": 131
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 942, 
+                "name": "valley", 
+                "workCount": 1882
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11548_8.jpg", 
+  "title": "Figure in a Mountain Landscape", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-figure-in-a-mountain-landscape-p11548", 
+  "width": "300"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N04936", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,74 @@
     "text": "1938"
   }, 
   "dateText": "1938", 
+  "depth": "", 
   "dimensions": "support: 438 x 571 mm\r\nframe: 610 x 740 x 95 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "571", 
   "id": 10720, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
   "movementCount": 0, 
-  "popularity": 273, 
   "subjectCount": 4, 
-  "title": "Silver"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4217, 
+                "name": "cutlery", 
+                "workCount": 43
+              }, 
+              {
+                "id": 4672, 
+                "name": "tea pot", 
+                "workCount": 22
+              }
+            ], 
+            "id": 84, 
+            "name": "kitchen", 
+            "workCount": 533
+          }, 
+          {
+            "children": [
+              {
+                "id": 2778, 
+                "name": "paper", 
+                "workCount": 10
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 4673, 
+                "name": "tray", 
+                "workCount": 8
+              }
+            ], 
+            "id": 83, 
+            "name": "domestic", 
+            "workCount": 214
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04936_8.jpg", 
+  "title": "Silver", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/nicholson-silver-n04936", 
+  "width": "438"
 }

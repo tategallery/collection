@@ -1,6 +1,5 @@
 {
   "acno": "P04212", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04210-P04214", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 781 x 606 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Night Suite", 
+  "height": "606", 
   "id": 3776, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 8, 
   "subjectCount": 2, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04212_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/denny-title-not-known-p04212", 
+  "width": "781"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "D03778", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D03778-D03801; D40809-D40810", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,100 @@
     "text": "c.1799-1801"
   }, 
   "dateText": "c.1799-1801", 
+  "depth": "", 
   "dimensions": "support: 175 x 110 mm", 
-  "displayLocation": null, 
   "finberg": "LXIV 1", 
   "foreignTitle": null, 
   "groupTitle": "On the Cliffs Sketchbook [Finberg LXIV]", 
+  "height": "110", 
   "id": 31174, 
   "inscription": null, 
   "medium": null, 
   "movementCount": 0, 
   "pageNumber": 3, 
-  "popularity": 11, 
   "subjectCount": 6, 
-  "title": "A Group of Horses and ?a Haycart on a Hillside, with an Extensive Plain (?or the Sea) in the Distance"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart", 
+                "workCount": 750
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land", 
+            "workCount": 2037
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast", 
+                "workCount": 3627
+              }, 
+              {
+                "id": 557, 
+                "name": "sea", 
+                "workCount": 3099
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts", 
+            "workCount": 6838
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill", 
+                "workCount": 10038
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 602, 
+                "name": "horse", 
+                "workCount": 1492
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03778_8.jpg", 
+  "title": "A Group of Horses and ?a Haycart on a Hillside, with an Extensive Plain (?or the Sea) in the Distance", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-group-of-horses-and-a-haycart-on-a-hillside-with-an-extensive-plain-or-the-sea-in-the-distance-d03778", 
+  "width": "175"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P13006", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1933"
   }, 
   "dateText": "1933", 
+  "depth": "", 
   "dimensions": "image: 221 x 262 mm\r\nsupport: 323 x 502 mm", 
-  "displayLocation": null, 
   "foreignTitle": "Nach Hause", 
   "groupTitle": null, 
+  "height": "262", 
   "id": 87333, 
   "inscription": null, 
   "medium": "Woodcut on paper", 
@@ -41,7 +41,41 @@
       "workCount": 15
     }
   ], 
-  "popularity": 117, 
   "subjectCount": 2, 
-  "title": "Homeward"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P13/P13006_8.jpg", 
+  "title": "Homeward", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/albers-homeward-p13006", 
+  "width": "221"
 }

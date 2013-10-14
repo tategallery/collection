@@ -1,6 +1,5 @@
 {
   "acno": "D01182", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
@@ -27,17 +26,107 @@
     "text": "1796-7"
   }, 
   "dateText": "1796-7", 
+  "depth": "", 
   "dimensions": "support: 113 x 93 mm", 
-  "displayLocation": null, 
   "finberg": "XXXVII 65", 
   "foreignTitle": null, 
   "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "height": "93", 
   "id": 28591, 
   "inscription": null, 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "pageNumber": 65, 
-  "popularity": 248, 
   "subjectCount": 6, 
-  "title": "Snowy Landscape (?at Lewisham)"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 15387, 
+                "name": "Lewisham - non-specific", 
+                "workCount": 5
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 218, 
+                "name": "snow", 
+                "workCount": 131
+              }
+            ], 
+            "id": 77, 
+            "name": "weather", 
+            "workCount": 3203
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter", 
+                "workCount": 109
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01182_8.jpg", 
+  "title": "Snowy Landscape (?at Lewisham)", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-snowy-landscape-at-lewisham-d01182", 
+  "width": "113"
 }

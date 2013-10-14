@@ -1,6 +1,5 @@
 {
   "acno": "D06770", 
-  "addlImageCount": 0, 
   "catTextResId": 1130863, 
   "catalogueGroup": {
     "accessionRanges": "D06721-D06829; D40666-D40668", 
@@ -28,17 +27,47 @@
     "text": "c.1808"
   }, 
   "dateText": "c.1808", 
+  "depth": "", 
   "dimensions": "support: 76 x 115 mm", 
-  "displayLocation": null, 
   "finberg": "CII 26", 
   "foreignTitle": null, 
   "groupTitle": "Greenwich Sketchbook [Finberg CII]", 
+  "height": "115", 
   "id": 34160, 
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 53, 
-  "popularity": 22, 
   "subjectCount": 1, 
-  "title": "Dock Leaves"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 819, 
+                "name": "dock", 
+                "workCount": 30
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06770_8.jpg", 
+  "title": "Dock Leaves", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-dock-leaves-d06770", 
+  "width": "76"
 }

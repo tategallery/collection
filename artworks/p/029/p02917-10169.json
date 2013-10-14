@@ -1,6 +1,5 @@
 {
   "acno": "P02917", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02912-P02926", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1981"
   }, 
   "dateText": "1981", 
+  "depth": "", 
   "dimensions": "image: 211 x 277 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Animals in the Zoo", 
+  "height": "277", 
   "id": 10169, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 54, 
   "subjectCount": 1, 
-  "title": "Vultures"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4636, 
+                "name": "vulture", 
+                "workCount": 14
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds", 
+            "workCount": 1010
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02917_8.jpg", 
+  "title": "Vultures", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/moore-vultures-p02917", 
+  "width": "211"
 }

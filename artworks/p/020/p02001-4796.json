@@ -1,6 +1,5 @@
 {
   "acno": "P02001", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P02001", 
     "completeStatus": "INCOMPLETE", 
@@ -27,15 +26,45 @@
     "text": "1950"
   }, 
   "dateText": "1950", 
+  "depth": "", 
   "dimensions": "image: 160 x 145 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Opus 1", 
+  "height": "145", 
   "id": 4796, 
   "inscription": null, 
   "medium": "Relief print on paper", 
   "movementCount": 0, 
-  "popularity": 25, 
   "subjectCount": 1, 
-  "title": "[no title]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P02/P02001_8.jpg", 
+  "title": "[no title]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/gabo-no-title-p02001", 
+  "width": "160"
 }

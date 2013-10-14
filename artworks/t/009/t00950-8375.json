@@ -1,6 +1,5 @@
 {
   "acno": "T00950", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1950-1"
   }, 
   "dateText": "1950-1", 
+  "depth": "419", 
   "dimensions": "object: 629 x 359 x 419 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "359", 
   "id": 8375, 
   "inscription": null, 
   "medium": "Steel on wooden base", 
@@ -41,7 +41,55 @@
       "workCount": 409
     }
   ], 
-  "popularity": 137, 
   "subjectCount": 2, 
-  "title": "Porthleven Boats"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 678, 
+                "name": "boat - non-specific", 
+                "workCount": 2015
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water", 
+            "workCount": 7827
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made", 
+                "workCount": 720
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources", 
+            "workCount": 3325
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T00/T00950_8.jpg", 
+  "title": "Porthleven Boats", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/lanyon-porthleven-boats-t00950", 
+  "width": "629"
 }

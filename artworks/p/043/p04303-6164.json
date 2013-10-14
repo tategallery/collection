@@ -1,6 +1,5 @@
 {
   "acno": "P04303", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04290-P04307", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1973"
   }, 
   "dateText": "1973", 
+  "depth": "", 
   "dimensions": "image: 586 x 813 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "January 1973", 
+  "height": "813", 
   "id": 6164, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,41 @@
       "workCount": 409
     }
   ], 
-  "popularity": 60, 
   "subjectCount": 2, 
-  "title": "January 1973 : 15"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04303_8.jpg", 
+  "title": "January 1973 : 15", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/heron-january-1973-15-p04303", 
+  "width": "586"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "P03025", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P03024-P03029", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 720 x 902 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "6 Untitled Lithographs", 
+  "height": "902", 
   "id": 2349, 
   "inscription": "date inscribed", 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 16, 
   "subjectCount": 2, 
-  "title": "No. 2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P03/P03025_8.jpg", 
+  "title": "No. 2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cohen-no-2-p03025", 
+  "width": "720"
 }

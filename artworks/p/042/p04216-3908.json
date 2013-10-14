@@ -1,6 +1,5 @@
 {
   "acno": "P04216", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04216-P04225", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 605 x 475 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tool Box", 
+  "height": "475", 
   "id": 3908, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,113 @@
       "workCount": 248
     }
   ], 
-  "popularity": 367, 
   "subjectCount": 8, 
-  "title": "Tool Box 1"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3631, 
+                "name": "chain", 
+                "workCount": 36
+              }, 
+              {
+                "id": 19562, 
+                "name": "handle", 
+                "workCount": 2
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 4576, 
+                "name": "pipework", 
+                "workCount": 7
+              }, 
+              {
+                "id": 257, 
+                "name": "saw", 
+                "workCount": 30
+              }, 
+              {
+                "id": 6705, 
+                "name": "wrench", 
+                "workCount": 4
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }, 
+          {
+            "children": [
+              {
+                "id": 9109, 
+                "name": "scales", 
+                "workCount": 27
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring", 
+            "workCount": 406
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18076, 
+                "name": "photographic negative", 
+                "workCount": 11
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04216_8.jpg", 
+  "title": "Tool Box 1", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-tool-box-1-p04216", 
+  "width": "605"
 }

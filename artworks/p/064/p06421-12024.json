@@ -1,6 +1,5 @@
 {
   "acno": "P06421", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P06421-P06422", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,76 @@
     "text": "1961"
   }, 
   "dateText": "1961", 
+  "depth": "", 
   "dimensions": "image: 429 x 584 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Westminster School", 
+  "height": "584", 
   "id": 12024, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 291, 
   "subjectCount": 3, 
-  "title": "[title not known]"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England", 
+                "workCount": 8178
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions", 
+            "workCount": 10974
+          }, 
+          {
+            "children": [
+              {
+                "id": 10180, 
+                "name": "Westminster, Westminster School", 
+                "workCount": 2
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London", 
+            "workCount": 1178
+          }
+        ], 
+        "id": 106, 
+        "name": "places", 
+        "workCount": 23426
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4604, 
+                "name": "school", 
+                "workCount": 56
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal", 
+            "workCount": 1027
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P06/P06421_8.jpg", 
+  "title": "[title not known]", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/piper-title-not-known-p06421", 
+  "width": "429"
 }

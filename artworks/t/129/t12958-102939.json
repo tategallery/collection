@@ -1,6 +1,5 @@
 {
   "acno": "T12958", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -21,15 +20,88 @@
     "text": "1978-80"
   }, 
   "dateText": "1978-80", 
+  "depth": "", 
   "dimensions": "Overall display dimensions variable", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "dimensions", 
   "id": 102939, 
   "inscription": null, 
   "medium": "Burlap, cotton gauze, hemp rope, nylon and sisal", 
   "movementCount": 0, 
-  "popularity": 295, 
   "subjectCount": 4, 
-  "title": "Embryology"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18162, 
+                "name": "embryology", 
+                "workCount": 1
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning", 
+            "workCount": 466
+          }
+        ], 
+        "id": 145, 
+        "name": "society", 
+        "workCount": 14244
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15901, 
+                "name": "fragility", 
+                "workCount": 20
+              }, 
+              {
+                "id": 8577, 
+                "name": "texture", 
+                "workCount": 298
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms", 
+                "workCount": 1846
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12958_8.jpg", 
+  "title": "Embryology", 
+  "units": "variable", 
+  "url": "http://www.tate.org.uk/art/artworks/abakanowicz-embryology-t12958", 
+  "width": "display"
 }

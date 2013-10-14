@@ -1,6 +1,5 @@
 {
   "acno": "T07158", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,15 +20,45 @@
     "text": "1986"
   }, 
   "dateText": "1986", 
+  "depth": "", 
   "dimensions": "displayed: 1982 x 3350 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "3350", 
   "id": 21780, 
   "inscription": null, 
   "medium": "Oil paint, household paint, silver and gold metallic paints on 4 plywood doors", 
   "movementCount": 0, 
-  "popularity": 69, 
   "subjectCount": 1, 
-  "title": "Gloucester"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07158_8.jpg", 
+  "title": "Gloucester", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/buckley-gloucester-t07158", 
+  "width": "1982"
 }

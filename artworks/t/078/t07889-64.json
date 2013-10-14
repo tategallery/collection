@@ -1,6 +1,5 @@
 {
   "acno": "T07889", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T07887-T07890", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,105 @@
     "text": "1993-5"
   }, 
   "dateText": "1993-5", 
+  "depth": "35", 
   "dimensions": "support: 3136 x 2150 x 35 mm\r\nframe: 3230 x 2254 x 67 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Quattro Stagioni (A Painting in Four Parts)", 
+  "height": "2150", 
   "id": 64, 
   "inscription": null, 
   "medium": "Acrylic paint, oil paint, crayon and graphite on canvas", 
   "movementCount": 0, 
-  "popularity": 1643, 
   "subjectCount": 6, 
-  "title": "Quattro Stagioni: Autunno"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2063, 
+                "name": "artist's notes", 
+                "workCount": 1535
+              }, 
+              {
+                "id": 1986, 
+                "name": "title of work", 
+                "workCount": 255
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 543, 
+                "name": "autumn", 
+                "workCount": 73
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }, 
+          {
+            "children": [
+              {
+                "id": 1832, 
+                "name": "branch", 
+                "workCount": 118
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees", 
+            "workCount": 2310
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 227, 
+                "name": "gestural", 
+                "workCount": 813
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07889_8.jpg", 
+  "title": "Quattro Stagioni: Autunno", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/twombly-quattro-stagioni-autunno-t07889", 
+  "width": "3136"
 }

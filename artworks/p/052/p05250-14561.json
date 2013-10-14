@@ -1,6 +1,5 @@
 {
   "acno": "P05250", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P05249-P05257", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1971"
   }, 
   "dateText": "1971", 
+  "depth": "", 
   "dimensions": "image: 593 x 799 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Fugue", 
+  "height": "799", 
   "id": 14561, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 22, 
   "subjectCount": 2, 
-  "title": "2"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P05/P05250_8.jpg", 
+  "title": "2", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turnbull-2-p05250", 
+  "width": "593"
 }

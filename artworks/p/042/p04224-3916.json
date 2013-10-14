@@ -1,6 +1,5 @@
 {
   "acno": "P04224", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04216-P04225", 
     "completeStatus": "COMPLETE", 
@@ -27,10 +26,11 @@
     "text": "1966"
   }, 
   "dateText": "1966", 
+  "depth": "", 
   "dimensions": "image: 601 x 475 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Tool Box", 
+  "height": "475", 
   "id": 3916, 
   "inscription": null, 
   "medium": "Screenprint on paper", 
@@ -47,7 +47,67 @@
       "workCount": 248
     }
   ], 
-  "popularity": 316, 
   "subjectCount": 3, 
-  "title": "Tool Box 9"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4046, 
+                "name": "cable", 
+                "workCount": 4
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous", 
+            "workCount": 1239
+          }, 
+          {
+            "children": [
+              {
+                "id": 3151, 
+                "name": "clamp", 
+                "workCount": 5
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery", 
+            "workCount": 590
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic", 
+                "workCount": 2833
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities", 
+            "workCount": 5712
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas", 
+        "workCount": 7969
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04224_8.jpg", 
+  "title": "Tool Box 9", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dine-tool-box-9-p04224", 
+  "width": "601"
 }

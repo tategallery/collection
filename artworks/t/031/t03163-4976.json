@@ -1,6 +1,5 @@
 {
   "acno": "T03163", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "c.1886"
   }, 
   "dateText": "c.1886", 
+  "depth": "", 
   "dimensions": "support: 203 x 270 mm\r\nframe: 448 x 390 x 42 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "270", 
   "id": 4976, 
   "inscription": null, 
   "medium": "Oil paint on wood", 
@@ -41,7 +41,84 @@
       "workCount": 14
     }
   ], 
-  "popularity": 227, 
   "subjectCount": 5, 
-  "title": "Haycocks and Sun"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 506, 
+                "name": "field", 
+                "workCount": 359
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }, 
+          {
+            "children": [
+              {
+                "id": 806, 
+                "name": "summer", 
+                "workCount": 100
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons", 
+            "workCount": 319
+          }, 
+          {
+            "children": [
+              {
+                "id": 1535, 
+                "name": "sunset", 
+                "workCount": 528
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day", 
+            "workCount": 1555
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2838, 
+                "name": "haystack", 
+                "workCount": 53
+              }
+            ], 
+            "id": 79, 
+            "name": "agriculture, gardening & fishing", 
+            "workCount": 821
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03163_8.jpg", 
+  "title": "Haycocks and Sun", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/garstin-haycocks-and-sun-t03163", 
+  "width": "203"
 }

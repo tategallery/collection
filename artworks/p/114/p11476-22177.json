@@ -1,6 +1,5 @@
 {
   "acno": "P11476", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P11471-P11480", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1996"
   }, 
   "dateText": "1996", 
+  "depth": "", 
   "dimensions": "image: 173 x 273 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Ten Etchings", 
+  "height": "273", 
   "id": 22177, 
   "inscription": null, 
   "medium": "Etching and aquatint on paper", 
   "movementCount": 0, 
-  "popularity": 490, 
   "subjectCount": 2, 
-  "title": "Border House"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 805, 
+                "name": "building - non-specific", 
+                "workCount": 2707
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features", 
+            "workCount": 18965
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture", 
+        "workCount": 30433
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded", 
+                "workCount": 8571
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape", 
+            "workCount": 24055
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11476_8.jpg", 
+  "title": "Border House", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/doig-border-house-p11476", 
+  "width": "173"
 }

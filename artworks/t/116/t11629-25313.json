@@ -1,6 +1,5 @@
 {
   "acno": "T11629", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "T11615-T11631", 
     "completeStatus": "IRRELEVANT", 
@@ -24,15 +23,45 @@
   "creditLine": "Purchased as part of the Opp\u00e9 Collection with assistance from the National Lottery through the Heritage Lottery Fund 1996", 
   "dateRange": null, 
   "dateText": null, 
+  "depth": "", 
   "dimensions": "image: 149 x 198 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Album of Etchings by Lord Aylesford and Others", 
+  "height": "198", 
   "id": 25313, 
   "inscription": null, 
   "medium": "Etching on paper", 
   "movementCount": 0, 
-  "popularity": 29, 
   "subjectCount": 1, 
-  "title": "Four Donkeys"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 674, 
+                "name": "donkey", 
+                "workCount": 213
+              }
+            ], 
+            "id": 67, 
+            "name": "animals: mammals", 
+            "workCount": 4211
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T11/T11629_8.jpg", 
+  "title": "Four Donkeys", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/dacre-four-donkeys-t11629", 
+  "width": "149"
 }

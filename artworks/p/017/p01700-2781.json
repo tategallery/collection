@@ -1,6 +1,5 @@
 {
   "acno": "P01700", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P01698-P01727", 
     "completeStatus": "COMPLETE", 
@@ -27,18 +26,69 @@
     "text": "1946"
   }, 
   "dateText": "1946", 
+  "depth": "", 
   "dimensions": "image: 762 x 498 mm", 
-  "displayLocation": {
-    "name": "Tate Britain", 
-    "url": null
-  }, 
   "foreignTitle": null, 
   "groupTitle": "School Prints", 
+  "height": "498", 
   "id": 2781, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 27, 
   "subjectCount": 3, 
-  "title": "Striped Lily"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower", 
+                "workCount": 495
+              }, 
+              {
+                "id": 1228, 
+                "name": "lily", 
+                "workCount": 39
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P01/P01700_8.jpg", 
+  "title": "Striped Lily", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/cooper-striped-lily-p01700", 
+  "width": "762"
 }

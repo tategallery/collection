@@ -1,6 +1,5 @@
 {
   "acno": "P08037", 
-  "addlImageCount": 1, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,55 +20,12 @@
     "text": "1972"
   }, 
   "dateText": "1972", 
+  "depth": "", 
   "dimensions": "image: 149 x 149 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "149", 
   "id": 15687, 
-  "images": [
-    {
-      "copyright": null, 
-      "filenameBase": "P08037_88544", 
-      "sizes": [
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08037_88544_7.jpg", 
-          "height": 127, 
-          "resolution": 128, 
-          "size": "small", 
-          "width": 128
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08037_88544_8.jpg", 
-          "height": 255, 
-          "resolution": 256, 
-          "size": "medium", 
-          "width": 256
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08037_88544_9.jpg", 
-          "height": 510, 
-          "resolution": 512, 
-          "size": "large", 
-          "width": 512
-        }, 
-        {
-          "caption": "Polyptych", 
-          "cleared": false, 
-          "file": "P/P08/P08037_88544_10.jpg", 
-          "height": 1532, 
-          "resolution": 1536, 
-          "size": "optimal", 
-          "width": 1536
-        }
-      ]
-    }
-  ], 
   "inscription": null, 
   "medium": "Relief print on paper", 
   "movementCount": 1, 
@@ -85,7 +41,60 @@
       "workCount": 478
     }
   ], 
-  "popularity": 5, 
   "subjectCount": 3, 
-  "title": "Study of Identification"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6548, 
+                "name": "caption", 
+                "workCount": 306
+              }, 
+              {
+                "id": 499, 
+                "name": "name of artist", 
+                "workCount": 186
+              }
+            ], 
+            "id": 166, 
+            "name": "inscriptions", 
+            "workCount": 4415
+          }
+        ], 
+        "id": 162, 
+        "name": "symbols & personifications", 
+        "workCount": 4830
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 445, 
+                "name": "text", 
+                "workCount": 949
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08037_8.jpg", 
+  "title": "Study of Identification", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/valoch-study-of-identification-p08037", 
+  "width": "149"
 }

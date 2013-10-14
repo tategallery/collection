@@ -1,6 +1,5 @@
 {
   "acno": "P04545", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P04544-P04547", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,50 @@
     "text": "1968"
   }, 
   "dateText": "1968", 
+  "depth": "", 
   "dimensions": "image: 686 x 1015 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "A Series of Four Prints", 
+  "height": "1015", 
   "id": 8169, 
   "inscription": "date inscribed", 
   "medium": "Screenprint on paper", 
   "movementCount": 0, 
-  "popularity": 50, 
   "subjectCount": 2, 
-  "title": "B. Black"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }, 
+              {
+                "id": 9663, 
+                "name": "monochromatic", 
+                "workCount": 558
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P04/P04545_8.jpg", 
+  "title": "B. Black", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/knowles-b-black-p04545", 
+  "width": "686"
 }

@@ -1,6 +1,5 @@
 {
   "acno": "N05704", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1941"
   }, 
   "dateText": "1941", 
+  "depth": "", 
   "dimensions": "support: 784 x 533 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "533", 
   "id": 7915, 
   "inscription": "date inscribed", 
   "medium": "Pastel on paper", 
@@ -41,7 +41,105 @@
       "workCount": 141
     }
   ], 
-  "popularity": 202, 
   "subjectCount": 5, 
-  "title": "Sergeant H.D. Parker, R.A.F."
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17041, 
+                "name": "Parker, H.D. Sergeant", 
+                "workCount": 1
+              }
+            ], 
+            "id": 104, 
+            "name": "portraits: male", 
+            "workCount": 1463
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3830, 
+                "name": "World War II - non-specific", 
+                "workCount": 56
+              }
+            ], 
+            "id": 37, 
+            "name": "military: World War II", 
+            "workCount": 162
+          }
+        ], 
+        "id": 33, 
+        "name": "history", 
+        "workCount": 1779
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat", 
+                "workCount": 133
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects", 
+            "workCount": 3859
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5167, 
+                "name": "pilot", 
+                "workCount": 16
+              }
+            ], 
+            "id": 128, 
+            "name": "military", 
+            "workCount": 846
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations", 
+        "workCount": 5206
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N05/N05704_8.jpg", 
+  "title": "Sergeant H.D. Parker, R.A.F.", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kennington-sergeant-hd-parker-raf-n05704", 
+  "width": "784"
 }

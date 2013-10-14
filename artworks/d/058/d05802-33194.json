@@ -1,6 +1,5 @@
 {
   "acno": "D05802", 
-  "addlImageCount": 0, 
   "catTextResId": 1130024, 
   "catalogueGroup": {
     "accessionRanges": "D05766-D05842; D05844; D40632; D40634-D40636", 
@@ -28,17 +27,78 @@
     "text": "c.1805-7"
   }, 
   "dateText": "c.1805-7", 
+  "depth": "", 
   "dimensions": "support: 171 x 262 mm", 
-  "displayLocation": null, 
   "finberg": "XCIII 23", 
   "foreignTitle": null, 
   "groupTitle": "Hesperides (1) Sketchbook [Finberg XCIII]", 
+  "height": "262", 
   "id": 33194, 
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 47, 
-  "popularity": 45, 
   "subjectCount": 3, 
-  "title": "Figures in an Interior"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 623, 
+                "name": "bar", 
+                "workCount": 36
+              }
+            ], 
+            "id": 43, 
+            "name": "places of entertainment", 
+            "workCount": 160
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors", 
+        "workCount": 2405
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 799, 
+                "name": "group", 
+                "workCount": 3973
+              }
+            ], 
+            "id": 97, 
+            "name": "groups", 
+            "workCount": 4780
+          }, 
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man", 
+                "workCount": 8608
+              }
+            ], 
+            "id": 95, 
+            "name": "adults", 
+            "workCount": 19626
+          }
+        ], 
+        "id": 91, 
+        "name": "people", 
+        "workCount": 21185
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05802_8_R.jpg", 
+  "title": "Figures in an Interior", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-figures-in-an-interior-d05802", 
+  "width": "171"
 }

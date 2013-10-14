@@ -1,6 +1,5 @@
 {
   "acno": "P11222", 
-  "addlImageCount": 0, 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
@@ -21,10 +20,11 @@
     "text": "1964-5"
   }, 
   "dateText": "1964-5", 
+  "depth": "", 
   "dimensions": "image: 892 x 598 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": null, 
+  "height": "598", 
   "id": 17312, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
@@ -41,7 +41,41 @@
       "workCount": 49
     }
   ], 
-  "popularity": 1275, 
   "subjectCount": 2, 
-  "title": "Yellow over Dark Blue"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour", 
+                "workCount": 2895
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric", 
+                "workCount": 2646
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational", 
+            "workCount": 6320
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction", 
+        "workCount": 8371
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P11/P11222_8.jpg", 
+  "title": "Yellow over Dark Blue", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/kelly-yellow-over-dark-blue-p11222", 
+  "width": "892"
 }

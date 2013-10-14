@@ -1,6 +1,5 @@
 {
   "acno": "P07502", 
-  "addlImageCount": 0, 
   "catalogueGroup": {
     "accessionRanges": "P07501-P07506", 
     "completeStatus": "COMPLETE", 
@@ -27,15 +26,64 @@
     "text": "1975-9"
   }, 
   "dateText": "1975-9", 
+  "depth": "", 
   "dimensions": "image: 324 x 254 mm", 
-  "displayLocation": null, 
   "foreignTitle": null, 
   "groupTitle": "Blossoms and Flowers", 
+  "height": "254", 
   "id": 9067, 
   "inscription": null, 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
-  "popularity": 70, 
   "subjectCount": 2, 
-  "title": "Tulips"
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4943, 
+                "name": "tulip", 
+                "workCount": 7
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers", 
+            "workCount": 1741
+          }
+        ], 
+        "id": 60, 
+        "name": "nature", 
+        "workCount": 37446
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1461, 
+                "name": "vase", 
+                "workCount": 214
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers", 
+            "workCount": 1607
+          }
+        ], 
+        "id": 78, 
+        "name": "objects", 
+        "workCount": 12242
+      }
+    ], 
+    "id": 1, 
+    "name": "subject", 
+    "workCount": 59468
+  }, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P07/P07502_8.jpg", 
+  "title": "Tulips", 
+  "units": "mm", 
+  "url": "http://www.tate.org.uk/art/artworks/mccomb-tulips-p07502", 
+  "width": "324"
 }
