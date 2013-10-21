@@ -1,14 +1,16 @@
 The Tate Collection
 ===================
 
-Here we present the metadata for ~69,000 artworks that [Tate](http://www.tate.org.uk/) owns or jointly owns with the [National Galleries of Scotland](http://www.nationalgalleries.org) as part of [ARTIST ROOMS](http://www.tate.org.uk/artist-rooms). Metadata for the contributing ~3,500 artists is also included.
+Here we present the metadata for around 70,000 artworks that [Tate](http://www.tate.org.uk/) owns or jointly owns with the [National Galleries of Scotland](http://www.nationalgalleries.org) as part of [ARTIST ROOMS](http://www.tate.org.uk/artist-rooms). Metadata for around 3,500 associated artists is also included.
 
 The metadata here is released under the Creative Commons Public Domain [CC0](http://creativecommons.org/publicdomain/zero/1.0/) licence. Please see the enclosed LICENCE file for more detail.
 
 Images are not included and are not part of the dataset. Use of Tate images is covered on the
 [Copyright and permissions](http://www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/copyright-and-permissions) page. You may also [license images](http://tate-images.com) for commercial use.
 
-## Contents
+Please review the full [usage guidelines](#usage).
+
+## Repository Contents
 
 We offer two data formats:
 
@@ -29,4 +31,42 @@ Artworks are found in the `artworks` folder. They are filed away by _accession n
 ### CSV
 
 There is one CSV file for artists (`artist_data.csv`) and one (very large) for artworks (`artwork_data.csv`), which we may one day break up into more manageable chunks. The CSV headings should be helpful. Let us know if not. Entrepreneurial hackers could use the CSVs as an index to the JSON collections if they wanted richer data.
+
+
+## <a name="usage"></a>Usage guidelines for open data
+  
+
+These usage guidelines are based on goodwill. They are not a legal contract but Tate requests that you follow these guidelines if you use Metadata from our Collection dataset.
+
+The Metadata published by Tate is available free of restrictions under the [Creative Commons Zero Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).
+
+This means that you can use it for any purpose without having to give attribution. However, Tate requests that you actively acknowledge and give attribution to Tate wherever possible. Attribution supports future efforts to release other data.  It also reduces the amount of ‘orphaned data’, helping retain links to authoritative sources.
+
+### Give attribution to Tate
+
+Make sure that others are aware of the rights status of Tate and are aware of these guidelines by keeping intact links to the Creative Commons Zero Public Domain Dedication.
+
+If for technical or other reasons you cannot include all the links to all sources of the Metadata and rights information directly with the Metadata, you should consider including them separately, for example in a separate document that is distributed with the Metadata or dataset.
+
+If for technical or other reasons you cannot include all the links to all sources of the Metadata and rights information, you may consider linking only to the Metadata source on Tate’s website, where all available sources and rights information can be found, including in machine readable formats.
+
+### Metadata is dynamic
+
+When working with Metadata obtained from Tate, please be aware that this Metadata is not static. It sometimes changes daily. Tate continuously updates its Metadata in order to correct mistakes and include new and additional information. Museum collections are under constant study and research, and new information is frequently added to objects in the collection.
+
+### Mention your modifications of the Metadata and contribute your modified Metadata back
+Whenever you transform, translate or otherwise modify the Metadata, make it clear that the resulting Metadata has been modified by you. If you enrich or otherwise modify Metadata, consider publishing the derived Metadata without reuse restrictions, preferably via the Creative Commons Zero Public Domain Dedication.
+
+### Be responsible
+
+Ensure that you do not use the Metadata in a way that suggests any official status or that Tate endorses you or your use of the Metadata, unless you have prior permission to do so.
+
+### Ensure that you do not mislead others or misrepresent the Metadata or its sources
+Ensure that your use of the Metadata does not breach any national legislation based thereon, notably concerning (but not limited to) data protection, defamation or copyright.
+Please note that you use the Metadata at your own risk.
+Tate offers the Metadata as-is and makes no representations or warranties of any kind concerning any Metadata published by Tate.
+
+
+The writers of these guidelines are deeply indebted to the [Smithsonian Cooper-Hewitt, National Design Museum](http://www.cooperhewitt.org/); and [Europeana](http://www.europeana.eu/).
+
 
