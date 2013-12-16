@@ -10,6 +10,19 @@ Images are not included and are not part of the dataset. Use of Tate images is c
 
 Please review the full [usage guidelines](#usage).
 
+## Examples
+
+Here are some examples of Tate data usage in the wild. Please submit a pull request with your creation added to this list.
+
+* [Tate Explorer](http://shardcore.org/tatedata/) by [Shardcore](http://www.shardcore.org)
+* [Adding RDFa to Tate artwork pages](http://commonsmachinery.se/2013/11/tate-metadata-mashup/) by Peter Liljenberg at [Commons Machinery](http://commonsmachinery.se/)
+* [Data visualisations](http://research.kraeutli.com/index.php/2013/11/the-tate-collection-on-github/) by [Florian Kräutli](http://www.kraeutli.com/)
+* [machine imagined art](http://www.shardcore.org/cgi-bin/getArtwork.pl?id=a_96_19_f_26_b_1a_b_26_47_90_1d3_6_10_2d_) by [Shardcore](http://www.shardcore.org)
+* [autoserota](http://www.shardcore.org/autoserota/) by [Shardcore](http://www.shardcore.org)
+* [The Dimensions of Art](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html) by [Jim Davenport](http://www.ifweassume.com)
+
+We are also inviting you to create [Github Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
+
 ## Repository Contents
 
 We offer two data formats:

@@ -10,6 +10,7 @@
       "startYear": 1945
     }
   }, 
+  "birthYear": 1945, 
   "date": "born 1945", 
   "fc": "Richard Long", 
   "gender": "Male", 
@@ -17,17 +18,9 @@
   "mda": "Long, Richard", 
   "movements": [
     {
+      "artistCount": 48, 
       "era": {
-        "id": 415, 
-        "name": "20th century post-1945", 
-        "workCount": 3604
-      }, 
-      "id": 429, 
-      "name": "Land Art", 
-      "workCount": 58
-    }, 
-    {
-      "era": {
+        "artistCount": 356, 
         "id": 415, 
         "name": "20th century post-1945", 
         "workCount": 3604
@@ -35,8 +28,21 @@
       "id": 421, 
       "name": "Conceptual Art", 
       "workCount": 478
+    }, 
+    {
+      "artistCount": 12, 
+      "era": {
+        "artistCount": 356, 
+        "id": 415, 
+        "name": "20th century post-1945", 
+        "workCount": 3604
+      }, 
+      "id": 429, 
+      "name": "Land Art", 
+      "workCount": 58
     }
   ], 
+  "startLetter": "L", 
   "totalWorks": 68, 
   "url": "http://www.tate.org.uk/art/artists/richard-long-1525"
 }

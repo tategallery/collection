@@ -17,6 +17,7 @@
       "startYear": 1936
     }
   }, 
+  "birthYear": 1936, 
   "date": "born 1936", 
   "fc": "Jannis Kounellis", 
   "gender": "Male", 
@@ -24,17 +25,9 @@
   "mda": "Kounellis, Jannis", 
   "movements": [
     {
+      "artistCount": 8, 
       "era": {
-        "id": 415, 
-        "name": "20th century post-1945", 
-        "workCount": 3604
-      }, 
-      "id": 436, 
-      "name": "Performance Art", 
-      "workCount": 81
-    }, 
-    {
-      "era": {
+        "artistCount": 356, 
         "id": 415, 
         "name": "20th century post-1945", 
         "workCount": 3604
@@ -42,8 +35,21 @@
       "id": 418, 
       "name": "Arte Povera", 
       "workCount": 24
+    }, 
+    {
+      "artistCount": 25, 
+      "era": {
+        "artistCount": 356, 
+        "id": 415, 
+        "name": "20th century post-1945", 
+        "workCount": 3604
+      }, 
+      "id": 436, 
+      "name": "Performance Art", 
+      "workCount": 81
     }
   ], 
+  "startLetter": "K", 
   "totalWorks": 33, 
   "url": "http://www.tate.org.uk/art/artists/jannis-kounellis-1438"
 }

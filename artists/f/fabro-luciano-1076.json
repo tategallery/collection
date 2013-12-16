@@ -17,6 +17,7 @@
       "startYear": 1936
     }
   }, 
+  "birthYear": 1936, 
   "date": "1936\u20132007", 
   "death": {
     "place": {
@@ -34,17 +35,9 @@
   "mda": "Fabro, Luciano", 
   "movements": [
     {
+      "artistCount": 8, 
       "era": {
-        "id": 415, 
-        "name": "20th century post-1945", 
-        "workCount": 3604
-      }, 
-      "id": 421, 
-      "name": "Conceptual Art", 
-      "workCount": 478
-    }, 
-    {
-      "era": {
+        "artistCount": 356, 
         "id": 415, 
         "name": "20th century post-1945", 
         "workCount": 3604
@@ -52,8 +45,21 @@
       "id": 418, 
       "name": "Arte Povera", 
       "workCount": 24
+    }, 
+    {
+      "artistCount": 48, 
+      "era": {
+        "artistCount": 356, 
+        "id": 415, 
+        "name": "20th century post-1945", 
+        "workCount": 3604
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art", 
+      "workCount": 478
     }
   ], 
+  "startLetter": "F", 
   "totalWorks": 8, 
   "url": "http://www.tate.org.uk/art/artists/luciano-fabro-1076"
 }

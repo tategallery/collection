@@ -10,6 +10,7 @@
       "startYear": 1890
     }
   }, 
+  "birthYear": 1890, 
   "date": "1890\u20131976", 
   "death": {
     "place": {
@@ -27,17 +28,9 @@
   "mda": "Man Ray", 
   "movements": [
     {
+      "artistCount": 8, 
       "era": {
-        "id": 8, 
-        "name": "20th century 1900-1945", 
-        "workCount": 1052
-      }, 
-      "id": 320, 
-      "name": "Surrealism", 
-      "workCount": 98
-    }, 
-    {
-      "era": {
+        "artistCount": 237, 
         "id": 8, 
         "name": "20th century 1900-1945", 
         "workCount": 1052
@@ -45,8 +38,21 @@
       "id": 300, 
       "name": "Dada", 
       "workCount": 22
+    }, 
+    {
+      "artistCount": 31, 
+      "era": {
+        "artistCount": 237, 
+        "id": 8, 
+        "name": "20th century 1900-1945", 
+        "workCount": 1052
+      }, 
+      "id": 320, 
+      "name": "Surrealism", 
+      "workCount": 98
     }
   ], 
+  "startLetter": "M", 
   "totalWorks": 12, 
   "url": "http://www.tate.org.uk/art/artists/man-ray-1563"
 }

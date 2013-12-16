@@ -22,6 +22,7 @@
       "startYear": 1887
     }
   }, 
+  "birthYear": 1887, 
   "date": "1887\u20131968", 
   "death": {
     "place": {
@@ -39,17 +40,9 @@
   "mda": "Duchamp, Marcel", 
   "movements": [
     {
+      "artistCount": 16, 
       "era": {
-        "id": 8, 
-        "name": "20th century 1900-1945", 
-        "workCount": 1052
-      }, 
-      "id": 300, 
-      "name": "Dada", 
-      "workCount": 22
-    }, 
-    {
-      "era": {
+        "artistCount": 237, 
         "id": 8, 
         "name": "20th century 1900-1945", 
         "workCount": 1052
@@ -57,8 +50,21 @@
       "id": 299, 
       "name": "Cubism", 
       "workCount": 44
+    }, 
+    {
+      "artistCount": 8, 
+      "era": {
+        "artistCount": 237, 
+        "id": 8, 
+        "name": "20th century 1900-1945", 
+        "workCount": 1052
+      }, 
+      "id": 300, 
+      "name": "Dada", 
+      "workCount": 22
     }
   ], 
+  "startLetter": "D", 
   "totalWorks": 11, 
   "url": "http://www.tate.org.uk/art/artists/marcel-duchamp-1036"
 }

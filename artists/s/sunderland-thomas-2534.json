@@ -10,6 +10,7 @@
       "startYear": 1744
     }
   }, 
+  "birthYear": 1744, 
   "date": "1744\u20131823", 
   "death": {
     "place": {
@@ -27,17 +28,9 @@
   "mda": "Sunderland, Thomas", 
   "movements": [
     {
+      "artistCount": 14, 
       "era": {
-        "id": 290, 
-        "name": "18th century", 
-        "workCount": 462
-      }, 
-      "id": 345, 
-      "name": "Picturesque", 
-      "workCount": 35
-    }, 
-    {
-      "era": {
+        "artistCount": 61, 
         "id": 290, 
         "name": "18th century", 
         "workCount": 462
@@ -45,8 +38,21 @@
       "id": 344, 
       "name": "Neo-Classicism", 
       "workCount": 310
+    }, 
+    {
+      "artistCount": 16, 
+      "era": {
+        "artistCount": 61, 
+        "id": 290, 
+        "name": "18th century", 
+        "workCount": 462
+      }, 
+      "id": 345, 
+      "name": "Picturesque", 
+      "workCount": 35
     }
   ], 
+  "startLetter": "S", 
   "totalWorks": 15, 
   "url": "http://www.tate.org.uk/art/artists/thomas-sunderland-2534"
 }

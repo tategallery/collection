@@ -10,6 +10,7 @@
       "startYear": 1919
     }
   }, 
+  "birthYear": 1919, 
   "date": "born 1919", 
   "fc": "Pierre Soulages", 
   "gender": "Male", 
@@ -17,17 +18,9 @@
   "mda": "Soulages, Pierre", 
   "movements": [
     {
+      "artistCount": 15, 
       "era": {
-        "id": 415, 
-        "name": "20th century post-1945", 
-        "workCount": 3604
-      }, 
-      "id": 443, 
-      "name": "Tachisme", 
-      "workCount": 39
-    }, 
-    {
-      "era": {
+        "artistCount": 356, 
         "id": 415, 
         "name": "20th century post-1945", 
         "workCount": 3604
@@ -35,8 +28,21 @@
       "id": 8454, 
       "name": "Art Informel", 
       "workCount": 48
+    }, 
+    {
+      "artistCount": 14, 
+      "era": {
+        "artistCount": 356, 
+        "id": 415, 
+        "name": "20th century post-1945", 
+        "workCount": 3604
+      }, 
+      "id": 443, 
+      "name": "Tachisme", 
+      "workCount": 39
     }
   ], 
+  "startLetter": "S", 
   "totalWorks": 3, 
   "url": "http://www.tate.org.uk/art/artists/pierre-soulages-1968"
 }

@@ -10,6 +10,7 @@
       "startYear": 1901
     }
   }, 
+  "birthYear": 1901, 
   "date": "1901\u20131985", 
   "death": {
     "place": {
@@ -27,17 +28,9 @@
   "mda": "Dubuffet, Jean", 
   "movements": [
     {
+      "artistCount": 1, 
       "era": {
-        "id": 415, 
-        "name": "20th century post-1945", 
-        "workCount": 3604
-      }, 
-      "id": 8454, 
-      "name": "Art Informel", 
-      "workCount": 48
-    }, 
-    {
-      "era": {
+        "artistCount": 237, 
         "id": 8, 
         "name": "20th century 1900-1945", 
         "workCount": 1052
@@ -45,8 +38,21 @@
       "id": 16669, 
       "name": "Art Brut", 
       "workCount": 5
+    }, 
+    {
+      "artistCount": 15, 
+      "era": {
+        "artistCount": 356, 
+        "id": 415, 
+        "name": "20th century post-1945", 
+        "workCount": 3604
+      }, 
+      "id": 8454, 
+      "name": "Art Informel", 
+      "workCount": 48
     }
   ], 
+  "startLetter": "D", 
   "totalWorks": 19, 
   "url": "http://www.tate.org.uk/art/artists/jean-dubuffet-1035"
 }
