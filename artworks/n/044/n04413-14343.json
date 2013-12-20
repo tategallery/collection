@@ -6,13 +6,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1836, 
       "date": "1836\u20131902", 
       "displayOrder": 1, 
       "fc": "James Tissot", 
       "gender": "Male", 
       "id": 2048, 
       "mda": "Tissot, James", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 9
     }
   ], 
   "creditLine": "Purchased 1928", 
@@ -28,6 +31,23 @@
   "height": "994", 
   "id": 14343, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1840", 
+      "url": "/artworks?rid=8157"
+    }
+  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
   "subjectCount": 17, 
@@ -117,17 +137,17 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -184,7 +204,7 @@
             ], 
             "id": 170, 
             "name": "vessels and containers", 
-            "workCount": 1607
+            "workCount": 1606
           }, 
           {
             "children": [
@@ -196,7 +216,7 @@
             ], 
             "id": 286, 
             "name": "food and drink", 
-            "workCount": 539
+            "workCount": 538
           }, 
           {
             "children": [
@@ -215,17 +235,17 @@
               {
                 "id": 493, 
                 "name": "hat", 
-                "workCount": 965
+                "workCount": 964
               }
             ], 
             "id": 88, 
             "name": "clothing and personal effects", 
-            "workCount": 3856
+            "workCount": 3855
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -244,7 +264,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -263,13 +283,14 @@
         ], 
         "id": 47, 
         "name": "leisure and pastimes", 
-        "workCount": 3120
+        "workCount": 3119
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04413_8.jpg", 
   "title": "Holyday", 
   "units": "mm", 

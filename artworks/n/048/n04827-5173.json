@@ -1,18 +1,149 @@
 {
   "acno": "N04827", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "N04827_133317", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133317_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 67
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133317_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 134
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133317_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 267
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133317_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 802
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "filenameBase": "N04827_133319", 
+      "sizes": [
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133319_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 67
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133319_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 134
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133319_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 267
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133319_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 802
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "filenameBase": "N04827_133321", 
+      "sizes": [
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133321_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 67
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133321_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 134
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133321_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 267
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": true, 
+          "file": "N/N04/N04827_133321_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 802
+        }
+      ]
+    }
+  ], 
   "all_artists": "Sir Alfred Gilbert", 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1854, 
       "date": "1854\u20131934", 
       "displayOrder": 1, 
       "fc": "Sir Alfred Gilbert", 
       "gender": "Male", 
       "id": 208, 
       "mda": "Gilbert, Sir Alfred", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "G", 
+      "workCount": 12
     }
   ], 
   "creditLine": "Bequeathed by Frederick Harrison 1936", 
@@ -28,6 +159,23 @@
   "height": "210", 
   "id": 5173, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1840", 
+      "url": "/artworks?rid=8157"
+    }
+  ], 
   "medium": "Bronze", 
   "movementCount": 4, 
   "movements": [
@@ -106,12 +254,12 @@
             ], 
             "id": 88, 
             "name": "clothing and personal effects", 
-            "workCount": 3856
+            "workCount": 3855
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -120,12 +268,12 @@
               {
                 "id": 480, 
                 "name": "male", 
-                "workCount": 732
+                "workCount": 731
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
@@ -142,7 +290,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -166,8 +314,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04827_8.jpg", 
   "title": "Icarus", 
   "units": "mm", 

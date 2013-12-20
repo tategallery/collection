@@ -6,13 +6,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1776, 
       "date": "1776\u20131837", 
       "displayOrder": 1, 
       "fc": "John Constable", 
       "gender": "Male", 
       "id": 108, 
       "mda": "Constable, John", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "C", 
+      "workCount": 259
     }
   ], 
   "creditLine": "Purchased 1935", 
@@ -28,6 +31,23 @@
   "height": "1673", 
   "id": 2617, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1810", 
+      "url": "/artworks?rid=8198"
+    }
+  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
   "subjectCount": 15, 
@@ -124,12 +144,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -239,13 +259,14 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04810_8.jpg", 
   "title": "Sketch for 'Hadleigh Castle'", 
   "units": "mm", 

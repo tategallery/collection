@@ -6,13 +6,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1793, 
       "date": "1793\u20131865", 
       "displayOrder": 1, 
       "fc": "Sir Charles Lock Eastlake", 
       "gender": "Male", 
       "id": 166, 
       "mda": "Eastlake, Sir Charles Lock", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "E", 
+      "workCount": 7
     }
   ], 
   "creditLine": "Presented by Robert Vernon 1847", 
@@ -28,6 +31,23 @@
   "height": "1562", 
   "id": 4074, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1840", 
+      "url": "/artworks?rid=8157"
+    }
+  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
   "subjectCount": 16, 
@@ -198,17 +218,17 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -227,7 +247,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -236,12 +256,12 @@
               {
                 "id": 587, 
                 "name": "stair / step", 
-                "workCount": 376
+                "workCount": 375
               }
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -258,13 +278,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N00/N00397_8.jpg", 
   "title": "Christ Lamenting over Jerusalem", 
   "units": "mm", 

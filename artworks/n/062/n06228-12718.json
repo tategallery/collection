@@ -1,18 +1,65 @@
 {
   "acno": "N06228", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "N06228_135819", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N06/N06228_135819_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 105
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N06/N06228_135819_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 211
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N06/N06228_135819_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 423
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": true, 
+          "file": "N/N06/N06228_135819_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1270
+        }
+      ]
+    }
+  ], 
   "all_artists": "Auguste Rodin", 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1840, 
       "date": "1840\u20131917", 
       "displayOrder": 1, 
       "fc": "Auguste Rodin", 
       "gender": "Male", 
       "id": 1860, 
       "mda": "Rodin, Auguste", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "R", 
+      "workCount": 7
     }
   ], 
   "creditLine": "Purchased with assistance from the Art Fund and public contributions 1953", 
@@ -21,13 +68,20 @@
     "text": "1901-4"
   }, 
   "dateText": "1901\u20134", 
-  "depth": "", 
+  "depth": "1530", 
   "dimensions": "object: 1822 x 1219 x 1530 mm, 3180 kg", 
   "foreignTitle": "Le Baiser", 
   "groupTitle": null, 
-  "height": "", 
+  "height": "1219", 
   "id": 12718, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "National Galleries of Scotland (Edinburgh, UK)", 
+      "url": null
+    }
+  ], 
   "medium": "Pentelican marble", 
   "movementCount": 0, 
   "subjectCount": 13, 
@@ -81,12 +135,12 @@
             ], 
             "id": 174, 
             "name": "reading, writing, printed matter", 
-            "workCount": 1854
+            "workCount": 1853
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -112,17 +166,17 @@
               {
                 "id": 519, 
                 "name": "female", 
-                "workCount": 1336
+                "workCount": 1335
               }, 
               {
                 "id": 480, 
                 "name": "male", 
-                "workCount": 732
+                "workCount": 731
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
@@ -144,7 +198,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -163,7 +217,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -182,7 +236,7 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -206,11 +260,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N06/N06228_8.jpg", 
   "title": "The Kiss", 
-  "units": "", 
+  "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/rodin-the-kiss-n06228", 
-  "width": ""
+  "width": "1822"
 }

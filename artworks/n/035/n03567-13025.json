@@ -1,18 +1,65 @@
 {
   "acno": "N03567", 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Tate", 
+      "filenameBase": "N03567_151574", 
+      "sizes": [
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "N/N03/N03567_151574_7.jpg", 
+          "height": 93, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "N/N03/N03567_151574_8.jpg", 
+          "height": 186, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "N/N03/N03567_151574_9.jpg", 
+          "height": 373, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "N/N03/N03567_151574_10.jpg", 
+          "height": 1120, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
   "all_artists": "Sir Henry Rushbury", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1889, 
       "date": "1889\u20131968", 
       "displayOrder": 1, 
       "fc": "Sir Henry Rushbury", 
       "gender": "Male", 
       "id": 1883, 
       "mda": "Rushbury, Sir Henry", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "R", 
+      "workCount": 7
     }
   ], 
   "creditLine": "Purchased 1920", 
@@ -117,13 +164,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": "\u00a9 Tate", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03567_8.jpg", 
   "title": "The Forest of Brotonne", 
   "units": "mm", 

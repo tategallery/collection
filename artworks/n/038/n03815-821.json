@@ -1,18 +1,65 @@
 {
   "acno": "N03815", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "N03815_306518", 
+      "sizes": [
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "N/N03/N03815_306518_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 104
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "N/N03/N03815_306518_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 207
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "N/N03/N03815_306518_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 590
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "N/N03/N03815_306518_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1242
+        }
+      ]
+    }
+  ], 
   "all_artists": "Aubrey Beardsley", 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1872, 
       "date": "1872\u20131898", 
       "displayOrder": 1, 
       "fc": "Aubrey Beardsley", 
       "gender": "Male", 
       "id": 716, 
       "mda": "Beardsley, Aubrey", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "B", 
+      "workCount": 8
     }
   ], 
   "creditLine": "Purchased 1923", 
@@ -22,12 +69,29 @@
   }, 
   "dateText": "c.1894", 
   "depth": "", 
-  "dimensions": "support: 762 x 635 mm", 
+  "dimensions": "support: 762 x 635 mm\r\nframe: 940 x 815 x 80 mm", 
   "foreignTitle": null, 
   "groupTitle": null, 
   "height": "635", 
   "id": 821, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1890", 
+      "url": "/artworks?rid=8317"
+    }
+  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 3, 
   "movements": [
@@ -77,7 +141,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -94,7 +158,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -154,7 +218,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -163,7 +227,7 @@
               {
                 "id": 493, 
                 "name": "hat", 
-                "workCount": 965
+                "workCount": 964
               }, 
               {
                 "id": 1804, 
@@ -173,12 +237,12 @@
             ], 
             "id": 88, 
             "name": "clothing and personal effects", 
-            "workCount": 3856
+            "workCount": 3855
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -197,13 +261,14 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N03/N03815_8.jpg", 
   "title": "Caprice. Verso: Masked Woman with a White Mouse", 
   "units": "mm", 

@@ -12,7 +12,9 @@
       "gender": null, 
       "id": 19232, 
       "mda": "?British School", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "?", 
+      "workCount": 1
     }
   ], 
   "creditLine": "Presented in memory of R.S. Holford and Sir George Holford by nine members of their family 1927", 
@@ -28,6 +30,23 @@
   "height": "785", 
   "id": 6652, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Walk through British Art", 
+      "url": "/artworks?sid=3741"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "1540", 
+      "url": "/artworks?rid=8318"
+    }
+  ], 
   "medium": "Oil paint on oak", 
   "movementCount": 0, 
   "subjectCount": 14, 
@@ -57,12 +76,12 @@
               {
                 "id": 270, 
                 "name": "standing", 
-                "workCount": 2260
+                "workCount": 2259
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -79,7 +98,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -120,7 +139,7 @@
               {
                 "id": 493, 
                 "name": "hat", 
-                "workCount": 965
+                "workCount": 964
               }, 
               {
                 "id": 629, 
@@ -130,7 +149,7 @@
             ], 
             "id": 88, 
             "name": "clothing and personal effects", 
-            "workCount": 3856
+            "workCount": 3855
           }, 
           {
             "children": [
@@ -147,7 +166,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -166,7 +185,7 @@
         ], 
         "id": 116, 
         "name": "work and occupations", 
-        "workCount": 5205
+        "workCount": 5204
       }, 
       {
         "children": [
@@ -190,8 +209,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/N/N04/N04252_8.jpg", 
   "title": "Portrait of a Gentleman, probably of the West Family", 
   "units": "mm", 
