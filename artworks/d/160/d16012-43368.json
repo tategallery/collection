@@ -1,10 +1,28 @@
 {
   "acno": "D16012", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D16012", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D160/D16012_E.jpg", 
+          "height": 328, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137936, 
   "catalogueGroup": {
     "accessionRanges": "D15908-D16080; D16082-D16087; D40948-D40951", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65827, 
     "shortTitle": "Naples, Paestum and Rome Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 113 x 189 mm", 
   "finberg": "CLXXXVI 51", 
   "foreignTitle": null, 
-  "groupTitle": "Naples, Paestum and Rome Sketchbook [Finberg CLXXXVI]", 
+  "groupTitle": "Naples, Paestum and Rome Sketchbook", 
   "height": "189", 
   "id": 43368, 
   "inscription": null, 
@@ -95,8 +116,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16012_8.jpg", 
   "title": "Part of a View of Vesuvius from Castel Sant'Elmo, Naples", 
   "units": "mm", 

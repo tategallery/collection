@@ -1,10 +1,28 @@
 {
   "acno": "D12267", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D12267", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D122/D12267_E.jpg", 
+          "height": 371, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1139469, 
   "catalogueGroup": {
     "accessionRanges": "D12262-D12317; D40723-D40726; D40764; D41517", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65798, 
     "shortTitle": "Raby Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 232 x 328 mm", 
   "finberg": "CLVI 5 a", 
   "foreignTitle": null, 
-  "groupTitle": "Raby Sketchbook [Finberg CLVI]", 
+  "groupTitle": "Raby Sketchbook", 
   "height": "328", 
   "id": 39635, 
   "inscription": null, 
@@ -126,7 +147,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -177,8 +198,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12267_8.jpg", 
   "title": "Gibside and the Derwent Valley from Winlaton Scar", 
   "units": "mm", 

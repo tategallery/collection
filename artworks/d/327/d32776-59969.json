@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D32756-D32779; D32781-D32814; D32816-D32835; D32837-D32846; D32848-D32853; D32855-D32880; D41148-D41149", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65949, 
     "shortTitle": "Rhine and Switzerland Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 90 x 113 mm", 
   "finberg": "CCCXXV 12", 
   "foreignTitle": null, 
-  "groupTitle": "Rhine and Switzerland Sketchbook [Finberg CCCXXV]", 
+  "groupTitle": "Rhine and Switzerland Sketchbook", 
   "height": "113", 
   "id": 59969, 
   "inscription": null, 
@@ -58,7 +62,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -89,7 +93,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -118,8 +122,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32776_8.jpg", 
   "title": "Castle on Rock, Etc.", 
   "units": "mm", 

@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65961, 
     "shortTitle": "Bellinzona, Sion, &c. Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 271 x 220 mm", 
   "finberg": "CCCXXXVII 26 a", 
   "foreignTitle": null, 
-  "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "groupTitle": "Bellinzona, Sion, &c. Sketchbook", 
   "height": "220", 
   "id": 60800, 
   "inscription": null, 
@@ -71,12 +75,12 @@
             ], 
             "id": 170, 
             "name": "vessels and containers", 
-            "workCount": 1607
+            "workCount": 1606
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -119,13 +123,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33629_8.jpg", 
   "title": "Group of Figures", 
   "units": "mm", 

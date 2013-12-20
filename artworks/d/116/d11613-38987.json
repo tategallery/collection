@@ -1,9 +1,11 @@
 {
   "acno": "D11613", 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143275, 
   "catalogueGroup": {
     "accessionRanges": "D11596-D11908; D40859", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65791, 
     "shortTitle": "Yorkshire 6 Sketchbook"
@@ -12,27 +14,30 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
     "startYear": 1816, 
-    "text": "c.1816-18"
+    "text": "c.1816"
   }, 
-  "dateText": "c.1816\u201318", 
+  "dateText": "c.1816", 
   "depth": "", 
-  "dimensions": "support: 149 x 93 mm", 
+  "dimensions": "support: 93 x 149 mm", 
   "finberg": "CXLIX 18", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 6 Sketchbook [Finberg CXLIX]", 
-  "height": "93", 
+  "groupTitle": "Yorkshire 6 Sketchbook", 
+  "height": "149", 
   "id": 38987, 
   "inscription": null, 
   "medium": null, 
@@ -75,11 +80,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11613_8_R.jpg", 
-  "title": "Group of Trees by Stream", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11613_8.jpg", 
+  "title": "Group of Trees by a Stream", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-trees-by-stream-d11613", 
-  "width": "149"
+  "url": "http://www.tate.org.uk/art/artworks/turner-group-of-trees-by-a-stream-d11613", 
+  "width": "93"
 }

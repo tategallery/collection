@@ -1,10 +1,28 @@
 {
   "acno": "D13916", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D13916", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D139/D13916_E.jpg", 
+          "height": 409, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1138734, 
   "catalogueGroup": {
     "accessionRanges": "D13859-D13878; D13880-D13924; D13926; D13928-D13933; D40673-D40676", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXI", 
     "groupType": "Turner Sketchbook", 
     "id": 65812, 
     "shortTitle": "Route to Rome Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 88 x 114 mm", 
   "finberg": "CLXXI 30 a", 
   "foreignTitle": null, 
-  "groupTitle": "Route to Rome Sketchbook [Finberg CLXXI]", 
+  "groupTitle": "Route to Rome Sketchbook", 
   "height": "114", 
   "id": 41282, 
   "inscription": null, 
@@ -71,7 +92,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -90,13 +111,14 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13916_8.jpg", 
   "title": "Copies of Pictures by Tintoretto and Giorgione in the Church of San Rocco, Venice", 
   "units": "mm", 

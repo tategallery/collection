@@ -1,9 +1,27 @@
 {
   "acno": "D33628", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D33628", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D336/D33628_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 399
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65961, 
     "shortTitle": "Bellinzona, Sion, &c. Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 271 x 220 mm", 
   "finberg": "CCCXXXVII 26", 
   "foreignTitle": null, 
-  "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "groupTitle": "Bellinzona, Sion, &c. Sketchbook", 
   "height": "220", 
   "id": 60799, 
   "inscription": null, 
@@ -95,7 +116,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -112,7 +133,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -136,8 +157,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33628_8.jpg", 
   "title": "Bellinzona", 
   "units": "mm", 

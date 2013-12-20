@@ -1,10 +1,28 @@
 {
   "acno": "D08058", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D08058", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D80/D08058_E.jpg", 
+          "height": 403, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1134837, 
   "catalogueGroup": {
     "accessionRanges": "D07958-D08083; D40812; D41525-D41529", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65761, 
     "shortTitle": "Windmill and Lock Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 87 x 117 mm", 
   "finberg": "CXIV 74", 
   "foreignTitle": null, 
-  "groupTitle": "Windmill and Lock Sketchbook [Finberg CXIV]", 
+  "groupTitle": "Windmill and Lock Sketchbook", 
   "height": "117", 
   "id": 35447, 
   "inscription": null, 
@@ -95,8 +116,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08058_8.jpg", 
   "title": "Sandycombe Lodge, Twickenham: An Unexecuted Design in its Setting from the North", 
   "units": "mm", 

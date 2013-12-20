@@ -1,9 +1,28 @@
 {
   "acno": "D11460", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D11460", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D114/D11460_E.jpg", 
+          "height": 343, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143907, 
   "catalogueGroup": {
     "accessionRanges": "D11442-D11479; D11481-D11517; D40839-D40843; D41497", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65789, 
     "shortTitle": "Yorkshire 4 Sketchbook"
@@ -12,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +53,7 @@
   "dimensions": "support: 125 x 206 mm", 
   "finberg": "CXLVII 12", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 4 Sketchbook [Finberg CXLVII]", 
+  "groupTitle": "Yorkshire 4 Sketchbook", 
   "height": "206", 
   "id": 38835, 
   "inscription": null, 
@@ -133,8 +155,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11460_8.jpg", 
   "title": "Aysgarth Force, Looking down the Fall", 
   "units": "mm", 

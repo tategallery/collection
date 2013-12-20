@@ -1,9 +1,27 @@
 {
   "acno": "D40961", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D40961", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D409/D40961_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D17834-D17912; D40961-D40965", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCV", 
     "groupType": "Turner Sketchbook", 
     "id": 65842, 
     "shortTitle": "Old London Bridge Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 103 x 167 mm", 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Old London Bridge Sketchbook [Finberg CCV]", 
+  "groupTitle": "Old London Bridge Sketchbook", 
   "height": "167", 
   "id": 64707, 
   "inscription": null, 
@@ -77,7 +98,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -96,7 +117,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -120,8 +141,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40961_8.jpg", 
   "title": "Sketches of Shipping and Skies", 
   "units": "mm", 

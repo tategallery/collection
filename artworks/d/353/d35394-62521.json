@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D35386-D35401; D40443", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65977, 
     "shortTitle": "Ambleteuse and Wimereux Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,10 +35,17 @@
   "dimensions": "support: 239 x 335 mm", 
   "finberg": "CCCLVII 9", 
   "foreignTitle": null, 
-  "groupTitle": "Ambleteuse and Wimereux Sketchbook [Finberg CCCLVII]", 
+  "groupTitle": "Ambleteuse and Wimereux Sketchbook", 
   "height": "335", 
   "id": 62521, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "National Maritime Museum (London, UK)", 
+      "url": "http://www.nmm.ac.uk"
+    }
+  ], 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 5, 
@@ -117,8 +128,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35394_8.jpg", 
   "title": "Sunset at Ambleteuse", 
   "units": "mm", 

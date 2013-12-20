@@ -1,9 +1,27 @@
 {
   "acno": "D10777", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D10777", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D107/D10777_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D10775-D10867; D40869-D40871; D41532", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65785, 
     "shortTitle": "Liber Notes (1) Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -28,11 +49,11 @@
   }, 
   "dateText": "c.1815\u201316", 
   "depth": "", 
-  "dimensions": "support: 161 x 99 mm", 
+  "dimensions": "support: 102 x 160 mm", 
   "finberg": "CXLIII 2", 
   "foreignTitle": null, 
-  "groupTitle": "Liber Notes (1) Sketchbook [Finberg CXLIII]", 
-  "height": "99", 
+  "groupTitle": "Liber Notes (1) Sketchbook", 
+  "height": "160", 
   "id": 38152, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -58,16 +79,17 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10777_8.jpg", 
-  "title": "Bridge", 
+  "title": "Southwark Bridge under Construction", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-bridge-d10777", 
-  "width": "161"
+  "url": "http://www.tate.org.uk/art/artworks/turner-southwark-bridge-under-construction-d10777", 
+  "width": "102"
 }

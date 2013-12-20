@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D03833-D03973; D40780", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65716, 
     "shortTitle": "Egyptian Details Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 166 x 82 mm", 
   "finberg": "LXVI 74", 
   "foreignTitle": null, 
-  "groupTitle": "Egyptian Details Sketchbook [Finberg LXVI]", 
+  "groupTitle": "Egyptian Details Sketchbook", 
   "height": "82", 
   "id": 31304, 
   "inscription": null, 
@@ -94,7 +98,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -113,13 +117,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03909_8.jpg", 
   "title": "Three Studies of Ancient Figures", 
   "units": "mm", 

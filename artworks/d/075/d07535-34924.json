@@ -1,10 +1,28 @@
 {
   "acno": "D07535", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D07535", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D75/D07535_E.jpg", 
+          "height": 319, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1135649, 
   "catalogueGroup": {
     "accessionRanges": "D07512-D07523; D07525-D07536; D40276", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65756, 
     "shortTitle": "Petworth Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 229 x 375 mm", 
   "finberg": "CIX 23", 
   "foreignTitle": null, 
-  "groupTitle": "Petworth Sketchbook [Finberg CIX]", 
+  "groupTitle": "Petworth Sketchbook", 
   "height": "375", 
   "id": 34924, 
   "inscription": null, 
@@ -94,7 +115,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -123,8 +144,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D07/D07535_8.jpg", 
   "title": "Millom Castle and Holy Trinity Church", 
   "units": "mm", 

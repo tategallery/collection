@@ -1,9 +1,27 @@
 {
   "acno": "D18577", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D18577", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D185/D18577_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D18525-D18568; D18571-D18590; D40975-D40977", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXI", 
     "groupType": "Turner Sketchbook", 
     "id": 65848, 
     "shortTitle": "Paris, Seine and Dieppe Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 113 x 189 mm", 
   "finberg": "CCXI 33 a", 
   "foreignTitle": null, 
-  "groupTitle": "Paris, Seine and Dieppe Sketchbook [Finberg CCXI]", 
+  "groupTitle": "Paris, Seine and Dieppe Sketchbook", 
   "height": "189", 
   "id": 45930, 
   "inscription": null, 
@@ -84,7 +105,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -101,13 +122,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18577_8.jpg", 
   "title": "Paris from Monmartre", 
   "units": "mm", 

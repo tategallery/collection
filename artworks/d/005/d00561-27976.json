@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D00553-D00595; D00597-D00599; D00601-D00610; D00612-D00625; D00627-D00638; D00642-D00643; D00645-D00646; D00648-D00661; D40553-D40558", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65687, 
     "shortTitle": "South Wales Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +36,7 @@
   "dimensions": "support: 264 x 203 mm", 
   "finberg": "XXVI 9", 
   "foreignTitle": null, 
-  "groupTitle": "South Wales Sketchbook [Finberg XXVI]", 
+  "groupTitle": "South Wales Sketchbook", 
   "height": "203", 
   "id": 27976, 
   "inscription": null, 
@@ -119,8 +123,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00561_8.jpg", 
   "title": "The Waterfall at Aberdulais", 
   "units": "mm", 

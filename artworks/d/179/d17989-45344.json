@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D17913-D17990; D40966-D40968", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65843, 
     "shortTitle": "London Bridge and Portsmouth Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 100 x 160 mm", 
   "finberg": "CCVI 42", 
   "foreignTitle": null, 
-  "groupTitle": "London Bridge and Portsmouth Sketchbook [Finberg CCVI]", 
+  "groupTitle": "London Bridge and Portsmouth Sketchbook", 
   "height": "160", 
   "id": 45344, 
   "inscription": null, 
@@ -118,7 +122,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -154,8 +158,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17989_8.jpg", 
   "title": "Scene up the River. ?At Isleworth or Twickenham", 
   "units": "mm", 

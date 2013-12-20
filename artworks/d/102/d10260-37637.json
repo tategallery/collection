@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D10206-D10319; D40863-D40866; D41535", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65779, 
     "shortTitle": "Vale of Heathfield Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +36,7 @@
   "dimensions": "support: 181 x 228 mm", 
   "finberg": "CXXXVII 41", 
   "foreignTitle": null, 
-  "groupTitle": "Vale of Heathfield Sketchbook [Finberg CXXXVII]", 
+  "groupTitle": "Vale of Heathfield Sketchbook", 
   "height": "228", 
   "id": 37637, 
   "inscription": null, 
@@ -102,7 +106,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -150,9 +154,10 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10260_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10260_8.jpg", 
   "title": "?The Eddystone Lighthouse in a Storm by a Full Moon", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-the-eddystone-lighthouse-in-a-storm-by-a-full-moon-d10260", 

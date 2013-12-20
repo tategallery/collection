@@ -1,9 +1,27 @@
 {
   "acno": "D20101", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D20101", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D201/D20101_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D20084-D20093; D20095-D20138; D41007-D41009; D41508-D41509", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65854, 
     "shortTitle": "Huy and Dinant Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 99 x 162 mm", 
   "finberg": "CCXVII 11", 
   "foreignTitle": null, 
-  "groupTitle": "Huy and Dinant Sketchbook [Finberg CCXVII]", 
+  "groupTitle": "Huy and Dinant Sketchbook", 
   "height": "162", 
   "id": 47453, 
   "inscription": null, 
@@ -89,13 +110,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D20/D20101_8.jpg", 
   "title": "The Citadel and Pont des Arches, Li\u00e8ge, Looking Downstream", 
   "units": "mm", 

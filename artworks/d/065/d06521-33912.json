@@ -1,10 +1,28 @@
 {
   "acno": "D06521", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D06521", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D65/D06521_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1139042, 
   "catalogueGroup": {
     "accessionRanges": "D06518-D06617; D06716-D06719; D40605-D40615; D40732; D41428-D41430; D41495", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "C", 
     "groupType": "Turner Sketchbook", 
     "id": 65747, 
     "shortTitle": "Spithead Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 118 x 187 mm", 
   "finberg": "C 4", 
   "foreignTitle": null, 
-  "groupTitle": "Spithead Sketchbook [Finberg C]", 
+  "groupTitle": "Spithead Sketchbook", 
   "height": "187", 
   "id": 33912, 
   "inscription": null, 
@@ -78,13 +99,14 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06521_8.jpg", 
   "title": "Men-of-War and Shipping off Portsmouth", 
   "units": "mm", 

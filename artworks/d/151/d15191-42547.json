@@ -1,10 +1,28 @@
 {
   "acno": "D15191", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15191", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D151/D15191_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 372
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1139603, 
   "catalogueGroup": {
     "accessionRanges": "D15105-D15250; D40619-D40621", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXX", 
     "groupType": "Turner Sketchbook", 
     "id": 65821, 
     "shortTitle": "Vatican Fragments Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 161 x 101 mm", 
   "finberg": "CLXXX 44 a", 
   "foreignTitle": null, 
-  "groupTitle": "Vatican Fragments Sketchbook [Finberg CLXXX]", 
+  "groupTitle": "Vatican Fragments Sketchbook", 
   "height": "101", 
   "id": 42547, 
   "inscription": null, 
@@ -54,7 +75,7 @@
             ], 
             "id": 88, 
             "name": "clothing and personal effects", 
-            "workCount": 3856
+            "workCount": 3855
           }, 
           {
             "children": [
@@ -71,7 +92,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -80,12 +101,12 @@
               {
                 "id": 270, 
                 "name": "standing", 
-                "workCount": 2260
+                "workCount": 2259
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -102,13 +123,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15191_8.jpg", 
   "title": "Studies of Sculptural Fragments from the Vatican Museums, Including Six Sketches of Female Figures, from the Column with Reliefs of the Hours, and Detail of the Protesilaus and Laodamia Sarcophagus", 
   "units": "mm", 

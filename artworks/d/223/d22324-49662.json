@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D22323-D22462; D41056-D41057", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXL", 
     "groupType": "Turner Sketchbook", 
     "id": 65871, 
     "shortTitle": "Birmingham and Coventry Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 78 x 108 mm", 
   "finberg": "CCXL 1 a", 
   "foreignTitle": null, 
-  "groupTitle": "Birmingham and Coventry Sketchbook [Finberg CCXL]", 
+  "groupTitle": "Birmingham and Coventry Sketchbook", 
   "height": "108", 
   "id": 49662, 
   "inscription": null, 
@@ -48,24 +52,24 @@
               {
                 "id": 519, 
                 "name": "female", 
-                "workCount": 1336
+                "workCount": 1335
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
               {
                 "id": 270, 
                 "name": "standing", 
-                "workCount": 2260
+                "workCount": 2259
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -82,14 +86,15 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22324_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D22/D22324_8.jpg", 
   "title": "Female Figure Holding Drapery", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-female-figure-holding-drapery-d22324", 

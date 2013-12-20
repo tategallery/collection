@@ -1,10 +1,28 @@
 {
   "acno": "D15416", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15416", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D154/D15416_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 344
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132711, 
   "catalogueGroup": {
     "accessionRanges": "D15296-D15466; D40616-D40618", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXII", 
     "groupType": "Turner Sketchbook", 
     "id": 65823, 
     "shortTitle": "Albano, Nemi, Rome Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 189 x 113 mm", 
   "finberg": "CLXXXII 62 a", 
   "foreignTitle": null, 
-  "groupTitle": "Albano, Nemi, Rome Sketchbook [Finberg CLXXXII]", 
+  "groupTitle": "Albano, Nemi, Rome Sketchbook", 
   "height": "113", 
   "id": 42772, 
   "inscription": null, 
@@ -73,7 +94,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -90,13 +111,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15416_8.jpg", 
   "title": "Three Sketches of the Porta San Lorenzo, Rome", 
   "units": "mm", 

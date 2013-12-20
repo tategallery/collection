@@ -1,9 +1,27 @@
 {
   "acno": "D21221", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D21221", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D212/D21221_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D21133-D21270; D41068-D41069", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXI", 
     "groupType": "Turner Sketchbook", 
     "id": 65862, 
     "shortTitle": "Marseilles to Genoa Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 179 x 113 mm", 
   "finberg": "CCXXXI 46", 
   "foreignTitle": null, 
-  "groupTitle": "Marseilles to Genoa Sketchbook [Finberg CCXXXI]", 
+  "groupTitle": "Marseilles to Genoa Sketchbook", 
   "height": "113", 
   "id": 48564, 
   "inscription": null, 
@@ -89,7 +110,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -132,14 +153,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21221_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21221_8.jpg", 
   "title": "Diane [Turner]. (Diano Marina, near Oneglia)", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-diane-turner-diano-marina-near-oneglia-d21221", 

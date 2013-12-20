@@ -1,9 +1,28 @@
 {
   "acno": "D10880", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D10880", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D108/D10880_E.jpg", 
+          "height": 348, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143584, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65786, 
     "shortTitle": "Yorkshire 1 Sketchbook"
@@ -12,27 +31,30 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
-    "startYear": 1815, 
-    "text": "c.1815-16"
+    "startYear": 1816, 
+    "text": "1816"
   }, 
-  "dateText": "c.1815\u201316", 
+  "dateText": "1816", 
   "depth": "", 
-  "dimensions": "support: 154 x 97 mm", 
+  "dimensions": "support: 97 x 154 mm", 
   "finberg": "CXLIV 7", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
-  "height": "97", 
+  "groupTitle": "Yorkshire 1 Sketchbook", 
+  "height": "154", 
   "id": 38255, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -113,7 +135,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -137,11 +159,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10880_8.jpg", 
-  "title": "Spofforth Castle", 
+  "title": "Spofforth Castle from the South", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-spofforth-castle-d10880", 
-  "width": "154"
+  "url": "http://www.tate.org.uk/art/artworks/turner-spofforth-castle-from-the-south-d10880", 
+  "width": "97"
 }

@@ -1,9 +1,27 @@
 {
   "acno": "D09121", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D09121", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D91/D09121_E.jpg", 
+          "height": 327, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D09058-D09206; D40818; D41541", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65772, 
     "shortTitle": "Woodcock Shooting Sketchbook"
@@ -12,26 +30,29 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
-    "startYear": 1810, 
-    "text": "c.1810-12"
+    "startYear": 1812, 
+    "text": "c.1812-13"
   }, 
-  "dateText": "c.1810\u201312", 
+  "dateText": "c.1812\u201313", 
   "depth": "", 
   "dimensions": "support: 110 x 178 mm", 
   "finberg": "CXXIX 45", 
   "foreignTitle": null, 
-  "groupTitle": "Woodcock Shooting Sketchbook [Finberg CXXIX]", 
+  "groupTitle": "Woodcock Shooting Sketchbook", 
   "height": "178", 
   "id": 36500, 
   "inscription": null, 
@@ -58,7 +79,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -72,12 +93,12 @@
             ], 
             "id": 6729, 
             "name": "formal qualities", 
-            "workCount": 5711
+            "workCount": 5710
           }
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -91,12 +112,12 @@
             ], 
             "id": 41, 
             "name": "domestic", 
-            "workCount": 1246
+            "workCount": 1245
           }
         ], 
         "id": 40, 
         "name": "interiors", 
-        "workCount": 2405
+        "workCount": 2404
       }, 
       {
         "children": [
@@ -120,11 +141,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09121_8.jpg", 
-  "title": "Plan of Position of Various Pictures", 
+  "title": "Hanging Plan for an Exhibition in Turner's Gallery", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-plan-of-position-of-various-pictures-d09121", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hanging-plan-for-an-exhibition-in-turners-gallery-d09121", 
   "width": "110"
 }

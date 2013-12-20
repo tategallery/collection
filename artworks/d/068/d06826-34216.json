@@ -1,10 +1,28 @@
 {
   "acno": "D06826", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D06826", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D68/D06826_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1130919, 
   "catalogueGroup": {
     "accessionRanges": "D06721-D06829; D40666-D40668", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CII", 
     "groupType": "Turner Sketchbook", 
     "id": 65749, 
     "shortTitle": "Greenwich Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 76 x 115 mm", 
   "finberg": "CII 53", 
   "foreignTitle": null, 
-  "groupTitle": "Greenwich Sketchbook [Finberg CII]", 
+  "groupTitle": "Greenwich Sketchbook", 
   "height": "115", 
   "id": 34216, 
   "inscription": null, 
@@ -107,7 +128,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -131,8 +152,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06826_8.jpg", 
   "title": "The River Thames at Greenwich", 
   "units": "mm", 

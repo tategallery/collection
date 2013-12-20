@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D05905-D05946; D05949-D05953; D40344-D40345; D40382", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCV", 
     "groupType": "Turner Sketchbook", 
     "id": 65742, 
     "shortTitle": "Thames, from Reading to Walton Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +36,7 @@
   "dimensions": "support: 258 x 366 mm", 
   "finberg": "XCV 12", 
   "foreignTitle": null, 
-  "groupTitle": "Thames, from Reading to Walton Sketchbook [Finberg XCV]", 
+  "groupTitle": "Thames, from Reading to Walton Sketchbook", 
   "height": "366", 
   "id": 33307, 
   "inscription": null, 
@@ -149,7 +153,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -168,7 +172,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -187,13 +191,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05916_8.jpg", 
   "title": "The River Thames with Isleworth Ferry", 
   "units": "mm", 

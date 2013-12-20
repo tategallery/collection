@@ -1,9 +1,27 @@
 {
   "acno": "D21423", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D21423", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D214/D21423_E.jpg", 
+          "height": 401, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D21412-D21536; D21538-D21587; D40997-D40998", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65864, 
     "shortTitle": "Genoa and Florence Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 143 x 97 mm", 
   "finberg": "CCXXXIII 6 a", 
   "foreignTitle": null, 
-  "groupTitle": "Genoa and Florence Sketchbook [Finberg CCXXXIII]", 
+  "groupTitle": "Genoa and Florence Sketchbook", 
   "height": "97", 
   "id": 48766, 
   "inscription": null, 
@@ -96,7 +117,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -113,14 +134,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21423_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21423_8.jpg", 
   "title": "View of Genoa", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-view-of-genoa-d21423", 

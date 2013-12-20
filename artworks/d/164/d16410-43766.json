@@ -1,10 +1,28 @@
 {
   "acno": "D16410", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D16410", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D164/D16410_E.jpg", 
+          "height": 296, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132509, 
   "catalogueGroup": {
     "accessionRanges": "D16395-D16485; D40577-D40578; D40584", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXC", 
     "groupType": "Turner Sketchbook", 
     "id": 65831, 
     "shortTitle": "Small Roman Colour Studies Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 130 x 255 mm", 
   "finberg": "CXC 12 a", 
   "foreignTitle": null, 
-  "groupTitle": "Small Roman Colour Studies Sketchbook [Finberg CXC]", 
+  "groupTitle": "Small Roman Colour Studies Sketchbook", 
   "height": "255", 
   "id": 43766, 
   "inscription": null, 
@@ -59,7 +80,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -83,8 +104,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16410_8.jpg", 
   "title": "Statue of the Dea Roma in the gardens of the Villa Medici, Rome", 
   "units": "mm", 

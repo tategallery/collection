@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D29032-D29089; D29092-D29108; D29110-D29212; D41094-D41097; D41202", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65921, 
     "shortTitle": "Val d'Aosta Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 113 x 190 mm", 
   "finberg": "CCXCIII 12", 
   "foreignTitle": null, 
-  "groupTitle": "Val d'Aosta Sketchbook [Finberg CCXCIII]", 
+  "groupTitle": "Val d'Aosta Sketchbook", 
   "height": "190", 
   "id": 56326, 
   "inscription": null, 
@@ -87,12 +91,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -123,7 +127,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -147,8 +151,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29054_8.jpg", 
   "title": "Dijon: Cathedral of St Benigne, and the Spire of the Church of St Philibert, from a Corner of the City Walls to the North", 
   "units": "mm", 

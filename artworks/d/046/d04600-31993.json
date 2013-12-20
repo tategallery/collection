@@ -1,9 +1,27 @@
 {
   "acno": "D04600", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D04600", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D46/D04600_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 343
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65724, 
     "shortTitle": "St Gothard and Mont Blanc Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 473 x 315 mm", 
   "finberg": "LXXV 8", 
   "foreignTitle": null, 
-  "groupTitle": "St Gothard and Mont Blanc Sketchbook [Finberg LXXV]", 
+  "groupTitle": "St Gothard and Mont Blanc Sketchbook", 
   "height": "315", 
   "id": 31993, 
   "inscription": null, 
@@ -99,7 +120,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -133,8 +154,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04600_8.jpg", 
   "title": "The Aiguillette from Magland", 
   "units": "mm", 

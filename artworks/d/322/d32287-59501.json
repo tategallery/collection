@@ -1,9 +1,27 @@
 {
   "acno": "D32287", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D32287", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D322/D32287_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 338
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D32263-D32299; D32301-D32441; D32443; D41025; D41027-D41032", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXX", 
     "groupType": "Turner Sketchbook", 
     "id": 65944, 
     "shortTitle": "Rotterdam to Venice Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 149 x 89 mm", 
   "finberg": "CCCXX 13", 
   "foreignTitle": null, 
-  "groupTitle": "Rotterdam to Venice Sketchbook [Finberg CCCXX]", 
+  "groupTitle": "Rotterdam to Venice Sketchbook", 
   "height": "89", 
   "id": 59501, 
   "inscription": null, 
@@ -63,8 +84,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D32/D32287_8.jpg", 
   "title": "Mountains. Inn [Turner]. (River Inn)", 
   "units": "mm", 

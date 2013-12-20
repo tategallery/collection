@@ -1,10 +1,28 @@
 {
   "acno": "D09008", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D09008", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D90/D09008_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 334
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1134719, 
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65770, 
     "shortTitle": "Sandycombe and Yorkshire Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 202 x 125 mm", 
   "finberg": "CXXVII 30 a", 
   "foreignTitle": null, 
-  "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
   "height": "125", 
   "id": 36387, 
   "inscription": null, 
@@ -63,8 +84,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09008_8.jpg", 
   "title": "A Wooded Landscape", 
   "units": "mm", 

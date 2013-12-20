@@ -1,9 +1,28 @@
 {
   "acno": "D10876", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D10876", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D108/D10876_E.jpg", 
+          "height": 347, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143580, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65786, 
     "shortTitle": "Yorkshire 1 Sketchbook"
@@ -12,27 +31,30 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
-    "startYear": 1815, 
-    "text": "c.1815-16"
+    "startYear": 1816, 
+    "text": "1816"
   }, 
-  "dateText": "c.1815\u201316", 
+  "dateText": "1816", 
   "depth": "", 
-  "dimensions": "support: 154 x 97 mm", 
+  "dimensions": "support: 97 x 154 mm", 
   "finberg": "CXLIV 5", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 1 Sketchbook [Finberg CXLIV]", 
-  "height": "97", 
+  "groupTitle": "Yorkshire 1 Sketchbook", 
+  "height": "154", 
   "id": 38251, 
   "inscription": null, 
   "medium": "Graphite on paper", 
@@ -116,11 +138,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10876_8_R.jpg", 
-  "title": "Plumpton Rocks", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10876_8.jpg", 
+  "title": "Plompton Rocks from the North", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-plumpton-rocks-d10876", 
-  "width": "154"
+  "url": "http://www.tate.org.uk/art/artworks/turner-plompton-rocks-from-the-north-d10876", 
+  "width": "97"
 }

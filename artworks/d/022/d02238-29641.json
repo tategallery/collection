@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D02236-D02242; D40258-D40259", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65701, 
     "shortTitle": "Smaller Fonthill Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 266 x 416 mm", 
   "finberg": "XLVIII 3", 
   "foreignTitle": null, 
-  "groupTitle": "Smaller Fonthill Sketchbook [Finberg XLVIII]", 
+  "groupTitle": "Smaller Fonthill Sketchbook", 
   "height": "416", 
   "id": 29641, 
   "inscription": null, 
@@ -98,13 +102,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02238_8.jpg", 
   "title": "Buildings Seen beyond Water, with Storm Clouds Above", 
   "units": "mm", 

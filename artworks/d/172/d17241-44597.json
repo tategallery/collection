@@ -1,9 +1,27 @@
 {
   "acno": "D17241", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D17241", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D172/D17241_E.jpg", 
+          "height": 347, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D17207-D17364; D40685-D40686", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65836, 
     "shortTitle": "Folkestone Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 113 x 187 mm", 
   "finberg": "CXCVIII 21", 
   "foreignTitle": null, 
-  "groupTitle": "Folkestone Sketchbook [Finberg CXCVIII]", 
+  "groupTitle": "Folkestone Sketchbook", 
   "height": "187", 
   "id": 44597, 
   "inscription": null, 
@@ -108,13 +129,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17241_8.jpg", 
   "title": "Cliffs near Folkestone", 
   "units": "mm", 

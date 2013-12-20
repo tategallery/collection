@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D23246-D23335; D41040-D41042", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65879, 
     "shortTitle": "Loire, Tours, Orleans and Paris Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 153 x 103 mm", 
   "finberg": "CCXLIX 29 a", 
   "foreignTitle": null, 
-  "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook [Finberg CCXLIX]", 
+  "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook", 
   "height": "103", 
   "id": 50640, 
   "inscription": null, 
@@ -140,7 +144,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -164,8 +168,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23303_8.jpg", 
   "title": "Orl\u00e9ans: (a) The Pont Neuf, with the Quai Neuf on Right; (b) Right Bank, a Panorama from the H\u00f4pital to the Towers of the Cathedral; (c) Church of St-Laurent; (d) A Building", 
   "units": "mm", 

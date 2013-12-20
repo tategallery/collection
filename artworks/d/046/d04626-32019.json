@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65724, 
     "shortTitle": "St Gothard and Mont Blanc Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,10 +35,11 @@
   "dimensions": "support: 471 x 318 mm", 
   "finberg": "LXXV 34", 
   "foreignTitle": null, 
-  "groupTitle": "St Gothard and Mont Blanc Sketchbook [Finberg LXXV]", 
+  "groupTitle": "St Gothard and Mont Blanc Sketchbook", 
   "height": "318", 
   "id": 32019, 
   "inscription": null, 
+  "locationDetails": [], 
   "medium": "Graphite, watercolour and gouache on paper", 
   "movementCount": 0, 
   "subjectCount": 12, 
@@ -105,7 +110,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -134,7 +139,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -187,8 +192,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04626_8.jpg", 
   "title": "The Devil's Bridge, near Andermatt, Pass of St Gotthard", 
   "units": "mm", 

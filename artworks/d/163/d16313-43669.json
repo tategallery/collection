@@ -1,10 +1,28 @@
 {
   "acno": "D16313", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D16313", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D163/D16313_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1139825, 
   "catalogueGroup": {
     "accessionRanges": "D16157-D16326; D17158; D40952-D40954; D41410", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65829, 
     "shortTitle": "St Peter's Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 114 x 189 mm", 
   "finberg": "CLXXXVIII 85", 
   "foreignTitle": null, 
-  "groupTitle": "St Peter's Sketchbook [Finberg CLXXXVIII]", 
+  "groupTitle": "St Peter's Sketchbook", 
   "height": "189", 
   "id": 43669, 
   "inscription": null, 
@@ -85,12 +106,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -109,7 +130,7 @@
         ], 
         "id": 40, 
         "name": "interiors", 
-        "workCount": 2405
+        "workCount": 2404
       }, 
       {
         "children": [
@@ -152,7 +173,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -188,13 +209,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16313_8.jpg", 
   "title": "Interior of St Peter's, Rome, from next to the Monument of Paul III (Right)", 
   "units": "mm", 

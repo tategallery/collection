@@ -1,9 +1,27 @@
 {
   "acno": "D19408", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D19408", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D194/D19408_E.jpg", 
+          "height": 344, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D19401-D19454; D19456-D19467; D19482-D19542; D19546-D19551; D41011-D41013", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65852, 
     "shortTitle": "Holland, Meuse and Cologne Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 113 x 189 mm", 
   "finberg": "CCXV 4 a", 
   "foreignTitle": null, 
-  "groupTitle": "Holland, Meuse and Cologne Sketchbook [Finberg CCXV]", 
+  "groupTitle": "Holland, Meuse and Cologne Sketchbook", 
   "height": "189", 
   "id": 46761, 
   "inscription": null, 
@@ -137,13 +158,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19408_8.jpg", 
   "title": "Shakespeare's Cliff, Dover", 
   "units": "mm", 

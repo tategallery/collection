@@ -1,10 +1,28 @@
 {
   "acno": "D15485", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15485", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D154/D15485_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 415
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137761, 
   "catalogueGroup": {
     "accessionRanges": "D15467-D15554; D41397-D41398", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65824, 
     "shortTitle": "Tivoli Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 253 x 196 mm", 
   "finberg": "CLXXXIII 19", 
   "foreignTitle": null, 
-  "groupTitle": "Tivoli Sketchbook [Finberg CLXXXIII]", 
+  "groupTitle": "Tivoli Sketchbook", 
   "height": "196", 
   "id": 42841, 
   "inscription": null, 
@@ -90,7 +111,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -126,8 +147,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15485_8.jpg", 
   "title": "Study of a Waterfall in the Valle d'Inferno, Tivoli", 
   "units": "mm", 

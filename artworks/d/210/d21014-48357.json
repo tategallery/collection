@@ -1,9 +1,27 @@
 {
   "acno": "D21014", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D21014", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D210/D21014_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 389
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D20990-D21015; D21018-D21132; D41001-D41003", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXXX", 
     "groupType": "Turner Sketchbook", 
     "id": 65861, 
     "shortTitle": "Lyons to Marseilles Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 145 x 111 mm", 
   "finberg": "CCXXX 13", 
   "foreignTitle": null, 
-  "groupTitle": "Lyons to Marseilles Sketchbook [Finberg CCXXX]", 
+  "groupTitle": "Lyons to Marseilles Sketchbook", 
   "height": "111", 
   "id": 48357, 
   "inscription": null, 
@@ -70,7 +91,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -94,8 +115,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D21/D21014_8.jpg", 
   "title": "Castle on Hill", 
   "units": "mm", 

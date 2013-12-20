@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D30888-D30893; D30895-D31019; D41123-D41124", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65934, 
     "shortTitle": "Dresden and Saxon Switzerland Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 170 x 104 mm", 
   "finberg": "CCCVI 2", 
   "foreignTitle": null, 
-  "groupTitle": "Dresden and Saxon Switzerland Sketchbook [Finberg CCCVI]", 
+  "groupTitle": "Dresden and Saxon Switzerland Sketchbook", 
   "height": "104", 
   "id": 58130, 
   "inscription": null, 
@@ -94,8 +98,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30890_8.jpg", 
   "title": "Two Views of Saxon Switzerland", 
   "units": "mm", 

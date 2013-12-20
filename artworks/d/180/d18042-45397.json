@@ -1,9 +1,27 @@
 {
   "acno": "D18042", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D18042", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D180/D18042_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 417
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D17991-D18133; D41064", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65844, 
     "shortTitle": "Gosport Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 74 x 100 mm", 
   "finberg": "CCVII 28", 
   "foreignTitle": null, 
-  "groupTitle": "Gosport Sketchbook [Finberg CCVII]", 
+  "groupTitle": "Gosport Sketchbook", 
   "height": "100", 
   "id": 45397, 
   "inscription": null, 
@@ -58,7 +79,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -82,8 +103,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18042_8.jpg", 
   "title": "Shipping", 
   "units": "mm", 

@@ -1,10 +1,28 @@
 {
   "acno": "D00549", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D00549", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D05/D00549_E.jpg", 
+          "height": 341, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1140870, 
   "catalogueGroup": {
     "accessionRanges": "D00462-D00552; D40755-D40758", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65686, 
     "shortTitle": "Smaller South Wales Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 130 x 205 mm", 
   "finberg": "XXV 83 a", 
   "foreignTitle": null, 
-  "groupTitle": "Smaller South Wales Sketchbook [Finberg XXV]", 
+  "groupTitle": "Smaller South Wales Sketchbook", 
   "height": "205", 
   "id": 27964, 
   "inscription": null, 
@@ -95,7 +116,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -114,7 +135,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -133,14 +154,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00549_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00549_8.jpg", 
   "title": "Figures on a Cliff Road", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-figures-on-a-cliff-road-d00549", 

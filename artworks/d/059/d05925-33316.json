@@ -1,10 +1,28 @@
 {
   "acno": "D05925", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D05925", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D59/D05925_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 367
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1129956, 
   "catalogueGroup": {
     "accessionRanges": "D05905-D05946; D05949-D05953; D40344-D40345; D40382", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCV", 
     "groupType": "Turner Sketchbook", 
     "id": 65742, 
     "shortTitle": "Thames, from Reading to Walton Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 367 x 259 mm", 
   "finberg": "XCV 21", 
   "foreignTitle": null, 
-  "groupTitle": "Thames, from Reading to Walton Sketchbook [Finberg XCV]", 
+  "groupTitle": "Thames, from Reading to Walton Sketchbook", 
   "height": "259", 
   "id": 33316, 
   "inscription": null, 
@@ -63,8 +84,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05925_8.jpg", 
   "title": "Trunk and Branches of a Tree", 
   "units": "mm", 

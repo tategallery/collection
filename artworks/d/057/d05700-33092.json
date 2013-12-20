@@ -1,10 +1,28 @@
 {
   "acno": "D05700", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D05700", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D57/D05700_E.jpg", 
+          "height": 361, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1131011, 
   "catalogueGroup": {
     "accessionRanges": "D05618-D05716; D40798-D40800", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCI", 
     "groupType": "Turner Sketchbook", 
     "id": 65738, 
     "shortTitle": "Herstmonceux and Pevensey Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 128 x 201 mm", 
   "finberg": "XCI 83", 
   "foreignTitle": null, 
-  "groupTitle": "Herstmonceux and Pevensey Sketchbook [Finberg XCI]", 
+  "groupTitle": "Herstmonceux and Pevensey Sketchbook", 
   "height": "201", 
   "id": 33092, 
   "inscription": null, 
@@ -66,7 +87,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -83,7 +104,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -107,8 +128,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D05/D05700_8.jpg", 
   "title": "Bayham Abbey", 
   "units": "mm", 

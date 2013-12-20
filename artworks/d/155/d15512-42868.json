@@ -1,10 +1,28 @@
 {
   "acno": "D15512", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15512", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D155/D15512_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 424
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137788, 
   "catalogueGroup": {
     "accessionRanges": "D15467-D15554; D41397-D41398", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65824, 
     "shortTitle": "Tivoli Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 253 x 200 mm", 
   "finberg": "CLXXXIII 44", 
   "foreignTitle": null, 
-  "groupTitle": "Tivoli Sketchbook [Finberg CLXXXIII]", 
+  "groupTitle": "Tivoli Sketchbook", 
   "height": "200", 
   "id": 42868, 
   "inscription": null, 
@@ -102,7 +123,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -143,8 +164,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15512_8.jpg", 
   "title": "View of Tivoli from the Valle d'Inferno, with the So-Called Temples of Vesta and the Sibyl", 
   "units": "mm", 

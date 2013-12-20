@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D10320-D10324; D10326-D10342; D40296-D40298", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65780, 
     "shortTitle": "Views in Sussex Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +36,7 @@
   "dimensions": "support: 200 x 325 mm", 
   "finberg": "CXXXVIII 2", 
   "foreignTitle": null, 
-  "groupTitle": "Views in Sussex Sketchbook [Finberg CXXXVIII]", 
+  "groupTitle": "Views in Sussex Sketchbook", 
   "height": "325", 
   "id": 37698, 
   "inscription": null, 
@@ -125,7 +129,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -149,8 +153,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D10/D10321_8.jpg", 
   "title": "Battle Abbey", 
   "units": "mm", 

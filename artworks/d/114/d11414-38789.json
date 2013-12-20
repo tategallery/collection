@@ -1,9 +1,28 @@
 {
   "acno": "D11414", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D11414", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D114/D11414_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143142, 
   "catalogueGroup": {
     "accessionRanges": "D11372-D11441; D40835-D40838", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65788, 
     "shortTitle": "Yorkshire 3 Sketchbook"
@@ -12,26 +31,29 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
     "startYear": 1816, 
-    "text": "c.1816"
+    "text": "1816"
   }, 
-  "dateText": "c.1816", 
+  "dateText": "1816", 
   "depth": "", 
   "dimensions": "support: 125 x 200 mm", 
   "finberg": "CXLVI 28", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 3 Sketchbook [Finberg CXLVI]", 
+  "groupTitle": "Yorkshire 3 Sketchbook", 
   "height": "200", 
   "id": 38789, 
   "inscription": null, 
@@ -101,7 +123,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -130,11 +152,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11414_8_R.jpg", 
-  "title": "?Aske Hall, Richmond", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11414_8.jpg", 
+  "title": "Hornby Castle from the South", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-aske-hall-richmond-d11414", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-hornby-castle-from-the-south-d11414", 
   "width": "125"
 }

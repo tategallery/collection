@@ -1,9 +1,27 @@
 {
   "acno": "D33448", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D33448", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D334/D33448_E.jpg", 
+          "height": 260, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D33406-D33469; D41103-D41104", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXI", 
     "groupType": "Turner Sketchbook", 
     "id": 65955, 
     "shortTitle": "Lake of Zug and Goldau Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 173 x 73 mm", 
   "finberg": "CCCXXXI 22", 
   "foreignTitle": null, 
-  "groupTitle": "Lake of Zug and Goldau Sketchbook [Finberg CCCXXXI]", 
+  "groupTitle": "Lake of Zug and Goldau Sketchbook", 
   "height": "73", 
   "id": 60619, 
   "inscription": null, 
@@ -101,14 +122,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33448_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33448_8.jpg", 
   "title": "View of City", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-view-of-city-d33448", 

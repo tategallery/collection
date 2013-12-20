@@ -1,10 +1,28 @@
 {
   "acno": "D08846", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D08846", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D88/D08846_E.jpg", 
+          "height": 444, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137325, 
   "catalogueGroup": {
     "accessionRanges": "D08807-D08815; D08817-D08822; D08824; D08826-D08842; D08844; D08846; D08848-D08863; D08940; D40821; D41522", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65765, 
     "shortTitle": "Corfe to Dartmouth Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 170 x 209 mm", 
   "finberg": "CXXIV 32", 
   "foreignTitle": null, 
-  "groupTitle": "Corfe to Dartmouth Sketchbook [Finberg CXXIV]", 
+  "groupTitle": "Corfe to Dartmouth Sketchbook", 
   "height": "209", 
   "id": 36229, 
   "inscription": null, 
@@ -54,7 +75,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -76,13 +97,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08846_8.jpg", 
   "title": "Water Gate, Exeter", 
   "units": "mm", 

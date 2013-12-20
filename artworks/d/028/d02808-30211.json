@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D02614-D02810; D40777-D40779", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65705, 
     "shortTitle": "Dunbar Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,10 +35,17 @@
   "dimensions": "support: 115 x 162 mm", 
   "finberg": "LIV 115 a", 
   "foreignTitle": null, 
-  "groupTitle": "Dunbar Sketchbook [Finberg LIV]", 
+  "groupTitle": "Dunbar Sketchbook", 
   "height": "162", 
   "id": 30211, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "National Maritime Museum (London, UK)", 
+      "url": "http://www.nmm.ac.uk"
+    }
+  ], 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 234, 
@@ -78,8 +89,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02808_8.jpg", 
   "title": "Study of Waves Breaking on the Shore", 
   "units": "mm", 

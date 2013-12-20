@@ -1,10 +1,28 @@
 {
   "acno": "D26819", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D26819", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D268/D26819_E.jpg", 
+          "height": 337, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1135177, 
   "catalogueGroup": {
     "accessionRanges": "D26748-D26834; D26836-D26935; D41086", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65898, 
     "shortTitle": "Staffa Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 186 x 116 mm", 
   "finberg": "CCLXXIII 41", 
   "foreignTitle": null, 
-  "groupTitle": "Staffa Sketchbook [Finberg CCLXXIII]", 
+  "groupTitle": "Staffa Sketchbook", 
   "height": "116", 
   "id": 54156, 
   "inscription": null, 
@@ -64,8 +85,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26819_8.jpg", 
   "title": "Sketches of Tobermory, Lunga and Staffa from a Boat", 
   "units": "mm", 

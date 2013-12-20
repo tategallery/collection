@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D01629-D01642; D01647-D01665; D01668-D01675", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLI", 
     "groupType": "Turner Sketchbook", 
     "id": 65695, 
     "shortTitle": "Cyfarthfa Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 289 x 455 mm", 
   "finberg": "XLI 28 a", 
   "foreignTitle": null, 
-  "groupTitle": "Cyfarthfa Sketchbook [Finberg XLI]", 
+  "groupTitle": "Cyfarthfa Sketchbook", 
   "height": "455", 
   "id": 29066, 
   "inscription": null, 
@@ -93,7 +97,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -148,13 +152,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01661_8.jpg", 
   "title": "Shipping at the Mouth of the Wye; The Ruins of a Chapel on an Islet in the Distance", 
   "units": "mm", 

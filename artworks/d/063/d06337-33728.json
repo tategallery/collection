@@ -1,10 +1,28 @@
 {
   "acno": "D06337", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D06337", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D63/D06337_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 363
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1130521, 
   "catalogueGroup": {
     "accessionRanges": "D06180-D06362; D40594-D40595; D41507", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65745, 
     "shortTitle": "Wey, Guildford Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 182 x 117 mm", 
   "finberg": "XCVIII 126", 
   "foreignTitle": null, 
-  "groupTitle": "Wey, Guildford Sketchbook [Finberg XCVIII]", 
+  "groupTitle": "Wey, Guildford Sketchbook", 
   "height": "117", 
   "id": 33728, 
   "inscription": null, 
@@ -102,7 +123,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -126,8 +147,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06337_8.jpg", 
   "title": "The View from Windsor Castle, North Terrace, Looking West, The Brocas to the Right, Clewer Church in the Distance, Right Centre", 
   "units": "mm", 

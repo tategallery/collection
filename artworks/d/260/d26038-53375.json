@@ -1,10 +1,28 @@
 {
   "acno": "D26038", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D26038", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D260/D26038_E.jpg", 
+          "height": 329, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1134406, 
   "catalogueGroup": {
     "accessionRanges": "D25929-D26017; D26020-D26095; D40995-D40996", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65892, 
     "shortTitle": "Abbotsford Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 113 x 185 mm", 
   "finberg": "CCLXVII 65", 
   "foreignTitle": null, 
-  "groupTitle": "Abbotsford Sketchbook [Finberg CCLXVII]", 
+  "groupTitle": "Abbotsford Sketchbook", 
   "height": "185", 
   "id": 53375, 
   "inscription": null, 
@@ -97,12 +118,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -111,24 +132,25 @@
               {
                 "id": 761, 
                 "name": "living room", 
-                "workCount": 243
+                "workCount": 242
               }
             ], 
             "id": 41, 
             "name": "domestic", 
-            "workCount": 1246
+            "workCount": 1245
           }
         ], 
         "id": 40, 
         "name": "interiors", 
-        "workCount": 2405
+        "workCount": 2404
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26038_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D26/D26038_8.jpg", 
   "title": "The Library at Abbotsford", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-the-library-at-abbotsford-d26038", 

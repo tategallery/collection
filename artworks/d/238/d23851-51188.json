@@ -1,9 +1,27 @@
 {
   "acno": "D23851", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D23851", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D238/D23851_E.jpg", 
+          "height": 373, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D23699-D23885; D41080-D41081", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65883, 
     "shortTitle": "Tancarville and Lillebonne Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 156 x 107 mm", 
   "finberg": "CCLIII 77 a", 
   "foreignTitle": null, 
-  "groupTitle": "Tancarville and Lillebonne Sketchbook [Finberg CCLIII]", 
+  "groupTitle": "Tancarville and Lillebonne Sketchbook", 
   "height": "107", 
   "id": 51188, 
   "inscription": null, 
@@ -58,13 +79,14 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23851_8.jpg", 
   "title": "Sailing Vessels", 
   "units": "mm", 

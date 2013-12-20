@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D34962-D34971; D34973; D34975; D34977; D34979; D34981; D34983; D34985; D34987; D34989; D34991; D34993; D34995; D34997; D34999", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXLV", 
     "groupType": "Turner Sketchbook", 
     "id": 65965, 
     "shortTitle": "Lucerne Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 228 x 325 mm", 
   "finberg": "CCCXLV 10", 
   "foreignTitle": null, 
-  "groupTitle": "Lucerne Sketchbook [Finberg CCCXLV]", 
+  "groupTitle": "Lucerne Sketchbook", 
   "height": "325", 
   "id": 62125, 
   "inscription": null, 
@@ -75,8 +79,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D34/D34971_8.jpg", 
   "title": "Lake and Sky", 
   "units": "mm", 

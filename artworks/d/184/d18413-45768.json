@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D18311-D18425; D18428-D18470; D18477-D18478; D41237", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCX", 
     "groupType": "Turner Sketchbook", 
     "id": 65846, 
     "shortTitle": "Brighton and Arundel Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 118 x 75 mm", 
   "finberg": "CCX 60 a", 
   "foreignTitle": null, 
-  "groupTitle": "Brighton and Arundel Sketchbook [Finberg CCX]", 
+  "groupTitle": "Brighton and Arundel Sketchbook", 
   "height": "75", 
   "id": 45768, 
   "inscription": null, 
@@ -120,12 +124,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -161,8 +165,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D18/D18413_8.jpg", 
   "title": "Kirkstall Lock", 
   "units": "mm", 

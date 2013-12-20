@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D02178-D02235; D41264-D41265; D41466-D41467", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65700, 
     "shortTitle": "Fonthill Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 468 x 331 mm", 
   "finberg": "XLVII 10", 
   "foreignTitle": null, 
-  "groupTitle": "Fonthill Sketchbook [Finberg XLVII]", 
+  "groupTitle": "Fonthill Sketchbook", 
   "height": "331", 
   "id": 29590, 
   "inscription": null, 
@@ -119,12 +123,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -165,8 +169,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02187_8.jpg", 
   "title": "Fonthill Abbey ?from the South West; Sunset", 
   "units": "mm", 

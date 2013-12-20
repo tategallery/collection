@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D33525-D33534; D33536-D33540; D40161-D40164; D40326; D40421-D40422", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65958, 
     "shortTitle": "Lausanne Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -28,7 +32,7 @@
   "dimensions": "support: 235 x 331 mm", 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Lausanne Sketchbook [Finberg CCCXXXIV]", 
+  "groupTitle": "Lausanne Sketchbook", 
   "height": "331", 
   "id": 63928, 
   "inscription": null, 
@@ -71,8 +75,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40161_8.jpg", 
   "title": "[title not known]", 
   "units": "mm", 

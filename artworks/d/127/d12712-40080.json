@@ -1,9 +1,27 @@
 {
   "acno": "D12712", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D12712", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D127/D12712_E.jpg", 
+          "height": 329, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D12702-D12883; D40663-D40665", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLX", 
     "groupType": "Turner Sketchbook", 
     "id": 65802, 
     "shortTitle": "Waterloo and Rhine Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 150 x 94 mm", 
   "finberg": "CLX 7", 
   "foreignTitle": null, 
-  "groupTitle": "Waterloo and Rhine Sketchbook [Finberg CLX]", 
+  "groupTitle": "Waterloo and Rhine Sketchbook", 
   "height": "94", 
   "id": 40080, 
   "inscription": null, 
@@ -96,7 +117,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -113,7 +134,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -137,9 +158,10 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12712_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12712_8.jpg", 
   "title": "The Minne-Water, Bruges", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-the-minne-water-bruges-d12712", 

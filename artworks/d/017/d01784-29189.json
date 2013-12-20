@@ -1,9 +1,27 @@
 {
   "acno": "D01784", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01784", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D17/D01784_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 397
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01676-D01805; D01807-D01815; D41424-D41426", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLII", 
     "groupType": "Turner Sketchbook", 
     "id": 65696, 
     "shortTitle": "Swans Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 174 x 125 mm", 
   "finberg": "XLII 109", 
   "foreignTitle": null, 
-  "groupTitle": "Swans Sketchbook [Finberg XLII]", 
+  "groupTitle": "Swans Sketchbook", 
   "height": "125", 
   "id": 29189, 
   "inscription": null, 
@@ -80,8 +101,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01784_8.jpg", 
   "title": "A Ruined Castle on a Hill above a River", 
   "units": "mm", 

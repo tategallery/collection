@@ -1,9 +1,27 @@
 {
   "acno": "D02478", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D02478", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D24/D02478_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 381
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D02462-D02613; D40775-D40776", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65704, 
     "shortTitle": "Helmsley Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 164 x 117 mm", 
   "finberg": "LIII 12", 
   "foreignTitle": null, 
-  "groupTitle": "Helmsley Sketchbook [Finberg LIII]", 
+  "groupTitle": "Helmsley Sketchbook", 
   "height": "117", 
   "id": 29881, 
   "inscription": null, 
@@ -58,7 +79,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -86,12 +107,12 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -108,13 +129,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02478_8.jpg", 
   "title": "An Old Woman Seated by a Hut", 
   "units": "mm", 

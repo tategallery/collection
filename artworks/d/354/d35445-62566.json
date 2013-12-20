@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D35436-D35453; D35456-D35458; D40172", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65979, 
     "shortTitle": "Eu and Treport Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 326 x 232 mm", 
   "finberg": "CCCLIX 10", 
   "foreignTitle": null, 
-  "groupTitle": "Eu and Treport Sketchbook [Finberg CCCLIX]", 
+  "groupTitle": "Eu and Treport Sketchbook", 
   "height": "232", 
   "id": 62566, 
   "inscription": null, 
@@ -100,12 +104,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -124,13 +128,14 @@
         ], 
         "id": 40, 
         "name": "interiors", 
-        "workCount": 2405
+        "workCount": 2404
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35445_8.jpg", 
   "title": "Inside the Church of Notre-Dame and St-Laurent at Eu", 
   "units": "mm", 

@@ -1,10 +1,28 @@
 {
   "acno": "D14220", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D14220", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D142/D14220_E.jpg", 
+          "height": 352, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1142741, 
   "catalogueGroup": {
     "accessionRanges": "D14144-D14189; D14192-D14325; D40887-D40889", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65815, 
     "shortTitle": "Turin, Como, Lugarno, Maggiore Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 111 x 186 mm", 
   "finberg": "CLXXIV 38 a", 
   "foreignTitle": null, 
-  "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook [Finberg CLXXIV]", 
+  "groupTitle": "Turin, Como, Lugarno, Maggiore Sketchbook", 
   "height": "186", 
   "id": 41583, 
   "inscription": null, 
@@ -78,7 +99,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -121,13 +142,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14220_8.jpg", 
   "title": "Turin from the River Po", 
   "units": "mm", 

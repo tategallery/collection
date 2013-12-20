@@ -1,9 +1,27 @@
 {
   "acno": "D23069", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D23069", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D230/D23069_E.jpg", 
+          "height": 331, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D23011-D23150; D40496-D40497; D40500", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65877, 
     "shortTitle": "Morlaise to Nantes Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 168 x 108 mm", 
   "finberg": "CCXLVII 32", 
   "foreignTitle": null, 
-  "groupTitle": "Morlaise to Nantes Sketchbook [Finberg CCXLVII]", 
+  "groupTitle": "Morlaise to Nantes Sketchbook", 
   "height": "108", 
   "id": 50406, 
   "inscription": null, 
@@ -89,7 +110,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -127,13 +148,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23069_8.jpg", 
   "title": "Nantes; (a) (b) The Salorges Looking East; (c) From the Salorges, Looking West", 
   "units": "mm", 

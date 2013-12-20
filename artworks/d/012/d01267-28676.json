@@ -1,9 +1,27 @@
 {
   "acno": "D01267", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01267", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D12/D01267_E.jpg", 
+          "height": 363, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01247-D01326; D01328-D01333; D01335-D01355; D40575-D40576", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65692, 
     "shortTitle": "Hereford Court Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 332 x 225 mm", 
   "finberg": "XXXVIII 17", 
   "foreignTitle": null, 
-  "groupTitle": "Hereford Court Sketchbook [Finberg XXXVIII]", 
+  "groupTitle": "Hereford Court Sketchbook", 
   "height": "225", 
   "id": 28676, 
   "inscription": null, 
@@ -113,7 +134,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -147,8 +168,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01267_8.jpg", 
   "title": "Carreg Cennen Castle: The Castle Seen from Below, Looking West", 
   "units": "mm", 

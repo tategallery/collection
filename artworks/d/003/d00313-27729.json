@@ -1,10 +1,28 @@
 {
   "acno": "D00313", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D00313", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D03/D00313_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 362
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1140706, 
   "catalogueGroup": {
     "accessionRanges": "D00260-D00326; D40753-D40754", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XX", 
     "groupType": "Turner Sketchbook", 
     "id": 65684, 
     "shortTitle": "Marford Mill Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 152 x 99 mm", 
   "finberg": "XX 36 a", 
   "foreignTitle": null, 
-  "groupTitle": "Marford Mill Sketchbook [Finberg XX]", 
+  "groupTitle": "Marford Mill Sketchbook", 
   "height": "99", 
   "id": 27729, 
   "inscription": null, 
@@ -80,23 +101,24 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00313_8.jpg", 
   "title": "Two Studies of a Man or Boy Sitting in the Branches of a Tree", 
   "units": "mm", 

@@ -1,9 +1,27 @@
 {
   "acno": "D30569", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D30569", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D305/D30569_E.jpg", 
+          "height": 359, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D30460-D30488; D30490; D30492-D30538; D30540-D30596; D30598-D30632; D41128-D41130", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65931, 
     "shortTitle": "Wurzburg, Rhine and Ostend Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 170 x 104 mm", 
   "finberg": "CCCIII 56 a", 
   "foreignTitle": null, 
-  "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook [Finberg CCCIII]", 
+  "groupTitle": "Wurzburg, Rhine and Ostend Sketchbook", 
   "height": "104", 
   "id": 57819, 
   "inscription": null, 
@@ -101,7 +122,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -118,13 +139,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30569_8.jpg", 
   "title": "Bacharach", 
   "units": "mm", 

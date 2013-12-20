@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D33236-D33243; D33245; D33247-D33286; D33288-D33293; D33295-D33300; D33302-D33307; D33309-D33315; D33317-D33404; D41138-D41139; D41494", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXX", 
     "groupType": "Turner Sketchbook", 
     "id": 65954, 
     "shortTitle": "Rhine, Flushing and Lausanne Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 175 x 107 mm", 
   "finberg": "CCCXXX 15", 
   "foreignTitle": null, 
-  "groupTitle": "Rhine, Flushing and Lausanne Sketchbook [Finberg CCCXXX]", 
+  "groupTitle": "Rhine, Flushing and Lausanne Sketchbook", 
   "height": "107", 
   "id": 60439, 
   "inscription": null, 
@@ -77,13 +81,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33262_8.jpg", 
   "title": "View of Town", 
   "units": "mm", 

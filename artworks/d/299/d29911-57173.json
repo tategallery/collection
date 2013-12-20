@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D29814-D29987; D29989-D29998; D30000-D30001; D41209-D41210", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXCVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65926, 
     "shortTitle": "Heidelberg up to Salzburg Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 165 x 110 mm", 
   "finberg": "CCXCVIII 49 a", 
   "foreignTitle": null, 
-  "groupTitle": "Heidelberg up to Salzburg Sketchbook [Finberg CCXCVIII]", 
+  "groupTitle": "Heidelberg up to Salzburg Sketchbook", 
   "height": "110", 
   "id": 57173, 
   "inscription": null, 
@@ -84,7 +88,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -101,7 +105,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -125,8 +129,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D29/D29911_8.jpg", 
   "title": "Sketches at Esslingen", 
   "units": "mm", 

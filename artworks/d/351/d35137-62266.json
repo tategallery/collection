@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D35125-D35153; D40168-D40169; D40437; D41480", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65969, 
     "shortTitle": "Rheinfelden Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 229 x 326 mm", 
   "finberg": "CCCXLIX 13", 
   "foreignTitle": null, 
-  "groupTitle": "Rheinfelden Sketchbook [Finberg CCCXLIX]", 
+  "groupTitle": "Rheinfelden Sketchbook", 
   "height": "326", 
   "id": 62266, 
   "inscription": null, 
@@ -131,13 +135,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35137_8.jpg", 
   "title": "Baden from the North", 
   "units": "mm", 

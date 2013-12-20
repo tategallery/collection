@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D00207-D00234; D00237-D00259; D40749-D40751; D41421; D41432", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65683, 
     "shortTitle": "Matlock Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,14 +36,32 @@
   "dimensions": "support: 111 x 181 mm", 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Matlock Sketchbook [Finberg XIX]", 
+  "groupTitle": "Matlock Sketchbook", 
   "height": "181", 
   "id": 64497, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "Turner Collection", 
+      "url": "/artworks?sid=75"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "Turner: Works on Paper ", 
+      "url": "/artworks?rid=8398"
+    }
+  ], 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 2, 
   "subjectCount": 0, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40750_8.jpg", 
   "title": "Colour Trials; a Loop", 
   "units": "mm", 

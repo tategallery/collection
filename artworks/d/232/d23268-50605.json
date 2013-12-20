@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D23246-D23335; D41040-D41042", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65879, 
     "shortTitle": "Loire, Tours, Orleans and Paris Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 153 x 103 mm", 
   "finberg": "CCXLIX 12", 
   "foreignTitle": null, 
-  "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook [Finberg CCXLIX]", 
+  "groupTitle": "Loire, Tours, Orleans and Paris Sketchbook", 
   "height": "103", 
   "id": 50605, 
   "inscription": null, 
@@ -137,7 +141,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -161,8 +165,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23268_8.jpg", 
   "title": "(a) ?Ch\u00e2teau de Montcontour; (b) View across the River to a Ch\u00e2teau; (c) More Distant View of Ch\u00e2teau across River; (d) The River Front at Blois", 
   "units": "mm", 

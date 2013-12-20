@@ -1,10 +1,28 @@
 {
   "acno": "D08742", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D08742", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D87/D08742_E.jpg", 
+          "height": 390, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137220, 
   "catalogueGroup": {
     "accessionRanges": "D08362-D08806; D40902-D40906; D41520-D41521", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65764, 
     "shortTitle": "Devonshire Coast, No.1 Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 75 x 117 mm", 
   "finberg": "CXXIII 208", 
   "foreignTitle": null, 
-  "groupTitle": "Devonshire Coast, No.1 Sketchbook [Finberg CXXIII]", 
+  "groupTitle": "Devonshire Coast, No.1 Sketchbook", 
   "height": "117", 
   "id": 36129, 
   "inscription": null, 
@@ -95,7 +116,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -124,7 +145,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -143,7 +164,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -179,8 +200,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08742_8.jpg", 
   "title": "A Quay with a Sailing Boat and a Hulk on a River or Estuary, Perhaps the Hamoaze", 
   "units": "mm", 

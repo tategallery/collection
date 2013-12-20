@@ -1,34 +1,45 @@
 {
   "acno": "D25220", 
   "all_artists": "Joseph Mallord William Turner", 
-  "catalogueGroup": {}, 
+  "catTextResId": 1143858, 
+  "catalogueGroup": {
+    "accessionRanges": "D25125; D25126; D25127; D25217; D25218; D25220; D25228; D25485; D36314; D36316", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163283, 
+    "shortTitle": "Oxford Subjects, Possibly for 'England and Wales'"
+  }, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
     "startYear": 1837, 
-    "text": "c.1837-40"
+    "text": "c.1837-9"
   }, 
-  "dateText": "c.1837\u201340", 
+  "dateText": "c.1837\u20139", 
   "depth": "", 
   "dimensions": "support: 347 x 505 mm", 
   "finberg": "CCLXIII 98", 
   "foreignTitle": null, 
-  "groupTitle": null, 
+  "groupTitle": "Oxford Subjects, Possibly for 'England and Wales'", 
   "height": "505", 
   "id": 52557, 
   "inscription": null, 
+  "locationDetails": [], 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 6, 
@@ -99,7 +110,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -123,8 +134,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25220_8.jpg", 
   "title": "Oxford from North Hinksey", 
   "units": "mm", 

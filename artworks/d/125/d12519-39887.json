@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D12449-D12527; D40582", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65800, 
     "shortTitle": "Skies Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 125 x 247 mm", 
   "finberg": "CLVIII 65 a", 
   "foreignTitle": null, 
-  "groupTitle": "Skies Sketchbook [Finberg CLVIII]", 
+  "groupTitle": "Skies Sketchbook", 
   "height": "247", 
   "id": 39887, 
   "inscription": null, 
@@ -113,7 +117,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -163,7 +167,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -199,8 +203,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12519_8.jpg", 
   "title": "Fourth of June at Eton", 
   "units": "mm", 

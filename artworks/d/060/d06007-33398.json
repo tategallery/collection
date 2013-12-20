@@ -1,10 +1,28 @@
 {
   "acno": "D06007", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D06007", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D60/D06007_E.jpg", 
+          "height": 308, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1130183, 
   "catalogueGroup": {
     "accessionRanges": "D05961-D06071; D40650-D40654", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65743, 
     "shortTitle": "River Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 92 x 163 mm", 
   "finberg": "XCVI 39", 
   "foreignTitle": null, 
-  "groupTitle": "River Sketchbook [Finberg XCVI]", 
+  "groupTitle": "River Sketchbook", 
   "height": "163", 
   "id": 33398, 
   "inscription": null, 
@@ -59,7 +80,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -78,7 +99,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -102,8 +123,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06007_8.jpg", 
   "title": "A Barn, with Figures", 
   "units": "mm", 

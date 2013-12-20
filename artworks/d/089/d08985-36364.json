@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D08965-D09016; D41530", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65770, 
     "shortTitle": "Sandycombe and Yorkshire Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +36,7 @@
   "dimensions": "support: 126 x 202 mm", 
   "finberg": "CXXVII 15", 
   "foreignTitle": null, 
-  "groupTitle": "Sandycombe and Yorkshire Sketchbook [Finberg CXXVII]", 
+  "groupTitle": "Sandycombe and Yorkshire Sketchbook", 
   "height": "202", 
   "id": 36364, 
   "inscription": null, 
@@ -84,7 +88,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -101,13 +105,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08985_8.jpg", 
   "title": "Alternative Prospects of and an Elevation Design for Sandycombe Lodge, Twickenham", 
   "units": "mm", 

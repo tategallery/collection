@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D31223-D31256; D31258-D31276", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65937, 
     "shortTitle": "Dover, Rhine and Innsbruck Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 174 x 76 mm", 
   "finberg": "CCCIX 15 a", 
   "foreignTitle": null, 
-  "groupTitle": "Dover, Rhine and Innsbruck Sketchbook [Finberg CCCIX]", 
+  "groupTitle": "Dover, Rhine and Innsbruck Sketchbook", 
   "height": "76", 
   "id": 58487, 
   "inscription": null, 
@@ -58,7 +62,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -91,7 +95,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -108,14 +112,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31251_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D31/D31251_8.jpg", 
   "title": "Town, with Mountains. (?Innsbruck)", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-town-with-mountains-innsbruck-d31251", 

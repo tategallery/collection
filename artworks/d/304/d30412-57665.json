@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D30377-D30395; D30397-D30400; D30403-D30458; D41213-D41215; D41510", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCII", 
     "groupType": "Turner Sketchbook", 
     "id": 65930, 
     "shortTitle": "On the Neckar Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 155 x 100 mm", 
   "finberg": "CCCII 21 a", 
   "foreignTitle": null, 
-  "groupTitle": "On the Neckar Sketchbook [Finberg CCCII]", 
+  "groupTitle": "On the Neckar Sketchbook", 
   "height": "100", 
   "id": 57665, 
   "inscription": null, 
@@ -58,7 +62,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -94,8 +98,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30412_8.jpg", 
   "title": "River Scenery: Wooded Hills", 
   "units": "mm", 

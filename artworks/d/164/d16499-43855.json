@@ -1,10 +1,28 @@
 {
   "acno": "D16499", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D16499", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D164/D16499_E.jpg", 
+          "height": 341, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1138392, 
   "catalogueGroup": {
     "accessionRanges": "D16486-D16640; D40955-D40957", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXCI", 
     "groupType": "Turner Sketchbook", 
     "id": 65832, 
     "shortTitle": "Rome and Florence Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 113 x 189 mm", 
   "finberg": "CXCI 8 a", 
   "foreignTitle": null, 
-  "groupTitle": "Rome and Florence Sketchbook [Finberg CXCI]", 
+  "groupTitle": "Rome and Florence Sketchbook", 
   "height": "189", 
   "id": 43855, 
   "inscription": null, 
@@ -114,7 +135,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -138,8 +159,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16499_8.jpg", 
   "title": "View Looking North-West from Monte Testaccio, Rome, with the Distant Dome of St Peter's", 
   "units": "mm", 

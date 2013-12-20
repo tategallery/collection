@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D30633-D30634; D30636-D30637; D30639-D30668; D30670-D30671; D30673-D30680; D30682-D30684; D30686; D30688-D30723; D30725-D30822; D41225", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65932, 
     "shortTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 190 x 118 mm", 
   "finberg": "CCCIV 61", 
   "foreignTitle": null, 
-  "groupTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook [Finberg CCCIV]", 
+  "groupTitle": "Prague, Nuremberg, Frankfurt and Rhine Sketchbook", 
   "height": "118", 
   "id": 57987, 
   "inscription": null, 
@@ -108,13 +112,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30746_8.jpg", 
   "title": "A Town (?Elbogen)", 
   "units": "mm", 

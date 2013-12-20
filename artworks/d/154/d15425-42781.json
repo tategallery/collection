@@ -1,10 +1,28 @@
 {
   "acno": "D15425", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15425", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D154/D15425_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132720, 
   "catalogueGroup": {
     "accessionRanges": "D15296-D15466; D40616-D40618", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXII", 
     "groupType": "Turner Sketchbook", 
     "id": 65823, 
     "shortTitle": "Albano, Nemi, Rome Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 111 x 188 mm", 
   "finberg": "CLXXXII 67", 
   "foreignTitle": null, 
-  "groupTitle": "Albano, Nemi, Rome Sketchbook [Finberg CLXXXII]", 
+  "groupTitle": "Albano, Nemi, Rome Sketchbook", 
   "height": "188", 
   "id": 42781, 
   "inscription": null, 
@@ -59,13 +80,14 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15425_8.jpg", 
   "title": "Fragments of Sculpture, ?Rome", 
   "units": "mm", 

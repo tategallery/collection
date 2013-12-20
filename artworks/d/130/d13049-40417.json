@@ -1,9 +1,27 @@
 {
   "acno": "D13049", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D13049", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D130/D13049_E.jpg", 
+          "height": 338, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D12996-D13170; D40680-D40681", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXII", 
     "groupType": "Turner Sketchbook", 
     "id": 65804, 
     "shortTitle": "Dort Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 156 x 93 mm", 
   "finberg": "CLXII 30", 
   "foreignTitle": null, 
-  "groupTitle": "Dort Sketchbook [Finberg CLXII]", 
+  "groupTitle": "Dort Sketchbook", 
   "height": "93", 
   "id": 40417, 
   "inscription": null, 
@@ -58,7 +79,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -89,13 +110,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D13/D13049_8.jpg", 
   "title": "Ship Aground", 
   "units": "mm", 

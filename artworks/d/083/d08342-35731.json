@@ -1,9 +1,27 @@
 {
   "acno": "D08342", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D08342", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D83/D08342_E.jpg", 
+          "height": 325, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D08283-D08359; D40898-D40901; D41431; D41536", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXII", 
     "groupType": "Turner Sketchbook", 
     "id": 65763, 
     "shortTitle": "Finance Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 69 x 112 mm", 
   "finberg": "CXXII 37", 
   "foreignTitle": null, 
-  "groupTitle": "Finance Sketchbook [Finberg CXXII]", 
+  "groupTitle": "Finance Sketchbook", 
   "height": "112", 
   "id": 35731, 
   "inscription": null, 
@@ -48,17 +69,17 @@
               {
                 "id": 519, 
                 "name": "female", 
-                "workCount": 1336
+                "workCount": 1335
               }, 
               {
                 "id": 480, 
                 "name": "male", 
-                "workCount": 732
+                "workCount": 731
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
@@ -80,7 +101,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -99,13 +120,14 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08342_8.jpg", 
   "title": "Two Figures", 
   "units": "mm", 

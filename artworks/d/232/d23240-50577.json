@@ -1,9 +1,27 @@
 {
   "acno": "D23240", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D23240", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D232/D23240_E.jpg", 
+          "height": 350, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D23151-D23245; D40689-D40690", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65878, 
     "shortTitle": "Nantes, Angers and Saumur Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 170 x 110 mm", 
   "finberg": "CCXLVIII 46", 
   "foreignTitle": null, 
-  "groupTitle": "Nantes, Angers and Saumur Sketchbook [Finberg CCXLVIII]", 
+  "groupTitle": "Nantes, Angers and Saumur Sketchbook", 
   "height": "110", 
   "id": 50577, 
   "inscription": null, 
@@ -103,12 +124,12 @@
             ], 
             "id": 41, 
             "name": "domestic", 
-            "workCount": 1246
+            "workCount": 1245
           }
         ], 
         "id": 40, 
         "name": "interiors", 
-        "workCount": 2405
+        "workCount": 2404
       }, 
       {
         "children": [
@@ -117,23 +138,24 @@
               {
                 "id": 587, 
                 "name": "stair / step", 
-                "workCount": 376
+                "workCount": 375
               }
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23240_8.jpg", 
   "title": "Inside of a Troglodyte Cave, near Saumur", 
   "units": "mm", 

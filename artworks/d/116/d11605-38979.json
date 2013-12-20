@@ -1,9 +1,28 @@
 {
   "acno": "D11605", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D11605", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D116/D11605_E.jpg", 
+          "height": 340, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143267, 
   "catalogueGroup": {
     "accessionRanges": "D11596-D11908; D40859", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65791, 
     "shortTitle": "Yorkshire 6 Sketchbook"
@@ -12,27 +31,30 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
     "startYear": 1816, 
-    "text": "c.1816-18"
+    "text": "c.1816"
   }, 
-  "dateText": "c.1816\u201318", 
+  "dateText": "c.1816", 
   "depth": "", 
-  "dimensions": "support: 149 x 93 mm", 
+  "dimensions": "support: 93 x 149 mm", 
   "finberg": "CXLIX 10", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 6 Sketchbook [Finberg CXLIX]", 
-  "height": "93", 
+  "groupTitle": "Yorkshire 6 Sketchbook", 
+  "height": "149", 
   "id": 38979, 
   "inscription": null, 
   "medium": null, 
@@ -77,7 +99,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -113,11 +135,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11605_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11605_8.jpg", 
   "title": "Distant Castle and Trees", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-distant-castle-and-trees-d11605", 
-  "width": "149"
+  "width": "93"
 }

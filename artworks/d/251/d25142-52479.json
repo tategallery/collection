@@ -1,18 +1,28 @@
 {
   "acno": "D25142", 
   "all_artists": "Joseph Mallord William Turner", 
-  "catalogueGroup": {}, 
+  "catTextResId": 1143846, 
+  "catalogueGroup": {
+    "accessionRanges": "D25124; D25133; D25142; D25144; D25145; D25151; D25153; D25162; D25176; D25184; D25189; D25194; D25204; D25211; D25222; D25224; D25226; D25251; D25282; D25283; D25284; D25294; D25308; D25310; D25473; D25474; D36222; D40191; D40192", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163281, 
+    "shortTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'"
+  }, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -25,10 +35,27 @@
   "dimensions": "support: 306 x 487 mm", 
   "finberg": "CCLXIII 20", 
   "foreignTitle": null, 
-  "groupTitle": null, 
+  "groupTitle": "Identified or Likely Subjects, Possibly for 'England and Wales'", 
   "height": "487", 
   "id": 52479, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "Turner Collection", 
+      "url": "/artworks?sid=75"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "Turner: Works on Paper ", 
+      "url": "/artworks?rid=8398"
+    }
+  ], 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 9, 
@@ -106,7 +133,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -125,7 +152,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -166,11 +193,12 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25142_8.jpg", 
-  "title": "Tintern Abbey, Monmouthshire", 
+  "title": "Tintern Abbey from the River Wye", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-tintern-abbey-monmouthshire-d25142", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-tintern-abbey-from-the-river-wye-d25142", 
   "width": "306"
 }

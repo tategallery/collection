@@ -1,9 +1,27 @@
 {
   "acno": "D19230", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D19230", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D192/D19230_E.jpg", 
+          "height": 399, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D18841-D19400; D40991-D40992", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65851, 
     "shortTitle": "Holland Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 155 x 95 mm", 
   "finberg": "CCXIV 197", 
   "foreignTitle": null, 
-  "groupTitle": "Holland Sketchbook [Finberg CCXIV]", 
+  "groupTitle": "Holland Sketchbook", 
   "height": "95", 
   "id": 46583, 
   "inscription": null, 
@@ -70,7 +91,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -89,14 +110,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19230_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D19/D19230_8.jpg", 
   "title": "Buildings", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-buildings-d19230", 

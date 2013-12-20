@@ -1,10 +1,28 @@
 {
   "acno": "D15847", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D15847", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D158/D15847_E.jpg", 
+          "height": 330, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1138316, 
   "catalogueGroup": {
     "accessionRanges": "D15739-D15907; D40942-D40944; D41515", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65826, 
     "shortTitle": "Pompeii, Amalfi, &c., Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 113 x 189 mm", 
   "finberg": "CLXXXV 59", 
   "foreignTitle": null, 
-  "groupTitle": "Pompeii, Amalfi, &c., Sketchbook [Finberg CLXXXV]", 
+  "groupTitle": "Pompeii, Amalfi, &c., Sketchbook", 
   "height": "189", 
   "id": 43203, 
   "inscription": null, 
@@ -109,7 +130,7 @@
         ], 
         "id": 145, 
         "name": "society", 
-        "workCount": 14242
+        "workCount": 14241
       }, 
       {
         "children": [
@@ -140,7 +161,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -186,8 +207,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D15/D15847_8.jpg", 
   "title": "Two Sketches of Castellamare di Stabia; and a View from Marina Grande, Sorrento", 
   "units": "mm", 

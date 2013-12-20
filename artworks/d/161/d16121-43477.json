@@ -1,10 +1,28 @@
 {
   "acno": "D16121", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D16121", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D161/D16121_E.jpg", 
+          "height": 324, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132381, 
   "catalogueGroup": {
     "accessionRanges": "D16089-D16103; D16105-D16131; D16133-D16156; D17195; D40048; D40079; D41404-D41407; D41482; D41514", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65828, 
     "shortTitle": "Naples: Rome. C. Studies Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 255 x 404 mm", 
   "finberg": "CLXXXVII 33", 
   "foreignTitle": null, 
-  "groupTitle": "Naples: Rome. C. Studies Sketchbook [Finberg CLXXXVII]", 
+  "groupTitle": "Naples: Rome. C. Studies Sketchbook", 
   "height": "404", 
   "id": 43477, 
   "inscription": null, 
@@ -120,13 +141,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16121_8.jpg", 
   "title": "View of Tivoli from the Valley, with the Cascatelli and the Santuario di Ercole Vincitore", 
   "units": "mm", 

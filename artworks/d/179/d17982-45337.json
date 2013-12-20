@@ -1,9 +1,27 @@
 {
   "acno": "D17982", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D17982", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D179/D17982_E.jpg", 
+          "height": 338, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D17913-D17990; D40966-D40968", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65843, 
     "shortTitle": "London Bridge and Portsmouth Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 100 x 160 mm", 
   "finberg": "CCVI 36 a", 
   "foreignTitle": null, 
-  "groupTitle": "London Bridge and Portsmouth Sketchbook [Finberg CCVI]", 
+  "groupTitle": "London Bridge and Portsmouth Sketchbook", 
   "height": "160", 
   "id": 45337, 
   "inscription": null, 
@@ -53,12 +74,12 @@
             ], 
             "id": 6729, 
             "name": "formal qualities", 
-            "workCount": 5711
+            "workCount": 5710
           }
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -82,8 +103,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D17/D17982_8.jpg", 
   "title": "Diagrams", 
   "units": "mm", 

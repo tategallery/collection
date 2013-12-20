@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D03994-D04096; D04098-D04151; D40585-D40590", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LXIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65719, 
     "shortTitle": "Studies for Pictures Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 215 x 138 mm", 
   "finberg": "LXIX 131", 
   "foreignTitle": null, 
-  "groupTitle": "Studies for Pictures Sketchbook [Finberg LXIX]", 
+  "groupTitle": "Studies for Pictures Sketchbook", 
   "height": "138", 
   "id": 31545, 
   "inscription": null, 
@@ -72,7 +76,7 @@
             ], 
             "id": 170, 
             "name": "vessels and containers", 
-            "workCount": 1607
+            "workCount": 1606
           }, 
           {
             "children": [
@@ -89,7 +93,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -113,8 +117,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04150_8.jpg", 
   "title": "Studies of Egyptian Artefacts, Including a Canopic Jar with Ape or Baboon Head", 
   "units": "mm", 

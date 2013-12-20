@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D35069-D35124; D41141-D41143", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXLVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65968, 
     "shortTitle": "Grindelwald Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 116 x 106 mm", 
   "finberg": "CCCXLVIII 22", 
   "foreignTitle": null, 
-  "groupTitle": "Grindelwald Sketchbook [Finberg CCCXLVIII]", 
+  "groupTitle": "Grindelwald Sketchbook", 
   "height": "106", 
   "id": 62240, 
   "inscription": null, 
@@ -82,8 +86,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35111_8.jpg", 
   "title": "Mountains. Shidek [Turner] (?Scheideck)", 
   "units": "mm", 

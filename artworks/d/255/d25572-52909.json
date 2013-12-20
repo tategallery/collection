@@ -1,10 +1,28 @@
 {
   "acno": "D25572", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D25572", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D255/D25572_E.jpg", 
+          "height": 424, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1133932, 
   "catalogueGroup": {
     "accessionRanges": "D25524-D25643; D41065-D41067", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65889, 
     "shortTitle": "Rokeby and Appleby Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 74 x 94 mm", 
   "finberg": "CCLXIV 25 a", 
   "foreignTitle": null, 
-  "groupTitle": "Rokeby and Appleby Sketchbook [Finberg CCLXIV]", 
+  "groupTitle": "Rokeby and Appleby Sketchbook", 
   "height": "94", 
   "id": 52909, 
   "inscription": null, 
@@ -76,8 +97,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25572_8.jpg", 
   "title": "?Borrowdale of the River Derwent", 
   "units": "mm", 

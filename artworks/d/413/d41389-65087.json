@@ -1,9 +1,27 @@
 {
   "acno": "D41389", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D41389", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D413/D41389_E.jpg", 
+          "height": 339, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D09017-D09057; D41389", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65771, 
     "shortTitle": "Large Farnley Sketchbook"
@@ -12,23 +30,29 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
-  "dateRange": null, 
-  "dateText": "date not known", 
+  "dateRange": {
+    "startYear": 1816, 
+    "text": "c.1816"
+  }, 
+  "dateText": "c.1816", 
   "depth": "", 
   "dimensions": null, 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Large Farnley Sketchbook [Finberg CXXVIII]", 
+  "groupTitle": "Large Farnley Sketchbook", 
   "height": "", 
   "id": 65087, 
   "inscription": null, 
@@ -36,9 +60,10 @@
   "movementCount": 0, 
   "pageNumber": 14, 
   "subjectCount": 0, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41389_8.jpg", 
-  "title": "[title not known]", 
+  "title": "Splashes of Watercolour", 
   "units": "", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-title-not-known-d41389", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-splashes-of-watercolour-d41389", 
   "width": ""
 }

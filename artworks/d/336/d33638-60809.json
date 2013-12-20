@@ -1,9 +1,27 @@
 {
   "acno": "D33638", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D33638", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D336/D33638_E.jpg", 
+          "height": 360, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D33633-D33652; D40430-D40431", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65962, 
     "shortTitle": "Como and Splugen Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 231 x 329 mm", 
   "finberg": "CCCXXXVIII 6", 
   "foreignTitle": null, 
-  "groupTitle": "Como and Splugen Sketchbook [Finberg CCCXXXVIII]", 
+  "groupTitle": "Como and Splugen Sketchbook", 
   "height": "329", 
   "id": 60809, 
   "inscription": null, 
@@ -88,13 +109,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33638_8.jpg", 
   "title": "Town and Mountains beside Lake", 
   "units": "mm", 

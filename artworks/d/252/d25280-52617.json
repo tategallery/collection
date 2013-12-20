@@ -1,31 +1,41 @@
 {
   "acno": "D25280", 
   "all_artists": "Joseph Mallord William Turner", 
-  "catalogueGroup": {}, 
+  "catTextResId": 1143876, 
+  "catalogueGroup": {
+    "accessionRanges": "D25192; D25229; D25280; D25288; D25298", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": "Turner Subset", 
+    "id": 163284, 
+    "shortTitle": "Unidentified Subjects, Possibly for 'England and Wales'"
+  }, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
-    "startYear": 1826, 
-    "text": "c.1826-34"
+    "startYear": 1825, 
+    "text": "c.1825-38"
   }, 
-  "dateText": "c.1826\u201334", 
+  "dateText": "c.1825\u201338", 
   "depth": "", 
   "dimensions": "support: 310 x 488 mm", 
   "finberg": "CCLXIII 158", 
   "foreignTitle": null, 
-  "groupTitle": null, 
+  "groupTitle": "Unidentified Subjects, Possibly for 'England and Wales'", 
   "height": "488", 
   "id": 52617, 
   "inscription": null, 
@@ -87,16 +97,17 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25280_8.jpg", 
-  "title": "'Aurora Borealis'", 
+  "title": "A Tower or Spire in a Landscape ('Aurora Borealis')", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-aurora-borealis-d25280", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-a-tower-or-spire-in-a-landscape-aurora-borealis-d25280", 
   "width": "310"
 }

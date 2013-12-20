@@ -1,9 +1,27 @@
 {
   "acno": "D09872", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D09872", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D98/D09872_E.jpg", 
+          "height": 352, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D09789-D09855; D09857-D09888; D40878-D40884", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXXIV", 
     "groupType": "Turner Sketchbook", 
     "id": 65776, 
     "shortTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 179 x 254 mm", 
   "finberg": "CXXXIV 71", 
   "foreignTitle": null, 
-  "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook [Finberg CXXXIV]", 
+  "groupTitle": "Devonshire Rivers, No.3, and Wharfedale Sketchbook", 
   "height": "254", 
   "id": 37250, 
   "inscription": null, 
@@ -125,7 +146,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -154,8 +175,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D09/D09872_8.jpg", 
   "title": "Okehampton", 
   "units": "mm", 

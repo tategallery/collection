@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D23151-D23245; D40689-D40690", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCXLVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65878, 
     "shortTitle": "Nantes, Angers and Saumur Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 170 x 110 mm", 
   "finberg": "CCXLVIII 20 a", 
   "foreignTitle": null, 
-  "groupTitle": "Nantes, Angers and Saumur Sketchbook [Finberg CCXLVIII]", 
+  "groupTitle": "Nantes, Angers and Saumur Sketchbook", 
   "height": "110", 
   "id": 50526, 
   "inscription": null, 
@@ -113,7 +117,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -154,8 +158,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23189_8.jpg", 
   "title": "Five Views at Montjean-sur-Loire, from the East", 
   "units": "mm", 

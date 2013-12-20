@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D35240-D35261; D40442", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65973, 
     "shortTitle": "The Whalers Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 222 x 663 mm", 
   "finberg": "CCCLIII 17", 
   "foreignTitle": null, 
-  "groupTitle": "The Whalers Sketchbook [Finberg CCCLIII]", 
+  "groupTitle": "The Whalers Sketchbook", 
   "height": "663", 
   "id": 62384, 
   "inscription": null, 
@@ -47,12 +51,12 @@
               {
                 "id": 519, 
                 "name": "female", 
-                "workCount": 1336
+                "workCount": 1335
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
@@ -64,7 +68,7 @@
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -81,13 +85,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35256_8.jpg", 
   "title": "Reclining Figure", 
   "units": "mm", 

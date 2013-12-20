@@ -1,9 +1,28 @@
 {
   "acno": "D11509", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D11509", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D115/D11509_E.jpg", 
+          "height": 323, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
+  "catTextResId": 1143957, 
   "catalogueGroup": {
     "accessionRanges": "D11442-D11479; D11481-D11517; D40839-D40843; D41497", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXLVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65789, 
     "shortTitle": "Yorkshire 4 Sketchbook"
@@ -12,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +53,7 @@
   "dimensions": "support: 125 x 206 mm", 
   "finberg": "CXLVII 40 a", 
   "foreignTitle": null, 
-  "groupTitle": "Yorkshire 4 Sketchbook [Finberg CXLVII]", 
+  "groupTitle": "Yorkshire 4 Sketchbook", 
   "height": "206", 
   "id": 38883, 
   "inscription": null, 
@@ -142,7 +164,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -161,16 +183,17 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D11/D11509_8.jpg", 
-  "title": "Heysham and Cumberland Mountains", 
+  "title": "From Heysham, Looking across Morecambe Bay to the Lake District Mountains", 
   "units": "mm", 
-  "url": "http://www.tate.org.uk/art/artworks/turner-heysham-and-cumberland-mountains-d11509", 
+  "url": "http://www.tate.org.uk/art/artworks/turner-from-heysham-looking-across-morecambe-bay-to-the-lake-district-mountains-d11509", 
   "width": "125"
 }

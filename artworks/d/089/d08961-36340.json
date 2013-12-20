@@ -1,10 +1,28 @@
 {
   "acno": "D08961", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D08961", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D89/D08961_E.jpg", 
+          "height": 324, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1137558, 
   "catalogueGroup": {
     "accessionRanges": "D08945-D08964; D40294-D40295; D41531", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CXXVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65769, 
     "shortTitle": "Somerset and North Devon Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 200 x 324 mm", 
   "finberg": "CXXVI 15", 
   "foreignTitle": null, 
-  "groupTitle": "Somerset and North Devon Sketchbook [Finberg CXXVI]", 
+  "groupTitle": "Somerset and North Devon Sketchbook", 
   "height": "324", 
   "id": 36340, 
   "inscription": null, 
@@ -58,7 +79,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -111,13 +132,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08961_8.jpg", 
   "title": "?The Valley of the West Lyn River near Lynton", 
   "units": "mm", 

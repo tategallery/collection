@@ -1,10 +1,28 @@
 {
   "acno": "D40633", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D40633", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D406/D40633_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 381
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1131043, 
   "catalogueGroup": {
     "accessionRanges": "D05717-D05765; D40631; D40633; D40660", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCII", 
     "groupType": "Turner Sketchbook", 
     "id": 65739, 
     "shortTitle": "Sussex Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 216 x 153 mm", 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Sussex Sketchbook [Finberg XCII]", 
+  "groupTitle": "Sussex Sketchbook", 
   "height": "153", 
   "id": 64382, 
   "inscription": null, 
@@ -40,6 +61,7 @@
   "movementCount": 0, 
   "pageNumber": 26, 
   "subjectCount": 0, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D40/D40633_8.jpg", 
   "title": "Unidentified Subject", 
   "units": "mm", 

@@ -1,9 +1,27 @@
 {
   "acno": "D14900", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D14900", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D149/D14900_E.jpg", 
+          "height": 408, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D14833-D14853; D14855-D14878; D14880-D14881; D14883-D14885; D14887-D14903; D14905-D14932; D40671-D40672", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65819, 
     "shortTitle": "Rimini to Rome Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 97 x 132 mm", 
   "finberg": "CLXXVIII 39", 
   "foreignTitle": null, 
-  "groupTitle": "Rimini to Rome Sketchbook [Finberg CLXXVIII]", 
+  "groupTitle": "Rimini to Rome Sketchbook", 
   "height": "132", 
   "id": 42258, 
   "inscription": null, 
@@ -96,13 +117,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D14/D14900_8.jpg", 
   "title": "Buildings on Hill", 
   "units": "mm", 

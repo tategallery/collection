@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D27901-D27914; D27916-D27939; D41090", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65911, 
     "shortTitle": "Oxford Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 145 x 235 mm", 
   "finberg": "CCLXXXV 23 a", 
   "foreignTitle": null, 
-  "groupTitle": "Oxford Sketchbook [Finberg CCLXXXV]", 
+  "groupTitle": "Oxford Sketchbook", 
   "height": "235", 
   "id": 55248, 
   "inscription": null, 
@@ -132,18 +136,19 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27929_8.jpg", 
   "title": "Merton College", 
   "units": "mm", 

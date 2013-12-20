@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D28167-D28290; D41087-D41089", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXXVIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65914, 
     "shortTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 168 x 101 mm", 
   "finberg": "CCLXXXVIII 15 a", 
   "foreignTitle": null, 
-  "groupTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook [Finberg CCLXXXVIII]", 
+  "groupTitle": "Givet, M\u00e9zi\u00e8res, Verdun, Metz, Luxemburg and Tr\u00e8ves Sketchbook", 
   "height": "101", 
   "id": 55515, 
   "inscription": null, 
@@ -137,12 +141,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -166,8 +170,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D28/D28196_8.jpg", 
   "title": "Notre-Dame, M\u00e9zi\u00e8res, from the North-East with Fortifications Including the Tour d'Ecole and the Tour Militaire and the Meuse in the Distance", 
   "units": "mm", 

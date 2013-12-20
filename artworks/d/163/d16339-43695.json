@@ -5,6 +5,7 @@
   "catalogueGroup": {
     "accessionRanges": "D16327-D16391; D16393-D16394; D40049-D40050; D40855-D40857", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXXXIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65830, 
     "shortTitle": "Rome: Colour Studies Sketchbook"
@@ -13,13 +14,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,10 +36,11 @@
   "dimensions": "support: 232 x 369 mm", 
   "finberg": "CLXXXIX 13", 
   "foreignTitle": null, 
-  "groupTitle": "Rome: Colour Studies Sketchbook [Finberg CLXXXIX]", 
+  "groupTitle": "Rome: Colour Studies Sketchbook", 
   "height": "369", 
   "id": 43695, 
   "inscription": null, 
+  "locationDetails": [], 
   "medium": "Watercolour, bodycolour and graphite on paper", 
   "movementCount": 0, 
   "subjectCount": 8, 
@@ -84,7 +89,7 @@
             ], 
             "id": 23, 
             "name": "places of entertainment", 
-            "workCount": 268
+            "workCount": 267
           }, 
           {
             "children": [
@@ -96,7 +101,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -125,7 +130,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -161,8 +166,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16339_8.jpg", 
   "title": "The Colosseum, Rome, by Moonlight", 
   "units": "mm", 

@@ -1,10 +1,28 @@
 {
   "acno": "D06499", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D06499", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D64/D06499_E.jpg", 
+          "height": 336, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1130695, 
   "catalogueGroup": {
     "accessionRanges": "D06363-D06491; D06493-D06517; D17159; D40596-D40602", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XCIX", 
     "groupType": "Turner Sketchbook", 
     "id": 65746, 
     "shortTitle": "River and Margate Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 115 x 190 mm", 
   "finberg": "XCIX 80", 
   "foreignTitle": null, 
-  "groupTitle": "River and Margate Sketchbook [Finberg XCIX]", 
+  "groupTitle": "River and Margate Sketchbook", 
   "height": "190", 
   "id": 33890, 
   "inscription": null, 
@@ -76,8 +97,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D06/D06499_8.jpg", 
   "title": "A Stormy Sky", 
   "units": "mm", 

@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D02927-D02984; D02992-D03276; D41240-D41249; D41411", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LVI", 
     "groupType": "Turner Sketchbook", 
     "id": 65707, 
     "shortTitle": "Scotch Lakes Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 182 x 114 mm", 
   "finberg": "LVI 124 a", 
   "foreignTitle": null, 
-  "groupTitle": "Scotch Lakes Sketchbook [Finberg LVI]", 
+  "groupTitle": "Scotch Lakes Sketchbook", 
   "height": "114", 
   "id": 30553, 
   "inscription": null, 
@@ -128,8 +132,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D03/D03157_8.jpg", 
   "title": "A River Valley and Mountains (?the Tummel or Tay between Pitlochry and Dunkeld)", 
   "units": "mm", 

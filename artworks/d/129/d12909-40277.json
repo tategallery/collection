@@ -1,9 +1,27 @@
 {
   "acno": "D12909", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D12909", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D129/D12909_E.jpg", 
+          "height": 399, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D12884-D12992; D41392-D41396", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CLXI", 
     "groupType": "Turner Sketchbook", 
     "id": 65803, 
     "shortTitle": "Rhine Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 202 x 265 mm", 
   "finberg": "CLXI 16", 
   "foreignTitle": null, 
-  "groupTitle": "Rhine Sketchbook [Finberg CLXI]", 
+  "groupTitle": "Rhine Sketchbook", 
   "height": "265", 
   "id": 40277, 
   "inscription": null, 
@@ -113,7 +134,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -149,8 +170,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D12/D12909_8.jpg", 
   "title": "Schloss Stolzenfels and Kapellen from the East Bank", 
   "units": "mm", 

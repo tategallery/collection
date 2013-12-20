@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D33601-D33632; D40327; D40428-D40429", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65961, 
     "shortTitle": "Bellinzona, Sion, &c. Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 222 x 272 mm", 
   "finberg": "CCCXXXVII 28", 
   "foreignTitle": null, 
-  "groupTitle": "Bellinzona, Sion, &c. Sketchbook [Finberg CCCXXXVII]", 
+  "groupTitle": "Bellinzona, Sion, &c. Sketchbook", 
   "height": "272", 
   "id": 60802, 
   "inscription": null, 
@@ -88,7 +92,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -136,8 +140,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33631_8.jpg", 
   "title": "A Storm over Lago Maggiore, from near Magadino", 
   "units": "mm", 

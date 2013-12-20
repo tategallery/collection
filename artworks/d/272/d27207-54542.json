@@ -1,10 +1,28 @@
 {
   "acno": "D27207", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D27207", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D272/D27207_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 348
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1135573, 
   "catalogueGroup": {
     "accessionRanges": "D27046-D27225; D41038-D41039", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65902, 
     "shortTitle": "Inverness Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 163 x 104 mm", 
   "finberg": "CCLXXVII 134", 
   "foreignTitle": null, 
-  "groupTitle": "Inverness Sketchbook [Finberg CCLXXVII]", 
+  "groupTitle": "Inverness Sketchbook", 
   "height": "104", 
   "id": 54542, 
   "inscription": null, 
@@ -114,7 +135,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -143,14 +164,15 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27207_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D27/D27207_8.jpg", 
   "title": "West Door of Elgin Cathedral", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-west-door-of-elgin-cathedral-d27207", 

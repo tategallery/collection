@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D01912-D01991; D41266-D41274", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLV", 
     "groupType": "Turner Sketchbook", 
     "id": 65698, 
     "shortTitle": "Lancashire and North Wales Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 330 x 228 mm", 
   "finberg": "XLV 50", 
   "foreignTitle": null, 
-  "groupTitle": "Lancashire and North Wales Sketchbook [Finberg XLV]", 
+  "groupTitle": "Lancashire and North Wales Sketchbook", 
   "height": "228", 
   "id": 29394, 
   "inscription": null, 
@@ -106,7 +110,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -159,8 +163,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01990_8.jpg", 
   "title": "A River with a Stone Footbridge, among Mountains; ?Near Beddgelert", 
   "units": "mm", 

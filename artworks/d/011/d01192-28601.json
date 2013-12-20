@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D01118-D01174; D01177-D01246; D40762-D40763", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XXXVII", 
     "groupType": "Turner Sketchbook", 
     "id": 65691, 
     "shortTitle": "Wilson Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 113 x 93 mm", 
   "finberg": "XXXVII 75", 
   "foreignTitle": null, 
-  "groupTitle": "Wilson Sketchbook [Finberg XXXVII]", 
+  "groupTitle": "Wilson Sketchbook", 
   "height": "93", 
   "id": 28601, 
   "inscription": null, 
@@ -58,7 +62,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -99,8 +103,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01192_8.jpg", 
   "title": "Cloudy Sky above Fields, Trees and Buildings", 
   "units": "mm", 

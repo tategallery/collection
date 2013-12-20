@@ -1,9 +1,27 @@
 {
   "acno": "D35831", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D35831", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D358/D35831_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 404
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D35758-D35796; D35798-D35804; D35806-D35821; D35823-D35836; D41226-D41229", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCLXIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65983, 
     "shortTitle": "Kent Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 76 x 98 mm", 
   "finberg": "CCCLXIII 41", 
   "foreignTitle": null, 
-  "groupTitle": "Kent Sketchbook [Finberg CCCLXIII]", 
+  "groupTitle": "Kent Sketchbook", 
   "height": "98", 
   "id": 62919, 
   "inscription": null, 
@@ -39,6 +60,7 @@
   "movementCount": 0, 
   "pageNumber": 85, 
   "subjectCount": 0, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D35/D35831_8.jpg", 
   "title": "[inscriptions by Turner]", 
   "units": "mm", 

@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D30130-D30266; D30268-D30295; D41223-D41224", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCC", 
     "groupType": "Turner Sketchbook", 
     "id": 65928, 
     "shortTitle": "Salzburg and Danube Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 159 x 99 mm", 
   "finberg": "CCC 5", 
   "foreignTitle": null, 
-  "groupTitle": "Salzburg and Danube Sketchbook [Finberg CCC]", 
+  "groupTitle": "Salzburg and Danube Sketchbook", 
   "height": "99", 
   "id": 57398, 
   "inscription": null, 
@@ -96,12 +100,12 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -130,8 +134,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D30/D30138_8.jpg", 
   "title": "Salzburg: The Fortress of the Kapuzinerberg", 
   "units": "mm", 

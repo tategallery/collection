@@ -1,9 +1,27 @@
 {
   "acno": "D02886", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D02886", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D28/D02886_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 337
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D02811-D02926; D40729-D40730", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "LV", 
     "groupType": "Turner Sketchbook", 
     "id": 65706, 
     "shortTitle": "Edinburgh Sketchbook"
@@ -12,13 +30,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 197 x 127 mm", 
   "finberg": "LV 52", 
   "foreignTitle": null, 
-  "groupTitle": "Edinburgh Sketchbook [Finberg LV]", 
+  "groupTitle": "Edinburgh Sketchbook", 
   "height": "127", 
   "id": 30289, 
   "inscription": null, 
@@ -125,7 +146,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -154,8 +175,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D02/D02886_8.jpg", 
   "title": "View Looking East from Corstorphine Hill over Edinburgh and the Firth of Forth; St Bernard's Well in the Middle Distance", 
   "units": "mm", 

@@ -1,10 +1,28 @@
 {
   "acno": "D41234", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D41234", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D412/D41234_E.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 343
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1134126, 
   "catalogueGroup": {
     "accessionRanges": "D25644-D25761; D41232-D41234", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCLXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65890, 
     "shortTitle": "Berwick Sketchbook"
@@ -13,13 +31,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +53,7 @@
   "dimensions": "support: 96 x 59 mm", 
   "finberg": null, 
   "foreignTitle": null, 
-  "groupTitle": "Berwick Sketchbook [Finberg CCLXV]", 
+  "groupTitle": "Berwick Sketchbook", 
   "height": "59", 
   "id": 64932, 
   "inscription": null, 
@@ -78,7 +99,7 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }, 
       {
         "children": [
@@ -102,8 +123,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D41/D41234_8.jpg", 
   "title": "Inscriptions; and Sketches", 
   "units": "mm", 

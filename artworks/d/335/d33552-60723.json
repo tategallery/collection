@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D33541-D33567; D40165-D40166; D40423-D40425; D41413; D41479", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCCXXXV", 
     "groupType": "Turner Sketchbook", 
     "id": 65959, 
     "shortTitle": "Fribourg Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 235 x 333 mm", 
   "finberg": "CCCXXXV 12", 
   "foreignTitle": null, 
-  "groupTitle": "Fribourg Sketchbook [Finberg CCCXXXV]", 
+  "groupTitle": "Fribourg Sketchbook", 
   "height": "333", 
   "id": 60723, 
   "inscription": null, 
@@ -119,7 +123,7 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }, 
           {
             "children": [
@@ -136,13 +140,14 @@
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D33/D33552_8.jpg", 
   "title": "Fribourg: The Golden Tower", 
   "units": "mm", 

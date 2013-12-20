@@ -4,6 +4,7 @@
   "catalogueGroup": {
     "accessionRanges": "D23336-D23456; D41071-D41073", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "CCL", 
     "groupType": "Turner Sketchbook", 
     "id": 65880, 
     "shortTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook"
@@ -12,13 +13,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T", 
+      "workCount": 41857
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 133 x 91 mm", 
   "finberg": "CCL 42", 
   "foreignTitle": null, 
-  "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook [Finberg CCL]", 
+  "groupTitle": "Cherbourg, Coutances and Mont St Michel Sketchbook", 
   "height": "91", 
   "id": 50752, 
   "inscription": null, 
@@ -72,19 +76,20 @@
             ], 
             "id": 17, 
             "name": "features", 
-            "workCount": 7253
+            "workCount": 7252
           }
         ], 
         "id": 13, 
         "name": "architecture", 
-        "workCount": 30431
+        "workCount": 30430
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
-  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23415_8_R.jpg", 
+  "thumbnailCopyright": null, 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D23/D23415_8.jpg", 
   "title": "Tower on Hill", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/turner-tower-on-hill-d23415", 
