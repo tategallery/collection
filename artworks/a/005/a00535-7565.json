@@ -1,5 +1,49 @@
 {
   "acno": "A00535", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "A00535_129144", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00535_129144_7.jpg", 
+          "height": 107, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00535_129144_8.jpg", 
+          "height": 214, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00535_129144_9.jpg", 
+          "height": 428, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "A/A00/A00535_129144_10.jpg", 
+          "height": 1284, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
   "all_artists": "George Jones", 
   "catalogueGroup": {
     "accessionRanges": "A00219-A00701; A01189-A01741", 
@@ -12,13 +56,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1786, 
       "date": "1786\u20131869", 
       "displayOrder": 1, 
       "fc": "George Jones", 
       "gender": "Male", 
       "id": 300, 
       "mda": "Jones, George", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "J", 
+      "workCount": 1046
     }
   ], 
   "creditLine": "Presented by the artist's widow 1888", 
@@ -43,12 +90,12 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -65,13 +112,14 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00535_8.jpg", 
   "title": "[title not known]", 
   "units": "", 

@@ -1,5 +1,49 @@
 {
   "acno": "A00111", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "A00111_303546", 
+      "sizes": [
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 96
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 192
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 548
+        }, 
+        {
+          "caption": null, 
+          "cleared": true, 
+          "file": "A/A00/A00111_303546_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1152
+        }
+      ]
+    }
+  ], 
   "all_artists": "William Blake", 
   "catalogueGroup": {
     "accessionRanges": "A00111-A00127", 
@@ -12,13 +56,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1757, 
       "date": "1757\u20131827", 
       "displayOrder": 1, 
       "fc": "William Blake", 
       "gender": "Male", 
       "id": 39, 
       "mda": "Blake, William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "B", 
+      "workCount": 183
     }
   ], 
   "creditLine": "Presented by Herbert Linnell 1924", 
@@ -109,7 +156,7 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -143,7 +190,7 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -212,17 +259,17 @@
               {
                 "id": 270, 
                 "name": "standing", 
-                "workCount": 2260
+                "workCount": 2259
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -241,13 +288,14 @@
         ], 
         "id": 116, 
         "name": "work and occupations", 
-        "workCount": 5205
+        "workCount": 5204
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/A/A00/A00111_8.jpg", 
   "title": "Frontispiece: Thenot and Colinet", 
   "units": "mm", 
