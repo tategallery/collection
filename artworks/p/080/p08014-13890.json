@@ -1,5 +1,49 @@
 {
   "acno": "P08014", 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 John Stezaker", 
+      "filenameBase": "P08014_122106", 
+      "sizes": [
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 101
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 202
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_9.jpg", 
+          "height": 512, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 404
+        }, 
+        {
+          "caption": "Polyptych", 
+          "cleared": true, 
+          "file": "P/P08/P08014_122106_10.jpg", 
+          "height": 1534, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1209
+        }
+      ]
+    }
+  ], 
   "all_artists": "John Stezaker", 
   "catalogueGroup": {
     "accessionRanges": "P08006-P08015", 
@@ -12,13 +56,16 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1949, 
       "date": "born 1949", 
       "displayOrder": 1, 
       "fc": "John Stezaker", 
       "gender": "Male", 
       "id": 2000, 
       "mda": "Stezaker, John", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "S", 
+      "workCount": 13
     }
   ], 
   "creditLine": "Transferred from the Library 1977", 
@@ -58,17 +105,17 @@
               {
                 "id": 826, 
                 "name": "table", 
-                "workCount": 501
+                "workCount": 500
               }
             ], 
             "id": 82, 
             "name": "furnishings", 
-            "workCount": 1926
+            "workCount": 1925
           }
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }, 
       {
         "children": [
@@ -82,17 +129,17 @@
               {
                 "id": 9328, 
                 "name": "photographic", 
-                "workCount": 2833
+                "workCount": 2832
               }
             ], 
             "id": 6729, 
             "name": "formal qualities", 
-            "workCount": 5711
+            "workCount": 5710
           }
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -140,8 +187,9 @@
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
+  "thumbnailCopyright": "\u00a9 John Stezaker", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P08/P08014_8.jpg", 
   "title": "1. 10 and 1. 11", 
   "units": "mm", 
