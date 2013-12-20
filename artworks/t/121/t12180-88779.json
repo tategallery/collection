@@ -1,18 +1,65 @@
 {
   "acno": "T12180", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "T12180_303694", 
+      "sizes": [
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T12/T12180_303694_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 92
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T12/T12180_303694_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 185
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T12/T12180_303694_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 527
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": false, 
+          "file": "T/T12/T12180_303694_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1109
+        }
+      ]
+    }
+  ], 
   "all_artists": "Andr\u00e9 Cadere", 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1934, 
       "date": "1934\u20131978", 
       "displayOrder": 1, 
       "fc": "Andr\u00e9 Cadere", 
       "gender": "Male", 
       "id": 9243, 
       "mda": "Cadere, Andr\u00e9", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "C", 
+      "workCount": 1
     }
   ], 
   "creditLine": "Purchased 2006", 
@@ -28,6 +75,23 @@
   "height": "30", 
   "id": 88779, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Liverpool", 
+      "url": "/artworks?vid=4"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "DLA Piper Series : Constellations", 
+      "url": "/artworks?sid=3921"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "H\u00e9lio Oiticica - Tropic\u00e1lia", 
+      "url": "/artworks?rid=8637"
+    }
+  ], 
   "medium": "Painted wood", 
   "movementCount": 0, 
   "subjectCount": 3, 
@@ -74,12 +138,12 @@
         ], 
         "id": 78, 
         "name": "objects", 
-        "workCount": 12238
+        "workCount": 12237
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T12/T12180_8.jpg", 
   "title": "Round Bar of Wood", 

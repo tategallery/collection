@@ -1,18 +1,65 @@
 {
   "acno": "T13000", 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "T13000_298501", 
+      "sizes": [
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T13/T13000_298501_7.jpg", 
+          "height": 128, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 94
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T13/T13000_298501_8.jpg", 
+          "height": 256, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 188
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T13/T13000_298501_9.jpg", 
+          "height": 730, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 536
+        }, 
+        {
+          "caption": "Verso", 
+          "cleared": true, 
+          "file": "T/T13/T13000_298501_10.jpg", 
+          "height": 1536, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1127
+        }
+      ]
+    }
+  ], 
   "all_artists": "William Blake", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1757, 
       "date": "1757\u20131827", 
       "displayOrder": 1, 
       "fc": "William Blake", 
       "gender": "Male", 
       "id": 39, 
       "mda": "Blake, William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "B", 
+      "workCount": 183
     }
   ], 
   "creditLine": "Purchased with funds provided by the Art Fund, Tate Members, Tate Patrons, Tate Fund and individual donors 2009", 
@@ -28,6 +75,23 @@
   "height": "186", 
   "id": 96968, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Tate Britain", 
+      "url": "/artworks?vid=1"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "BP Spotlights", 
+      "url": "/artworks?sid=3621"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "William Blake", 
+      "url": "/artworks?rid=8578"
+    }
+  ], 
   "medium": "Etching with paint, watercolour and ink on paper", 
   "movementCount": 0, 
   "subjectCount": 14, 
@@ -76,12 +140,12 @@
               {
                 "id": 694, 
                 "name": "sitting", 
-                "workCount": 2371
+                "workCount": 2370
               }
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }, 
           {
             "children": [
@@ -100,12 +164,12 @@
               {
                 "id": 519, 
                 "name": "female", 
-                "workCount": 1336
+                "workCount": 1335
               }
             ], 
             "id": 98, 
             "name": "nudes", 
-            "workCount": 2016
+            "workCount": 2015
           }, 
           {
             "children": [
@@ -134,7 +198,7 @@
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }, 
       {
         "children": [
@@ -194,7 +258,7 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas", 
-        "workCount": 7966
+        "workCount": 7965
       }, 
       {
         "children": [
@@ -213,12 +277,12 @@
         ], 
         "id": 116, 
         "name": "work and occupations", 
-        "workCount": 5205
+        "workCount": 5204
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13000_8.jpg", 
   "title": "The Book of Thel pl. 6", 

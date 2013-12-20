@@ -1,18 +1,65 @@
 {
   "acno": "T07941", 
+  "additionalImages": [
+    {
+      "copyright": "\u00a9 Bowness, Hepworth Estate", 
+      "filenameBase": "T07941_303279", 
+      "sizes": [
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "T/T07/T07941_303279_7.jpg", 
+          "height": 83, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "T/T07/T07941_303279_8.jpg", 
+          "height": 165, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "T/T07/T07941_303279_9.jpg", 
+          "height": 471, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional  view 1", 
+          "cleared": true, 
+          "file": "T/T07/T07941_303279_10.jpg", 
+          "height": 991, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
   "all_artists": "Dame Barbara Hepworth", 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1903, 
       "date": "1903\u20131975", 
       "displayOrder": 1, 
       "fc": "Dame Barbara Hepworth", 
       "gender": "Female", 
       "id": 1274, 
       "mda": "Hepworth, Dame Barbara", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "H", 
+      "workCount": 128
     }
   ], 
   "creditLine": "Presented by the Barbara Hepworth Estate 2003", 
@@ -21,13 +68,30 @@
     "text": "1947"
   }, 
   "dateText": "1947", 
-  "depth": "", 
+  "depth": "66", 
   "dimensions": "displayed: 100 x 208 x 66 mm, 1.2 kg", 
   "foreignTitle": null, 
   "groupTitle": null, 
-  "height": "", 
+  "height": "208", 
   "id": 76313, 
   "inscription": null, 
+  "locationDetails": [
+    {
+      "label": "On display at ", 
+      "name": "Barbara Hepworth Museum and Sculpture Garden", 
+      "url": "/artworks?vid=5"
+    }, 
+    {
+      "label": "Theme: ", 
+      "name": "Museum and Sculpture Garden", 
+      "url": "/artworks?sid=1335"
+    }, 
+    {
+      "label": "Room: ", 
+      "name": "Museum", 
+      "url": "/artworks?rid=3679"
+    }
+  ], 
   "medium": "Portland stone", 
   "movementCount": 1, 
   "movements": [
@@ -35,7 +99,7 @@
       "era": {
         "id": 415, 
         "name": "20th century post-1945", 
-        "workCount": 3604
+        "workCount": 3603
       }, 
       "id": 441, 
       "name": "St Ives School", 
@@ -119,21 +183,21 @@
             ], 
             "id": 92, 
             "name": "actions: postures and motions", 
-            "workCount": 6757
+            "workCount": 6756
           }
         ], 
         "id": 91, 
         "name": "people", 
-        "workCount": 21177
+        "workCount": 21176
       }
     ], 
     "id": 1, 
     "name": "subject", 
-    "workCount": 59457
+    "workCount": 59456
   }, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T07/T07941_8.jpg", 
   "title": "Model for Sculpture for Waterloo Bridge", 
-  "units": "", 
+  "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/hepworth-model-for-sculpture-for-waterloo-bridge-t07941", 
-  "width": ""
+  "width": "100"
 }
