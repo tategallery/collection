@@ -1,5 +1,6 @@
 {
   "acno": "D00047", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1140095, 
   "catalogueGroup": {
@@ -21,8 +22,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -39,7 +39,13 @@
   "height": "511", 
   "id": 27463, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Graphite, watercolour and pen and ink on paper", 
   "movementCount": 0, 
   "subjectCount": 7, 
@@ -51,42 +57,35 @@
             "children": [
               {
                 "id": 2803, 
-                "name": "England", 
-                "workCount": 8177
+                "name": "England"
               }
             ], 
             "id": 113, 
-            "name": "UK countries and regions", 
-            "workCount": 10973
+            "name": "UK countries and regions"
           }, 
           {
             "children": [
               {
                 "id": 1090, 
-                "name": "Oxford - non-specific", 
-                "workCount": 42
+                "name": "Oxford - non-specific"
               }
             ], 
             "id": 115, 
-            "name": "UK cities, towns and villages", 
-            "workCount": 6775
+            "name": "UK cities, towns and villages"
           }, 
           {
             "children": [
               {
                 "id": 654, 
-                "name": "Oxfordshire", 
-                "workCount": 265
+                "name": "Oxfordshire"
               }
             ], 
             "id": 114, 
-            "name": "UK counties", 
-            "workCount": 9309
+            "name": "UK counties"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -94,23 +93,19 @@
             "children": [
               {
                 "id": 636, 
-                "name": "hill", 
-                "workCount": 10038
+                "name": "hill"
               }, 
               {
                 "id": 496, 
-                "name": "wooded", 
-                "workCount": 8571
+                "name": "wooded"
               }
             ], 
             "id": 71, 
-            "name": "landscape", 
-            "workCount": 24053
+            "name": "landscape"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }, 
       {
         "children": [
@@ -118,18 +113,15 @@
             "children": [
               {
                 "id": 1986, 
-                "name": "title of work", 
-                "workCount": 255
+                "name": "title of work"
               }
             ], 
             "id": 166, 
-            "name": "inscriptions", 
-            "workCount": 4414
+            "name": "inscriptions"
           }
         ], 
         "id": 162, 
-        "name": "symbols & personifications", 
-        "workCount": 4829
+        "name": "symbols & personifications"
       }, 
       {
         "children": [
@@ -137,23 +129,19 @@
             "children": [
               {
                 "id": 989, 
-                "name": "townscape, distant", 
-                "workCount": 8180
+                "name": "townscape, distant"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D00/D00047_8.jpg", 

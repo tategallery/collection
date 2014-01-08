@@ -1,9 +1,28 @@
 {
   "acno": "D01982", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01982", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D19/D01982_E.jpg", 
+          "height": 381, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01912-D01991; D41266-D41274", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLV", 
     "groupType": "Turner Sketchbook", 
     "id": 65698, 
     "shortTitle": "Lancashire and North Wales Sketchbook"
@@ -12,13 +31,15 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +52,7 @@
   "dimensions": "support: 330 x 228 mm", 
   "finberg": "XLV 42", 
   "foreignTitle": null, 
-  "groupTitle": "Lancashire and North Wales Sketchbook [Finberg XLV]", 
+  "groupTitle": "Lancashire and North Wales Sketchbook", 
   "height": "228", 
   "id": 29386, 
   "inscription": null, 
@@ -47,42 +68,35 @@
             "children": [
               {
                 "id": 2803, 
-                "name": "England", 
-                "workCount": 8177
+                "name": "England"
               }
             ], 
             "id": 113, 
-            "name": "UK countries and regions", 
-            "workCount": 10973
+            "name": "UK countries and regions"
           }, 
           {
             "children": [
               {
                 "id": 3160, 
-                "name": "Lancashire", 
-                "workCount": 162
+                "name": "Lancashire"
               }
             ], 
             "id": 114, 
-            "name": "UK counties", 
-            "workCount": 9309
+            "name": "UK counties"
           }, 
           {
             "children": [
               {
                 "id": 11333, 
-                "name": "Stonyhurst College", 
-                "workCount": 4
+                "name": "Stonyhurst College"
               }
             ], 
             "id": 8285, 
-            "name": "UK man-made landmarks", 
-            "workCount": 837
+            "name": "UK man-made landmarks"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -90,35 +104,29 @@
             "children": [
               {
                 "id": 741, 
-                "name": "Gothic", 
-                "workCount": 987
+                "name": "Gothic"
               }, 
               {
                 "id": 528, 
-                "name": "Tudor", 
-                "workCount": 33
+                "name": "Tudor"
               }
             ], 
             "id": 22, 
-            "name": "periods and styles", 
-            "workCount": 3305
+            "name": "periods and styles"
           }, 
           {
             "children": [
               {
                 "id": 4604, 
-                "name": "school", 
-                "workCount": 56
+                "name": "school"
               }
             ], 
             "id": 24, 
-            "name": "public and municipal", 
-            "workCount": 1027
+            "name": "public and municipal"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30431
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -126,18 +134,15 @@
             "children": [
               {
                 "id": 2063, 
-                "name": "artist's notes", 
-                "workCount": 1535
+                "name": "artist's notes"
               }
             ], 
             "id": 166, 
-            "name": "inscriptions", 
-            "workCount": 4414
+            "name": "inscriptions"
           }
         ], 
         "id": 162, 
-        "name": "symbols & personifications", 
-        "workCount": 4829
+        "name": "symbols & personifications"
       }, 
       {
         "children": [
@@ -145,24 +150,21 @@
             "children": [
               {
                 "id": 475, 
-                "name": "lake", 
-                "workCount": 1799
+                "name": "lake"
               }
             ], 
             "id": 76, 
-            "name": "water: inland", 
-            "workCount": 11431
+            "name": "water: inland"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01982_8.jpg", 
   "title": "Stonyhurst College Seen across the Lake", 
   "units": "mm", 

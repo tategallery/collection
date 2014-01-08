@@ -1,5 +1,6 @@
 {
   "acno": "D16339", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132462, 
   "catalogueGroup": {
@@ -22,8 +23,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,7 +40,13 @@
   "height": "369", 
   "id": 43695, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Watercolour, bodycolour and graphite on paper", 
   "movementCount": 0, 
   "subjectCount": 8, 
@@ -52,30 +58,25 @@
             "children": [
               {
                 "id": 237, 
-                "name": "Italy", 
-                "workCount": 3602
+                "name": "Italy"
               }
             ], 
             "id": 108, 
-            "name": "countries and continents", 
-            "workCount": 12032
+            "name": "countries and continents"
           }, 
           {
             "children": [
               {
                 "id": 3300, 
-                "name": "Rome, Colosseum", 
-                "workCount": 37
+                "name": "Rome, Colosseum"
               }
             ], 
             "id": 107, 
-            "name": "cities, towns, villages (non-UK)", 
-            "workCount": 9203
+            "name": "cities, towns, villages (non-UK)"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -83,54 +84,45 @@
             "children": [
               {
                 "id": 3303, 
-                "name": "amphitheatre", 
-                "workCount": 67
+                "name": "amphitheatre"
               }
             ], 
             "id": 23, 
-            "name": "places of entertainment", 
-            "workCount": 267
+            "name": "places of entertainment"
           }, 
           {
             "children": [
               {
                 "id": 244, 
-                "name": "arch", 
-                "workCount": 850
+                "name": "arch"
               }
             ], 
             "id": 17, 
-            "name": "features", 
-            "workCount": 7252
+            "name": "features"
           }, 
           {
             "children": [
               {
                 "id": 514, 
-                "name": "classical", 
-                "workCount": 994
+                "name": "classical"
               }
             ], 
             "id": 22, 
-            "name": "periods and styles", 
-            "workCount": 3305
+            "name": "periods and styles"
           }, 
           {
             "children": [
               {
                 "id": 11829, 
-                "name": "place of entertainment", 
-                "workCount": 61
+                "name": "place of entertainment"
               }
             ], 
             "id": 27, 
-            "name": "ruins", 
-            "workCount": 3193
+            "name": "ruins"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -138,35 +130,29 @@
             "children": [
               {
                 "id": 4568, 
-                "name": "moonlight", 
-                "workCount": 67
+                "name": "moonlight"
               }
             ], 
             "id": 69, 
-            "name": "astronomy", 
-            "workCount": 935
+            "name": "astronomy"
           }, 
           {
             "children": [
               {
                 "id": 540, 
-                "name": "night", 
-                "workCount": 468
+                "name": "night"
               }
             ], 
             "id": 75, 
-            "name": "times of the day", 
-            "workCount": 1555
+            "name": "times of the day"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16339_8.jpg", 

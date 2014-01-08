@@ -1,9 +1,11 @@
 {
   "acno": "D01826", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01816-D01876; D40591-D40593", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65697, 
     "shortTitle": "Academical Sketchbook"
@@ -12,13 +14,15 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 214 x 140 mm", 
   "finberg": "XLIII 10", 
   "foreignTitle": null, 
-  "groupTitle": "Academical Sketchbook [Finberg XLIII]", 
+  "groupTitle": "Academical Sketchbook", 
   "height": "140", 
   "id": 29230, 
   "inscription": null, 
@@ -47,48 +51,41 @@
             "children": [
               {
                 "id": 480, 
-                "name": "male", 
-                "workCount": 732
+                "name": "male"
               }
             ], 
             "id": 98, 
-            "name": "nudes", 
-            "workCount": 2016
+            "name": "nudes"
           }, 
           {
             "children": [
               {
                 "id": 195, 
-                "name": "man", 
-                "workCount": 8605
+                "name": "man"
               }
             ], 
             "id": 95, 
-            "name": "adults", 
-            "workCount": 19619
+            "name": "adults"
           }, 
           {
             "children": [
               {
                 "id": 694, 
-                "name": "sitting", 
-                "workCount": 2371
+                "name": "sitting"
               }
             ], 
             "id": 92, 
-            "name": "actions: postures and motions", 
-            "workCount": 6757
+            "name": "actions: postures and motions"
           }
         ], 
         "id": 91, 
-        "name": "people", 
-        "workCount": 21177
+        "name": "people"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01826_8.jpg", 
   "title": "Study of a Seated Male Nude, Facing to Right", 
   "units": "mm", 

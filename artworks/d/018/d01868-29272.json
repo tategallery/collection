@@ -1,9 +1,11 @@
 {
   "acno": "D01868", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01816-D01876; D40591-D40593", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65697, 
     "shortTitle": "Academical Sketchbook"
@@ -12,13 +14,15 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 214 x 140 mm", 
   "finberg": "XLIII 45 a", 
   "foreignTitle": null, 
-  "groupTitle": "Academical Sketchbook [Finberg XLIII]", 
+  "groupTitle": "Academical Sketchbook", 
   "height": "140", 
   "id": 29272, 
   "inscription": null, 
@@ -47,30 +51,25 @@
             "children": [
               {
                 "id": 636, 
-                "name": "hill", 
-                "workCount": 10038
+                "name": "hill"
               }
             ], 
             "id": 71, 
-            "name": "landscape", 
-            "workCount": 24053
+            "name": "landscape"
           }, 
           {
             "children": [
               {
                 "id": 495, 
-                "name": "river", 
-                "workCount": 7933
+                "name": "river"
               }
             ], 
             "id": 76, 
-            "name": "water: inland", 
-            "workCount": 11431
+            "name": "water: inland"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }, 
       {
         "children": [
@@ -78,24 +77,21 @@
             "children": [
               {
                 "id": 2355, 
-                "name": "ship, sailing", 
-                "workCount": 1351
+                "name": "ship, sailing"
               }
             ], 
             "id": 161, 
-            "name": "transport: water", 
-            "workCount": 7827
+            "name": "transport: water"
           }
         ], 
         "id": 145, 
-        "name": "society", 
-        "workCount": 14242
+        "name": "society"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01868_8.jpg", 
   "title": "Ships on a River, with Distant Hills", 
   "units": "mm", 

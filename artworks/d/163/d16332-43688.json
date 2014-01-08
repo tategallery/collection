@@ -1,5 +1,6 @@
 {
   "acno": "D16332", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132455, 
   "catalogueGroup": {
@@ -22,8 +23,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,7 +40,13 @@
   "height": "231", 
   "id": 43688, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Gouache, graphite and watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 7, 
@@ -52,35 +58,29 @@
             "children": [
               {
                 "id": 237, 
-                "name": "Italy", 
-                "workCount": 3602
+                "name": "Italy"
               }
             ], 
             "id": 108, 
-            "name": "countries and continents", 
-            "workCount": 12032
+            "name": "countries and continents"
           }, 
           {
             "children": [
               {
                 "id": 6022, 
-                "name": "Rome - non-specific", 
-                "workCount": 161
+                "name": "Rome - non-specific"
               }, 
               {
                 "id": 7314, 
-                "name": "Rome, St Peter's Church", 
-                "workCount": 44
+                "name": "Rome, St Peter's Church"
               }
             ], 
             "id": 107, 
-            "name": "cities, towns, villages (non-UK)", 
-            "workCount": 9203
+            "name": "cities, towns, villages (non-UK)"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -88,45 +88,37 @@
             "children": [
               {
                 "id": 244, 
-                "name": "arch", 
-                "workCount": 850
+                "name": "arch"
               }, 
               {
                 "id": 7063, 
-                "name": "portico", 
-                "workCount": 43
+                "name": "portico"
               }, 
               {
                 "id": 587, 
-                "name": "stair / step", 
-                "workCount": 375
+                "name": "stair / step"
               }
             ], 
             "id": 17, 
-            "name": "features", 
-            "workCount": 7252
+            "name": "features"
           }, 
           {
             "children": [
               {
                 "id": 465, 
-                "name": "church", 
-                "workCount": 2281
+                "name": "church"
               }
             ], 
             "id": 25, 
-            "name": "religious", 
-            "workCount": 4159
+            "name": "religious"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16332_8.jpg", 

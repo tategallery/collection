@@ -1,5 +1,6 @@
 {
   "acno": "D04626", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D04590-D04643; D04645-D04648; D41390-D41391", 
@@ -21,8 +22,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -39,7 +39,13 @@
   "height": "318", 
   "id": 32019, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Graphite, watercolour and gouache on paper", 
   "movementCount": 0, 
   "subjectCount": 12, 
@@ -51,52 +57,43 @@
             "children": [
               {
                 "id": 2979, 
-                "name": "Alps", 
-                "workCount": 748
+                "name": "Alps"
               }, 
               {
                 "id": 10592, 
-                "name": "Sch\u00f6llenen Gorge", 
-                "workCount": 5
+                "name": "Sch\u00f6llenen Gorge"
               }, 
               {
                 "id": 8364, 
-                "name": "St Gotthard Pass", 
-                "workCount": 41
+                "name": "St Gotthard Pass"
               }
             ], 
             "id": 111, 
-            "name": "natural features (non-UK)", 
-            "workCount": 4159
+            "name": "natural features (non-UK)"
           }, 
           {
             "children": [
               {
                 "id": 10593, 
-                "name": "Devil's Bridge", 
-                "workCount": 9
+                "name": "Devil's Bridge"
               }
             ], 
             "id": 8407, 
-            "name": "man-made landmarks (non-UK)", 
-            "workCount": 784
+            "name": "man-made landmarks (non-UK)"
           }, 
           {
             "children": [
               {
                 "id": 883, 
-                "name": "Switzerland", 
-                "workCount": 917
+                "name": "Switzerland"
               }
             ], 
             "id": 108, 
-            "name": "countries and continents", 
-            "workCount": 12032
+            "name": "countries and continents"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -104,42 +101,35 @@
             "children": [
               {
                 "id": 244, 
-                "name": "arch", 
-                "workCount": 850
+                "name": "arch"
               }
             ], 
             "id": 17, 
-            "name": "features", 
-            "workCount": 7252
+            "name": "features"
           }, 
           {
             "children": [
               {
                 "id": 945, 
-                "name": "bridge", 
-                "workCount": 3845
+                "name": "bridge"
               }
             ], 
             "id": 15, 
-            "name": "bridges and viaducts", 
-            "workCount": 3954
+            "name": "bridges and viaducts"
           }, 
           {
             "children": [
               {
                 "id": 650, 
-                "name": "path", 
-                "workCount": 214
+                "name": "path"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -147,52 +137,43 @@
             "children": [
               {
                 "id": 1347, 
-                "name": "cloud", 
-                "workCount": 1818
+                "name": "cloud"
               }
             ], 
             "id": 77, 
-            "name": "weather", 
-            "workCount": 3201
+            "name": "weather"
           }, 
           {
             "children": [
               {
                 "id": 2942, 
-                "name": "gorge", 
-                "workCount": 612
+                "name": "gorge"
               }, 
               {
                 "id": 880, 
-                "name": "mountain", 
-                "workCount": 6140
+                "name": "mountain"
               }
             ], 
             "id": 71, 
-            "name": "landscape", 
-            "workCount": 24053
+            "name": "landscape"
           }, 
           {
             "children": [
               {
                 "id": 913, 
-                "name": "waterfall", 
-                "workCount": 435
+                "name": "waterfall"
               }
             ], 
             "id": 76, 
-            "name": "water: inland", 
-            "workCount": 11431
+            "name": "water: inland"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D04/D04626_8.jpg", 

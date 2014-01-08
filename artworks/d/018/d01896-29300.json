@@ -1,18 +1,38 @@
 {
   "acno": "D01896", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01896", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D18/D01896_E.jpg", 
+          "height": 438, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,46 +60,39 @@
             "children": [
               {
                 "id": 741, 
-                "name": "Gothic", 
-                "workCount": 987
+                "name": "Gothic"
               }
             ], 
             "id": 22, 
-            "name": "periods and styles", 
-            "workCount": 3305
+            "name": "periods and styles"
           }, 
           {
             "children": [
               {
                 "id": 244, 
-                "name": "arch", 
-                "workCount": 850
+                "name": "arch"
               }, 
               {
                 "id": 4898, 
-                "name": "stonework", 
-                "workCount": 403
+                "name": "stonework"
               }, 
               {
                 "id": 529, 
-                "name": "window", 
-                "workCount": 509
+                "name": "window"
               }
             ], 
             "id": 17, 
-            "name": "features", 
-            "workCount": 7253
+            "name": "features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30431
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01896_8.jpg", 
   "title": "Studies of the Tracery of Decorated Gothic Windows", 
   "units": "mm", 

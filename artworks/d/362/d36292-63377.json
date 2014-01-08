@@ -1,5 +1,6 @@
 {
   "acno": "D36292", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1143795, 
   "catalogueGroup": {
@@ -21,8 +22,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -39,7 +39,13 @@
   "height": "438", 
   "id": 63377, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 3, 
@@ -51,30 +57,25 @@
             "children": [
               {
                 "id": 495, 
-                "name": "river", 
-                "workCount": 7933
+                "name": "river"
               }
             ], 
             "id": 76, 
-            "name": "water: inland", 
-            "workCount": 11431
+            "name": "water: inland"
           }, 
           {
             "children": [
               {
                 "id": 614, 
-                "name": "storm", 
-                "workCount": 751
+                "name": "storm"
               }
             ], 
             "id": 77, 
-            "name": "weather", 
-            "workCount": 3201
+            "name": "weather"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }, 
       {
         "children": [
@@ -82,23 +83,19 @@
             "children": [
               {
                 "id": 989, 
-                "name": "townscape, distant", 
-                "workCount": 8180
+                "name": "townscape, distant"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D36/D36292_8.jpg", 

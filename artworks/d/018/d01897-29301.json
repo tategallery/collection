@@ -1,18 +1,38 @@
 {
   "acno": "D01897", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01897", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D18/D01897_E.jpg", 
+          "height": 415, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,30 +60,25 @@
             "children": [
               {
                 "id": 769, 
-                "name": "road", 
-                "workCount": 935
+                "name": "road"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }, 
           {
             "children": [
               {
                 "id": 2030, 
-                "name": "windmill", 
-                "workCount": 306
+                "name": "windmill"
               }
             ], 
             "id": 19, 
-            "name": "industrial", 
-            "workCount": 1038
+            "name": "industrial"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30431
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -71,24 +86,21 @@
             "children": [
               {
                 "id": 496, 
-                "name": "wooded", 
-                "workCount": 8571
+                "name": "wooded"
               }
             ], 
             "id": 71, 
-            "name": "landscape", 
-            "workCount": 24053
+            "name": "landscape"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01897_8.jpg", 
   "title": "Road with Trees and Windmill", 
   "units": "mm", 

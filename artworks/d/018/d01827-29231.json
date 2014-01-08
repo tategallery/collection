@@ -1,9 +1,11 @@
 {
   "acno": "D01827", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {
     "accessionRanges": "D01816-D01876; D40591-D40593", 
     "completeStatus": "COMPLETE", 
+    "finbergNumber": "XLIII", 
     "groupType": "Turner Sketchbook", 
     "id": 65697, 
     "shortTitle": "Academical Sketchbook"
@@ -12,13 +14,15 @@
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -31,7 +35,7 @@
   "dimensions": "support: 214 x 140 mm", 
   "finberg": "XLIII 11", 
   "foreignTitle": null, 
-  "groupTitle": "Academical Sketchbook [Finberg XLIII]", 
+  "groupTitle": "Academical Sketchbook", 
   "height": "140", 
   "id": 29231, 
   "inscription": null, 
@@ -47,18 +51,15 @@
             "children": [
               {
                 "id": 678, 
-                "name": "boat - non-specific", 
-                "workCount": 2015
+                "name": "boat - non-specific"
               }
             ], 
             "id": 161, 
-            "name": "transport: water", 
-            "workCount": 7827
+            "name": "transport: water"
           }
         ], 
         "id": 145, 
-        "name": "society", 
-        "workCount": 14242
+        "name": "society"
       }, 
       {
         "children": [
@@ -66,47 +67,39 @@
             "children": [
               {
                 "id": 558, 
-                "name": "coast", 
-                "workCount": 3627
+                "name": "coast"
               }, 
               {
                 "id": 1518, 
-                "name": "harbour", 
-                "workCount": 1204
+                "name": "harbour"
               }
             ], 
             "id": 73, 
-            "name": "seascapes and coasts", 
-            "workCount": 6838
+            "name": "seascapes and coasts"
           }, 
           {
             "children": [
               {
                 "id": 1326, 
-                "name": "fire", 
-                "workCount": 200
+                "name": "fire"
               }
             ], 
             "id": 70, 
-            "name": "natural phenomena", 
-            "workCount": 1949
+            "name": "natural phenomena"
           }, 
           {
             "children": [
               {
                 "id": 537, 
-                "name": "moon", 
-                "workCount": 439
+                "name": "moon"
               }
             ], 
             "id": 69, 
-            "name": "astronomy", 
-            "workCount": 935
+            "name": "astronomy"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }, 
       {
         "children": [
@@ -114,24 +107,21 @@
             "children": [
               {
                 "id": 2550, 
-                "name": "temple", 
-                "workCount": 235
+                "name": "temple"
               }
             ], 
             "id": 25, 
-            "name": "religious", 
-            "workCount": 4159
+            "name": "religious"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30431
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01827_8.jpg", 
   "title": "Composition with a Flaming Beacon and a ?Temple near a Harbour; Moonlight", 
   "units": "mm", 

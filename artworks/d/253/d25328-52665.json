@@ -1,5 +1,6 @@
 {
   "acno": "D25328", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
@@ -14,8 +15,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -32,7 +32,13 @@
   "height": "377", 
   "id": 52665, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 6, 
@@ -44,69 +50,57 @@
             "children": [
               {
                 "id": 1519, 
-                "name": "beach", 
-                "workCount": 928
+                "name": "beach"
               }, 
               {
                 "id": 558, 
-                "name": "coast", 
-                "workCount": 3627
+                "name": "coast"
               }, 
               {
                 "id": 557, 
-                "name": "sea", 
-                "workCount": 3099
+                "name": "sea"
               }
             ], 
             "id": 73, 
-            "name": "seascapes and coasts", 
-            "workCount": 6838
+            "name": "seascapes and coasts"
           }, 
           {
             "children": [
               {
                 "id": 1347, 
-                "name": "cloud", 
-                "workCount": 1818
+                "name": "cloud"
               }
             ], 
             "id": 77, 
-            "name": "weather", 
-            "workCount": 3201
+            "name": "weather"
           }, 
           {
             "children": [
               {
                 "id": 537, 
-                "name": "moon", 
-                "workCount": 439
+                "name": "moon"
               }
             ], 
             "id": 69, 
-            "name": "astronomy", 
-            "workCount": 935
+            "name": "astronomy"
           }, 
           {
             "children": [
               {
                 "id": 540, 
-                "name": "night", 
-                "workCount": 468
+                "name": "night"
               }
             ], 
             "id": 75, 
-            "name": "times of the day", 
-            "workCount": 1555
+            "name": "times of the day"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D25/D25328_8.jpg", 

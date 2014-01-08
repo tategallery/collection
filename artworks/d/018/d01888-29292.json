@@ -1,18 +1,38 @@
 {
   "acno": "D01888", 
+  "acquisitionYear": 1856, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "D01888", 
+      "sizes": [
+        {
+          "caption": "Enhanced image", 
+          "cleared": true, 
+          "file": "enhanced_images/D18/D01888_E.jpg", 
+          "height": 435, 
+          "resolution": 512, 
+          "size": "large", 
+          "width": 512
+        }
+      ]
+    }
+  ], 
   "all_artists": "Joseph Mallord William Turner", 
   "catalogueGroup": {}, 
   "classification": "on paper, unique", 
   "contributorCount": 1, 
   "contributors": [
     {
+      "birthYear": 1775, 
       "date": "1775\u20131851", 
       "displayOrder": 1, 
       "fc": "Joseph Mallord William Turner", 
       "gender": "Male", 
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
-      "role": "artist"
+      "role": "artist", 
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,36 +60,31 @@
             "children": [
               {
                 "id": 465, 
-                "name": "church", 
-                "workCount": 2281
+                "name": "church"
               }
             ], 
             "id": 25, 
-            "name": "religious", 
-            "workCount": 4159
+            "name": "religious"
           }, 
           {
             "children": [
               {
                 "id": 2774, 
-                "name": "graveyard", 
-                "workCount": 170
+                "name": "graveyard"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30431
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59457
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D01/D01888_8.jpg", 
   "title": "A Small Church with a Wooden Tower, from the South East", 
   "units": "mm", 

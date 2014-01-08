@@ -1,5 +1,6 @@
 {
   "acno": "D16106", 
+  "acquisitionYear": 1856, 
   "all_artists": "Joseph Mallord William Turner", 
   "catTextResId": 1132365, 
   "catalogueGroup": {
@@ -22,8 +23,7 @@
       "id": 558, 
       "mda": "Turner, Joseph Mallord William", 
       "role": "artist", 
-      "startLetter": "T", 
-      "workCount": 41857
+      "startLetter": "T"
     }
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
@@ -40,7 +40,13 @@
   "height": "403", 
   "id": 43462, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Graphite and watercolour on paper", 
   "movementCount": 0, 
   "subjectCount": 10, 
@@ -52,47 +58,39 @@
             "children": [
               {
                 "id": 8322, 
-                "name": "Bay of Naples", 
-                "workCount": 64
+                "name": "Bay of Naples"
               }, 
               {
                 "id": 6198, 
-                "name": "Vesuvius", 
-                "workCount": 54
+                "name": "Vesuvius"
               }
             ], 
             "id": 111, 
-            "name": "natural features (non-UK)", 
-            "workCount": 4159
+            "name": "natural features (non-UK)"
           }, 
           {
             "children": [
               {
                 "id": 237, 
-                "name": "Italy", 
-                "workCount": 3602
+                "name": "Italy"
               }
             ], 
             "id": 108, 
-            "name": "countries and continents", 
-            "workCount": 12032
+            "name": "countries and continents"
           }, 
           {
             "children": [
               {
                 "id": 4214, 
-                "name": "Naples - non-specific", 
-                "workCount": 83
+                "name": "Naples - non-specific"
               }
             ], 
             "id": 107, 
-            "name": "cities, towns, villages (non-UK)", 
-            "workCount": 9203
+            "name": "cities, towns, villages (non-UK)"
           }
         ], 
         "id": 106, 
-        "name": "places", 
-        "workCount": 23425
+        "name": "places"
       }, 
       {
         "children": [
@@ -100,45 +98,37 @@
             "children": [
               {
                 "id": 5060, 
-                "name": "bay", 
-                "workCount": 404
+                "name": "bay"
               }, 
               {
                 "id": 558, 
-                "name": "coast", 
-                "workCount": 3627
+                "name": "coast"
               }, 
               {
                 "id": 557, 
-                "name": "sea", 
-                "workCount": 3099
+                "name": "sea"
               }
             ], 
             "id": 73, 
-            "name": "seascapes and coasts", 
-            "workCount": 6838
+            "name": "seascapes and coasts"
           }, 
           {
             "children": [
               {
                 "id": 636, 
-                "name": "hill", 
-                "workCount": 10038
+                "name": "hill"
               }, 
               {
                 "id": 6199, 
-                "name": "volcano", 
-                "workCount": 70
+                "name": "volcano"
               }
             ], 
             "id": 71, 
-            "name": "landscape", 
-            "workCount": 24053
+            "name": "landscape"
           }
         ], 
         "id": 60, 
-        "name": "nature", 
-        "workCount": 37443
+        "name": "nature"
       }, 
       {
         "children": [
@@ -146,23 +136,19 @@
             "children": [
               {
                 "id": 983, 
-                "name": "townscape", 
-                "workCount": 3102
+                "name": "townscape"
               }
             ], 
             "id": 28, 
-            "name": "townscapes, man-made features", 
-            "workCount": 18964
+            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 
-        "name": "architecture", 
-        "workCount": 30430
+        "name": "architecture"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D16/D16106_8.jpg", 
