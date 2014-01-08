@@ -20,6 +20,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [machine imagined art](http://www.shardcore.org/cgi-bin/getArtwork.pl?id=a_96_19_f_26_b_1a_b_26_47_90_1d3_6_10_2d_) by [Shardcore](http://www.shardcore.org)
 * [autoserota](http://www.shardcore.org/autoserota/) by [Shardcore](http://www.shardcore.org)
 * [The Dimensions of Art](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html) by [Jim Davenport](http://www.ifweassume.com)
+* [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/) by [Oliver Keyes](https://twitter.com/quominus)
 
 We are also inviting you to create [Github Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
 
@@ -43,7 +44,7 @@ Artworks are found in the `artworks` folder. They are filed away by _accession n
 
 ### CSV
 
-There is one CSV file for artists (`artist_data.csv`) and one (very large) for artworks (`artwork_data.csv`), which we may one day break up into more manageable chunks. The CSV headings should be helpful. Let us know if not. Entrepreneurial hackers could use the CSVs as an index to the JSON collections if they wanted richer data.
+There is one CSV file for artists (`artist_data.csv`) and one (very large) for artworks (`artwork_data.csv`), which we may one day break up into more manageable chunks. The CSV headings should be helpful. Let us know if not. Entrepreneurial hackers could use the CSVs as an index to the JSON collections if they wanted richer data. **NB CSV files are encoded as UTF-8 text, on which older versions of Excel may choke. We have inserted a UTF-8 BOM to help Excel detect the encoding, which may or may not be a terrible mistake.**
 
 
 ## <a name="usage"></a>Usage guidelines for open data
