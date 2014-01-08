@@ -1,5 +1,6 @@
 {
   "acno": "T05029", 
+  "acquisitionYear": 1988, 
   "all_artists": "after Count Alfred D'Orsay", 
   "catalogueGroup": {}, 
   "classification": "on paper, print", 
@@ -14,8 +15,7 @@
       "id": 2208, 
       "mda": "D'Orsay, Count Alfred", 
       "role": "after", 
-      "startLetter": "D", 
-      "workCount": 1
+      "startLetter": "D"
     }
   ], 
   "creditLine": "Presented by Richard Godfrey in memory of Wilfred Yee Huie 1988", 
@@ -31,7 +31,13 @@
   "height": "225", 
   "id": 16597, 
   "inscription": null, 
-  "locationDetails": [], 
+  "locationDetails": [
+    {
+      "label": "On loan to ", 
+      "name": "Kobe City Museum (Kobe, Japan)", 
+      "url": null
+    }
+  ], 
   "medium": "Lithograph on paper", 
   "movementCount": 0, 
   "subjectCount": 8, 
@@ -43,42 +49,35 @@
             "children": [
               {
                 "id": 3168, 
-                "name": "Turner, Joseph Mallord William", 
-                "workCount": 9
+                "name": "Turner, Joseph Mallord William"
               }
             ], 
             "id": 104, 
-            "name": "portraits: male", 
-            "workCount": 1459
+            "name": "portraits: male"
           }, 
           {
             "children": [
               {
                 "id": 195, 
-                "name": "man", 
-                "workCount": 8605
+                "name": "man"
               }
             ], 
             "id": 95, 
-            "name": "adults", 
-            "workCount": 19619
+            "name": "adults"
           }, 
           {
             "children": [
               {
                 "id": 270, 
-                "name": "standing", 
-                "workCount": 2259
+                "name": "standing"
               }
             ], 
             "id": 92, 
-            "name": "actions: postures and motions", 
-            "workCount": 6756
+            "name": "actions: postures and motions"
           }
         ], 
         "id": 91, 
-        "name": "people", 
-        "workCount": 21176
+        "name": "people"
       }, 
       {
         "children": [
@@ -86,18 +85,15 @@
             "children": [
               {
                 "id": 2793, 
-                "name": "artist, painter", 
-                "workCount": 337
+                "name": "artist, painter"
               }
             ], 
             "id": 118, 
-            "name": "arts and entertainment", 
-            "workCount": 1298
+            "name": "arts and entertainment"
           }
         ], 
         "id": 116, 
-        "name": "work and occupations", 
-        "workCount": 5204
+        "name": "work and occupations"
       }, 
       {
         "children": [
@@ -105,18 +101,15 @@
             "children": [
               {
                 "id": 19657, 
-                "name": "cup / mug", 
-                "workCount": 106
+                "name": "cup / mug"
               }
             ], 
             "id": 84, 
-            "name": "kitchen", 
-            "workCount": 533
+            "name": "kitchen"
           }
         ], 
         "id": 78, 
-        "name": "objects", 
-        "workCount": 12237
+        "name": "objects"
       }, 
       {
         "children": [
@@ -124,30 +117,25 @@
             "children": [
               {
                 "id": 549, 
-                "name": "drinking", 
-                "workCount": 174
+                "name": "drinking"
               }
             ], 
             "id": 48, 
-            "name": "eating and drinking", 
-            "workCount": 348
+            "name": "eating and drinking"
           }, 
           {
             "children": [
               {
                 "id": 2807, 
-                "name": "party", 
-                "workCount": 24
+                "name": "party"
               }
             ], 
             "id": 52, 
-            "name": "recreational activities", 
-            "workCount": 1042
+            "name": "recreational activities"
           }
         ], 
         "id": 47, 
-        "name": "leisure and pastimes", 
-        "workCount": 3119
+        "name": "leisure and pastimes"
       }, 
       {
         "children": [
@@ -155,24 +143,21 @@
             "children": [
               {
                 "id": 761, 
-                "name": "living room", 
-                "workCount": 242
+                "name": "living room"
               }
             ], 
             "id": 41, 
-            "name": "domestic", 
-            "workCount": 1245
+            "name": "domestic"
           }
         ], 
         "id": 40, 
-        "name": "interiors", 
-        "workCount": 2404
+        "name": "interiors"
       }
     ], 
     "id": 1, 
-    "name": "subject", 
-    "workCount": 59456
+    "name": "subject"
   }, 
+  "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T05/T05029_8.jpg", 
   "title": "Portrait of J.M.W. Turner ('The Fallacy of Hope'), engraved by J. Hogarth", 
   "units": "mm", 
