@@ -20,7 +20,8 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [machine imagined art](http://www.shardcore.org/cgi-bin/getArtwork.pl?id=a_96_19_f_26_b_1a_b_26_47_90_1d3_6_10_2d_) by [Shardcore](http://www.shardcore.org)
 * [autoserota](http://www.shardcore.org/autoserota/) by [Shardcore](http://www.shardcore.org)
 * [The Dimensions of Art](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html) by [Jim Davenport](http://www.ifweassume.com)
-* [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/) by [Oliver Keyes](https://twitter.com/quominus)
+* [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/) and [Part II](http://blog.ironholds.org/art-as-data-as-art-part-ii/) by [Oliver Keyes](https://twitter.com/quominus)
+* [Tate Acquisition Data](http://zenlan.com/tate/rickshaw.html) by [Zenlan](http://twitter.com/zenlan)
 
 We are also inviting you to create [Github Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
 
