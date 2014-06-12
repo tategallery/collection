@@ -2,6 +2,7 @@
   "acno": "AR00585", 
   "acquisitionYear": 2009, 
   "all_artists": "Jannis Kounellis", 
+  "artistRooms": true, 
   "catalogueGroup": {}, 
   "classification": "sculpture", 
   "contributorCount": 1, 
@@ -33,9 +34,51 @@
   "inscription": null, 
   "medium": "Metal, glass, sewing machine and coat", 
   "movementCount": 0, 
-  "subjectCount": 0, 
-  "thumbnailCopyright": null, 
-  "thumbnailUrl": null, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1284, 
+                "name": "box"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2241, 
+                "name": "coat"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3288, 
+                "name": "sewing machine"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00585_8.jpg", 
   "title": "Untitled (Sewing Machine)", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/kounellis-untitled-sewing-machine-ar00585", 

@@ -46,6 +46,7 @@
     }
   ], 
   "all_artists": "Jannis Kounellis", 
+  "artistRooms": true, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -77,7 +78,105 @@
   "inscription": null, 
   "medium": "Glass, steel, coal and paraffin lamp", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 10108, 
+                "name": "coal"
+              }, 
+              {
+                "id": 4990, 
+                "name": "lamp"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4847, 
+                "name": "glass"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2648, 
+                "name": "sculpture"
+              }
+            ], 
+            "id": 80, 
+            "name": "fine arts and music"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 18164, 
+                "name": "suspension"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR00070_8.jpg", 
   "title": "Coal Sculpture with Wall of Coloured Glass", 

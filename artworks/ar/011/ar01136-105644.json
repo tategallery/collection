@@ -2,6 +2,7 @@
   "acno": "AR01136", 
   "acquisitionYear": 2011, 
   "all_artists": "Jannis Kounellis", 
+  "artistRooms": true, 
   "catalogueGroup": {}, 
   "classification": "installation", 
   "contributorCount": 1, 
@@ -32,8 +33,60 @@
   "id": 105644, 
   "inscription": null, 
   "medium": "Stone", 
-  "movementCount": 0, 
-  "subjectCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 418, 
+      "name": "Arte Povera"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 971, 
+                "name": "door"
+              }, 
+              {
+                "id": 700, 
+                "name": "wall"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": "\u00a9 Jannis Kounellis", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/AR/AR01136_8.jpg", 
   "title": "Untitled", 
