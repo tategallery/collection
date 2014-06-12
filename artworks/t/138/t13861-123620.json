@@ -31,26 +31,101 @@
   "height": "1155", 
   "id": 123620, 
   "inscription": null, 
-  "locationDetails": [
-    {
-      "label": "On display at ", 
-      "name": "Tate Modern", 
-      "url": "/artworks?vid=2"
-    }, 
-    {
-      "label": "Theme: ", 
-      "name": "Level 3: Transformed Visions", 
-      "url": "/artworks?sid=3581"
-    }, 
-    {
-      "label": "Room: ", 
-      "name": "New Images of Man (Room 2)", 
-      "url": "/artworks?rid=7998"
-    }
-  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 8, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5033, 
+                "name": "New York - non-specific"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 16348, 
+                "name": "USA, New York"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 945, 
+                "name": "bridge"
+              }
+            ], 
+            "id": 15, 
+            "name": "bridges and viaducts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3244, 
+                "name": "railway"
+              }, 
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 587, 
+                "name": "stair / step"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 223, 
+                "name": "landscape"
+              }, 
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": null, 
   "title": "NY, NY No. X", 

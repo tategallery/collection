@@ -2,6 +2,7 @@
   "acno": "T13717", 
   "acquisitionYear": 2013, 
   "all_artists": "Agnes Martin", 
+  "artistRooms": true, 
   "catalogueGroup": {}, 
   "classification": "painting", 
   "contributorCount": 1, 
@@ -32,9 +33,57 @@
   "id": 109191, 
   "inscription": null, 
   "medium": "Acrylic paint and graphite on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 0, 
-  "thumbnailCopyright": "\u00a9 Estate of Agnes Martin / DACS, 2009", 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 430, 
+      "name": "Minimalism"
+    }
+  ], 
+  "subjectCount": 2, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6742, 
+                "name": "purity"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Agnes Martin / DACS, 2014", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13717_8.jpg", 
   "title": "Untitled #5", 
   "units": "mm", 

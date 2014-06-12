@@ -31,28 +31,69 @@
   "height": "456", 
   "id": 5983, 
   "inscription": null, 
-  "locationDetails": [
-    {
-      "label": "On display at ", 
-      "name": "Barbara Hepworth Museum and Sculpture Garden", 
-      "url": "/artworks?vid=5"
-    }, 
-    {
-      "label": "Theme: ", 
-      "name": "Museum and Sculpture Garden", 
-      "url": "/artworks?sid=1335"
-    }, 
-    {
-      "label": "Room: ", 
-      "name": "Museum", 
-      "url": "/artworks?rid=3679"
-    }
-  ], 
   "medium": "Oil paint and ink on board", 
   "movementCount": 0, 
-  "subjectCount": 0, 
-  "thumbnailCopyright": null, 
-  "thumbnailUrl": null, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 227, 
+                "name": "gestural"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }, 
+          {
+            "children": [
+              {
+                "id": 224, 
+                "name": "organic"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2369, 
+                "name": "plant"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1615, 
+                "name": "spring"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Bowness, Hepworth Estate", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13827_8.jpg", 
   "title": "Spring, 1957 (Project for Sculpture)", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/hepworth-spring-1957-project-for-sculpture-t13827", 

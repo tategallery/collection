@@ -11,7 +11,7 @@
       "date": "1927\u20131997", 
       "displayOrder": 1, 
       "fc": "Hideko Fukushima", 
-      "gender": "Male", 
+      "gender": "Female", 
       "id": 17414, 
       "mda": "Fukushima, Hideko", 
       "role": "artist", 
@@ -31,26 +31,41 @@
   "height": "965", 
   "id": 126545, 
   "inscription": null, 
-  "locationDetails": [
+  "medium": "Oil paint on canvas", 
+  "movementCount": 1, 
+  "movements": [
     {
-      "label": "On display at ", 
-      "name": "Tate Modern", 
-      "url": "/artworks?vid=2"
-    }, 
-    {
-      "label": "Theme: ", 
-      "name": "Level 4: Structure and Clarity", 
-      "url": "/artworks?sid=3501"
-    }, 
-    {
-      "label": "Room: ", 
-      "name": "Jikken Kobo (Room 6)", 
-      "url": "/artworks?rid=8937"
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 21154, 
+      "name": "Experimental Workshop"
     }
   ], 
-  "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 1, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": null, 
   "title": "Arc 8", 

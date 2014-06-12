@@ -31,26 +31,67 @@
   "height": "", 
   "id": 126536, 
   "inscription": null, 
-  "locationDetails": [
-    {
-      "label": "On display at ", 
-      "name": "Tate Britain", 
-      "url": "/artworks?vid=1"
-    }, 
-    {
-      "label": "Theme: ", 
-      "name": "BP Walk through British Art", 
-      "url": "/artworks?sid=3741"
-    }, 
-    {
-      "label": "Room: ", 
-      "name": "post 2000", 
-      "url": "/artworks?rid=8384"
-    }
-  ], 
   "medium": "Perspex", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 4, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9329, 
+                "name": "diagrammatic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 6852, 
+                "name": "memory"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 4357, 
+                "name": "void"
+              }
+            ], 
+            "id": 30, 
+            "name": "universal concepts"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 226, 
+                "name": "geometric"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": null, 
   "title": "Associative Ghost Template #2", 

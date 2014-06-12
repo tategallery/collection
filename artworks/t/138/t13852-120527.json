@@ -1,6 +1,134 @@
 {
   "acno": "T13852", 
   "acquisitionYear": 2013, 
+  "additionalImages": [
+    {
+      "copyright": null, 
+      "filenameBase": "T13852_323009", 
+      "sizes": [
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323009_7.jpg", 
+          "height": 95, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323009_8.jpg", 
+          "height": 190, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323009_9.jpg", 
+          "height": 543, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 1", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323009_10.jpg", 
+          "height": 1142, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "filenameBase": "T13852_323011", 
+      "sizes": [
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323011_7.jpg", 
+          "height": 96, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323011_8.jpg", 
+          "height": 192, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323011_9.jpg", 
+          "height": 548, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 2", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323011_10.jpg", 
+          "height": 1152, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }, 
+    {
+      "copyright": null, 
+      "filenameBase": "T13852_323013", 
+      "sizes": [
+        {
+          "caption": "Additional view 3", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323013_7.jpg", 
+          "height": 96, 
+          "resolution": 128, 
+          "size": "small", 
+          "width": 128
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323013_8.jpg", 
+          "height": 192, 
+          "resolution": 256, 
+          "size": "medium", 
+          "width": 256
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323013_9.jpg", 
+          "height": 548, 
+          "resolution": 730, 
+          "size": "large", 
+          "width": 730
+        }, 
+        {
+          "caption": "Additional view 3", 
+          "cleared": false, 
+          "file": "T/T13/T13852_323013_10.jpg", 
+          "height": 1152, 
+          "resolution": 1536, 
+          "size": "optimal", 
+          "width": 1536
+        }
+      ]
+    }
+  ], 
   "all_artists": "Karla Black", 
   "catalogueGroup": {}, 
   "classification": "installation", 
@@ -33,7 +161,91 @@
   "inscription": null, 
   "medium": "Cellophane, paint, sellotape, plaster powder, powder paint, sugar paper, chalk, bath bombs, ribbon and wood", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 6, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 225, 
+                "name": "colour"
+              }, 
+              {
+                "id": 796, 
+                "name": "irregular forms"
+              }
+            ], 
+            "id": 185, 
+            "name": "non-representational"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 15901, 
+                "name": "fragility"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19421, 
+                "name": "psychology, Klein, Melanie"
+              }
+            ], 
+            "id": 149, 
+            "name": "education, science and learning"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5449, 
+                "name": "make-up"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": null, 
   "title": "At Fault", 

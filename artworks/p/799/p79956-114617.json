@@ -2,7 +2,13 @@
   "acno": "P79956", 
   "acquisitionYear": 2011, 
   "all_artists": "Albert Renger-Patzsch", 
-  "catalogueGroup": {}, 
+  "catalogueGroup": {
+    "accessionRanges": "P79952-P79964", 
+    "completeStatus": "IRRELEVANT", 
+    "groupType": null, 
+    "id": 114336, 
+    "shortTitle": "Group of vintage prints"
+  }, 
   "classification": "on paper, print", 
   "contributorCount": 1, 
   "contributors": [
@@ -25,19 +31,93 @@
   }, 
   "dateText": "c. 1928\u20139", 
   "depth": "", 
-  "dimensions": "image: 168 x 228 mm", 
+  "dimensions": "image: 169 x 229 mm", 
   "foreignTitle": "Gem\u00e4ldegalerie Dresden", 
-  "groupTitle": null, 
-  "height": "228", 
+  "groupTitle": "Group of vintage prints", 
+  "height": "229", 
   "id": 114617, 
   "inscription": null, 
   "medium": "Photograph, gelatin silver print on paper", 
   "movementCount": 0, 
-  "subjectCount": 0, 
-  "thumbnailCopyright": null, 
-  "thumbnailUrl": null, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 21611, 
+                "name": "Dresden, Picture Gallery"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3561, 
+                "name": "Germany"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 514, 
+                "name": "classical"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5176, 
+                "name": "museum"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9328, 
+                "name": "photographic"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
+  "thumbnailCopyright": "\u00a9 Estate of Albert Renger-Patzsch / DACS 2014", 
+  "thumbnailUrl": "http://www.tate.org.uk/art/images/work/P/P79/P79956_8.jpg", 
   "title": "Picture Gallery Dresden", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/renger-patzsch-picture-gallery-dresden-p79956", 
-  "width": "168"
+  "width": "169"
 }

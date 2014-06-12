@@ -31,26 +31,9 @@
   "height": "1479", 
   "id": 19409, 
   "inscription": null, 
-  "locationDetails": [
-    {
-      "label": "On display at ", 
-      "name": "Tate Britain", 
-      "url": "/artworks?vid=1"
-    }, 
-    {
-      "label": "Theme: ", 
-      "name": "BP Walk through British Art", 
-      "url": "/artworks?sid=3741"
-    }, 
-    {
-      "label": "Room: ", 
-      "name": "1910", 
-      "url": "/artworks?rid=8278"
-    }
-  ], 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "subjectCount": 14, 
+  "subjectCount": 15, 
   "subjects": {
     "children": [
       {
@@ -63,7 +46,7 @@
               }
             ], 
             "id": 101, 
-            "name": "portraits: family"
+            "name": "named families"
           }, 
           {
             "children": [
@@ -72,22 +55,16 @@
                 "name": "Nicholson, Kit"
               }, 
               {
+                "id": 16133, 
+                "name": "Nicholson, Nancy"
+              }, 
+              {
                 "id": 16135, 
                 "name": "Nicholson, Tony"
               }
             ], 
-            "id": 104, 
-            "name": "portraits: male"
-          }, 
-          {
-            "children": [
-              {
-                "id": 16133, 
-                "name": "Nicholson, Nancy"
-              }
-            ], 
             "id": 102, 
-            "name": "portraits: female"
+            "name": "named individuals"
           }, 
           {
             "children": [
@@ -112,6 +89,16 @@
             ], 
             "id": 97, 
             "name": "groups"
+          }, 
+          {
+            "children": [
+              {
+                "id": 20115, 
+                "name": "groups"
+              }
+            ], 
+            "id": 20114, 
+            "name": "portraits"
           }, 
           {
             "children": [
