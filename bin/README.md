@@ -49,7 +49,7 @@ If a level 2 child is present, the child's parent and grandprarent will come wit
 - Flat indexing. This could represent one strand of archival relationships in one artwork.
     
     {
-		"name0":"people",
-		"name1":"actions: postures and motions",
-		"name2":"sitting"
-	}
+        "name0":"people",
+        "name1":"actions: postures and motions",
+        "name2":"sitting"
+    }
