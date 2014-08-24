@@ -2,9 +2,9 @@
 	Loads one json file and parse the 'subjects' field from a nested
 	structure to a flat one. id/name hierarhcy is indexed, eg:
 
-	id0 - parent (1st level)
-	id1 - child of parent (2nd level)
-	id2 - grandchild of parent (3rd level)
+	id0 - grandparernt
+	id1 - parent
+	id2 - child
 
 	thingList(list) will be populated, and turned into json array
 	thing(dict) is associated with each child node
