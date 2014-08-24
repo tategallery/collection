@@ -36,11 +36,11 @@ If a level 2 child is present, the child's parent and grandprarent will come wit
 
   - level0.json
     
-    `[{"name":"people", "id":91}]`
+    `[{"name":"people", "id":91, "parent1":"none", "parent0":"none"}]`
     
   - level1.json
     
-    `[{"name":"actions: postures and motions", "id":92,"parent0":91}]`
+    `[{"name":"actions: postures and motions", "id":92,"parent1":"none","parent0":91}]`
     
   - level2.json
     
