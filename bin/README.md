@@ -3,25 +3,25 @@ Thoughts on subject data structure
 
 The `subjects` field of the artwork jsons reveal the archival approach of the Tate Gallery.
 
-						subject
-						|
-						|
-				+++++++++++++++++++++++++++++++++
-				|		|		|
-                           	|		|		|
-	level0			child		child		child
-				|		|		|
-				|		|		|
-			+++++++++++++++++	|		|
-			|		|	|		|
-                   	|		|	|		|
-	level1		child		child   child		child
-			|		|	|		|
-			|		|	|		|
-			|		|	|	+++++++++++++++++
-			|		|	|	|		|
-			|		|	|	|		|
-	level2		child		child	child	child		child
+                               subject
+                                  |
+                                  |
+                 +++++++++++++++++++++++++++++++++
+                 |                |              |
+                 |                |              |
+    level0     child            child          child
+                 |                |              |
+                 |                |              |
+              +++++++             |              |
+              |     |             |              |
+              |     |             |              |
+    level1  child child         child          child
+              |     |             |              |
+              |     |             |              |
+              |     |             |          ++++++++
+              |     |             |          |      |
+              |     |             |          |      |
+    level2  child child         child      child  child
 
 
 If a level 2 child is present, the child's parent and grandprarent will come with it. Sample content of the levels:
