@@ -2,6 +2,8 @@
 	Go through all artwork jsons and produce an index for
 	level0, level1, level2
 
+	Outputs a json collection
+
 	Does not preserve relationships between the levels
 '''
 
@@ -36,12 +38,12 @@ def get_all_subjects(jsonfile):
 			subjects1 = child['children']
 			level0[child['id']] = child['name']
 
-			for child in subjects1:
-				subjects2 = child['children']
-				level1[child['id']] = child['name']
+		for child in subjects1:
+			subjects2 = child['children']
+			level1[child['id']] = child['name']
 
-				for child in subjects2:
-					level2[child['id']] = child['name']
+		for child in subjects2:
+			level2[child['id']] = child['name']
 
 def write_files(dict, filename):
 	jsondata = json.dumps(dict,sort_keys = True,separators = (',',':'))
