@@ -34,21 +34,19 @@ If a level 2 child is present, the child's parent and grandprarent will come wit
 
 - An index of all level0/1/2/3 ids/names as a lookup file. `level2.json` would be the base for all needed parent ids. Example:
 
-    level0.json
+  - level0.json
     
     `[{"name":"people", "id":91}]`
     
-    level1.json
+  - level1.json
     
     `[{"name":"actions: postures and motions", "id":92,"parent0":91}]`
     
-    level2.json
+  - level2.json
     
     `[{"name":"sitting","id":694,"parent1":92,"parent0":91}]`
 
-- Flat indexing
-
-This could represent one strand of archival relationships in one artwork.
+- Flat indexing. This could represent one strand of archival relationships in one artwork.
     
     {
 		"name0":"people",

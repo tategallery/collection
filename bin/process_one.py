@@ -8,21 +8,23 @@
 
 	thingList(list) will be populated, and turned into json array
 	thing(dict) is associated with each child node
+
+	See processed/processed_one.json for output
 '''
 
 import json
 
-sample = json.loads(open('artworks/a/000/a00001-1035.json').read().decode('utf-8'))
+sample = json.loads(open('../artworks/a/000/a00001-1035.json').read().decode('utf-8'))
 subjects = sample['subjects']
 
-thingList = []
+thinglist = []
 
 def get_child(children,i):
 	for child in children:
 		thing = {}
 		thing['id_'+str(i)] = child.get('id')
 		thing['name_'+str(i)] = child.get('name')
-		thingList.append(thing)
+		thinglist.append(thing)
 		get_all_children(child,i + 1)
 
 def get_all_children(subjects,i):
@@ -38,8 +40,8 @@ def get_all_children(subjects,i):
 
 get_all_children(subjects,0)
 
-jsondata = json.dumps(thingList, sort_keys = True, separators = (',',':'))
+jsondata = json.dumps(thinglist, sort_keys = True, separators = (',',':'))
 
-output = open('processed/processed_one.json','w')
+output = open('../processed/processed_one.json','w')
 output.writelines(jsondata)
 output.close()
