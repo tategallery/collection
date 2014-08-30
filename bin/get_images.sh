@@ -5,7 +5,10 @@ mkdir images0
 IFS=,
 base=http://www.tate.org.uk/art/images/work/
 
-# the csv with only acno and unique part of url, should be pre-processed to get rid of url-less rows
+# the csv with only acno and unique part of url
+# should be pre-processed to get rid of url-less rows
+# url/filename_8.jpg is thumbnail
+# url/filename_9.jpg is the larger image
 csv=../processed/simplified_artwork_data.csv
 
 echo -e "Which line in the csv should I go to: \c"
@@ -21,6 +24,8 @@ do
 	URL=$base$a2
 	curl -o images0/$a1.jpg $URL
 done
+
+#### below: for AR experiment only ###
 
 # csv2=../processed/ar_only_no_empty.csv
 # awk 'NR>470' $csv2 | while read a1 a2
