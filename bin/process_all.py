@@ -45,8 +45,8 @@ def get_all_subjects(jsonfile):
 		for child in subjects2:
 			level2[child['id']] = child['name']
 
-def write_files(dict, filename):
-	jsondata = json.dumps(dict,sort_keys = True,separators = (',',':'))
+def write_file(data, filename):
+	jsondata = json.dumps(data,sort_keys = True,separators = (',',':'))
 	output = open('../processed/' + filename,'w')
 	output.writelines(jsondata)
 	output.close

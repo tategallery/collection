@@ -18,3 +18,9 @@ for file in $COPIES; do
 	-crop 100x100+0+0 -sharpen 0x0.5 \
 	`basename $file .jpg`.tile.jpg
 done
+
+# AR experiment
+# base64 encodes the thumb image
+# for file in $folder; do
+# 	openssl base64 -in $file -out `basename $file .jpg`.txt
+# done
