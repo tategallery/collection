@@ -88,4 +88,4 @@ def write_file(data, filename):
 init()
 open_art_files('../artworks/ar')
 finish()
-write_file(level2listfinal,'level2list_ar.json')
+write_file(level2listfinal,'level2list_AR.json')
