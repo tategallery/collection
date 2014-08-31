@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset='utf-8'>
+	<link href='http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600' rel='stylesheet' type='text/css'>
+	<script src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js'></script>
+	<script src='http://d3js.org/d3.v3.min.js'></script>
+	<script src='http://d3js.org/queue.v1.min.js'></script>
+</head>
+<style>
+	.cf:before,.cf:after {
+		  content: " ";
+		  display: table;
+	}
+  	.cf:after { clear: both;}
+	.screen {
+		position:absolute;
+	}
+	.screen.active {
+	}
+	.inactive {
+		visibility:hidden;
+	}
+	.faded {
+		opacity:0.1;
+	}
+  	body * {
+  		box-sizing: border-box;
+  	}
+  	h1 {
+		font:22px/1.75 'Open Sans';
+		letter-spacing: 0.5em;
+		text-transform: uppercase;
+		text-align: center;
+	}
+  	a,a:active,a:visited {
+  		text-decoration: none;
+  		color:#333;
+  	}
+  	a:hover,
+  	p.active {
+  		color:#fa0;
+  	}
+	p {
+		font:14px/1.667 'Open Sans',sans-serif;
+		letter-spacing: 0.1em;
+	}
+	p:first-letter {text-transform: capitalize;}
+	ul li {
+		list-style: none;
+	}
+	ul li a p {
+		font:16px/1.25 'Crimson Text',serif;
+		font-style:italic;
+		letter-spacing: 0;
+	}
+	#categories {
+		z-index: -1;
+	}
+	#artworks 	{
+		z-index:1;
+	}
+	section {
+		float:left;
+		margin:20px;
+		padding:40px;
+	}
+	section ul,
+	section ul li {
+		float:left;
+		margin:0;
+		padding:0;
+	}
+	section ul li {
+		padding:0 20px;
+	}
+	section div {
+		float:left;
+		text-align: center;
+		box-shadow:0 0 8px #eee;
+		width:40px;
+		height:40px;
+		margin:20px 20px 100px 0;
+		float:left;
+	}
+	section.level2 {
+		border:1px solid #333;
+		background:rgba(255,255,255,0.2);
+	}
+	p.title,
+	p.artist {
+		position:absolute;
+		width:60px;
+		font-size:8px;
+		letter-spacing: 0;
+		text-align:left;
+		/* for very long names */
+		display:block;
+  		display: -webkit-box;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		-webkit-line-clamp: 4;
+		-webkit-box-orient: vertical;
+	}
+	p.title {
+		margin-top:40px;
+	}
+	p.artist {
+		margin-top:10px;
+		color:#aaa;
+		-webkit-line-clamp: 2;
+	}
+	#close {
+		font-family: sans-serif;
+		position:fixed;
+		right:10px;
+		top:10px;
+	}
+</style>
+<body>
+	<section class='screen active cf' id='categories'>
+		<!-- <h1>Artist Rooms</h1> -->
+	</section>
+	<section class='screen cf' id='artworks'>
+		<a href='#' id='close'>&#9587;</a>
+	</section>
+	<script>
+		queue()
+			.defer(d3.json,'processed/level1list.json')
+			.defer(d3.json,'processed/level2list_AR.json')
+			.await(ready)
+
+		var categoryList = d3.select('#categories').append('ul'),
+			artworkList = d3.select('#artworks'),
+			close = d3.select('#close');
+
+		function ready(error, level1, level2){
+			var selectedLevel1,
+				selectedLevel2,
+				category,subCategory,artwork;
+
+			// get only applicable level1 id
+			// from the level2 data
+			var applicableCategories = _.chain(level2)
+				.map(function(o){return o.parent1;})
+				.uniq()
+				.value();
+
+			// create the applicable level1 collection
+			var categories = _.map(applicableCategories,function(id){
+				return _.findWhere(level1,{'id':id});
+			});
+
+			// sort level1 collection by alphabet
+			categories = _.sortBy(categories,function(o){
+				return o.name 
+			});
+
+			//create categories level1
+			var category = categoryList.selectAll('li')
+				.data(categories,function(d){return d.id;});
+
+			category.enter().append('li')
+				.attr('class','level1 cf');
+
+			category.append('a')
+				.attr('href','#')
+				.append('p')
+				.attr('class','category')
+				.text(function(d){return d.name;})
+				.on('click',function(d){
+			  		close.classed({'inactive':false});
+					d3.selectAll('.category').classed({'faded':true});
+					d3.select(this).classed({'faded':false,'active':true});
+					refreshArt(d.id);
+				})
+
+			category.exit().remove();
+
+			close.attr('class','inactive')
+				.on('click',function(){
+					d3.selectAll('.category').classed({'faded':false,'active':false});
+					close.classed({'inactive':true});
+					refreshArt();
+				});
+
+			function refreshArt(parentId){
+				parentId = parentId || null;
+
+				if (parentId === null) {
+					selectedLevel2 = []
+				} else {
+					selectedLevel2 = _.filter(level2, function(o){
+						return o.parent1 === parentId
+					})
+				}
+
+				subCategory = artworkList.selectAll('.level2')
+					.data(selectedLevel2,function(d){return d.id;});
+
+			  	subCategory.enter().append('section')
+			  		.attr('class','level2 cf');
+			  	
+			  	subCategory.append('p')
+			  		.text(function(d){return d.name;});
+
+			  	// create artworks
+			  	artwork = subCategory.selectAll('.art')
+			  		.data(function(d){return d.artlist;});
+
+			  	artwork.enter().append('div')
+			  		.attr('class','art');
+
+			  	artwork.append('a')
+			  		.attr('href',function(d){return d.url;})
+			  		.attr('target','_blank')
+			  		.append('img')
+			  		.attr('src',function(d){
+			  			if (d.thumb != 'none') {
+			  				return 'data:image/gif;base64,' + d.thumb
+			  			} else {
+			  				return 'blank_w_40.jpg'
+			  			}
+			  		});
+
+			  	artwork.append('p')
+			  		.attr('class','title')
+			  		.text(function(d){return d.title;});
+
+			  	artwork.append('p')
+			  		.attr('class','artist')
+			  		.text(function(d){return d.artist;})
+
+			  	// update
+			  	subCategory.exit().remove();
+			  	artwork.exit().remove();
+			}
+		}
+	</script>
+</body>
+</html>
