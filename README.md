@@ -22,6 +22,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [The Dimensions of Art](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html) by [Jim Davenport](http://www.ifweassume.com)
 * [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/) and [Part II](http://blog.ironholds.org/art-as-data-as-art-part-ii/) by [Oliver Keyes](https://twitter.com/quominus)
 * [Tate Acquisition Data](http://zenlan.com/tate/rickshaw.html) by [Zenlan](http://twitter.com/zenlan)
+* [Artist Rooms](http://goodlemons.com/artist-rooms/) by [Jue Yang](http://twitter.com/jue_yang)
 
 We are also inviting you to create [Github Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
 
