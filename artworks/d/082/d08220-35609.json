@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1807, 
     "startYear": 1807, 
     "text": "1807"
   }, 
@@ -35,9 +36,25 @@
   "inscription": null, 
   "medium": "Ink wash and pen and ink on paper", 
   "movementCount": 0, 
-  "subjectCount": 7, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2597, 
+                "name": "cart"
+              }
+            ], 
+            "id": 160, 
+            "name": "transport: land"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
       {
         "children": [
           {
@@ -53,8 +70,8 @@
           {
             "children": [
               {
-                "id": 457, 
-                "name": "farmland"
+                "id": 506, 
+                "name": "field"
               }, 
               {
                 "id": 496, 
@@ -77,6 +94,26 @@
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 688, 
+                "name": "farm labourer"
+              }, 
+              {
+                "id": 2837, 
+                "name": "harvesting"
+              }
+            ], 
+            "id": 117, 
+            "name": "agriculture and fishing"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
       }, 
       {
         "children": [
@@ -109,22 +146,6 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2837, 
-                "name": "harvesting"
-              }
-            ], 
-            "id": 117, 
-            "name": "agriculture and fishing"
-          }
-        ], 
-        "id": 116, 
-        "name": "work and occupations"
       }
     ], 
     "id": 1, 

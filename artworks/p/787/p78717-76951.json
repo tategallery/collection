@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Purchased 2003", 
   "dateRange": {
+    "endYear": 2002, 
     "startYear": 2002, 
     "text": "2002"
   }, 
@@ -91,10 +92,6 @@
               {
                 "id": 4645, 
                 "name": "slate"
-              }, 
-              {
-                "id": 13390, 
-                "name": "stone"
               }
             ], 
             "id": 287, 
@@ -103,6 +100,22 @@
         ], 
         "id": 78, 
         "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
       }, 
       {
         "children": [

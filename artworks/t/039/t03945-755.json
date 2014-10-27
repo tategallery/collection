@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 1984", 
   "dateRange": {
+    "endYear": 1967, 
     "startYear": 1967, 
     "text": "1967"
   }, 
@@ -72,6 +73,10 @@
           }, 
           {
             "children": [
+              {
+                "id": 4453, 
+                "name": "artificial limb"
+              }, 
               {
                 "id": 1077, 
                 "name": "foot"
@@ -135,13 +140,19 @@
           {
             "children": [
               {
-                "id": 19473, 
-                "name": "artificial leg"
+                "id": 221, 
+                "name": "figure"
               }
             ], 
-            "id": 171, 
-            "name": "medical"
-          }, 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
           {
             "children": [
               {
@@ -159,22 +170,6 @@
         ], 
         "id": 78, 
         "name": "objects"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 221, 
-                "name": "figure"
-              }
-            ], 
-            "id": 189, 
-            "name": "from recognisable sources"
-          }
-        ], 
-        "id": 184, 
-        "name": "abstraction"
       }
     ], 
     "id": 1, 

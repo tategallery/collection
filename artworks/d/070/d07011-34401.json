@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D07011", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1825, 
     "startYear": 1820, 
     "text": "1820-5"
   }, 
@@ -70,10 +72,6 @@
               {
                 "id": 1207, 
                 "name": "boat, barge"
-              }, 
-              {
-                "id": 1865, 
-                "name": "boat, sailing"
               }
             ], 
             "id": 161, 
@@ -98,6 +96,26 @@
         ], 
         "id": 78, 
         "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock"
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -130,22 +148,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2388, 
-                "name": "waterfront"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

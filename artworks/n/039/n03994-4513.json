@@ -21,10 +21,11 @@
   ], 
   "creditLine": "Presented by Miss Patience Scott 1924", 
   "dateRange": {
+    "endYear": 1918, 
     "startYear": 1916, 
-    "text": "c.1916-18"
+    "text": "c.1916-8"
   }, 
-  "dateText": "c.1916\u201318", 
+  "dateText": "c.1916\u20138", 
   "depth": "", 
   "dimensions": "support: 210 x 279 mm", 
   "foreignTitle": null, 
@@ -33,12 +34,44 @@
   "id": 4513, 
   "inscription": null, 
   "medium": "Charcoal and watercolour on paper", 
-  "movementCount": 0, 
-  "subjectCount": 17, 
+  "movementCount": 2, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 9312, 
+      "name": "London Group"
+    }
+  ], 
+  "subjectCount": 18, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 23114, 
+                "name": "Brighton and Hove"
+              }, 
+              {
+                "id": 1856, 
+                "name": "Sussex, East"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
           {
             "children": [
               {
@@ -58,16 +91,6 @@
             ], 
             "id": 113, 
             "name": "UK countries and regions"
-          }, 
-          {
-            "children": [
-              {
-                "id": 1856, 
-                "name": "Sussex, East"
-              }
-            ], 
-            "id": 114, 
-            "name": "UK counties"
           }
         ], 
         "id": 106, 
@@ -176,8 +199,8 @@
                 "name": "flag, bunting"
               }
             ], 
-            "id": 287, 
-            "name": "miscellaneous"
+            "id": 169, 
+            "name": "religious and ceremonial"
           }
         ], 
         "id": 78, 

@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D10992", 
       "sizes": [
         {
@@ -19,7 +20,7 @@
     }
   ], 
   "all_artists": "Joseph Mallord William Turner", 
-  "catTextResId": 1144181, 
+  "catTextResId": 1151406, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1816, 
     "startYear": 1816, 
     "text": "1816"
   }, 
@@ -60,11 +62,21 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 140, 
-  "subjectCount": 7, 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 26553, 
+                "name": "Baldersby Park"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
+          }, 
           {
             "children": [
               {
@@ -78,22 +90,26 @@
           {
             "children": [
               {
-                "id": 5007, 
-                "name": "Leeds"
-              }
-            ], 
-            "id": 114, 
-            "name": "UK counties"
-          }, 
-          {
-            "children": [
-              {
-                "id": 8733, 
-                "name": "Leeds - non-specific"
+                "id": 8235, 
+                "name": "Hornby, Hornby Castle"
               }
             ], 
             "id": 115, 
             "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3160, 
+                "name": "Lancashire"
+              }, 
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
           }
         ], 
         "id": 106, 
@@ -124,16 +140,6 @@
             ], 
             "id": 20, 
             "name": "military"
-          }, 
-          {
-            "children": [
-              {
-                "id": 8513, 
-                "name": "gate"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
           }
         ], 
         "id": 13, 

@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D15806", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 74, 
-  "subjectCount": 6, 
+  "subjectCount": 12, 
   "subjects": {
     "children": [
       {
@@ -79,7 +81,15 @@
             "children": [
               {
                 "id": 9872, 
-                "name": "Salerno"
+                "name": "Salerno - non-specific"
+              }, 
+              {
+                "id": 28547, 
+                "name": "Salerno, Castello di Arechi"
+              }, 
+              {
+                "id": 29400, 
+                "name": "Salerno, Chiesa della Santissima Annunziata"
               }
             ], 
             "id": 107, 
@@ -94,35 +104,39 @@
           {
             "children": [
               {
-                "id": 451, 
-                "name": "figure"
+                "id": 1865, 
+                "name": "boat, sailing"
               }
             ], 
-            "id": 95, 
-            "name": "adults"
+            "id": 161, 
+            "name": "transport: water"
           }
         ], 
-        "id": 91, 
-        "name": "people"
+        "id": 145, 
+        "name": "society"
       }, 
       {
         "children": [
           {
             "children": [
               {
-                "id": 636, 
-                "name": "hill"
+                "id": 1138, 
+                "name": "castle"
               }
             ], 
-            "id": 71, 
-            "name": "landscape"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
-      }, 
-      {
-        "children": [
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
           {
             "children": [
               {
@@ -140,6 +154,48 @@
         ], 
         "id": 13, 
         "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 558, 
+                "name": "coast"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
       }
     ], 
     "id": 1, 

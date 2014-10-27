@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D11396", 
       "sizes": [
         {
@@ -19,7 +20,7 @@
     }
   ], 
   "all_artists": "Joseph Mallord William Turner", 
-  "catTextResId": 1143523, 
+  "catTextResId": 1149744, 
   "catalogueGroup": {
     "accessionRanges": "D11372-D11441; D40835-D40838", 
     "completeStatus": "COMPLETE", 
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1816, 
     "startYear": 1816, 
     "text": "1816"
   }, 
@@ -60,9 +62,75 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 35, 
-  "subjectCount": 6, 
+  "subjectCount": 11, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 7620, 
+                "name": "River Ure"
+              }
+            ], 
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26551, 
+                "name": "West Tanfield, Marmion Tower"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
       {
         "children": [
           {
@@ -118,22 +186,6 @@
         ], 
         "id": 13, 
         "name": "architecture"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 495, 
-                "name": "river"
-              }
-            ], 
-            "id": 76, 
-            "name": "water: inland"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
       }
     ], 
     "id": 1, 

@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Purchased 1983", 
   "dateRange": {
+    "endYear": 1950, 
     "startYear": 1937, 
     "text": "c.1937-50"
   }, 
@@ -42,22 +43,6 @@
   "subjectCount": 3, 
   "subjects": {
     "children": [
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 451, 
-                "name": "figure"
-              }
-            ], 
-            "id": 95, 
-            "name": "adults"
-          }
-        ], 
-        "id": 91, 
-        "name": "people"
-      }, 
       {
         "children": [
           {
@@ -83,6 +68,22 @@
         ], 
         "id": 184, 
         "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
       }
     ], 
     "id": 1, 

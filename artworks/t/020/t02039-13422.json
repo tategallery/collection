@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased 1976", 
   "dateRange": {
+    "endYear": 1892, 
     "startYear": 1892, 
     "text": "1892"
   }, 
@@ -33,8 +34,24 @@
   "id": 13422, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 1, 
+  "movementCount": 3, 
   "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 6196, 
+      "name": "British Impressionism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
     {
       "era": {
         "id": 350, 
@@ -44,35 +61,9 @@
       "name": "New English Art Club"
     }
   ], 
-  "subjectCount": 10, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 7072, 
-                "name": "Camden Town, Old Bedford Music Hall"
-              }
-            ], 
-            "id": 9301, 
-            "name": "UK London"
-          }, 
-          {
-            "children": [
-              {
-                "id": 2803, 
-                "name": "England"
-              }
-            ], 
-            "id": 113, 
-            "name": "UK countries and regions"
-          }
-        ], 
-        "id": 106, 
-        "name": "places"
-      }, 
       {
         "children": [
           {
@@ -124,16 +115,26 @@
           {
             "children": [
               {
-                "id": 225, 
-                "name": "colour"
+                "id": 2803, 
+                "name": "England"
               }
             ], 
-            "id": 185, 
-            "name": "non-representational"
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 23138, 
+                "name": "Strand, Tivoli Music Hall"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
           }
         ], 
-        "id": 184, 
-        "name": "abstraction"
+        "id": 106, 
+        "name": "places"
       }, 
       {
         "children": [

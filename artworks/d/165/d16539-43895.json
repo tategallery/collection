@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D16539", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 59, 
-  "subjectCount": 2, 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
@@ -68,16 +70,30 @@
           {
             "children": [
               {
-                "id": 805, 
-                "name": "building - non-specific"
+                "id": 11750, 
+                "name": "Cortona"
+              }, 
+              {
+                "id": 29464, 
+                "name": "Ossaia"
               }
             ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 237, 
+                "name": "Italy"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
           }
         ], 
-        "id": 13, 
-        "name": "architecture"
+        "id": 106, 
+        "name": "places"
       }, 
       {
         "children": [
@@ -94,6 +110,40 @@
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 769, 
+                "name": "road"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }, 
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

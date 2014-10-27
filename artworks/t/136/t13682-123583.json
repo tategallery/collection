@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 2012", 
   "dateRange": {
+    "endYear": 1975, 
     "startYear": 1975, 
     "text": "1975"
   }, 
@@ -32,8 +33,66 @@
   "id": 123583, 
   "inscription": null, 
   "medium": "Glass, glue, wooden shelf and ink on paper", 
-  "movementCount": 0, 
-  "subjectCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 421, 
+      "name": "Conceptual Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 555, 
+                "name": "bottle"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2898, 
+                "name": "map"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": "\u00a9 Amikan Toren", 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T13/T13682_8.jpg", 
   "title": "Simple Fractions", 

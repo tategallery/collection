@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented anonymously 1935", 
   "dateRange": {
+    "endYear": 1935, 
     "startYear": 1935, 
     "text": "c.1935"
   }, 
@@ -33,8 +34,18 @@
   "id": 7821, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 10, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 12, 
   "subjects": {
     "children": [
       {
@@ -42,8 +53,8 @@
           {
             "children": [
               {
-                "id": 12736, 
-                "name": "Berkeley Square"
+                "id": 23107, 
+                "name": "Berkeley Square, Charles Street"
               }
             ], 
             "id": 9301, 
@@ -78,6 +89,42 @@
         ], 
         "id": 145, 
         "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 504, 
+                "name": "evening"
+              }
+            ], 
+            "id": 75, 
+            "name": "times of the day"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 497, 
+                "name": "winter"
+              }
+            ], 
+            "id": 74, 
+            "name": "seasons"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
       }, 
       {
         "children": [
@@ -132,22 +179,6 @@
         ], 
         "id": 91, 
         "name": "people"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 1827, 
-                "name": "tree"
-              }
-            ], 
-            "id": 1809, 
-            "name": "trees"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
       }
     ], 
     "id": 1, 

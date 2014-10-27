@@ -21,10 +21,11 @@
   ], 
   "creditLine": "Presented by the Contemporary Art Society 1924", 
   "dateRange": {
+    "endYear": 1911, 
     "startYear": 1910, 
-    "text": "c.1910-11"
+    "text": "c.1910-1"
   }, 
-  "dateText": "c.1910\u201311", 
+  "dateText": "c.1910\u20131", 
   "depth": "", 
   "dimensions": "support: 465 x 385 mm", 
   "foreignTitle": null, 
@@ -33,8 +34,18 @@
   "id": 13077, 
   "inscription": null, 
   "medium": "Oil paint on board", 
-  "movementCount": 0, 
-  "subjectCount": 7, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
@@ -42,8 +53,38 @@
           {
             "children": [
               {
+                "id": 23137, 
+                "name": "Belgravia, Lowndes Street"
+              }
+            ], 
+            "id": 9301, 
+            "name": "UK London"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2803, 
+                "name": "England"
+              }
+            ], 
+            "id": 113, 
+            "name": "UK countries and regions"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 839, 
                 "name": "couch"
+              }, 
+              {
+                "id": 2090, 
+                "name": "wallpaper"
               }
             ], 
             "id": 82, 

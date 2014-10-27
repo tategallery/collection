@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 2004", 
   "dateRange": {
+    "endYear": 1952, 
     "startYear": 1952, 
     "text": "1952"
   }, 
@@ -109,14 +110,20 @@
               {
                 "id": 3384, 
                 "name": "dockyard"
-              }, 
-              {
-                "id": 4582, 
-                "name": "shed"
               }
             ], 
             "id": 19, 
             "name": "industrial"
+          }, 
+          {
+            "children": [
+              {
+                "id": 19432, 
+                "name": "hut"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
           }
         ], 
         "id": 13, 

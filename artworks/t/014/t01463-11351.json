@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Presented by the artist 1971", 
   "dateRange": {
+    "endYear": 1948, 
     "startYear": 1948, 
     "text": "1948"
   }, 
@@ -57,7 +58,7 @@
       "name": "Independent Group"
     }
   ], 
-  "subjectCount": 22, 
+  "subjectCount": 24, 
   "subjects": {
     "children": [
       {
@@ -109,6 +110,10 @@
                 "name": "bed"
               }, 
               {
+                "id": 3578, 
+                "name": "cupboard"
+              }, 
+              {
                 "id": 844, 
                 "name": "rug"
               }
@@ -147,16 +152,26 @@
                 "name": "oven"
               }, 
               {
-                "id": 5462, 
-                "name": "refrigerator"
-              }, 
-              {
-                "id": 5163, 
-                "name": "utensil"
+                "id": 22784, 
+                "name": "spoon"
               }
             ], 
             "id": 84, 
             "name": "kitchen"
+          }, 
+          {
+            "children": [
+              {
+                "id": 22932, 
+                "name": "refrigerator"
+              }, 
+              {
+                "id": 5164, 
+                "name": "vacuum cleaner"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
           }, 
           {
             "children": [
@@ -171,16 +186,6 @@
             ], 
             "id": 89, 
             "name": "toys and models"
-          }, 
-          {
-            "children": [
-              {
-                "id": 5164, 
-                "name": "vacuum cleaner"
-              }
-            ], 
-            "id": 81, 
-            "name": "electrical appliances"
           }
         ], 
         "id": 78, 
@@ -205,6 +210,26 @@
         ], 
         "id": 40, 
         "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7643, 
+                "name": "cleaning"
+              }, 
+              {
+                "id": 2802, 
+                "name": "sweeping"
+              }
+            ], 
+            "id": 119, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
       }, 
       {
         "children": [
@@ -257,22 +282,6 @@
         ], 
         "id": 91, 
         "name": "people"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2802, 
-                "name": "sweeping"
-              }
-            ], 
-            "id": 119, 
-            "name": "domestic"
-          }
-        ], 
-        "id": 116, 
-        "name": "work and occupations"
       }
     ], 
     "id": 1, 

@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 2004", 
   "dateRange": {
+    "endYear": 1922, 
     "startYear": 1922, 
     "text": "1922"
   }, 
@@ -90,7 +91,7 @@
             "children": [
               {
                 "id": 1800, 
-                "name": "animal/human"
+                "name": "animal / human"
               }
             ], 
             "id": 63, 
@@ -143,6 +144,20 @@
           {
             "children": [
               {
+                "id": 1106, 
+                "name": "looking / watching"
+              }, 
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
                 "id": 480, 
                 "name": "male"
               }
@@ -163,20 +178,6 @@
             ], 
             "id": 95, 
             "name": "adults"
-          }, 
-          {
-            "children": [
-              {
-                "id": 14746, 
-                "name": "sleeping"
-              }, 
-              {
-                "id": 1106, 
-                "name": "watching"
-              }
-            ], 
-            "id": 175, 
-            "name": "actions: processes and functions"
           }
         ], 
         "id": 91, 

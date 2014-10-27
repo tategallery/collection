@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented by the friends associated with the artist during his Headmastership of Westminster School 1934", 
   "dateRange": {
+    "endYear": 1933, 
     "startYear": 1933, 
     "text": "1933"
   }, 
@@ -33,10 +34,36 @@
   "id": 816, 
   "inscription": "date inscribed", 
   "medium": "Gouache and graphite on paper", 
-  "movementCount": 0, 
-  "subjectCount": 9, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 15, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
       {
         "children": [
           {
@@ -72,6 +99,16 @@
           {
             "children": [
               {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
                 "id": 195, 
                 "name": "man"
               }, 
@@ -92,6 +129,38 @@
           {
             "children": [
               {
+                "id": 244, 
+                "name": "arch"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2793, 
+                "name": "artist, painter"
+              }
+            ], 
+            "id": 118, 
+            "name": "arts and entertainment"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 5211, 
                 "name": "candelabra"
               }, 
@@ -102,6 +171,26 @@
             ], 
             "id": 85, 
             "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3235, 
+                "name": "dress"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 22928, 
+                "name": "gaming table"
+              }
+            ], 
+            "id": 285, 
+            "name": "sports and games"
           }
         ], 
         "id": 78, 

@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D08450", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1811, 
     "startYear": 1811, 
     "text": "1811"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 94, 
-  "subjectCount": 5, 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
@@ -90,6 +92,14 @@
               {
                 "id": 8190, 
                 "name": "Fowey"
+              }, 
+              {
+                "id": 26053, 
+                "name": "Fowey, Polruan Blockhouse"
+              }, 
+              {
+                "id": 26051, 
+                "name": "Fowey, St Catherine's Castle"
               }
             ], 
             "id": 115, 
@@ -98,6 +108,46 @@
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }, 
+              {
+                "id": 8952, 
+                "name": "fortification"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -114,22 +164,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 983, 
-                "name": "townscape"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

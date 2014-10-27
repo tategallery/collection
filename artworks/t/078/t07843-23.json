@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased with assistance from Tate Members 2002", 
   "dateRange": {
+    "endYear": 1970, 
     "startYear": 1970, 
     "text": "1970"
   }, 
@@ -97,10 +98,6 @@
               {
                 "id": 4847, 
                 "name": "glass"
-              }, 
-              {
-                "id": 2000, 
-                "name": "metal"
               }
             ], 
             "id": 287, 
@@ -118,6 +115,10 @@
           }, 
           {
             "children": [
+              {
+                "id": 2000, 
+                "name": "metal"
+              }, 
               {
                 "id": 4576, 
                 "name": "piping"

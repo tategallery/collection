@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Purchased 1981", 
   "dateRange": {
+    "endYear": 1980, 
     "startYear": 1929, 
     "text": "1929-80"
   }, 
@@ -147,12 +148,22 @@
                 "name": "stone"
               }
             ], 
-            "id": 287, 
-            "name": "miscellaneous"
+            "id": 70, 
+            "name": "natural phenomena"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
           }
         ], 
-        "id": 78, 
-        "name": "objects"
+        "id": 60, 
+        "name": "nature"
       }, 
       {
         "children": [
@@ -169,22 +180,6 @@
         ], 
         "id": 13, 
         "name": "architecture"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 1827, 
-                "name": "tree"
-              }
-            ], 
-            "id": 1809, 
-            "name": "trees"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
       }
     ], 
     "id": 1, 

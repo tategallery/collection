@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Bequeathed by General Sir Ian Hamilton GCB, GCMG, DSO 1949", 
   "dateRange": {
+    "endYear": 1896, 
     "startYear": 1896, 
     "text": "1896"
   }, 
@@ -33,8 +34,16 @@
   "id": 13409, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 1, 
+  "movementCount": 2, 
   "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
     {
       "era": {
         "id": 350, 
@@ -44,7 +53,7 @@
       "name": "New English Art Club"
     }
   ], 
-  "subjectCount": 8, 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
@@ -78,6 +87,20 @@
           {
             "children": [
               {
+                "id": 244, 
+                "name": "arch"
+              }, 
+              {
+                "id": 1151, 
+                "name": "dome"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
                 "id": 465, 
                 "name": "church"
               }
@@ -106,20 +129,14 @@
               {
                 "id": 1320, 
                 "name": "cross"
-              }
-            ], 
-            "id": 169, 
-            "name": "religious and ceremonial"
-          }, 
-          {
-            "children": [
+              }, 
               {
                 "id": 1229, 
                 "name": "flag - non-specific"
               }
             ], 
-            "id": 287, 
-            "name": "miscellaneous"
+            "id": 169, 
+            "name": "religious and ceremonial"
           }
         ], 
         "id": 78, 

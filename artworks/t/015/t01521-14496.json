@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 1972", 
   "dateRange": {
+    "endYear": 1971, 
     "startYear": 1971, 
     "text": "1971"
   }, 
@@ -32,8 +33,72 @@
   "id": 14496, 
   "inscription": null, 
   "medium": "Metal, concrete, wood and motor", 
-  "movementCount": 0, 
-  "subjectCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 415, 
+        "name": "20th century post-1945"
+      }, 
+      "id": 12072, 
+      "name": "Kinetic Art"
+    }
+  ], 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 222, 
+                "name": "man-made"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6744, 
+                "name": "movement"
+              }
+            ], 
+            "id": 6729, 
+            "name": "formal qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2302, 
+                "name": "umbrella"
+              }
+            ], 
+            "id": 88, 
+            "name": "clothing and personal effects"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": null, 
   "title": "Umbrella", 

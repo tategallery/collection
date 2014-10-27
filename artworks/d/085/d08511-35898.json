@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D08511", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1811, 
     "startYear": 1811, 
     "text": "1811"
   }, 
@@ -60,11 +62,21 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 156, 
-  "subjectCount": 4, 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 1558, 
+                "name": "Devon"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
+          }, 
           {
             "children": [
               {
@@ -74,10 +86,50 @@
             ], 
             "id": 113, 
             "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 26090, 
+                "name": "Newton Abbot, Bradley"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
           }
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1012, 
+                "name": "country house"
+              }, 
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2111, 
+                "name": "medieval"
+              }
+            ], 
+            "id": 22, 
+            "name": "periods and styles"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -98,22 +150,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 213, 
-                "name": "house"
-              }
-            ], 
-            "id": 26, 
-            "name": "residential"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

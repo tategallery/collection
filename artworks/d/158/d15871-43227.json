@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D15871", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 147, 
-  "subjectCount": 11, 
+  "subjectCount": 14, 
   "subjects": {
     "children": [
       {
@@ -68,8 +70,16 @@
           {
             "children": [
               {
-                "id": 9904, 
-                "name": "Bay of Baia"
+                "id": 8322, 
+                "name": "Bay of Naples"
+              }, 
+              {
+                "id": 28918, 
+                "name": "Campi Flegrei"
+              }, 
+              {
+                "id": 28554, 
+                "name": "Isola di Nisida"
               }, 
               {
                 "id": 11763, 
@@ -78,6 +88,16 @@
             ], 
             "id": 111, 
             "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 29415, 
+                "name": "Camaldoli Monastery"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
           }, 
           {
             "children": [
@@ -92,22 +112,6 @@
         ], 
         "id": 106, 
         "name": "places"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 805, 
-                "name": "building - non-specific"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }, 
       {
         "children": [
@@ -134,10 +138,6 @@
               {
                 "id": 636, 
                 "name": "hill"
-              }, 
-              {
-                "id": 496, 
-                "name": "wooded"
               }
             ], 
             "id": 71, 
@@ -162,8 +162,24 @@
           {
             "children": [
               {
-                "id": 451, 
-                "name": "figure"
+                "id": 2113, 
+                "name": "friar / monk"
+              }
+            ], 
+            "id": 120, 
+            "name": "religious"
+          }
+        ], 
+        "id": 116, 
+        "name": "work and occupations"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 195, 
+                "name": "man"
               }
             ], 
             "id": 95, 
@@ -172,6 +188,22 @@
         ], 
         "id": 91, 
         "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 4526, 
+                "name": "monastery"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

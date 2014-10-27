@@ -28,6 +28,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -43,7 +44,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 52, 
-  "subjectCount": 7, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
       {
@@ -67,10 +68,46 @@
             ], 
             "id": 107, 
             "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 27002, 
+                "name": "Via Appia"
+              }
+            ], 
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
           }
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -97,6 +134,10 @@
                 "name": "hill"
               }, 
               {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
                 "id": 496, 
                 "name": "wooded"
               }
@@ -107,32 +148,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2550, 
-                "name": "temple"
-              }
-            ], 
-            "id": 25, 
-            "name": "religious"
-          }, 
-          {
-            "children": [
-              {
-                "id": 989, 
-                "name": "townscape, distant"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

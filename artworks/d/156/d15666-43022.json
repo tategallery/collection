@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D15666", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,11 +62,25 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 115, 
-  "subjectCount": 5, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 8322, 
+                "name": "Bay of Naples"
+              }, 
+              {
+                "id": 6198, 
+                "name": "Vesuvius"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
           {
             "children": [
               {
@@ -78,6 +94,46 @@
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 5060, 
+                "name": "bay"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }, 
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
       }, 
       {
         "children": [
@@ -104,26 +160,6 @@
         ], 
         "id": 13, 
         "name": "architecture"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 880, 
-                "name": "mountain"
-              }, 
-              {
-                "id": 496, 
-                "name": "wooded"
-              }
-            ], 
-            "id": 71, 
-            "name": "landscape"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
       }
     ], 
     "id": 1, 

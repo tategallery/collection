@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1806, 
     "startYear": 1806, 
     "text": "1806"
   }, 
@@ -35,7 +36,49 @@
   "inscription": null, 
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 3, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1711, 
+                "name": "Napoleonic Wars, 1796-1815"
+              }, 
+              {
+                "id": 5875, 
+                "name": "Trafalgar, Battle, 21 Oct 1805"
+              }
+            ], 
+            "id": 35, 
+            "name": "military"
+          }
+        ], 
+        "id": 33, 
+        "name": "history"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7825, 
+                "name": "ship, warship, 'HMS Victory'"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/D/D08/D08267_8.jpg", 
   "title": "Description of \u2018The Battle of Trafalgar, as Seen from the Mizen Starboard Shrouds of the Victory\u2019", 

@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Bequeathed by Colonel Christopher Sands 2000, accessioned 2001", 
   "dateRange": {
+    "endYear": 1920, 
     "startYear": 1920, 
     "text": "?1920s"
   }, 
@@ -33,7 +34,7 @@
   "id": 66703, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 1, 
+  "movementCount": 2, 
   "movements": [
     {
       "era": {
@@ -42,11 +43,79 @@
       }, 
       "id": 297, 
       "name": "Camden Town Group"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 9312, 
+      "name": "London Group"
     }
   ], 
-  "subjectCount": 5, 
+  "subjectCount": 11, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 17320, 
+                "name": "Dieppe, Chateau d'Auppegard"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1495, 
+                "name": "France"
+              }
+            ], 
+            "id": 108, 
+            "name": "countries and continents"
+          }
+        ], 
+        "id": 106, 
+        "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }, 
+          {
+            "children": [
+              {
+                "id": 841, 
+                "name": "curtain"
+              }, 
+              {
+                "id": 1078, 
+                "name": "mirror"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
       {
         "children": [
           {
@@ -78,31 +147,25 @@
           {
             "children": [
               {
-                "id": 2076, 
-                "name": "jug"
+                "id": 527, 
+                "name": "interior - non-specific"
               }
             ], 
-            "id": 170, 
-            "name": "vessels and containers"
-          }, 
-          {
-            "children": [
-              {
-                "id": 1078, 
-                "name": "mirror"
-              }
-            ], 
-            "id": 82, 
-            "name": "furnishings"
+            "id": 41, 
+            "name": "domestic"
           }
         ], 
-        "id": 78, 
-        "name": "objects"
+        "id": 40, 
+        "name": "interiors"
       }, 
       {
         "children": [
           {
             "children": [
+              {
+                "id": 1583, 
+                "name": "mantelpiece"
+              }, 
               {
                 "id": 529, 
                 "name": "window"

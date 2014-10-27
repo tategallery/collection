@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 1981", 
   "dateRange": {
+    "endYear": 1980, 
     "startYear": 1980, 
     "text": "1980"
   }, 
@@ -73,6 +74,22 @@
           {
             "children": [
               {
+                "id": 451, 
+                "name": "figure"
+              }
+            ], 
+            "id": 95, 
+            "name": "adults"
+          }
+        ], 
+        "id": 91, 
+        "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 221, 
                 "name": "figure"
               }, 
@@ -97,22 +114,6 @@
         ], 
         "id": 184, 
         "name": "abstraction"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 451, 
-                "name": "figure"
-              }
-            ], 
-            "id": 95, 
-            "name": "adults"
-          }
-        ], 
-        "id": 91, 
-        "name": "people"
       }
     ], 
     "id": 1, 

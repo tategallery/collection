@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased 1924", 
   "dateRange": {
+    "endYear": 1923, 
     "startYear": 1923, 
     "text": "1923"
   }, 
@@ -33,8 +34,18 @@
   "id": 12084, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 7, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
@@ -81,6 +92,10 @@
           }, 
           {
             "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
               {
                 "id": 506, 
                 "name": "field"

@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D08877", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1811, 
     "startYear": 1811, 
     "text": "1811"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 27, 
-  "subjectCount": 12, 
+  "subjectCount": 13, 
   "subjects": {
     "children": [
       {
@@ -138,18 +140,44 @@
               {
                 "id": 636, 
                 "name": "hill"
-              }, 
-              {
-                "id": 496, 
-                "name": "wooded"
               }
             ], 
             "id": 71, 
             "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
           }
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 247, 
+                "name": "dock"
+              }, 
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -166,22 +194,6 @@
         ], 
         "id": 145, 
         "name": "society"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 989, 
-                "name": "townscape, distant"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

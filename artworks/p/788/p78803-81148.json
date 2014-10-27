@@ -13,7 +13,7 @@
   "contributorCount": 1, 
   "contributors": [
     {
-      "date": "dates not known", 
+      "date": null, 
       "displayOrder": 1, 
       "fc": "Guerrilla Girls", 
       "gender": "Female", 
@@ -25,6 +25,7 @@
   ], 
   "creditLine": "Purchased 2003", 
   "dateRange": {
+    "endYear": 1990, 
     "startYear": 1985, 
     "text": "1985-90"
   }, 
@@ -48,9 +49,43 @@
       "name": "Feminist Art"
     }
   ], 
-  "subjectCount": 8, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 21030, 
+                "name": "feminism"
+              }
+            ], 
+            "id": 155, 
+            "name": "government and politics"
+          }, 
+          {
+            "children": [
+              {
+                "id": 863, 
+                "name": "gender"
+              }, 
+              {
+                "id": 5364, 
+                "name": "prejudice"
+              }, 
+              {
+                "id": 1171, 
+                "name": "race"
+              }
+            ], 
+            "id": 158, 
+            "name": "social comment"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
       {
         "children": [
           {
@@ -76,30 +111,6 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 863, 
-                "name": "gender"
-              }, 
-              {
-                "id": 5364, 
-                "name": "prejudice"
-              }, 
-              {
-                "id": 1171, 
-                "name": "race"
-              }
-            ], 
-            "id": 158, 
-            "name": "social comment"
-          }
-        ], 
-        "id": 145, 
-        "name": "society"
       }, 
       {
         "children": [

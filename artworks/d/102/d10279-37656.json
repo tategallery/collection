@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D10279", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1813, 
     "startYear": 1813, 
     "text": "?1813"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 108, 
-  "subjectCount": 5, 
+  "subjectCount": 15, 
   "subjects": {
     "children": [
       {
@@ -68,41 +70,91 @@
           {
             "children": [
               {
-                "id": 213, 
-                "name": "house"
+                "id": 25569, 
+                "name": "Chimney Rock"
+              }, 
+              {
+                "id": 5827, 
+                "name": "River Tamar"
               }
             ], 
-            "id": 26, 
-            "name": "residential"
+            "id": 112, 
+            "name": "UK natural features"
           }, 
           {
             "children": [
               {
-                "id": 769, 
-                "name": "road"
+                "id": 1516, 
+                "name": "Cornwall"
+              }, 
+              {
+                "id": 1558, 
+                "name": "Devon"
               }
             ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
+            "id": 114, 
+            "name": "UK counties"
           }, 
           {
             "children": [
               {
-                "id": 1065, 
-                "name": "tower"
+                "id": 2803, 
+                "name": "England"
               }
             ], 
-            "id": 17, 
-            "name": "features"
+            "id": 113, 
+            "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13070, 
+                "name": "Gunnislake"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
+          {
+            "children": [
+              {
+                "id": 25572, 
+                "name": "Tamar Manure Navigation Canal"
+              }
+            ], 
+            "id": 8285, 
+            "name": "UK man-made landmarks"
           }
         ], 
-        "id": 13, 
-        "name": "architecture"
+        "id": 106, 
+        "name": "places"
       }, 
       {
         "children": [
           {
             "children": [
+              {
+                "id": 240, 
+                "name": "canal"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }, 
+              {
+                "id": 4052, 
+                "name": "weir"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 636, 
+                "name": "hill"
+              }, 
               {
                 "id": 942, 
                 "name": "valley"
@@ -118,6 +170,32 @@
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 213, 
+                "name": "house"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

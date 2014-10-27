@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Accepted by HM Government in lieu of tax and allocated to the Tate Gallery 1984. In situ at Petworth House\r\n", 
   "dateRange": {
+    "endYear": 1802, 
     "startYear": 1802, 
     "text": "exhibited 1802"
   }, 
@@ -33,7 +34,63 @@
   "inscription": null, 
   "medium": "Oil paint on canvas", 
   "movementCount": 0, 
-  "subjectCount": 0, 
+  "subjectCount": 5, 
+  "subjects": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1347, 
+                "name": "cloud"
+              }, 
+              {
+                "id": 614, 
+                "name": "storm"
+              }
+            ], 
+            "id": 77, 
+            "name": "weather"
+          }, 
+          {
+            "children": [
+              {
+                "id": 557, 
+                "name": "sea"
+              }, 
+              {
+                "id": 2104, 
+                "name": "wave"
+              }
+            ], 
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2355, 
+                "name": "ship, sailing"
+              }
+            ], 
+            "id": 161, 
+            "name": "transport: water"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }
+    ], 
+    "id": 1, 
+    "name": "subject"
+  }, 
   "thumbnailCopyright": null, 
   "thumbnailUrl": "http://www.tate.org.uk/art/images/work/T/T03/T03868_8.jpg", 
   "title": "Ships Bearing up for Anchorage (\u2018The Egremont Seapiece\u2019)", 

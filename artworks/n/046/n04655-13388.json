@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased with assistance from the Art Fund 1932", 
   "dateRange": {
+    "endYear": 1894, 
     "startYear": 1894, 
     "text": "1894"
   }, 
@@ -33,8 +34,34 @@
   "id": 13388, 
   "inscription": null, 
   "medium": "Tempera on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 12, 
+  "movementCount": 3, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 6196, 
+      "name": "British Impressionism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 359, 
+      "name": "New English Art Club"
+    }
+  ], 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
       {
@@ -98,34 +125,8 @@
           {
             "children": [
               {
-                "id": 2803, 
-                "name": "England"
-              }
-            ], 
-            "id": 113, 
-            "name": "UK countries and regions"
-          }, 
-          {
-            "children": [
-              {
-                "id": 2697, 
-                "name": "Hampstead - non-specific"
-              }
-            ], 
-            "id": 9301, 
-            "name": "UK London"
-          }
-        ], 
-        "id": 106, 
-        "name": "places"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2793, 
-                "name": "artist, painter"
+                "id": 198, 
+                "name": "artist - non-specific"
               }
             ], 
             "id": 118, 
@@ -166,22 +167,6 @@
         ], 
         "id": 145, 
         "name": "society"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2774, 
-                "name": "graveyard"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }, 
       {
         "children": [

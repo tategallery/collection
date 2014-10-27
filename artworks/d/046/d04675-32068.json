@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D04675", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1802, 
     "startYear": 1802, 
     "text": "1802"
   }, 
@@ -60,11 +62,25 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 43, 
-  "subjectCount": 7, 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 13813, 
+                "name": "Wetterhorn"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
           {
             "children": [
               {
@@ -88,6 +104,32 @@
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 465, 
+                "name": "church"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -122,22 +164,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2289, 
-                "name": "village"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

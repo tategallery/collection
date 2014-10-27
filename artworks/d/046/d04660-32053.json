@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D04660", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1802, 
     "startYear": 1802, 
     "text": "1802"
   }, 
@@ -60,11 +62,29 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 26, 
-  "subjectCount": 7, 
+  "subjectCount": 13, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 2979, 
+                "name": "Alps"
+              }, 
+              {
+                "id": 9783, 
+                "name": "River Limmat"
+              }, 
+              {
+                "id": 8875, 
+                "name": "Z\u00fcrichsee"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
           {
             "children": [
               {
@@ -78,22 +98,16 @@
           {
             "children": [
               {
-                "id": 8874, 
-                "name": "Z\u00fcrich - non-specific"
+                "id": 23585, 
+                "name": "Z\u00fcrich, Grossm\u00fcnster"
+              }, 
+              {
+                "id": 23586, 
+                "name": "Z\u00fcrich, Rathaus"
               }
             ], 
             "id": 107, 
             "name": "cities, towns, villages (non-UK)"
-          }, 
-          {
-            "children": [
-              {
-                "id": 8875, 
-                "name": "Z\u00fcrichsee"
-              }
-            ], 
-            "id": 111, 
-            "name": "natural features (non-UK)"
           }
         ], 
         "id": 106, 
@@ -104,8 +118,58 @@
           {
             "children": [
               {
+                "id": 1727, 
+                "name": "cathedral"
+              }
+            ], 
+            "id": 25, 
+            "name": "religious"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 8229, 
+                "name": "town hall"
+              }
+            ], 
+            "id": 24, 
+            "name": "public and municipal"
+          }, 
+          {
+            "children": [
+              {
+                "id": 989, 
+                "name": "townscape, distant"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 475, 
                 "name": "lake"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
               }
             ], 
             "id": 76, 
@@ -124,32 +188,6 @@
         ], 
         "id": 60, 
         "name": "nature"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 1065, 
-                "name": "tower"
-              }
-            ], 
-            "id": 17, 
-            "name": "features"
-          }, 
-          {
-            "children": [
-              {
-                "id": 989, 
-                "name": "townscape, distant"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

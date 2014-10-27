@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D10957", 
       "sizes": [
         {
@@ -19,7 +20,7 @@
     }
   ], 
   "all_artists": "Joseph Mallord William Turner", 
-  "catTextResId": 1144145, 
+  "catTextResId": 1151370, 
   "catalogueGroup": {
     "accessionRanges": "D10868-D11041; D40846-D40848", 
     "completeStatus": "COMPLETE", 
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1816, 
     "startYear": 1816, 
     "text": "1816"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 101, 
-  "subjectCount": 3, 
+  "subjectCount": 5, 
   "subjects": {
     "children": [
       {
@@ -68,26 +70,36 @@
           {
             "children": [
               {
-                "id": 3778, 
-                "name": "building"
+                "id": 2803, 
+                "name": "England"
               }
             ], 
-            "id": 27, 
-            "name": "ruins"
+            "id": 113, 
+            "name": "UK countries and regions"
           }, 
           {
             "children": [
               {
-                "id": 1065, 
-                "name": "tower"
+                "id": 10604, 
+                "name": "Wensleydale"
               }
             ], 
-            "id": 17, 
-            "name": "features"
+            "id": 112, 
+            "name": "UK natural features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5477, 
+                "name": "Yorkshire, North"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
           }
         ], 
-        "id": 13, 
-        "name": "architecture"
+        "id": 106, 
+        "name": "places"
       }, 
       {
         "children": [
@@ -104,6 +116,22 @@
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1065, 
+                "name": "tower"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Purchased 1986", 
   "dateRange": {
+    "endYear": 1829, 
     "startYear": 1829, 
     "text": "1829"
   }, 
@@ -135,7 +136,13 @@
               {
                 "id": 3479, 
                 "name": "cloth"
-              }, 
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
               {
                 "id": 605, 
                 "name": "saddle"
@@ -193,6 +200,16 @@
           {
             "children": [
               {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
                 "id": 195, 
                 "name": "man"
               }, 
@@ -203,16 +220,6 @@
             ], 
             "id": 95, 
             "name": "adults"
-          }, 
-          {
-            "children": [
-              {
-                "id": 1106, 
-                "name": "watching"
-              }
-            ], 
-            "id": 175, 
-            "name": "actions: processes and functions"
           }
         ], 
         "id": 91, 

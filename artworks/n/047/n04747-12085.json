@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented by the Trustees of the Chantrey Bequest 1934", 
   "dateRange": {
+    "endYear": 1894, 
     "startYear": 1894, 
     "text": "1894"
   }, 
@@ -33,18 +34,26 @@
   "id": 12085, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
-  "movementCount": 1, 
+  "movementCount": 2, 
   "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
     {
       "era": {
         "id": 350, 
         "name": "19th century"
       }, 
-      "id": 357, 
-      "name": "Impressionism"
+      "id": 358, 
+      "name": "Neo-Impressionism"
     }
   ], 
-  "subjectCount": 7, 
+  "subjectCount": 9, 
   "subjects": {
     "children": [
       {
@@ -62,8 +71,8 @@
           {
             "children": [
               {
-                "id": 14266, 
-                "name": "Epping - non-specific"
+                "id": 14534, 
+                "name": "Epping, Copped Hall"
               }
             ], 
             "id": 115, 
@@ -88,12 +97,26 @@
           {
             "children": [
               {
+                "id": 4277, 
+                "name": "estate"
+              }, 
+              {
                 "id": 636, 
                 "name": "hill"
               }
             ], 
             "id": 71, 
             "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1810, 
+                "name": "shadow"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
           }, 
           {
             "children": [

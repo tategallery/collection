@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 2010", 
   "dateRange": {
+    "endYear": 1979, 
     "startYear": 1978, 
     "text": "1978-9"
   }, 
@@ -46,36 +47,6 @@
   "subjectCount": 21, 
   "subjects": {
     "children": [
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 538, 
-                "name": "bird"
-              }, 
-              {
-                "id": 265, 
-                "name": "dove"
-              }
-            ], 
-            "id": 62, 
-            "name": "animals: birds"
-          }, 
-          {
-            "children": [
-              {
-                "id": 269, 
-                "name": "flower"
-              }
-            ], 
-            "id": 72, 
-            "name": "plants and flowers"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
-      }, 
       {
         "children": [
           {
@@ -139,6 +110,36 @@
         ], 
         "id": 78, 
         "name": "objects"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 538, 
+                "name": "bird - non-specific"
+              }, 
+              {
+                "id": 265, 
+                "name": "dove"
+              }
+            ], 
+            "id": 62, 
+            "name": "animals: birds"
+          }, 
+          {
+            "children": [
+              {
+                "id": 269, 
+                "name": "flower"
+              }
+            ], 
+            "id": 72, 
+            "name": "plants and flowers"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
       }, 
       {
         "children": [

@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Presented by the artist 1995", 
   "dateRange": {
+    "endYear": 1991, 
     "startYear": 1991, 
     "text": "1991"
   }, 
@@ -33,7 +34,7 @@
   "inscription": null, 
   "medium": "Photograph, black and white, on paper", 
   "movementCount": 0, 
-  "subjectCount": 9, 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
@@ -93,6 +94,36 @@
           {
             "children": [
               {
+                "id": 1162, 
+                "name": "flat"
+              }
+            ], 
+            "id": 26, 
+            "name": "residential"
+          }, 
+          {
+            "children": [
+              {
+                "id": 209, 
+                "name": "street"
+              }, 
+              {
+                "id": 7289, 
+                "name": "tower block"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 681, 
                 "name": "morning"
               }
@@ -135,26 +166,6 @@
         ], 
         "id": 33, 
         "name": "history"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 209, 
-                "name": "street"
-              }, 
-              {
-                "id": 7289, 
-                "name": "tower block"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

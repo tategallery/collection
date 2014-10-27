@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 1974", 
   "dateRange": {
+    "endYear": 1847, 
     "startYear": 1847, 
     "text": "exhibited 1847"
   }, 
@@ -80,7 +81,7 @@
             "children": [
               {
                 "id": 1800, 
-                "name": "animal/human"
+                "name": "animal / human"
               }
             ], 
             "id": 63, 
@@ -289,6 +290,20 @@
           {
             "children": [
               {
+                "id": 1106, 
+                "name": "looking / watching"
+              }, 
+              {
+                "id": 14746, 
+                "name": "sleeping"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
                 "id": 195, 
                 "name": "man"
               }, 
@@ -299,20 +314,6 @@
             ], 
             "id": 95, 
             "name": "adults"
-          }, 
-          {
-            "children": [
-              {
-                "id": 14746, 
-                "name": "sleeping"
-              }, 
-              {
-                "id": 1106, 
-                "name": "watching"
-              }
-            ], 
-            "id": 175, 
-            "name": "actions: processes and functions"
           }
         ], 
         "id": 91, 

@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D05680", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1810, 
     "startYear": 1806, 
     "text": "c.1806-10"
   }, 
@@ -60,9 +62,29 @@
   "medium": "Chalk and graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 127, 
-  "subjectCount": 2, 
+  "subjectCount": 3, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 6243, 
+                "name": "machinery"
+              }, 
+              {
+                "id": 5445, 
+                "name": "waterwheel"
+              }
+            ], 
+            "id": 86, 
+            "name": "tools and machinery"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
+      }, 
       {
         "children": [
           {
@@ -78,22 +100,6 @@
         ], 
         "id": 13, 
         "name": "architecture"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 5445, 
-                "name": "waterwheel"
-              }
-            ], 
-            "id": 86, 
-            "name": "tools and machinery"
-          }
-        ], 
-        "id": 78, 
-        "name": "objects"
       }
     ], 
     "id": 1, 

@@ -26,15 +26,16 @@
   ], 
   "creditLine": "Purchased 1997", 
   "dateRange": {
+    "endYear": 1995, 
     "startYear": 1995, 
     "text": "1995"
   }, 
   "dateText": "1995", 
   "depth": "", 
-  "dimensions": "image: 291 x 183 mm", 
+  "dimensions": "image: 289 x 182 mm\r\nmount: 562 x 409 x 4 mm", 
   "foreignTitle": null, 
   "groupTitle": "Gothic Maidens", 
-  "height": "183", 
+  "height": "182", 
   "id": 21968, 
   "inscription": null, 
   "medium": "Drypoint on paper", 
@@ -60,6 +61,22 @@
   "subjectCount": 5, 
   "subjects": {
     "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 221, 
+                "name": "figure"
+              }
+            ], 
+            "id": 189, 
+            "name": "from recognisable sources"
+          }
+        ], 
+        "id": 184, 
+        "name": "abstraction"
+      }, 
       {
         "children": [
           {
@@ -101,22 +118,6 @@
           {
             "children": [
               {
-                "id": 221, 
-                "name": "figure"
-              }
-            ], 
-            "id": 189, 
-            "name": "from recognisable sources"
-          }
-        ], 
-        "id": 184, 
-        "name": "abstraction"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
                 "id": 19508, 
                 "name": "gestural"
               }
@@ -137,5 +138,5 @@
   "title": "[no title]", 
   "units": "mm", 
   "url": "http://www.tate.org.uk/art/artworks/baselitz-no-title-p77948", 
-  "width": "291"
+  "width": "289"
 }

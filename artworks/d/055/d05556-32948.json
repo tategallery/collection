@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D05556", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1805, 
     "startYear": 1805, 
     "text": "1805"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Pen and ink on paper", 
   "movementCount": 0, 
   "pageNumber": 87, 
-  "subjectCount": 8, 
+  "subjectCount": 11, 
   "subjects": {
     "children": [
       {
@@ -77,6 +79,10 @@
           }, 
           {
             "children": [
+              {
+                "id": 7884, 
+                "name": "Isleworth, Syon House"
+              }, 
               {
                 "id": 7880, 
                 "name": "Kew, Kew Bridge"
@@ -108,6 +114,46 @@
           {
             "children": [
               {
+                "id": 2087, 
+                "name": "bank"
+              }, 
+              {
+                "id": 495, 
+                "name": "river"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1827, 
+                "name": "tree"
+              }
+            ], 
+            "id": 1809, 
+            "name": "trees"
+          }, 
+          {
+            "children": [
+              {
+                "id": 496, 
+                "name": "wooded"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
+          }
+        ], 
+        "id": 60, 
+        "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 945, 
                 "name": "bridge"
               }
@@ -128,32 +174,6 @@
         ], 
         "id": 13, 
         "name": "architecture"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 495, 
-                "name": "river"
-              }
-            ], 
-            "id": 76, 
-            "name": "water: inland"
-          }, 
-          {
-            "children": [
-              {
-                "id": 496, 
-                "name": "wooded"
-              }
-            ], 
-            "id": 71, 
-            "name": "landscape"
-          }
-        ], 
-        "id": 60, 
-        "name": "nature"
       }
     ], 
     "id": 1, 

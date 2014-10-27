@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Presented by Anderson O'Day 1976", 
   "dateRange": {
+    "endYear": 1975, 
     "startYear": 1975, 
     "text": "1975"
   }, 
@@ -125,6 +126,10 @@
               {
                 "id": 901, 
                 "name": "bucket"
+              }, 
+              {
+                "id": 6849, 
+                "name": "cage"
               }
             ], 
             "id": 170, 
@@ -145,38 +150,16 @@
                 "name": "mop"
               }, 
               {
+                "id": 3412, 
+                "name": "refuse"
+              }, 
+              {
                 "id": 1936, 
                 "name": "washing line"
               }
             ], 
             "id": 83, 
             "name": "domestic"
-          }, 
-          {
-            "children": [
-              {
-                "id": 6849, 
-                "name": "cage"
-              }, 
-              {
-                "id": 1229, 
-                "name": "flag - non-specific"
-              }, 
-              {
-                "id": 2308, 
-                "name": "net"
-              }, 
-              {
-                "id": 3412, 
-                "name": "refuse"
-              }, 
-              {
-                "id": 902, 
-                "name": "tap"
-              }
-            ], 
-            "id": 287, 
-            "name": "miscellaneous"
           }, 
           {
             "children": [
@@ -201,6 +184,16 @@
           {
             "children": [
               {
+                "id": 1229, 
+                "name": "flag - non-specific"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }, 
+          {
+            "children": [
+              {
                 "id": 6465, 
                 "name": "kettle"
               }
@@ -211,12 +204,26 @@
           {
             "children": [
               {
+                "id": 2308, 
+                "name": "net"
+              }, 
+              {
                 "id": 1029, 
                 "name": "shoe"
               }
             ], 
             "id": 88, 
             "name": "clothing and personal effects"
+          }, 
+          {
+            "children": [
+              {
+                "id": 902, 
+                "name": "tap"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
           }, 
           {
             "children": [

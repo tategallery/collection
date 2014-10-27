@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased 1941", 
   "dateRange": {
+    "endYear": 1931, 
     "startYear": 1931, 
     "text": "1931"
   }, 
@@ -33,12 +34,32 @@
   "id": 13046, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
-  "subjectCount": 12, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 13, 
   "subjects": {
     "children": [
       {
         "children": [
+          {
+            "children": [
+              {
+                "id": 23136, 
+                "name": "Bisley"
+              }
+            ], 
+            "id": 115, 
+            "name": "UK cities, towns and villages"
+          }, 
           {
             "children": [
               {
@@ -48,16 +69,6 @@
             ], 
             "id": 113, 
             "name": "UK countries and regions"
-          }, 
-          {
-            "children": [
-              {
-                "id": 14725, 
-                "name": "Nash End"
-              }
-            ], 
-            "id": 115, 
-            "name": "UK cities, towns and villages"
           }, 
           {
             "children": [
@@ -117,6 +128,10 @@
         "children": [
           {
             "children": [
+              {
+                "id": 457, 
+                "name": "farmland"
+              }, 
               {
                 "id": 506, 
                 "name": "field"

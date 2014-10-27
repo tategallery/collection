@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased 1957", 
   "dateRange": {
+    "endYear": 1913, 
     "startYear": 1913, 
     "text": "c.1913"
   }, 
@@ -33,7 +34,17 @@
   "id": 5347, 
   "inscription": null, 
   "medium": "Ink and graphite on paper", 
-  "movementCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
   "subjectCount": 17, 
   "subjects": {
     "children": [
@@ -48,6 +59,16 @@
             ], 
             "id": 113, 
             "name": "UK countries and regions"
+          }, 
+          {
+            "children": [
+              {
+                "id": 5007, 
+                "name": "Leeds"
+              }
+            ], 
+            "id": 114, 
+            "name": "UK counties"
           }, 
           {
             "children": [
@@ -156,22 +177,6 @@
         ], 
         "id": 91, 
         "name": "people"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 4408, 
-                "name": "letter of alphabet"
-              }
-            ], 
-            "id": 166, 
-            "name": "inscriptions"
-          }
-        ], 
-        "id": 162, 
-        "name": "symbols & personifications"
       }, 
       {
         "children": [

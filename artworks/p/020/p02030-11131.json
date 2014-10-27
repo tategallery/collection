@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Presented by the artist 1972", 
   "dateRange": {
+    "endYear": 1972, 
     "startYear": 1972, 
     "text": "1972"
   }, 
@@ -57,7 +58,7 @@
       "name": "Independent Group"
     }
   ], 
-  "subjectCount": 20, 
+  "subjectCount": 24, 
   "subjects": {
     "children": [
       {
@@ -109,6 +110,10 @@
                 "name": "bottle"
               }, 
               {
+                "id": 264, 
+                "name": "bowl"
+              }, 
+              {
                 "id": 3039, 
                 "name": "tin can"
               }
@@ -119,9 +124,41 @@
           {
             "children": [
               {
-                "id": 19662, 
-                "name": "bowl"
+                "id": 750, 
+                "name": "chair"
               }, 
+              {
+                "id": 3578, 
+                "name": "cupboard"
+              }, 
+              {
+                "id": 10210, 
+                "name": "linoleum"
+              }, 
+              {
+                "id": 1290, 
+                "name": "shelf"
+              }, 
+              {
+                "id": 2576, 
+                "name": "stool"
+              }
+            ], 
+            "id": 82, 
+            "name": "furnishings"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1886, 
+                "name": "clock"
+              }
+            ], 
+            "id": 172, 
+            "name": "scientific and measuring"
+          }, 
+          {
+            "children": [
               {
                 "id": 19665, 
                 "name": "glass"
@@ -131,16 +168,8 @@
                 "name": "oven"
               }, 
               {
-                "id": 5462, 
-                "name": "refrigerator"
-              }, 
-              {
                 "id": 6720, 
                 "name": "saucepan"
-              }, 
-              {
-                "id": 5163, 
-                "name": "utensil"
               }
             ], 
             "id": 84, 
@@ -149,16 +178,22 @@
           {
             "children": [
               {
-                "id": 750, 
-                "name": "chair"
-              }, 
-              {
-                "id": 3578, 
-                "name": "cupboard"
+                "id": 10924, 
+                "name": "product packaging"
               }
             ], 
-            "id": 82, 
-            "name": "furnishings"
+            "id": 174, 
+            "name": "reading, writing, printed matter"
+          }, 
+          {
+            "children": [
+              {
+                "id": 22932, 
+                "name": "refrigerator"
+              }
+            ], 
+            "id": 81, 
+            "name": "electrical appliances"
           }
         ], 
         "id": 78, 

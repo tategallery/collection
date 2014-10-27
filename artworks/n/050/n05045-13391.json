@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented by the Contemporary Art Society 1939", 
   "dateRange": {
+    "endYear": 1900, 
     "startYear": 1900, 
     "text": "c.1900"
   }, 
@@ -33,7 +34,33 @@
   "id": 13391, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
+  "movementCount": 3, 
+  "movements": [
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 6196, 
+      "name": "British Impressionism"
+    }, 
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
+    {
+      "era": {
+        "id": 350, 
+        "name": "19th century"
+      }, 
+      "id": 359, 
+      "name": "New English Art Club"
+    }
+  ], 
   "subjectCount": 5, 
   "subjects": {
     "children": [
@@ -43,7 +70,7 @@
             "children": [
               {
                 "id": 14355, 
-                "name": "Dieppe, Les Arcades de la Poissonnerie"
+                "name": "Dieppe, Quai Duquesne"
               }
             ], 
             "id": 107, 

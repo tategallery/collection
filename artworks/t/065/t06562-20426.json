@@ -26,6 +26,7 @@
   ], 
   "creditLine": "Purchased 1992", 
   "dateRange": {
+    "endYear": 1795, 
     "startYear": 1795, 
     "text": "1795"
   }, 
@@ -49,7 +50,7 @@
       "name": "Neo-Classicism"
     }
   ], 
-  "subjectCount": 18, 
+  "subjectCount": 28, 
   "subjects": {
     "children": [
       {
@@ -57,28 +58,64 @@
           {
             "children": [
               {
+                "id": 22710, 
+                "name": "Aristotle"
+              }, 
+              {
                 "id": 13749, 
-                "name": "Brutus, J."
+                "name": "Brutus, Lucius Junius"
               }, 
               {
                 "id": 13750, 
-                "name": "Brutus, M."
+                "name": "Brutus, Marcus Junius"
               }, 
               {
                 "id": 13751, 
-                "name": "Cato"
+                "name": "Cato the Younger"
+              }, 
+              {
+                "id": 8448, 
+                "name": "Columbus, Christopher"
               }, 
               {
                 "id": 13747, 
                 "name": "Epaminondas"
               }, 
               {
+                "id": 22706, 
+                "name": "Harvey, William"
+              }, 
+              {
+                "id": 20590, 
+                "name": "Hippocrates"
+              }, 
+              {
+                "id": 22709, 
+                "name": "Locke, John"
+              }, 
+              {
+                "id": 22705, 
+                "name": "Lucius Junius Brutus"
+              }, 
+              {
                 "id": 5050, 
                 "name": "More, Thomas, Sir"
               }, 
               {
+                "id": 20684, 
+                "name": "Plato"
+              }, 
+              {
+                "id": 20720, 
+                "name": "Shaftesbury, Anthony Ashley-Cooper, Earl of"
+              }, 
+              {
                 "id": 13748, 
                 "name": "Socrates"
+              }, 
+              {
+                "id": 22711, 
+                "name": "Zeno"
               }
             ], 
             "id": 102, 
@@ -117,6 +154,22 @@
         ], 
         "id": 91, 
         "name": "people"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11468, 
+                "name": "Swift, Jonathan, 'Gulliver's Travels'"
+              }
+            ], 
+            "id": 58, 
+            "name": "literature (not Shakespeare)"
+          }
+        ], 
+        "id": 55, 
+        "name": "literature and fiction"
       }, 
       {
         "children": [

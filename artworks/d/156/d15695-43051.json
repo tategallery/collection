@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D15695", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,7 +62,7 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 143, 
-  "subjectCount": 10, 
+  "subjectCount": 17, 
   "subjects": {
     "children": [
       {
@@ -78,8 +80,22 @@
           {
             "children": [
               {
-                "id": 4214, 
-                "name": "Naples - non-specific"
+                "id": 6718, 
+                "name": "Lake Avernus"
+              }, 
+              {
+                "id": 6198, 
+                "name": "Vesuvius"
+              }
+            ], 
+            "id": 111, 
+            "name": "natural features (non-UK)"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11771, 
+                "name": "Naples, Castel Sant'Elmo"
               }
             ], 
             "id": 107, 
@@ -88,16 +104,66 @@
           {
             "children": [
               {
-                "id": 6198, 
-                "name": "Vesuvius"
+                "id": 11780, 
+                "name": "Temple of Apollo"
               }
             ], 
-            "id": 111, 
-            "name": "natural features (non-UK)"
+            "id": 8407, 
+            "name": "man-made landmarks (non-UK)"
           }
         ], 
         "id": 106, 
         "name": "places"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 9010, 
+                "name": "battlement"
+              }
+            ], 
+            "id": 17, 
+            "name": "features"
+          }, 
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3140, 
+                "name": "fountain"
+              }
+            ], 
+            "id": 18, 
+            "name": "garden structures"
+          }, 
+          {
+            "children": [
+              {
+                "id": 983, 
+                "name": "townscape"
+              }, 
+              {
+                "id": 2388, 
+                "name": "waterfront"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }, 
       {
         "children": [
@@ -114,6 +180,10 @@
           {
             "children": [
               {
+                "id": 636, 
+                "name": "hill"
+              }, 
+              {
                 "id": 880, 
                 "name": "mountain"
               }, 
@@ -124,6 +194,16 @@
             ], 
             "id": 71, 
             "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 475, 
+                "name": "lake"
+              }
+            ], 
+            "id": 76, 
+            "name": "water: inland"
           }
         ], 
         "id": 60, 
@@ -154,26 +234,6 @@
         ], 
         "id": 91, 
         "name": "people"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 983, 
-                "name": "townscape"
-              }, 
-              {
-                "id": 2388, 
-                "name": "waterfront"
-              }
-            ], 
-            "id": 28, 
-            "name": "townscapes, man-made features"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }
     ], 
     "id": 1, 

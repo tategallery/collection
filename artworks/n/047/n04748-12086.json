@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented by the Trustees of the Chantrey Bequest 1934", 
   "dateRange": {
+    "endYear": 1918, 
     "startYear": 1918, 
     "text": "1918"
   }, 
@@ -33,8 +34,16 @@
   "id": 12086, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
-  "movementCount": 1, 
+  "movementCount": 2, 
   "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }, 
     {
       "era": {
         "id": 350, 
@@ -44,7 +53,7 @@
       "name": "Neo-Impressionism"
     }
   ], 
-  "subjectCount": 9, 
+  "subjectCount": 10, 
   "subjects": {
     "children": [
       {
@@ -102,8 +111,8 @@
                 "name": "graveyard"
               }, 
               {
-                "id": 989, 
-                "name": "townscape, distant"
+                "id": 983, 
+                "name": "townscape"
               }
             ], 
             "id": 28, 
@@ -112,6 +121,22 @@
         ], 
         "id": 13, 
         "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 11495, 
+                "name": "gravestone / tomb"
+              }
+            ], 
+            "id": 169, 
+            "name": "religious and ceremonial"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
       }, 
       {
         "children": [

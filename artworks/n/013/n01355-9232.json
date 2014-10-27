@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Presented by subscribers 1923", 
   "dateRange": {
+    "endYear": 1923, 
     "startYear": 1923, 
     "text": "c.1923"
   }, 
@@ -33,7 +34,17 @@
   "id": 9232, 
   "inscription": null, 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
   "subjectCount": 4, 
   "subjects": {
     "children": [
@@ -44,10 +55,6 @@
               {
                 "id": 2422, 
                 "name": "daisy"
-              }, 
-              {
-                "id": 269, 
-                "name": "flower"
               }
             ], 
             "id": 72, 
@@ -56,6 +63,32 @@
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 2571, 
+                "name": "fireplace"
+              }
+            ], 
+            "id": 85, 
+            "name": "heating and lighting"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2076, 
+                "name": "jug"
+              }
+            ], 
+            "id": 170, 
+            "name": "vessels and containers"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
       }, 
       {
         "children": [
@@ -72,22 +105,6 @@
         ], 
         "id": 40, 
         "name": "interiors"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 2076, 
-                "name": "jug"
-              }
-            ], 
-            "id": 170, 
-            "name": "vessels and containers"
-          }
-        ], 
-        "id": 78, 
-        "name": "objects"
       }
     ], 
     "id": 1, 

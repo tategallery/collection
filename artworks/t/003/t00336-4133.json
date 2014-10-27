@@ -20,6 +20,7 @@
   ], 
   "creditLine": "Purchased 1960", 
   "dateRange": {
+    "endYear": 1923, 
     "startYear": 1923, 
     "text": "1923"
   }, 
@@ -79,6 +80,16 @@
             ], 
             "id": 71, 
             "name": "landscape"
+          }, 
+          {
+            "children": [
+              {
+                "id": 13390, 
+                "name": "stone"
+              }
+            ], 
+            "id": 70, 
+            "name": "natural phenomena"
           }
         ], 
         "id": 60, 
@@ -229,26 +240,6 @@
           {
             "children": [
               {
-                "id": 13390, 
-                "name": "stone"
-              }, 
-              {
-                "id": 3962, 
-                "name": "whistle"
-              }
-            ], 
-            "id": 287, 
-            "name": "miscellaneous"
-          }
-        ], 
-        "id": 78, 
-        "name": "objects"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
                 "id": 6780, 
                 "name": "subconscious"
               }
@@ -269,6 +260,22 @@
         ], 
         "id": 29, 
         "name": "emotions, concepts and ideas"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 3962, 
+                "name": "whistle"
+              }
+            ], 
+            "id": 287, 
+            "name": "miscellaneous"
+          }
+        ], 
+        "id": 78, 
+        "name": "objects"
       }
     ], 
     "id": 1, 

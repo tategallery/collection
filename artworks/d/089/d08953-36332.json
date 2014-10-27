@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D08953", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1811, 
     "startYear": 1811, 
     "text": "1811"
   }, 
@@ -59,7 +61,7 @@
   "inscription": null, 
   "medium": "Graphite on paper", 
   "movementCount": 0, 
-  "subjectCount": 7, 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
@@ -103,19 +105,17 @@
           {
             "children": [
               {
-                "id": 1138, 
-                "name": "castle"
+                "id": 5060, 
+                "name": "bay"
+              }, 
+              {
+                "id": 557, 
+                "name": "sea"
               }
             ], 
-            "id": 20, 
-            "name": "military"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
-      }, 
-      {
-        "children": [
+            "id": 73, 
+            "name": "seascapes and coasts"
+          }, 
           {
             "children": [
               {
@@ -129,20 +129,26 @@
             ], 
             "id": 71, 
             "name": "landscape"
-          }, 
-          {
-            "children": [
-              {
-                "id": 557, 
-                "name": "sea"
-              }
-            ], 
-            "id": 73, 
-            "name": "seascapes and coasts"
           }
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 1138, 
+                "name": "castle"
+              }
+            ], 
+            "id": 20, 
+            "name": "military"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

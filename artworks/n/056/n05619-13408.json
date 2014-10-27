@@ -21,10 +21,11 @@
   ], 
   "creditLine": "Purchased 1945", 
   "dateRange": {
+    "endYear": 1916, 
     "startYear": 1915, 
-    "text": "1915-16"
+    "text": "1915-6"
   }, 
-  "dateText": "1915\u201316", 
+  "dateText": "1915\u20136", 
   "depth": "", 
   "dimensions": "support: 228 x 357 mm", 
   "foreignTitle": null, 
@@ -33,8 +34,18 @@
   "id": 13408, 
   "inscription": null, 
   "medium": "Chalk on paper", 
-  "movementCount": 0, 
-  "subjectCount": 11, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
+  "subjectCount": 15, 
   "subjects": {
     "children": [
       {
@@ -124,12 +135,58 @@
           {
             "children": [
               {
+                "id": 6910, 
+                "name": "husband"
+              }, 
+              {
+                "id": 6915, 
+                "name": "wife"
+              }
+            ], 
+            "id": 6904, 
+            "name": "family"
+          }
+        ], 
+        "id": 145, 
+        "name": "society"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 761, 
+                "name": "living room"
+              }
+            ], 
+            "id": 41, 
+            "name": "domestic"
+          }
+        ], 
+        "id": 40, 
+        "name": "interiors"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
                 "id": 2800, 
                 "name": "smoking"
               }
             ], 
             "id": 52, 
             "name": "recreational activities"
+          }, 
+          {
+            "children": [
+              {
+                "id": 3352, 
+                "name": "tea party"
+              }
+            ], 
+            "id": 48, 
+            "name": "eating and drinking"
           }
         ], 
         "id": 47, 

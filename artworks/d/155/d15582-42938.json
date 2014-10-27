@@ -4,6 +4,7 @@
   "additionalImages": [
     {
       "copyright": null, 
+      "creativeCommons": null, 
       "filenameBase": "D15582", 
       "sizes": [
         {
@@ -45,6 +46,7 @@
   ], 
   "creditLine": "Accepted by the nation as part of the Turner Bequest 1856", 
   "dateRange": {
+    "endYear": 1819, 
     "startYear": 1819, 
     "text": "1819"
   }, 
@@ -60,21 +62,11 @@
   "medium": "Graphite on paper", 
   "movementCount": 0, 
   "pageNumber": 30, 
-  "subjectCount": 4, 
+  "subjectCount": 8, 
   "subjects": {
     "children": [
       {
         "children": [
-          {
-            "children": [
-              {
-                "id": 11563, 
-                "name": "Cisterna"
-              }
-            ], 
-            "id": 107, 
-            "name": "cities, towns, villages (non-UK)"
-          }, 
           {
             "children": [
               {
@@ -84,26 +76,24 @@
             ], 
             "id": 108, 
             "name": "countries and continents"
+          }, 
+          {
+            "children": [
+              {
+                "id": 28822, 
+                "name": "Mesa"
+              }, 
+              {
+                "id": 28545, 
+                "name": "Treponti"
+              }
+            ], 
+            "id": 107, 
+            "name": "cities, towns, villages (non-UK)"
           }
         ], 
         "id": 106, 
         "name": "places"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "id": 3778, 
-                "name": "building"
-              }
-            ], 
-            "id": 27, 
-            "name": "ruins"
-          }
-        ], 
-        "id": 13, 
-        "name": "architecture"
       }, 
       {
         "children": [
@@ -116,10 +106,56 @@
             ], 
             "id": 76, 
             "name": "water: inland"
+          }, 
+          {
+            "children": [
+              {
+                "id": 880, 
+                "name": "mountain"
+              }
+            ], 
+            "id": 71, 
+            "name": "landscape"
           }
         ], 
         "id": 60, 
         "name": "nature"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 7503, 
+                "name": "monument"
+              }
+            ], 
+            "id": 27, 
+            "name": "ruins"
+          }, 
+          {
+            "children": [
+              {
+                "id": 11496, 
+                "name": "tomb"
+              }
+            ], 
+            "id": 21, 
+            "name": "monuments"
+          }, 
+          {
+            "children": [
+              {
+                "id": 2289, 
+                "name": "village"
+              }
+            ], 
+            "id": 28, 
+            "name": "townscapes, man-made features"
+          }
+        ], 
+        "id": 13, 
+        "name": "architecture"
       }
     ], 
     "id": 1, 

@@ -21,6 +21,7 @@
   ], 
   "creditLine": "Purchased 1932", 
   "dateRange": {
+    "endYear": 1930, 
     "startYear": 1930, 
     "text": "1930"
   }, 
@@ -33,7 +34,17 @@
   "id": 13387, 
   "inscription": "date inscribed", 
   "medium": "Oil paint on canvas", 
-  "movementCount": 0, 
+  "movementCount": 1, 
+  "movements": [
+    {
+      "era": {
+        "id": 8, 
+        "name": "20th century 1900-1945"
+      }, 
+      "id": 297, 
+      "name": "Camden Town Group"
+    }
+  ], 
   "subjectCount": 27, 
   "subjects": {
     "children": [
@@ -112,6 +123,16 @@
           {
             "children": [
               {
+                "id": 1106, 
+                "name": "looking / watching"
+              }
+            ], 
+            "id": 175, 
+            "name": "actions: processes and functions"
+          }, 
+          {
+            "children": [
+              {
                 "id": 1134, 
                 "name": "man, old"
               }, 
@@ -152,16 +173,6 @@
             ], 
             "id": 177, 
             "name": "actions: expressive"
-          }, 
-          {
-            "children": [
-              {
-                "id": 1106, 
-                "name": "watching"
-              }
-            ], 
-            "id": 175, 
-            "name": "actions: processes and functions"
           }
         ], 
         "id": 91, 
@@ -240,30 +251,6 @@
           {
             "children": [
               {
-                "id": 6764, 
-                "name": "foolishness"
-              }, 
-              {
-                "id": 647, 
-                "name": "isolation"
-              }, 
-              {
-                "id": 3008, 
-                "name": "love"
-              }
-            ], 
-            "id": 31, 
-            "name": "emotions and human qualities"
-          }
-        ], 
-        "id": 29, 
-        "name": "emotions, concepts and ideas"
-      }, 
-      {
-        "children": [
-          {
-            "children": [
-              {
                 "id": 213, 
                 "name": "house"
               }
@@ -302,6 +289,30 @@
         ], 
         "id": 13, 
         "name": "architecture"
+      }, 
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": 647, 
+                "name": "isolation"
+              }, 
+              {
+                "id": 3008, 
+                "name": "love"
+              }, 
+              {
+                "id": 6764, 
+                "name": "stupidity"
+              }
+            ], 
+            "id": 31, 
+            "name": "emotions and human qualities"
+          }
+        ], 
+        "id": 29, 
+        "name": "emotions, concepts and ideas"
       }, 
       {
         "children": [
