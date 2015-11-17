@@ -27,7 +27,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [Cultural Heritage Website with Neo4j] (http://larkin.io/index.php/category/tate/) by Larkin Cunningham
 * [As Mutated] (http://noemata.net/as/mutated/) by [noemata/Bjørn Magnhildøen] (http://noemata.net)
 
-We are also inviting you to create [Github Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
+We are also inviting you to create [GitHub Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
 
 ## Repository Contents
 
