@@ -27,6 +27,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [Cultural Heritage Website with Neo4j](http://larkin.io/index.php/category/tate/) by Larkin Cunningham
 * [As Mutated](http://noemata.net/as/mutated/) by [noemata/Bjørn Magnhildøen](http://noemata.net)
 * [Tatelets](http://marcinignac.com/projects/tatelets/) by [Marcin Ignac/Variable](http://variable.io/), Bettina Nissen and Kirill Kulikov
+* [Tate Collection Geolocalized](https://williamdclt.github.io/tate-museum-artworks-geolocalized/) by Corentin Cournac, Mathieu Dauré, William Duclot and Pierre Présent
 * [TateBot](https://twitter.com/TateBot) by [John Emerson](http://backspace.com/)
 
 We are also inviting you to create [GitHub Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
