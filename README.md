@@ -27,7 +27,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [The Dimensions of Art](http://www.ifweassume.com/2013/11/the-dimensions-of-art.html) by [Jim Davenport](http://www.ifweassume.com)
 * [Art as Data as Art](http://blog.ironholds.org/art-as-data-as-art/) and [Part II](http://blog.ironholds.org/art-as-data-as-art-part-ii/) by [Oliver Keyes](https://twitter.com/quominus)
 * [Tate Acquisition Data](http://zenlan.com/tate/rickshaw.html) by [Zenlan](http://twitter.com/zenlan)
-* [Artist Rooms](http://goodlemons.com/artist-rooms/) by [Jue Yang](http://twitter.com/jue_yang)
+* [Artist Rooms](http://lemony.space/artist-rooms/) by Jue Yang
 * [As Stated](http://noemata.net/as/stated/) by [noemata/Bjørn Magnhildøen](http://noemata.net)
 * [Cultural Heritage Website with Neo4j](http://larkin.io/index.php/category/tate/) by Larkin Cunningham
 * [As Mutated](http://noemata.net/as/mutated/) by [noemata/Bjørn Magnhildøen](http://noemata.net)
