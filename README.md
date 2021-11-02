@@ -35,6 +35,7 @@ Here are some examples of Tate data usage in the wild. Please submit a pull requ
 * [Tate Collection Geolocalized](https://williamdclt.github.io/tate-museum-artworks-geolocalized/) by Corentin Cournac, Mathieu Dauré, William Duclot and Pierre Présent
 * [TateBot](https://twitter.com/TateBot) by [John Emerson](http://backspace.com/)
 * [Aspect Ratio of Tate Artworks through Time](https://josephlewis.github.io/aspect.html) by [Joseph Lewis](https://josephlewis.github.io/)
+* [Tate's subject hierarchy as a SKOS taxonomy](https://github.com/catalink-eu/tate-skos) through the use of [CASPAR](https://caspar.catalink.eu/) semantic data integration framework, powered by [Catalink Ltd](https://catalink.eu/)
 
 
 We are also inviting you to create [GitHub Issues](https://github.com/tategallery/collection/issues) if you notice any bugs or have any ideas for improving the data. Thanks for your help!
